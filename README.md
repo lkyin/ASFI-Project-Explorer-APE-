@@ -7,3 +7,8 @@ ASFI Project Explorer (APE) is a long-term research project, in which models and
 * Implement an interactive graphical user interface based on D3.js, tailored to both social networks and technical networks.
 * Compare graduated projects and retired projects with fine-grained de-aliasing data.
 * Provide technical longitudinal information along with the selected <project, month> pair.
+
+
+# How to Use
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ExUIdbgFAn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
