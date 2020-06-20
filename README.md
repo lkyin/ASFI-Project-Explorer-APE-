@@ -10,5 +10,4 @@ ASFI Project Explorer (APE) is a long-term research project, in which models and
 
 
 # How to Use
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ExUIdbgFAn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+video: https://youtube.com/embed/ExUIdbgFAn4
