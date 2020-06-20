@@ -1,0 +1,67 @@
+[
+   {
+      "name": "John R. Fallows (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "jfallows",
+      "imports": []
+   },
+   {
+      "name": "Brett Porter",
+      "imports": [
+         "Matthias Wessendorf",
+         "no-reply",
+         "John Fallows"
+      ]
+   },
+   {
+      "name": "John Fallows",
+      "imports": [
+         "Brett Porter"
+      ]
+   },
+   {
+      "name": "Matthias Wessendorf",
+      "imports": []
+   },
+   {
+      "name": "Marcus Burton (JIRA)",
+      "imports": [
+         "Khai Do (JIRA)"
+      ]
+   },
+   {
+      "name": "Lars Corneliussen",
+      "imports": [
+         "jfallows"
+      ]
+   },
+   {
+      "name": "Josimpson Ocaba",
+      "imports": [
+         "Brett Porter"
+      ]
+   },
+   {
+      "name": "Khai Do (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Joe Ocaba (JIRA)",
+      "imports": [
+         "Lars Corneliussen (JIRA)"
+      ]
+   },
+   {
+      "name": "Lars Corneliussen (JIRA)",
+      "imports": [
+         "John R. Fallows (JIRA)",
+         "John R. Fallows (JIRA)"
+      ]
+   }
+]

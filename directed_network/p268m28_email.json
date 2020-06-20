@@ -1,0 +1,29 @@
+[
+   {
+      "name": "codecov-io",
+      "imports": [
+         "manuzhang"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Jean-Baptiste_Onofr=c3=a9?=",
+      "imports": [
+         "Manu Zhang"
+      ]
+   },
+   {
+      "name": "manuzhang",
+      "imports": []
+   },
+   {
+      "name": "Manu Zhang",
+      "imports": [
+         "jmclean",
+         "=?UTF-8?Q?Jean-Baptiste_Onofr=c3=a9?="
+      ]
+   },
+   {
+      "name": "jmclean",
+      "imports": []
+   }
+]

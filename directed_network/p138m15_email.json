@@ -1,0 +1,54 @@
+[
+   {
+      "name": "lewis john mcgibbney",
+      "imports": []
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "lewis john mcgibbney",
+         "Henry Saputra",
+         "lewis john mcgibbney",
+         "John Hewitt",
+         "Chris Mattmann"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Karel_Novotn=c3=bd?=",
+      "imports": [
+         "Matt Post"
+      ]
+   },
+   {
+      "name": "Chris Mattmann",
+      "imports": [
+         "Tom Barber"
+      ]
+   },
+   {
+      "name": "Tom Barber",
+      "imports": [
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "John Hewitt",
+      "imports": [
+         "Matt Post"
+      ]
+   },
+   {
+      "name": "Henry Saputra",
+      "imports": [
+         "lewis john mcgibbney",
+         "Tommaso Teofili",
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Matt Post",
+      "imports": [
+         "=?UTF-8?Q?Karel_Novotn=c3=bd?="
+      ]
+   }
+]

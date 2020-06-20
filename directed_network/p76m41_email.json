@@ -1,0 +1,55 @@
+[
+   {
+      "name": "Ferry Huberts",
+      "imports": [
+         "Mike van Dongen",
+         "Alexander Broekhuis"
+      ]
+   },
+   {
+      "name": "Pepijn Noltes",
+      "imports": [
+         "Alexander Broekhuis",
+         "Alexander Broekhuis",
+         "Alexander Broekhuis"
+      ]
+   },
+   {
+      "name": "Erik Jansman",
+      "imports": [
+         "Pepijn Noltes",
+         "Pepijn Noltes"
+      ]
+   },
+   {
+      "name": "Alexander Broekhuis",
+      "imports": [
+         "Marcel Offermans",
+         "Pepijn Noltes",
+         "Gerrit Binnenmars",
+         "Ferry Huberts",
+         "Marcel Offermans (JIRA)"
+      ]
+   },
+   {
+      "name": "Mike van Dongen",
+      "imports": []
+   },
+   {
+      "name": "Marcel Offermans (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Marcel Offermans",
+      "imports": [
+         "Pepijn Noltes"
+      ]
+   },
+   {
+      "name": "Gerrit Binnenmars",
+      "imports": [
+         "Alexander Broekhuis",
+         "Alexander Broekhuis"
+      ]
+   }
+]

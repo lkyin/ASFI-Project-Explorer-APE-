@@ -1,0 +1,153 @@
+[
+   {
+      "name": "Geert Schuring",
+      "imports": [
+         "Marcel Offermans",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?="
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+      "imports": [
+         "Marcel Offermans",
+         "Carsten Ziegeler",
+         "Marcel Offermans",
+         "Hadrian Zbarcea",
+         "Marcel Offermans",
+         "Marcel Offermans",
+         "Marcel Offermans",
+         "Marcel Offermans",
+         "Marcel Offermans",
+         "Marcel Offermans",
+         "Premek Brada"
+      ]
+   },
+   {
+      "name": "Karl Pauls",
+      "imports": [
+         "Premek Brada"
+      ]
+   },
+   {
+      "name": "Geert Schuring (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Jean-Baptiste_Onofr=C3=A9_=28JIRA=29?=",
+         "=?utf-8?Q?Jean-Baptiste_Onofr=C3=A9_=28JIRA=29?=",
+         "=?utf-8?Q?Jean-Baptiste_Onofr=C3=A9_=28JIRA=29?=",
+         "=?utf-8?Q?Jean-Baptiste_Onofr=C3=A9_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Marcel Offermans",
+      "imports": [
+         "Geert Schuring",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+         "jb",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+         "Hadrian Zbarcea",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+         "jbonofre",
+         "Stephen Kestle",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?="
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Jean-Baptiste_Onofr=C3=A9_=28JIRA=29?=",
+      "imports": [
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Geert Schuring (JIRA)",
+         "Marcel Offermans (JIRA)"
+      ]
+   },
+   {
+      "name": "Stephen Kestle",
+      "imports": []
+   },
+   {
+      "name": "Premek Brada",
+      "imports": [
+         "Angelo van der Sijpt",
+         "Andreas Pieber",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+         "Karl Pauls"
+      ]
+   },
+   {
+      "name": "Andreas Pieber",
+      "imports": [
+         "Premek Brada",
+         "Marcel Offermans"
+      ]
+   },
+   {
+      "name": "Hadrian Zbarcea",
+      "imports": [
+         "Marcel Offermans"
+      ]
+   },
+   {
+      "name": "jbonofre",
+      "imports": []
+   },
+   {
+      "name": "Angelo van der Sijpt",
+      "imports": []
+   },
+   {
+      "name": "Andreas Pieber (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Jean-Baptiste_Onofr=C3=A9_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Marcel Offermans (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "jb",
+      "imports": [
+         "Geert Schuring",
+         "Marcel Offermans",
+         "Dan Tran"
+      ]
+   },
+   {
+      "name": "Dan Tran",
+      "imports": [
+         "Marcel Offermans",
+         "jb"
+      ]
+   },
+   {
+      "name": "Carsten Ziegeler",
+      "imports": [
+         "Geert Schuring"
+      ]
+   }
+]

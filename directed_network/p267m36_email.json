@@ -1,0 +1,23 @@
+[
+   {
+      "name": "Sebb (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Thorsten Scherler",
+      "imports": [
+         "Richard Frovarp"
+      ]
+   },
+   {
+      "name": "Richard Frovarp (JIRA)",
+      "imports": [
+         "Sebb (JIRA)",
+         "Sebb (JIRA)"
+      ]
+   },
+   {
+      "name": "Richard Frovarp",
+      "imports": []
+   }
+]

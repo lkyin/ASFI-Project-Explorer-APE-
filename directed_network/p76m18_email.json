@@ -1,0 +1,81 @@
+[
+   {
+      "name": "Alexander Broekhuis (Resolved) (JIRA)",
+      "imports": [
+         "Jonathan Melissant (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Pepijn Noltes (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "dsh",
+      "imports": [
+         "Alexander Broekhuis"
+      ]
+   },
+   {
+      "name": "Jonathan Melissant",
+      "imports": []
+   },
+   {
+      "name": "Jonathan Melissant (Closed) (JIRA)",
+      "imports": [
+         "Jonathan Melissant (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Alexander Broekhuis (Issue Comment Edited) (JIRA)",
+      "imports": [
+         "Jonathan Melissant (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Jonathan Melissant (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Alexander Broekhuis",
+      "imports": [
+         "Sascha Zelzer",
+         "Jonathan Melissant",
+         "dsh"
+      ]
+   },
+   {
+      "name": "Pepijn Noltes (Resolved) (JIRA)",
+      "imports": [
+         "Pepijn Noltes (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Pepijn Noltes",
+      "imports": [
+         "Alexander Broekhuis",
+         "Marcel Offermans"
+      ]
+   },
+   {
+      "name": "Sascha Zelzer",
+      "imports": [
+         "Alexander Broekhuis"
+      ]
+   },
+   {
+      "name": "Marcel Offermans",
+      "imports": [
+         "Alexander Broekhuis",
+         "Pepijn Noltes",
+         "Alexander Broekhuis"
+      ]
+   },
+   {
+      "name": "Pepijn Noltes (Closed) (JIRA)",
+      "imports": [
+         "Pepijn Noltes (Created) (JIRA)",
+         "Pepijn Noltes (Created) (JIRA)",
+         "Pepijn Noltes (Created) (JIRA)"
+      ]
+   }
+]

@@ -1,0 +1,361 @@
+[
+   {
+      "name": "Bilung Lee (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bilung Lee (Updated) (JIRA)",
+      "imports": [
+         "Bilung Lee (Created) (JIRA)",
+         "Bilung Lee (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Bilung Lee",
+      "imports": [
+         "Eric Wadsworth"
+      ]
+   },
+   {
+      "name": "Lars Francke",
+      "imports": []
+   },
+   {
+      "name": "Eric Wadsworth (Updated) (JIRA)",
+      "imports": [
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Eric Wadsworth (Created) (JIRA)",
+         "Eric Wadsworth (Created) (JIRA)",
+         "Eric Wadsworth (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Jarek Jarcec Cecho (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Eric Wadsworth",
+      "imports": [
+         "Jarek Cecho",
+         "Arvind Prabhakar",
+         "Arvind Prabhakar"
+      ]
+   },
+   {
+      "name": "Kate Ting (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "arvind@cloudera.com",
+      "imports": [
+         "Jarek Jarcec Cecho"
+      ]
+   },
+   {
+      "name": "jiraposter@reviews.apache.org (Commented) (JIRA)",
+      "imports": [
+         "Arvind Prabhakar (Created) (JIRA)",
+         "Arvind Prabhakar (Created) (JIRA)",
+         "Bilung Lee (Created) (JIRA)",
+         "Bilung Lee (Created) (JIRA)",
+         "PIERETTI ANTOINE (Created) (JIRA)",
+         "Alex Newman (JIRA)",
+         "Alex Newman (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Eric Wadsworth (Created) (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Eric Wadsworth (Created) (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Arvind Prabhakar (Created) (JIRA)",
+         "Arvind Prabhakar (Created) (JIRA)",
+         "Eric Wadsworth (Created) (JIRA)",
+         "Eric Wadsworth (Created) (JIRA)",
+         "Lars Francke (Created) (JIRA)",
+         "Lars Francke (Created) (JIRA)",
+         "Lars Francke (Created) (JIRA)",
+         "Karthik K (Created) (JIRA)",
+         "Karthik K (Created) (JIRA)",
+         "Karthik K (Created) (JIRA)",
+         "Karthik K (Created) (JIRA)",
+         "Oliver Meyn (Created) (JIRA)",
+         "Oliver Meyn (Created) (JIRA)",
+         "Oliver Meyn (Created) (JIRA)",
+         "Oliver Meyn (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Jarek Jarcec Cecho (Assigned) (JIRA)",
+      "imports": [
+         "Arvind Prabhakar (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Jarek Jarcec Cecho (Commented) (JIRA)",
+      "imports": [
+         "PIERETTI ANTOINE (Created) (JIRA)",
+         "Eric Hernandez (Created) (JIRA)",
+         "Arvind Prabhakar (Created) (JIRA)",
+         "Lars Francke (Created) (JIRA)",
+         "Alex Newman (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Lars Francke (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Karthik K (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Alex Newman (Resolved) (JIRA)",
+      "imports": [
+         "Alex Newman (JIRA)",
+         "Alex Newman (JIRA)"
+      ]
+   },
+   {
+      "name": "Alex Newman (Updated) (JIRA)",
+      "imports": [
+         "Alex Newman (JIRA)",
+         "Alex Newman (JIRA)",
+         "Alex Newman (JIRA)",
+         "Alex Newman (JIRA)"
+      ]
+   },
+   {
+      "name": "Jarek Jarcec Cecho",
+      "imports": [
+         "Weihua Zhu",
+         "Arvind Prabhakar",
+         "Arvind Prabhakar",
+         "arvind@cloudera.com"
+      ]
+   },
+   {
+      "name": "PIERETTI ANTOINE (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bilung Lee (Assigned) (JIRA)",
+      "imports": [
+         "Bilung Lee (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Arvind Prabhakar (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Lars Francke (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Alex Newman",
+      "imports": [
+         "Lars Francke",
+         "Jarek Cecho"
+      ]
+   },
+   {
+      "name": "Arvind Prabhakar (Assigned) (JIRA)",
+      "imports": [
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Karthik K (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Eric Wadsworth (Commented) (JIRA)",
+      "imports": [
+         "Roman Shaposhnik (Created) (JIRA)",
+         "Roman Shaposhnik (Created) (JIRA)",
+         "Roman Shaposhnik (Created) (JIRA)",
+         "Eric Wadsworth (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Weihua Zhu",
+      "imports": [
+         "Jarek Jarcec Cecho"
+      ]
+   },
+   {
+      "name": "Jarek Jarcec Cecho (Updated) (JIRA)",
+      "imports": [
+         "Arvind Prabhakar (Created) (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Roman Shaposhnik (Created) (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Arvind Prabhakar (Created) (JIRA)",
+         "Lars Francke (Created) (JIRA)",
+         "Oliver Meyn (Created) (JIRA)",
+         "Oliver Meyn (Created) (JIRA)",
+         "Oliver Meyn (Created) (JIRA)",
+         "Oliver Meyn (Created) (JIRA)",
+         "Bilung Lee (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Roman Shaposhnik (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Kate Ting",
+      "imports": [
+         "Weihua Zhu",
+         "Jarek Jarcec Cecho",
+         "Weihua Zhu"
+      ]
+   },
+   {
+      "name": "Alex Newman (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Kate Ting (Updated) (JIRA)",
+      "imports": [
+         "Kate Ting (Created) (JIRA)",
+         "Kate Ting (Created) (JIRA)",
+         "Kate Ting (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Oliver Meyn (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Karthik K (Updated) (JIRA)",
+      "imports": [
+         "Karthik K (Created) (JIRA)",
+         "Karthik K (Created) (JIRA)",
+         "Karthik K (Created) (JIRA)",
+         "Karthik K (Created) (JIRA)",
+         "Karthik K (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Alex Newman (Commented) (JIRA)",
+      "imports": [
+         "Alex Newman (JIRA)",
+         "Alex Newman (JIRA)"
+      ]
+   },
+   {
+      "name": "Arvind Prabhakar",
+      "imports": [
+         "Eric Wadsworth",
+         "Eric Wadsworth",
+         "Jarek Jarcec Cecho",
+         "Jarek Cecho",
+         "Bilung Lee",
+         "Alex Newman",
+         "Eric Wadsworth",
+         "Eric Wadsworth",
+         "Jarek Cecho",
+         "Jarek Cecho",
+         "Eric Wadsworth",
+         "Lars Francke"
+      ]
+   },
+   {
+      "name": "Jarek Cecho",
+      "imports": [
+         "Eric Wadsworth",
+         "Eric Wadsworth",
+         "Arvind Prabhakar",
+         "Lars Francke",
+         "Alex Newman"
+      ]
+   },
+   {
+      "name": "Kate Ting (Commented) (JIRA)",
+      "imports": [
+         "Kate Ting (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Eric Hernandez (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Arvind Prabhakar (Resolved) (JIRA)",
+      "imports": [
+         "Arvind Prabhakar (Created) (JIRA)",
+         "Bilung Lee (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Eric Wadsworth (Issue Comment Edited) (JIRA)",
+      "imports": [
+         "Eric Wadsworth (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Arvind Prabhakar (Updated) (JIRA)",
+      "imports": [
+         "Bilung Lee (Created) (JIRA)",
+         "Alex Newman (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Kate Ting (Created) (JIRA)",
+         "Arvind Prabhakar (Created) (JIRA)",
+         "Arvind Prabhakar (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Lars Francke (Updated) (JIRA)",
+      "imports": [
+         "Lars Francke (Created) (JIRA)",
+         "Lars Francke (Created) (JIRA)",
+         "Lars Francke (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Eric Hernandez (Commented) (JIRA)",
+      "imports": [
+         "Eric Hernandez (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Lars Francke (Commented) (JIRA)",
+      "imports": [
+         "Lars Francke (Created) (JIRA)",
+         "Lars Francke (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Hudson (Commented) (JIRA)",
+      "imports": [
+         "Arvind Prabhakar (Created) (JIRA)",
+         "Bilung Lee (Created) (JIRA)",
+         "Bilung Lee (Created) (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Arvind Prabhakar (Created) (JIRA)",
+         "Lars Francke (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Eric Wadsworth (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Arvind Prabhakar (Commented) (JIRA)",
+      "imports": [
+         "Bilung Lee (Created) (JIRA)",
+         "Eric Wadsworth (Created) (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Jarek Jarcec Cecho (Created) (JIRA)",
+         "Kate Ting (Created) (JIRA)",
+         "Arvind Prabhakar (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Jarek Jarcec Cecho (Resolved) (JIRA)",
+      "imports": [
+         "Eric Hernandez (Created) (JIRA)"
+      ]
+   }
+]

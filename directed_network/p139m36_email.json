@@ -1,0 +1,80 @@
+[
+   {
+      "name": "Harry Metske (JIRA)",
+      "imports": [
+         "Bassem R. Selim (JIRA)",
+         "John McKinney (JIRA)",
+         "Vasilij Pupkin (JIRA)",
+         "Bruno Peeters (JIRA)",
+         "Gary Quinn (JIRA)",
+         "Stefan Bohn (JIRA)",
+         "Gary Quinn (JIRA)",
+         "Stefan Bohn (JIRA)",
+         "John McKinney (JIRA)",
+         "Janne Jalkanen (JIRA)"
+      ]
+   },
+   {
+      "name": "Vasilij Pupkin (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Harry Metske",
+      "imports": [
+         "=?utf-8?Q?J=C3=BCrgen_Weber_=28JIRA=29?=",
+         "Janne Jalkanen",
+         "Janne Jalkanen"
+      ]
+   },
+   {
+      "name": "Stefan Bohn (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bassem R. Selim (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Henri Yandell (JIRA)",
+      "imports": [
+         "Janne Jalkanen (JIRA)"
+      ]
+   },
+   {
+      "name": "Gary Quinn (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Janne Jalkanen",
+      "imports": [
+         "Harry Metske",
+         "Harry Metske"
+      ]
+   },
+   {
+      "name": "John McKinney (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Janne Jalkanen (JIRA)",
+      "imports": [
+         "John McKinney (JIRA)"
+      ]
+   },
+   {
+      "name": "Bruno Peeters (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?J=C3=BCrgen_Weber_=28JIRA=29?=",
+      "imports": [
+         "John McKinney (JIRA)"
+      ]
+   },
+   {
+      "name": "Andrew Jaquith",
+      "imports": [
+         "Harry Metske"
+      ]
+   }
+]

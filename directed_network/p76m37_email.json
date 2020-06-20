@@ -1,0 +1,17 @@
+[
+   {
+      "name": "erik",
+      "imports": []
+   },
+   {
+      "name": "Bjoern Petri (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Alexander Broekhuis",
+      "imports": [
+         "Bjoern Petri (JIRA)",
+         "erik"
+      ]
+   }
+]

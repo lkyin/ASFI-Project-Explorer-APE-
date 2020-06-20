@@ -1,0 +1,61 @@
+[
+   {
+      "name": "=?ISO-8859-1?Q?Alberto_P=E9rez?=",
+      "imports": [
+         "Ben Hegarty"
+      ]
+   },
+   {
+      "name": "Eduardo Cruz",
+      "imports": [
+         "Bruce Hellstrom"
+      ]
+   },
+   {
+      "name": "Ali Lown",
+      "imports": [
+         "Bruce Hellstrom",
+         "Eduardo Cruz",
+         "=?ISO-8859-1?Q?Alberto_P=E9rez?="
+      ]
+   },
+   {
+      "name": "Felix Wackernagel",
+      "imports": [
+         "Yuri Z",
+         "Yuri Z",
+         "Ali Lown"
+      ]
+   },
+   {
+      "name": "Ricardo Mayerhofer",
+      "imports": []
+   },
+   {
+      "name": "Ben Hegarty",
+      "imports": [
+         "Yuri Z"
+      ]
+   },
+   {
+      "name": "Bruce Hellstrom",
+      "imports": [
+         "Ali Lown"
+      ]
+   },
+   {
+      "name": "Bruno Gonzalez (aka stenyak)",
+      "imports": [
+         "Bruce Hellstrom"
+      ]
+   },
+   {
+      "name": "Yuri Z",
+      "imports": [
+         "Felix Wackernagel",
+         "Ricardo Mayerhofer",
+         "Felix Wackernagel",
+         "Ben Hegarty"
+      ]
+   }
+]

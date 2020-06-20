@@ -1,0 +1,263 @@
+[
+   {
+      "name": "Andrew Kaplanov (Resolved) (JIRA)",
+      "imports": [
+         "Andrew Kaplanov (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Ali Lown (Issue Comment Edited) (JIRA)",
+      "imports": [
+         "Ali Lown (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Yuri Zelikov",
+      "imports": [
+         "wavegrove",
+         "vjrj",
+         "wavegrove",
+         "wavegrove",
+         "Andrew Kaplanov",
+         "wavegrove"
+      ]
+   },
+   {
+      "name": "Andrew Kaplanov",
+      "imports": []
+   },
+   {
+      "name": "Ali Lown (Commented) (JIRA)",
+      "imports": [
+         "Ali Lown (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Yuri Zelikov (Resolved) (JIRA)",
+      "imports": [
+         "Yuri Zelikov (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Vicente J. Ruiz Jurado (Commented) (JIRA)",
+      "imports": [
+         "Ali Lown (Created) (JIRA)",
+         "Jeremy NGL (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)",
+         "Vicente J. Ruiz Jurado (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "brian.kassay",
+      "imports": []
+   },
+   {
+      "name": "Greg Tangey",
+      "imports": [
+         "Yuri Z"
+      ]
+   },
+   {
+      "name": "Michael MacFadden",
+      "imports": [
+         "Yuri Z",
+         "Sohum Banerjea",
+         "Yuri Zelikov"
+      ]
+   },
+   {
+      "name": "Vicente J. Ruiz Jurado (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ben Hegarty",
+      "imports": [
+         "Yuri Z"
+      ]
+   },
+   {
+      "name": "Michael MacFadden (Commented) (JIRA)",
+      "imports": [
+         "Andrew Kaplanov (Created) (JIRA)",
+         "Andrew Kaplanov (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Yuri Zelikov (Commented) (JIRA)",
+      "imports": [
+         "Yuri Zelikov (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)",
+         "Andrew Kaplanov (Created) (JIRA)",
+         "Vicente J. Ruiz Jurado (Created) (JIRA)",
+         "Vicente J. Ruiz Jurado (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Sohum Banerjea (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "jiraposter@reviews.apache.org (Commented) (JIRA)",
+      "imports": [
+         "Yuri Zelikov (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Yuri Z",
+      "imports": [
+         "=?UTF-8?B?5p2O5ZCR5b2s?=",
+         "Ben Hegarty",
+         "Bruno Gonzalez",
+         "Bruno Gonzalez",
+         "Davide Carnovale",
+         "Upayavira",
+         "Vicente J. Ruiz Jurado",
+         "=?UTF-8?B?5p2O5ZCR5b2s?="
+      ]
+   },
+   {
+      "name": "Cathy Taylor",
+      "imports": [
+         "Ben Hegarty"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?5p2O5ZCR5b2s?=",
+      "imports": [
+         "Yuri Z"
+      ]
+   },
+   {
+      "name": "Bruno Gonzalez",
+      "imports": [
+         "Vicente J. Ruiz Jurado",
+         "brian.kassay"
+      ]
+   },
+   {
+      "name": "Sohum Banerjea (Updated) (JIRA)",
+      "imports": [
+         "Sohum Banerjea (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "vjrj",
+      "imports": []
+   },
+   {
+      "name": "Yuri Zelikov (Issue Comment Edited) (JIRA)",
+      "imports": [
+         "Vicente J. Ruiz Jurado (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Andrew Kaplanov (Commented) (JIRA)",
+      "imports": [
+         "Andrew Kaplanov (Created) (JIRA)",
+         "Andrew Kaplanov (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Vicente J. Ruiz Jurado",
+      "imports": [
+         "Cathy Taylor",
+         "Ben Hegarty",
+         "Yuri Z"
+      ]
+   },
+   {
+      "name": "Michael MacFadden (Assigned) (JIRA)",
+      "imports": [
+         "Andrew Kaplanov (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Jeremy NGL (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Sohum Banerjea",
+      "imports": [
+         "Michael MacFadden",
+         "Cathy Taylor"
+      ]
+   },
+   {
+      "name": "Ali Lown (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Juan Pablo Siller de la Rosa (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Andrew Kaplanov (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Yuri Zelikov (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ali Lown",
+      "imports": [
+         "Ben Hegarty"
+      ]
+   },
+   {
+      "name": "Upayavira",
+      "imports": [
+         "Davide Carnovale",
+         "Lennard de Rijk",
+         "Lennard de Rijk"
+      ]
+   },
+   {
+      "name": "Davide Carnovale",
+      "imports": [
+         "Yuri Z"
+      ]
+   },
+   {
+      "name": "Lennard de Rijk",
+      "imports": [
+         "Upayavira",
+         "Upayavira",
+         "Upayavira"
+      ]
+   },
+   {
+      "name": "Vicente J. Ruiz Jurado (Closed) (JIRA)",
+      "imports": [
+         "Vicente J. Ruiz Jurado (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Jeremy NGL (Commented) (JIRA)",
+      "imports": [
+         "Juan Pablo Siller de la Rosa (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "wavegrove",
+      "imports": []
+   },
+   {
+      "name": "Yuri Zelikov (Reopened) (JIRA)",
+      "imports": [
+         "Andrew Kaplanov (Created) (JIRA)"
+      ]
+   }
+]

@@ -1,0 +1,158 @@
+[
+   {
+      "name": "Glen Mazza (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Caio Carrara",
+      "imports": [
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+         "Chun Yong Chong",
+         "Glen Mazza (JIRA)",
+         "Glen Mazza"
+      ]
+   },
+   {
+      "name": "Ichiro Furusato",
+      "imports": []
+   },
+   {
+      "name": "metskem",
+      "imports": []
+   },
+   {
+      "name": "Beebe, Mary J",
+      "imports": []
+   },
+   {
+      "name": "Olivier Lamy",
+      "imports": [
+         "Glen Mazza"
+      ]
+   },
+   {
+      "name": "Harry Metske",
+      "imports": [
+         "Glen Mazza",
+         "juanpablo",
+         "Glen Mazza",
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+         "Ichiro Furusato",
+         "metskem",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Glen Mazza"
+      ]
+   },
+   {
+      "name": "Chun Yong Chong",
+      "imports": [
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+         "Glen Mazza",
+         "Glen Mazza (JIRA)",
+         "Chun Yong",
+         "Glen Mazza"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+      "imports": [
+         "Harry Metske",
+         "Harry Metske",
+         "Harry Metske",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Glen Mazza",
+         "Harry Metske"
+      ]
+   },
+   {
+      "name": "Enrico Maria Carmona",
+      "imports": [
+         "Glen Mazza",
+         "Glen Mazza"
+      ]
+   },
+   {
+      "name": "Chun Yong",
+      "imports": [
+         "Chun Yong Chong"
+      ]
+   },
+   {
+      "name": "Apache Jenkins Server",
+      "imports": []
+   },
+   {
+      "name": "Jake Farrell",
+      "imports": [
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?="
+      ]
+   },
+   {
+      "name": "Christophe Dupriez",
+      "imports": [
+         "Glen Mazza"
+      ]
+   },
+   {
+      "name": "juanpablo",
+      "imports": []
+   },
+   {
+      "name": "Andrew Jaquith",
+      "imports": [
+         "Glen Mazza"
+      ]
+   },
+   {
+      "name": "Glen Mazza",
+      "imports": [
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+         "Andrew Jaquith",
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+         "Caio Carrara",
+         "Apache Jenkins Server",
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+         "Beebe, Mary J",
+         "juanpablo",
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+         "Chun Yong Chong",
+         "Chun Yong Chong",
+         "Chun Yong Chong",
+         "Caio Carrara",
+         "Enrico Maria Carmona",
+         "U.O. Controllo di Gestione e Programmazione",
+         "Harry Metske",
+         "Harry Metske",
+         "metskem",
+         "Christophe Dupriez",
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+         "Chun Yong Chong",
+         "Caio Carrara",
+         "juanpablo",
+         "Harry Metske",
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?="
+      ]
+   },
+   {
+      "name": "U.O. Controllo di Gestione e Programmazione",
+      "imports": [
+         "Glen Mazza (JIRA)"
+      ]
+   }
+]

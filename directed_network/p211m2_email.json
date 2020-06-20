@@ -1,0 +1,55 @@
+[
+   {
+      "name": "Sean McCleese (JIRA)",
+      "imports": [
+         "Chris A. Mattmann (JIRA)"
+      ]
+   },
+   {
+      "name": "Mccleese, Sean W (388A)",
+      "imports": [
+         "Mattmann, Chris A (388J)",
+         "Ramirez, Paul M (388J)"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "patrick o''leary",
+      "imports": [
+         "Mccleese, Sean W (388A)",
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Ramirez, Paul M (388J)",
+      "imports": [
+         "Mattmann, Chris A (388J)",
+         "Mccleese, Sean W (388A)"
+      ]
+   },
+   {
+      "name": "patrick o''leary (JIRA)",
+      "imports": [
+         "Chris A. Mattmann (JIRA)"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "patrick o''leary",
+         "no-reply",
+         "Ramirez, Paul M (388J)",
+         "patrick o''leary",
+         "patrick o''leary"
+      ]
+   },
+   {
+      "name": "Chris A. Mattmann (JIRA)",
+      "imports": []
+   }
+]

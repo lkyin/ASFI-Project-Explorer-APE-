@@ -1,0 +1,85 @@
+[
+   {
+      "name": "apadilla",
+      "imports": []
+   },
+   {
+      "name": "Henrik Bie (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Brett Porter",
+      "imports": [
+         "Liit Padilla",
+         "Deng Ching",
+         "Adelita Padilla",
+         "Adelita Padilla",
+         "apadilla",
+         "Lars Corneliussen",
+         "Josimpson Ocaba",
+         "Josimpson Ocaba"
+      ]
+   },
+   {
+      "name": "Wendy Smoak",
+      "imports": []
+   },
+   {
+      "name": "Dennis Lundberg",
+      "imports": [
+         "no-reply"
+      ]
+   },
+   {
+      "name": "Deng Ching",
+      "imports": [
+         "Adelita Padilla",
+         "Brett Porter"
+      ]
+   },
+   {
+      "name": "Adelita Padilla",
+      "imports": [
+         "Brett Porter",
+         "Deng Ching",
+         "Wendy Smoak",
+         "Brett Porter",
+         "Josimpson Ocaba",
+         "Deng Ching"
+      ]
+   },
+   {
+      "name": "Lars Corneliussen",
+      "imports": [
+         "Josimpson Ocaba"
+      ]
+   },
+   {
+      "name": "Josimpson Ocaba",
+      "imports": [
+         "Brett Porter"
+      ]
+   },
+   {
+      "name": "Liit Padilla",
+      "imports": [
+         "Josimpson Ocaba"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Brett Porter (JIRA)",
+      "imports": [
+         "sergio rupena (JIRA)",
+         "Henrik Bie (JIRA)",
+         "sergio rupena (JIRA)"
+      ]
+   },
+   {
+      "name": "sergio rupena (JIRA)",
+      "imports": []
+   }
+]

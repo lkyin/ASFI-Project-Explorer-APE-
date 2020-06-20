@@ -1,0 +1,222 @@
+[
+   {
+      "name": "Bikramjeet Vig",
+      "imports": [
+         "Lars Volker"
+      ]
+   },
+   {
+      "name": "Matthew Jacobs",
+      "imports": [
+         "Jim Apple",
+         "Jim Apple",
+         "Alexander Behm",
+         "Bharath Vissapragada"
+      ]
+   },
+   {
+      "name": "Laszlo Gaal",
+      "imports": [
+         "Philip Zeyliger"
+      ]
+   },
+   {
+      "name": "Lars Volker",
+      "imports": [
+         "Tim Armstrong",
+         "Gayathri Devi",
+         "Shant Hovsepian"
+      ]
+   },
+   {
+      "name": "Philip Zeyliger",
+      "imports": [
+         "Jim Apple",
+         "Jim Apple"
+      ]
+   },
+   {
+      "name": "Todd Lipcon",
+      "imports": [
+         "Bharath Vissapragada",
+         "Jim Apple"
+      ]
+   },
+   {
+      "name": "Sailesh Mukil",
+      "imports": [
+         "Jim Apple"
+      ]
+   },
+   {
+      "name": "sky",
+      "imports": [
+         "Dimitris Tsirogiannis",
+         "Jeszy"
+      ]
+   },
+   {
+      "name": "Alexander Behm",
+      "imports": [
+         "Jim Apple",
+         "Jim Apple",
+         "Dimitris Tsirogiannis"
+      ]
+   },
+   {
+      "name": "yu feng",
+      "imports": [
+         "Jim Apple"
+      ]
+   },
+   {
+      "name": "Manaswini Maharana",
+      "imports": [
+         "Henry Robinson",
+         "Jim Apple"
+      ]
+   },
+   {
+      "name": "Dimitris Tsirogiannis",
+      "imports": [
+         "sky",
+         "Quanlong Huang",
+         "Marcel Kornacker"
+      ]
+   },
+   {
+      "name": "Gayathri Devi",
+      "imports": []
+   },
+   {
+      "name": "Michael Brown",
+      "imports": [
+         "Bharath Vissapragada",
+         "Alexander Behm"
+      ]
+   },
+   {
+      "name": "Marcel Kornacker",
+      "imports": [
+         "Dimitris Tsirogiannis"
+      ]
+   },
+   {
+      "name": "Bharath Vissapragada",
+      "imports": [
+         "Tim Armstrong",
+         "Tim Armstrong",
+         "Jim Apple",
+         "Andrey Kuznetsov",
+         "Henry Robinson",
+         "Matthew Jacobs",
+         "Todd Lipcon",
+         "Tim Armstrong",
+         "Tim Armstrong",
+         "Michael Brown",
+         "sebb"
+      ]
+   },
+   {
+      "name": "Quanlong Huang",
+      "imports": [
+         "Dimitris Tsirogiannis",
+         "Dimitris Tsirogiannis"
+      ]
+   },
+   {
+      "name": "huangquanlong@gmail.com",
+      "imports": [
+         "Tim Armstrong",
+         "Tim Armstrong"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?5L+K5p2w6ZmI?=",
+      "imports": [
+         "Tim Armstrong"
+      ]
+   },
+   {
+      "name": "Jeszy",
+      "imports": [
+         "sky"
+      ]
+   },
+   {
+      "name": "sebb",
+      "imports": [
+         "Bharath Vissapragada"
+      ]
+   },
+   {
+      "name": "Tim Armstrong",
+      "imports": [
+         "yu feng",
+         "Andrey Kuznetsov",
+         "Lars Volker",
+         "Bharath Vissapragada",
+         "Jim Apple",
+         "=?UTF-8?B?6buE5p2D6ZqG?=",
+         "huangquanlong@gmail.com",
+         "Bharath Vissapragada",
+         "Philip Zeyliger"
+      ]
+   },
+   {
+      "name": "Henry Robinson",
+      "imports": [
+         "Tim Armstrong",
+         "Philip Zeyliger",
+         "Jim Apple"
+      ]
+   },
+   {
+      "name": "Jim Apple",
+      "imports": [
+         "Andrey Kuznetsov",
+         "Alexander Behm",
+         "Bharath Vissapragada",
+         "Matthew Jacobs",
+         "Bharath Vissapragada",
+         "Michael Brown",
+         "Bharath Vissapragada",
+         "Todd Lipcon",
+         "Manaswini Maharana",
+         "Manaswini Maharana",
+         "Henry Robinson",
+         "Dimitris Tsirogiannis",
+         "Bharath Vissapragada",
+         "sebb"
+      ]
+   },
+   {
+      "name": "Greg Rahn",
+      "imports": [
+         "Lars Volker"
+      ]
+   },
+   {
+      "name": "Shant Hovsepian",
+      "imports": [
+         "=?UTF-8?B?5L+K5p2w6ZmI?="
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?6buE5p2D6ZqG?=",
+      "imports": []
+   },
+   {
+      "name": "Andrey Kuznetsov",
+      "imports": [
+         "Jim Apple",
+         "Bharath Vissapragada"
+      ]
+   },
+   {
+      "name": "Zachary Amsden",
+      "imports": [
+         "Tim Armstrong"
+      ]
+   }
+]

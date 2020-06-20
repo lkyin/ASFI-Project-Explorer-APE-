@@ -1,0 +1,69 @@
+[
+   {
+      "name": "Jacek Laskowski",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Joseph Dennis Gapuz",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Bruce Snyder",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Alan D. Cabrera",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Dan Diephouse",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Philip Dodds",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "James Strachan",
+      "imports": [
+         "Sanjiva Weerawarana",
+         "Bruce Snyder",
+         "Guillaume Nodet",
+         "Jacek Laskowski"
+      ]
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "Charles Souillard",
+         "Sanjiva Weerawarana",
+         "Sanjiva Weerawarana"
+      ]
+   },
+   {
+      "name": "Sanjiva Weerawarana",
+      "imports": [
+         "Charles Souillard",
+         "Guillaume Nodet",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Charles Souillard",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   }
+]

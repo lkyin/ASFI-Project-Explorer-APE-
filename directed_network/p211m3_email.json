@@ -1,0 +1,41 @@
+[
+   {
+      "name": "Kevan Miller",
+      "imports": [
+         "patrick o''leary",
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Mccleese, Sean W (388A)",
+      "imports": [
+         "Kevan Miller"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "patrick o''leary",
+      "imports": [
+         "Kevan Miller"
+      ]
+   },
+   {
+      "name": "patrick o''leary (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "no-reply"
+      ]
+   },
+   {
+      "name": "Chris A. Mattmann (JIRA)",
+      "imports": [
+         "patrick o''leary (JIRA)"
+      ]
+   }
+]

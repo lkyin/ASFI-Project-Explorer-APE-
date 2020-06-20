@@ -1,0 +1,384 @@
+[
+   {
+      "name": "Vytenis (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Yuri Zelikov",
+      "imports": [
+         "Vicente J. Ruiz Jurado",
+         "vjrj",
+         "Vicente J. Ruiz Jurado",
+         "Vicente J. Ruiz Jurado",
+         "Michael MacFadden",
+         "Vicente J. Ruiz Jurado",
+         "Vicente J. Ruiz Jurado",
+         "Vicente J. Ruiz Jurado",
+         "Vicente J. Ruiz Jurado"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Manuel_Carrasco_Mo=C3=B1ino_=28Created=29_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Jeremy Naegel",
+      "imports": [
+         "Michael MacFadden"
+      ]
+   },
+   {
+      "name": "Bryant Lee (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Christian Grobmeier",
+      "imports": [
+         "Yuri Z",
+         "Michael MacFadden",
+         "Vicente J. Ruiz Jurado"
+      ]
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Svante Schubert",
+      "imports": [
+         "Paulo Pires",
+         "Ali Lown",
+         "Yuri Z",
+         "Andreas Horst",
+         "Michael MacFadden",
+         "Michael MacFadden"
+      ]
+   },
+   {
+      "name": "Vicente J. Ruiz Jurado (JIRA)",
+      "imports": [
+         "Samer (JIRA)",
+         "Samer (JIRA)",
+         "Samer (JIRA)",
+         "Samer (JIRA)",
+         "Samer (JIRA)",
+         "Alain Levesque (JIRA)",
+         "Ali Lown (Created) (JIRA)",
+         "Ali Lown (Created) (JIRA)",
+         "Ali Lown (Created) (JIRA)",
+         "Ali Lown (Created) (JIRA)",
+         "Jeremy NGL (JIRA)"
+      ]
+   },
+   {
+      "name": "Svante Schubert (JIRA)",
+      "imports": [
+         "Sten Martinez (Created) (JIRA)",
+         "Sten Martinez (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Lennard de Rijk",
+      "imports": [
+         "Michael MacFadden",
+         "Michael MacFadden"
+      ]
+   },
+   {
+      "name": "Jeremy NGL (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Yuri Z",
+      "imports": [
+         "Michael MacFadden",
+         "Paulo Pires",
+         "Ben Power",
+         "Ali Lown",
+         "Upayavira",
+         "Ali Lown",
+         "Michael MacFadden",
+         "Svante Schubert",
+         "Paulo Pires",
+         "Davide Carnovale",
+         "Michael MacFadden",
+         "Svante Schubert",
+         "Christian Grobmeier"
+      ]
+   },
+   {
+      "name": "vjrj",
+      "imports": []
+   },
+   {
+      "name": "Thusitha Thilina Dayaratne",
+      "imports": []
+   },
+   {
+      "name": "Ali Lown (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ali Lown",
+      "imports": [
+         "Michael MacFadden",
+         "Michael MacFadden",
+         "Paulo Pires",
+         "Yuri Zelikov",
+         "Paulo Pires",
+         "Svante Schubert",
+         "Thusitha Thilina Dayaratne",
+         "Paulo Pires",
+         "Davide Carnovale",
+         "Vicente J. Ruiz Jurado"
+      ]
+   },
+   {
+      "name": "Andreas Horst",
+      "imports": [
+         "Paulo Pires"
+      ]
+   },
+   {
+      "name": "Upayavira",
+      "imports": [
+         "Marvin",
+         "Ross Gardler"
+      ]
+   },
+   {
+      "name": "Ben Power",
+      "imports": [
+         "Yuri Z"
+      ]
+   },
+   {
+      "name": "Christian Ohler (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Samer (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bruno Gonzalez",
+      "imports": [
+         "Ali Lown"
+      ]
+   },
+   {
+      "name": "Scott Bailey",
+      "imports": []
+   },
+   {
+      "name": "Eduardo Garcia Lopez",
+      "imports": [
+         "Scott Bailey"
+      ]
+   },
+   {
+      "name": "Thomas Wrobel",
+      "imports": [
+         "Michael MacFadden",
+         "Paulo Pires",
+         "Paulo Pires"
+      ]
+   },
+   {
+      "name": "Thomas Leonard",
+      "imports": [
+         "Ali Lown"
+      ]
+   },
+   {
+      "name": "Michael MacFadden",
+      "imports": [
+         "Yuri Z",
+         "Yuri Z",
+         "Ali Lown",
+         "Ali Lown",
+         "Ali Lown",
+         "Paulo Pires",
+         "Vicente J. Ruiz Jurado",
+         "Vicente J. Ruiz Jurado",
+         "Paulo Pires",
+         "Paulo Pires",
+         "Paulo Pires",
+         "Paulo Pires",
+         "Paulo Pires",
+         "Paulo Pires",
+         "Paulo Pires",
+         "Paulo Pires",
+         "Paulo Pires",
+         "Paulo Pires",
+         "Paulo Pires",
+         "Paulo Pires",
+         "Paulo Pires",
+         "Ali Lown",
+         "Thomas Wrobel",
+         "Ali Lown",
+         "Paulo Pires",
+         "Paulo Pires",
+         "Paulo Pires",
+         "Lennard de Rijk",
+         "Paulo Pires",
+         "Svante Schubert",
+         "Ali Lown",
+         "Vicente J. Ruiz Jurado",
+         "Ali Lown",
+         "Vicente J. Ruiz Jurado",
+         "Paulo Pires",
+         "Vicente J. Ruiz Jurado",
+         "Svante Schubert",
+         "Svante Schubert",
+         "Christian Grobmeier"
+      ]
+   },
+   {
+      "name": "Michael MacFadden (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Manuel_Carrasco_Mo=C3=B1ino_=28Created=29_=28JIRA=29?=",
+         "=?utf-8?Q?Manuel_Carrasco_Mo=C3=B1ino_=28Created=29_=28JIRA=29?=",
+         "Jeremy NGL (JIRA)",
+         "Samer (JIRA)"
+      ]
+   },
+   {
+      "name": "Paulo Pires",
+      "imports": [
+         "=?ISO-8859-1?Q?Cristiano_Gavi=E3o?=",
+         "Michael MacFadden",
+         "Michael MacFadden",
+         "Michael MacFadden",
+         "Michael MacFadden",
+         "Yuri Zelikov",
+         "Michael MacFadden",
+         "Vicente J. Ruiz Jurado",
+         "Michael MacFadden",
+         "Vicente J. Ruiz Jurado",
+         "Michael MacFadden",
+         "Michael MacFadden",
+         "Michael MacFadden",
+         "Michael MacFadden",
+         "Michael MacFadden",
+         "Michael MacFadden",
+         "Ali Lown",
+         "Svante Schubert",
+         "Svante Schubert",
+         "Thomas Wrobel",
+         "Thusitha Thilina Dayaratne",
+         "Thomas Wrobel",
+         "Ali Lown",
+         "Ali Lown",
+         "Michael MacFadden",
+         "Yuri Z",
+         "Yuri Z",
+         "Lennard de Rijk",
+         "Davide Carnovale",
+         "Andreas Horst",
+         "Michael MacFadden",
+         "Yuri Z",
+         "Michael MacFadden"
+      ]
+   },
+   {
+      "name": "Sten Martinez (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Kyle Johnston",
+      "imports": [
+         "Sebastian Schulze"
+      ]
+   },
+   {
+      "name": "Ross Gardler",
+      "imports": []
+   },
+   {
+      "name": "Sebastian Schulze",
+      "imports": [
+         "Eduardo Garcia Lopez"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Cristiano_Gavi=E3o?=",
+      "imports": [
+         "Thomas Wrobel"
+      ]
+   },
+   {
+      "name": "Paulo Pires (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Manuel_Carrasco_Mo=C3=B1ino_=28Created=29_=28JIRA=29?=",
+         "Bryant Lee (Created) (JIRA)",
+         "Sten Martinez (Created) (JIRA)",
+         "=?utf-8?Q?Manuel_Carrasco_Mo=C3=B1ino_=28Created=29_=28JIRA=29?=",
+         "Yuri Zelikov (JIRA)",
+         "=?utf-8?Q?Manuel_Carrasco_Mo=C3=B1ino_=28Created=29_=28JIRA=29?=",
+         "Sten Martinez (Created) (JIRA)",
+         "Sten Martinez (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Alain Levesque (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Vicente J. Ruiz Jurado",
+      "imports": [
+         "vjrj",
+         "Paulo Pires",
+         "Yuri Zelikov",
+         "Paulo Pires",
+         "Yuri Zelikov",
+         "Yuri Zelikov",
+         "Yuri Zelikov",
+         "Michael MacFadden",
+         "Michael MacFadden",
+         "Pete Tracey",
+         "Michael MacFadden"
+      ]
+   },
+   {
+      "name": "Pete Tracey",
+      "imports": [
+         "Vicente J. Ruiz Jurado"
+      ]
+   },
+   {
+      "name": "Yuri Zelikov (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?B?Q3Jpc3RpYW5vIEdhdmnDo28=?=",
+      "imports": [
+         "Paulo Pires"
+      ]
+   },
+   {
+      "name": "Davide Carnovale",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?J=E9r=E9my_Naegel?=",
+      "imports": [
+         "Bruno Gonzalez"
+      ]
+   },
+   {
+      "name": "Yuri Zelikov (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Manuel_Carrasco_Mo=C3=B1ino_=28Created=29_=28JIRA=29?=",
+         "Samer (JIRA)",
+         "Samer (JIRA)",
+         "Samer (JIRA)",
+         "Vytenis (Created) (JIRA)",
+         "Yuri Zelikov (Created) (JIRA)",
+         "Vicente J. Ruiz Jurado (JIRA)",
+         "Christian Ohler (Created) (JIRA)",
+         "Jeremy NGL (JIRA)",
+         "Michael MacFadden (JIRA)"
+      ]
+   }
+]

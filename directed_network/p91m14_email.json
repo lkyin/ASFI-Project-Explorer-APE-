@@ -1,0 +1,120 @@
+[
+   {
+      "name": "Glh",
+      "imports": [
+         "Jason Porter",
+         "Shane Bryzak"
+      ]
+   },
+   {
+      "name": "Gerhard Petracek",
+      "imports": [
+         "Charles Moulliard",
+         "Romain Manni-Bucau",
+         "Jason Porter"
+      ]
+   },
+   {
+      "name": "titou10 titou10",
+      "imports": []
+   },
+   {
+      "name": "Jean-Louis MONTEIRO",
+      "imports": [
+         "Arne Limburg"
+      ]
+   },
+   {
+      "name": "Shane Bryzak",
+      "imports": [
+         "Glh"
+      ]
+   },
+   {
+      "name": "Anil Saldhana",
+      "imports": [
+         "Paul Dijou"
+      ]
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "Lincoln Baxter, III",
+         "Romain Manni-Bucau",
+         "Charles Moulliard",
+         "John D. Ament",
+         "John D. Ament",
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "Gerhard Petracek",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Romain Manni-Bucau",
+      "imports": [
+         "Charles Moulliard",
+         "Charles Moulliard",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Arne Limburg",
+      "imports": [
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "Nicklas Karlsson",
+      "imports": [
+         "Paul Dijou"
+      ]
+   },
+   {
+      "name": "Jason Porter",
+      "imports": [
+         "Charles Moulliard",
+         "titou10 titou10"
+      ]
+   },
+   {
+      "name": "Paul Dijou",
+      "imports": [
+         "Nicklas Karlsson"
+      ]
+   },
+   {
+      "name": "Lincoln Baxter, III",
+      "imports": [
+         "Anil Saldhana",
+         "Charles Moulliard",
+         "Jason Porter"
+      ]
+   },
+   {
+      "name": "Charles Moulliard",
+      "imports": [
+         "Romain Manni-Bucau",
+         "Lincoln Baxter, III",
+         "Guillaume Nodet",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Sabot-Durand Antoine",
+      "imports": [
+         "Jean-Louis MONTEIRO"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "Guillaume Nodet",
+         "Guillaume Nodet"
+      ]
+   }
+]

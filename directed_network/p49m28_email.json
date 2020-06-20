@@ -1,0 +1,38 @@
+[
+   {
+      "name": "David Calavera",
+      "imports": [
+         "Amit Surana"
+      ]
+   },
+   {
+      "name": "David Calavera (JIRA)",
+      "imports": [
+         "Lars Heuer (JIRA)",
+         "Amit Surana (JIRA)",
+         "Aaron Evans (JIRA)",
+         "James Abley (JIRA)",
+         "Amit Surana (JIRA)"
+      ]
+   },
+   {
+      "name": "Aaron Evans (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Amit Surana",
+      "imports": []
+   },
+   {
+      "name": "Amit Surana (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Lars Heuer (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "James Abley (JIRA)",
+      "imports": []
+   }
+]

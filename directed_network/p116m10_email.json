@@ -1,0 +1,141 @@
+[
+   {
+      "name": "Alexis (JIRA)",
+      "imports": [
+         "Julien Nioche (JIRA)",
+         "Julien Nioche (JIRA)"
+      ]
+   },
+   {
+      "name": "Henry Saputra (JIRA)",
+      "imports": [
+         "Yves Langisch (JIRA)",
+         "Yves Langisch (JIRA)",
+         "Yves Langisch (JIRA)",
+         "Julien Nioche (JIRA)",
+         "Julien Nioche (JIRA)"
+      ]
+   },
+   {
+      "name": "Craig L Russell",
+      "imports": [
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Eugen Paraschiv (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ioannis Canellos",
+      "imports": [
+         "Henry Saputra",
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Henry Saputra",
+      "imports": [
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)",
+         "Julien Nioche",
+         "Alexis",
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Alexis",
+      "imports": [
+         "Henry Saputra",
+         "Chris A. Mattmann (JIRA)",
+         "Henry Saputra"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "Henry Saputra",
+         "Craig L Russell",
+         "Henry Saputra",
+         "Craig L Russell",
+         "Craig L Russell",
+         "Henry Saputra",
+         "Julien Nioche",
+         "Julien Nioche",
+         "Alexis",
+         "Henry Saputra",
+         "Alexis",
+         "Henry Saputra",
+         "=?UTF-8?Q?Enis_S=C3=B6ztutar?="
+      ]
+   },
+   {
+      "name": "Julien Nioche (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Sebb (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ioannis Canellos (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Andrzej Bialecki  (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?Q?Enis_S=C3=B6ztutar?=",
+      "imports": [
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Julien Nioche",
+      "imports": [
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Chris A. Mattmann (JIRA)",
+      "imports": [
+         "Andrzej Bialecki  (JIRA)",
+         "Andrzej Bialecki  (JIRA)",
+         "Ioannis Canellos (JIRA)",
+         "Ioannis Canellos (JIRA)",
+         "Eugen Paraschiv (JIRA)",
+         "Andrzej Bialecki  (JIRA)",
+         "Ioannis Canellos (JIRA)",
+         "Alexis (JIRA)",
+         "Andrzej Bialecki  (JIRA)",
+         "Henry Saputra (JIRA)",
+         "Yves Langisch (JIRA)",
+         "Andrzej Bialecki  (JIRA)",
+         "Andrzej Bialecki  (JIRA)",
+         "Yves Langisch (JIRA)",
+         "Sebb (JIRA)",
+         "Julien Nioche (JIRA)",
+         "Ioannis Canellos (JIRA)",
+         "Sebb (JIRA)",
+         "Sebb (JIRA)",
+         "Andrzej Bialecki  (JIRA)",
+         "Sebb (JIRA)",
+         "Sebb (JIRA)",
+         "Andrzej Bialecki  (JIRA)",
+         "Julien Nioche (JIRA)",
+         "Julien Nioche (JIRA)"
+      ]
+   },
+   {
+      "name": "Yves Langisch (JIRA)",
+      "imports": []
+   }
+]

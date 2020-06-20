@@ -1,0 +1,241 @@
+[
+   {
+      "name": "Craig",
+      "imports": [
+         "Brad Whitaker",
+         "Emmanuel Lecharny",
+         "Les Hazlewood",
+         "Alan D. Cabrera"
+      ]
+   },
+   {
+      "name": "William A. Rowe, Jr.",
+      "imports": [
+         "Moin Ayazifar",
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Alex Karasulu",
+      "imports": [
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Jeremy Haile (JIRA)",
+      "imports": [
+         "Peter Ledbrook (JIRA)"
+      ]
+   },
+   {
+      "name": "david",
+      "imports": [
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Andrew Zeneski (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Paul Fremantle",
+      "imports": [
+         "Jeremy Haile"
+      ]
+   },
+   {
+      "name": "Alan D. Cabrera",
+      "imports": [
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Jeremy Haile",
+         "Les Hazlewood",
+         "Alan Cabrera (JIRA)",
+         "Emmanuel Lecharny",
+         "Joshua Partogi",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Emmanuel Lecharny",
+         "Les Hazlewood",
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Craig L Russell",
+      "imports": [
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Emmanuel_L=E9charny?=",
+      "imports": [
+         "Daniel Kulp"
+      ]
+   },
+   {
+      "name": "Henri Yandell",
+      "imports": [
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Moin Ayazifar",
+      "imports": [
+         "Henri Yandell",
+         "Jeremy Haile",
+         "Craig"
+      ]
+   },
+   {
+      "name": "David Jencks",
+      "imports": [
+         "Les Hazlewood",
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Les Hazlewood",
+      "imports": [
+         "Jeremy Haile",
+         "Moin Ayazifar",
+         "Emmanuel Lecharny",
+         "Alan D. Cabrera",
+         "Alan D. Cabrera",
+         "Alan D. Cabrera",
+         "Brad Whitaker",
+         "Emmanuel Lecharny",
+         "James William Dumay",
+         "Alan D. Cabrera",
+         "adamtaft",
+         "=?ISO-8859-1?Q?Emmanuel_L=E9charny?=",
+         "William A. Rowe, Jr.",
+         "Peter Ledbrook",
+         "=?UTF-8?Q?Tam=C3=A1s_Cserven=C3=A1k?=",
+         "Jeremy Haile",
+         "David Jencks",
+         "Emmanuel Lecharny",
+         "Emmanuel Lecharny",
+         "david",
+         "david",
+         "Peter Ledbrook",
+         "Jeremy Haile",
+         "Jeremy Haile",
+         "Jeremy Haile",
+         "Jeremy Haile",
+         "Jeremy Haile"
+      ]
+   },
+   {
+      "name": "Adam Taft (JIRA)",
+      "imports": [
+         "Les Hazlewood (JIRA)"
+      ]
+   },
+   {
+      "name": "Adam Taft",
+      "imports": [
+         "Emmanuel Lecharny"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?RW1tYW51ZWwgTMOpY2hhcm55?=",
+      "imports": [
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Peter Ledbrook (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "adamtaft",
+      "imports": [
+         "Emmanuel Lecharny"
+      ]
+   },
+   {
+      "name": "Alan Cabrera (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "James William Dumay",
+      "imports": [
+         "Les Hazlewood",
+         "Alan D. Cabrera"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Tam=C3=A1s_Cserven=C3=A1k?=",
+      "imports": [
+         "Alan D. Cabrera"
+      ]
+   },
+   {
+      "name": "Brad Whitaker",
+      "imports": [
+         "Paul Fremantle",
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Les Hazlewood (JIRA)",
+      "imports": [
+         "Andrew Zeneski (JIRA)"
+      ]
+   },
+   {
+      "name": "Daniel Kulp",
+      "imports": [
+         "Moin Ayazifar"
+      ]
+   },
+   {
+      "name": "Jeremy Haile",
+      "imports": [
+         "Adam Taft",
+         "Alan D. Cabrera",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Paul Fremantle",
+         "Craig",
+         "Craig",
+         "Peter Ledbrook",
+         "David Jencks",
+         "Peter Ledbrook",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Joshua Partogi",
+      "imports": [
+         "Alan D. Cabrera"
+      ]
+   },
+   {
+      "name": "Emmanuel Lecharny",
+      "imports": [
+         "Alex Karasulu",
+         "Craig",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Alan D. Cabrera",
+         "Alan D. Cabrera",
+         "adamtaft",
+         "Les Hazlewood",
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Peter Ledbrook",
+      "imports": [
+         "Les Hazlewood",
+         "Les Hazlewood"
+      ]
+   }
+]

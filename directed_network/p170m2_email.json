@@ -1,0 +1,123 @@
+[
+   {
+      "name": "Hari Kodungallur",
+      "imports": [
+         "John X"
+      ]
+   },
+   {
+      "name": "Kelvin Tan (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "John X",
+      "imports": [
+         "Christophe Noel",
+         "Christophe Noel",
+         "Piotr Kosiorowski",
+         "Hari Kodungallur",
+         "Stefan Groschupf"
+      ]
+   },
+   {
+      "name": "Michael Cafarella",
+      "imports": [
+         "Angel Faus"
+      ]
+   },
+   {
+      "name": "Doug Cutting",
+      "imports": [
+         "Angel Faus",
+         "Hari Kodungallur"
+      ]
+   },
+   {
+      "name": "Stefan GRroschupf (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Stephan Lagraulet",
+      "imports": [
+         "Christophe Noel"
+      ]
+   },
+   {
+      "name": "Stefan Grroschupf (JIRA)",
+      "imports": [
+         "Stefan GRroschupf (JIRA)",
+         "Kelvin Tan (JIRA)"
+      ]
+   },
+   {
+      "name": "Kelvin Tan",
+      "imports": [
+         "Stefan Groschupf"
+      ]
+   },
+   {
+      "name": "cao yuzhong",
+      "imports": []
+   },
+   {
+      "name": "Stefan Groschupf",
+      "imports": [
+         "John X",
+         "Christophe Noel",
+         "Doug Cutting",
+         "Christophe Noel",
+         "Christophe Noel",
+         "Luke Baker",
+         "Hari Kodungallur",
+         "Hari Kodungallur"
+      ]
+   },
+   {
+      "name": "Doug Cutting (JIRA)",
+      "imports": [
+         "Kelvin Tan (JIRA)"
+      ]
+   },
+   {
+      "name": "michael_cafarella",
+      "imports": []
+   },
+   {
+      "name": "yoursoft@freemail.hu",
+      "imports": [
+         "Stefan Groschupf"
+      ]
+   },
+   {
+      "name": "Luke Baker",
+      "imports": [
+         "Piotr Kosiorowski"
+      ]
+   },
+   {
+      "name": "Christophe Noel",
+      "imports": []
+   },
+   {
+      "name": "Piotr Kosiorowski",
+      "imports": []
+   },
+   {
+      "name": "Feng Zhou",
+      "imports": [
+         "cao yuzhong"
+      ]
+   },
+   {
+      "name": "Angel Faus",
+      "imports": [
+         "michael_cafarella"
+      ]
+   },
+   {
+      "name": "Dawid Weiss",
+      "imports": [
+         "Christophe Noel"
+      ]
+   }
+]

@@ -1,0 +1,32 @@
+[
+   {
+      "name": "Mattmann, Chris A (398J)",
+      "imports": [
+         "Adam Berry",
+         "Rahul Sharma"
+      ]
+   },
+   {
+      "name": "Suresh Marru",
+      "imports": [
+         "Mattmann, Chris A (398J)"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Mirko_K=E4mpf?=",
+      "imports": [
+         "Adam Berry"
+      ]
+   },
+   {
+      "name": "Adam Berry",
+      "imports": [
+         "Mattmann, Chris A (398J)",
+         "=?ISO-8859-1?Q?Mirko_K=E4mpf?="
+      ]
+   },
+   {
+      "name": "Rahul Sharma",
+      "imports": []
+   }
+]

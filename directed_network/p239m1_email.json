@@ -1,0 +1,79 @@
+[
+   {
+      "name": "Andreas Neumann",
+      "imports": [
+         "Andrei Savu",
+         "Patrick Hunt",
+         "Patrick Hunt",
+         "Gary Helmling",
+         "Patrick Hunt",
+         "Patrick Hunt",
+         "Patrick Hunt",
+         "Patrick Hunt",
+         "Patrick Hunt"
+      ]
+   },
+   {
+      "name": "Terence Yim",
+      "imports": [
+         "Bernd Fondermann",
+         "Bernd Fondermann",
+         "Bernd Fondermann",
+         "Andreas Neumann"
+      ]
+   },
+   {
+      "name": "Gary Helmling",
+      "imports": [
+         "Terence Yim",
+         "Bernd Fondermann"
+      ]
+   },
+   {
+      "name": "Bernd Fondermann",
+      "imports": [
+         "Terence Yim",
+         "Andreas Neumann (JIRA)",
+         "Andreas Neumann",
+         "Terence Yim (JIRA)"
+      ]
+   },
+   {
+      "name": "Albert Shau",
+      "imports": [
+         "Andreas Neumann"
+      ]
+   },
+   {
+      "name": "Andrei Savu",
+      "imports": [
+         "Andreas Neumann",
+         "Andreas Neumann",
+         "Bernd Fondermann",
+         "Patrick Hunt"
+      ]
+   },
+   {
+      "name": "Andreas Neumann (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Terence Yim (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Patrick Hunt",
+      "imports": [
+         "Andrei Savu",
+         "Andrei Savu",
+         "Andreas Neumann",
+         "Andreas Neumann",
+         "Gary Helmling",
+         "Andreas Neumann",
+         "Andreas Neumann",
+         "Andreas Neumann",
+         "Andreas Neumann",
+         "Andreas Neumann"
+      ]
+   }
+]

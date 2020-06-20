@@ -1,0 +1,69 @@
+[
+   {
+      "name": "Donald Woods",
+      "imports": [
+         "no-reply"
+      ]
+   },
+   {
+      "name": "Kevan Miller",
+      "imports": []
+   },
+   {
+      "name": "Matt Benson (JIRA)",
+      "imports": [
+         "Donald Woods (JIRA)"
+      ]
+   },
+   {
+      "name": "Carlos Vara (JIRA)",
+      "imports": [
+         "Donald Woods (JIRA)"
+      ]
+   },
+   {
+      "name": "confluence",
+      "imports": []
+   },
+   {
+      "name": "mbenson",
+      "imports": []
+   },
+   {
+      "name": "Roman Stumm",
+      "imports": [
+         "Matt Benson"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Roman Stumm (JIRA)",
+      "imports": [
+         "David J. M. Karlsen (JIRA)",
+         "David J. M. Karlsen (JIRA)"
+      ]
+   },
+   {
+      "name": "Matt Benson",
+      "imports": [
+         "mbenson",
+         "Kevan Miller",
+         "confluence",
+         "mbenson"
+      ]
+   },
+   {
+      "name": "Donald Woods (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "David J. M. Karlsen (JIRA)",
+      "imports": [
+         "Donald Woods (JIRA)",
+         "Donald Woods (JIRA)"
+      ]
+   }
+]

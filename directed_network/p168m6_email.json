@@ -1,0 +1,248 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Wade Chandler",
+         "Geertjan Wielenga",
+         "Neil C Smith",
+         "Geertjan Wielenga",
+         "Geertjan Wielenga",
+         "Wade Chandler",
+         "Niclas Hedhman",
+         "Geertjan Wielenga",
+         "Craig Russell",
+         "Mark Struberg",
+         "Mark Stephens",
+         "Mark Struberg",
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "Ate Douma",
+      "imports": [
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "Geertjan Wielenga",
+      "imports": [
+         "John Kostaras",
+         "Wade Chandler",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz",
+         "Oliver Rettig",
+         "Emilian Bold",
+         "Zoran Sevarac",
+         "Bertrand Delacretaz",
+         "Zoran Sevarac",
+         "Nelson Cazonda",
+         "Nelson Cazonda",
+         "Raphael Bircher",
+         "Attila Kelemen",
+         "Kenneth Fogel",
+         "Daniel Gruno",
+         "David Nalley",
+         "Mark Struberg",
+         "Kenneth Fogel",
+         "Mark Struberg",
+         "=?UTF-8?B?Sm9zw6kgUGVyZWRh?=",
+         "Georgia Ingham",
+         "Emilian Bold",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz",
+         "Mark Struberg",
+         "Josh Juneau"
+      ]
+   },
+   {
+      "name": "Caoyuan",
+      "imports": []
+   },
+   {
+      "name": "Zoran Sevarac",
+      "imports": [
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?Sm9zw6kgUGVyZWRh?=",
+      "imports": []
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "Geertjan Wielenga",
+         "Craig Russell",
+         "Bertrand Delacretaz",
+         "Raphael Bircher",
+         "Mark Stephens",
+         "Kenneth Fogel"
+      ]
+   },
+   {
+      "name": "Gaurav Gupta",
+      "imports": [
+         "Emilian Bold"
+      ]
+   },
+   {
+      "name": "Oliver Rettig",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?Q?Emmanuel_L=c3=a9charny?=",
+      "imports": [
+         "Wade Chandler",
+         "Neil C Smith",
+         "Geertjan Wielenga",
+         "Wade Chandler",
+         "Wade Chandler"
+      ]
+   },
+   {
+      "name": "John Kostaras",
+      "imports": []
+   },
+   {
+      "name": "Kenneth Fogel",
+      "imports": [
+         "Geertjan Wielenga",
+         "Geertjan Wielenga",
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "Julien Enselme",
+      "imports": [
+         "Emilian Bold"
+      ]
+   },
+   {
+      "name": "Josh Juneau",
+      "imports": []
+   },
+   {
+      "name": "Raphael Bircher",
+      "imports": [
+         "Geertjan Wielenga",
+         "Bertrand Delacretaz",
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "Neil C Smith",
+      "imports": [
+         "Timon Veenstra",
+         "Geertjan Wielenga",
+         "=?UTF-8?Q?Jens_Hofschr=c3=b6er?="
+      ]
+   },
+   {
+      "name": "Timon Veenstra",
+      "imports": [
+         "Neil C Smith"
+      ]
+   },
+   {
+      "name": "Niclas Hedhman",
+      "imports": [
+         "Geertjan Wielenga",
+         "Wade Chandler"
+      ]
+   },
+   {
+      "name": "Mark Stephens",
+      "imports": [
+         "Mark Struberg",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Nelson Cazonda",
+      "imports": []
+   },
+   {
+      "name": "Christian Lenz",
+      "imports": [
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "Craig Russell",
+      "imports": [
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "Wade Chandler",
+      "imports": [
+         "=?UTF-8?Q?Emmanuel_L=c3=a9charny?=",
+         "Bertrand Delacretaz",
+         "Niclas Hedhman",
+         "=?UTF-8?Q?Jens_Hofschr=c3=b6er?=",
+         "Emilian Bold",
+         "Emilian Bold",
+         "Neil C Smith",
+         "=?UTF-8?Q?Jens_Hofschr=c3=b6er?="
+      ]
+   },
+   {
+      "name": "Daniel Gruno",
+      "imports": [
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "Attila Kelemen",
+      "imports": []
+   },
+   {
+      "name": "David Nalley",
+      "imports": [
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Jens_Hofschr=c3=b6er?=",
+      "imports": [
+         "Gaurav Gupta",
+         "Gaurav Gupta",
+         "Wade Chandler",
+         "Jaroslav Tulach"
+      ]
+   },
+   {
+      "name": "Javier Ortiz",
+      "imports": [
+         "Ate Douma",
+         "=?UTF-8?Q?Jens_Hofschr=c3=b6er?="
+      ]
+   },
+   {
+      "name": "Tushar Joshi",
+      "imports": [
+         "Emilian Bold"
+      ]
+   },
+   {
+      "name": "Jaroslav Tulach",
+      "imports": [
+         "Emilian Bold",
+         "=?UTF-8?Q?Jens_Hofschr=c3=b6er?="
+      ]
+   },
+   {
+      "name": "Georgia Ingham",
+      "imports": []
+   },
+   {
+      "name": "Emilian Bold",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Javier Ortiz",
+         "Geertjan Wielenga",
+         "Wade Chandler",
+         "Caoyuan"
+      ]
+   }
+]

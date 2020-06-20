@@ -1,0 +1,53 @@
+[
+   {
+      "name": "Holger Grandy (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "James Dixson",
+      "imports": []
+   },
+   {
+      "name": "Michael Fitzner",
+      "imports": [
+         "James Dixson",
+         "scott comer"
+      ]
+   },
+   {
+      "name": "Nicolae Mihalache",
+      "imports": [
+         "scott comer",
+         "Holger Grandy"
+      ]
+   },
+   {
+      "name": "Martijn Dashorst",
+      "imports": [
+         "scott comer",
+         "scott comer",
+         "Holger Grandy (JIRA)",
+         "Holger Grandy",
+         "Holger Grandy"
+      ]
+   },
+   {
+      "name": "scott comer",
+      "imports": [
+         "Holger Grandy",
+         "Martijn Dashorst",
+         "Nicolae Mihalache",
+         "Nicolae Mihalache"
+      ]
+   },
+   {
+      "name": "Holger Grandy",
+      "imports": [
+         "Martijn Dashorst",
+         "Nicolae Mihalache",
+         "Nicolae Mihalache",
+         "Martijn Dashorst",
+         "Martijn Dashorst"
+      ]
+   }
+]

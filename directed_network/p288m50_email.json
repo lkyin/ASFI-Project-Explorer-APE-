@@ -1,0 +1,67 @@
+[
+   {
+      "name": "Rob Weir",
+      "imports": [
+         "John D. Ament",
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Dave Fisher",
+      "imports": [
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Damjan Jovanovic",
+      "imports": []
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Stian Soiland-Reyes",
+      "imports": [
+         "Marvin"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "=?utf-8?Q?Louis_Su=C3=A1rez-Potts?=",
+         "Stian Soiland-Reyes"
+      ]
+   },
+   {
+      "name": "Nick Burch",
+      "imports": [
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Ted Dunning",
+      "imports": [
+         "Rob Weir"
+      ]
+   },
+   {
+      "name": "Svante Schubert",
+      "imports": [
+         "Damjan Jovanovic"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Louis_Su=C3=A1rez-Potts?=",
+      "imports": [
+         "Ian C",
+         "Nick Burch"
+      ]
+   },
+   {
+      "name": "Ian C",
+      "imports": [
+         "Dave Fisher"
+      ]
+   }
+]

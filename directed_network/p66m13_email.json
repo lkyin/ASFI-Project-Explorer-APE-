@@ -1,0 +1,42 @@
+[
+   {
+      "name": "Kevan Miller",
+      "imports": [
+         "no-reply",
+         "Donald Woods"
+      ]
+   },
+   {
+      "name": "Donald Woods",
+      "imports": []
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "Gerhard",
+         "Simone Tripodi"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Gerhard",
+      "imports": []
+   },
+   {
+      "name": "Simone Tripodi (JIRA)",
+      "imports": [
+         "=?utf-8?Q?J=C3=B6rg_Wa=C3=9Fmer_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?J=C3=B6rg_Wa=C3=9Fmer_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Simone Tripodi",
+      "imports": []
+   }
+]

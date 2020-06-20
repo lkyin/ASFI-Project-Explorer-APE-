@@ -1,0 +1,248 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Felix Meschberger",
+         "Roy T. Fielding",
+         "Anton Gavazuk",
+         "Carsten Ziegeler",
+         "Thomas Mueller",
+         "Thomas Mueller",
+         "Christophe Lombart",
+         "Carsten Ziegeler"
+      ]
+   },
+   {
+      "name": "fmeschbe",
+      "imports": []
+   },
+   {
+      "name": "Karl Pauls",
+      "imports": [
+         "Felix Meschberger"
+      ]
+   },
+   {
+      "name": "Anton Gavazuk",
+      "imports": []
+   },
+   {
+      "name": "Tobias Bocanegra (JIRA)",
+      "imports": [
+         "Felix Meschberger (JIRA)"
+      ]
+   },
+   {
+      "name": "Thomas Mueller",
+      "imports": [
+         "Carsten Ziegeler",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Felix Meschberger (JIRA)",
+      "imports": [
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Philipp Koch (JIRA)",
+         "Philipp Koch (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Gerodolle (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "Gerodolle (JIRA)",
+         "Gerodolle (JIRA)",
+         "Gerodolle (JIRA)",
+         "Gerodolle (JIRA)",
+         "Carsten Ziegeler (JIRA)",
+         "Carsten Ziegeler (JIRA)",
+         "Oliver Lietz (JIRA)",
+         "Oliver Lietz (JIRA)",
+         "Oliver Lietz (JIRA)",
+         "Oliver Lietz (JIRA)"
+      ]
+   },
+   {
+      "name": "Edgar Poce",
+      "imports": [
+         "Felix Meschberger",
+         "Felix Meschberger",
+         "Felix Meschberger"
+      ]
+   },
+   {
+      "name": "Jan Metzner",
+      "imports": [
+         "Bradley Beddoes"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Felix Meschberger",
+         "=?UTF-8?Q?Alexandru_Popescu_=E2=98=80?=",
+         "Carsten Ziegeler"
+      ]
+   },
+   {
+      "name": "Carsten Ziegeler",
+      "imports": [
+         "Jukka Zitting",
+         "Felix Meschberger",
+         "Felix Meschberger",
+         "Felix Meschberger",
+         "fmeschbe",
+         "Bertrand Delacretaz",
+         "fmeschbe",
+         "Felix Meschberger",
+         "Felix Meschberger",
+         "Bradley Beddoes",
+         "Felix Meschberger",
+         "Roy T. Fielding",
+         "Felix Meschberger"
+      ]
+   },
+   {
+      "name": "Philipp Koch (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Carsten Ziegeler (JIRA)",
+      "imports": [
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)"
+      ]
+   },
+   {
+      "name": "Oliver Lietz (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?Q?Alexandru_Popescu_=E2=98=80?=",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "paksegu",
+      "imports": [
+         "Felix Meschberger",
+         "Felix Meschberger"
+      ]
+   },
+   {
+      "name": "Christophe Lombart",
+      "imports": [
+         "Thomas Mueller",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "GERODOLLE Anne RD-MAPS-GRE",
+      "imports": [
+         "Carsten Ziegeler (JIRA)",
+         "Bertrand Delacretaz (JIRA)"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz (JIRA)",
+      "imports": [
+         "Carsten Ziegeler (JIRA)",
+         "Carsten Ziegeler (JIRA)",
+         "Carsten Ziegeler (JIRA)",
+         "Felix Meschberger (JIRA)"
+      ]
+   },
+   {
+      "name": "Gerodolle (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Juan_Jos=E9_V=E1zquez_Delgado?=",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Carsten Ziegeler"
+      ]
+   },
+   {
+      "name": "Bradley Beddoes",
+      "imports": [
+         "Felix Meschberger",
+         "Carsten Ziegeler",
+         "Jan Metzner"
+      ]
+   },
+   {
+      "name": "Felix Meschberger",
+      "imports": [
+         "Carsten Ziegeler",
+         "paksegu",
+         "Jukka Zitting",
+         "Carsten Ziegeler",
+         "Torgeir Veimo",
+         "Bertrand Delacretaz",
+         "Roy T. Fielding",
+         "Edgar Poce",
+         "Roy T. Fielding",
+         "Carsten Ziegeler",
+         "Carsten Ziegeler",
+         "Roy T. Fielding",
+         "Edgar Poce",
+         "Edgar Poce",
+         "Edgar Poce",
+         "Edgar Poce",
+         "Edgar Poce (JIRA)",
+         "Edgar Poce",
+         "Bradley Beddoes",
+         "Bradley Beddoes",
+         "Gerodolle (JIRA)",
+         "GERODOLLE Anne RD-MAPS-GRE",
+         "Bradley Beddoes",
+         "Carsten Ziegeler",
+         "Carsten Ziegeler",
+         "Carsten Ziegeler",
+         "Carsten Ziegeler",
+         "Bertrand Delacretaz",
+         "paksegu",
+         "Carsten Ziegeler",
+         "Carsten Ziegeler",
+         "Torgeir Veimo",
+         "Bertrand Delacretaz",
+         "Torgeir Veimo"
+      ]
+   },
+   {
+      "name": "Edgar Poce (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Roy T. Fielding",
+      "imports": [
+         "Felix Meschberger",
+         "Carsten Ziegeler",
+         "Christophe Lombart",
+         "Felix Meschberger"
+      ]
+   },
+   {
+      "name": "Torgeir Veimo",
+      "imports": [
+         "Felix Meschberger",
+         "Felix Meschberger"
+      ]
+   }
+]

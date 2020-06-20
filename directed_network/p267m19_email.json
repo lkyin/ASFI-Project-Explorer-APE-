@@ -1,0 +1,126 @@
+[
+   {
+      "name": "Richard Frovarp (JIRA)",
+      "imports": [
+         "Otis Gospodnetic (JIRA)",
+         "Otis Gospodnetic (JIRA)",
+         "Mingfai Ma (JIRA)"
+      ]
+   },
+   {
+      "name": "Otis Gospodnetic (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Javier Puerto",
+      "imports": [
+         "Ross Gardler",
+         "Ross Gardler"
+      ]
+   },
+   {
+      "name": "Ryan McKinley (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Mingfai Ma (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ryan McKinley",
+      "imports": [
+         "Chapuis Bertil"
+      ]
+   },
+   {
+      "name": "Thorsten Scherler",
+      "imports": [
+         "Chapuis Bertil",
+         "jira",
+         "Richard Frovarp",
+         "Javier Puerto"
+      ]
+   },
+   {
+      "name": "Chapuis Bertil",
+      "imports": [
+         "Richard Frovarp",
+         "Richard Frovarp",
+         "Richard Frovarp",
+         "Richard Frovarp"
+      ]
+   },
+   {
+      "name": "Bertil Chapuis (JIRA)",
+      "imports": [
+         "Mingfai Ma (JIRA)",
+         "Mingfai Ma (JIRA)",
+         "Mingfai Ma (JIRA)",
+         "Mingfai Ma (JIRA)"
+      ]
+   },
+   {
+      "name": "Richard Frovarp",
+      "imports": [
+         "Thorsten Scherler",
+         "Thorsten Scherler",
+         "Thorsten Scherler",
+         "Thorsten Scherler",
+         "Thorsten Scherler"
+      ]
+   },
+   {
+      "name": "Thorsten Scherler (JIRA)",
+      "imports": [
+         "Richard Frovarp (JIRA)",
+         "Bertil Chapuis (JIRA)",
+         "Bertil Chapuis (JIRA)",
+         "Richard Frovarp (JIRA)",
+         "k l petersen (JIRA)",
+         "Richard Frovarp (JIRA)",
+         "Richard Frovarp (JIRA)",
+         "Richard Frovarp (JIRA)",
+         "Richard Frovarp (JIRA)",
+         "Richard Frovarp (JIRA)",
+         "Richard Frovarp (JIRA)",
+         "Ryan McKinley (JIRA)",
+         "Richard Frovarp (JIRA)",
+         "Otis Gospodnetic (JIRA)",
+         "Richard Frovarp (JIRA)",
+         "Richard Frovarp (JIRA)",
+         "Otis Gospodnetic (JIRA)",
+         "Florent ANDRE (JIRA)",
+         "Florent ANDRE (JIRA)",
+         "Ryan McKinley (JIRA)",
+         "Ryan McKinley (JIRA)",
+         "Ryan McKinley (JIRA)",
+         "Ryan McKinley (JIRA)",
+         "Ryan McKinley (JIRA)",
+         "Richard Frovarp (JIRA)",
+         "Richard Frovarp (JIRA)",
+         "Ryan McKinley (JIRA)"
+      ]
+   },
+   {
+      "name": "jira",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?B?THVrw6HFoSBWbMSNZWs=?=",
+      "imports": [
+         "Ryan McKinley"
+      ]
+   },
+   {
+      "name": "Florent ANDRE (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "k l petersen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ross Gardler",
+      "imports": []
+   }
+]

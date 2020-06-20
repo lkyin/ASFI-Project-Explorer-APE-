@@ -1,0 +1,27 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "John D. Ament",
+         "Serge Huber"
+      ]
+   },
+   {
+      "name": "Serge Huber",
+      "imports": [
+         "=?UTF-8?Q?Jean-Baptiste_Onofr=c3=a9?=",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?Q?Jean-Baptiste_Onofr=c3=a9?=",
+      "imports": [
+         "Serge Huber",
+         "Bertrand Delacretaz"
+      ]
+   }
+]

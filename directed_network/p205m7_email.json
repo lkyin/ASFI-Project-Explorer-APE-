@@ -1,0 +1,28 @@
+[
+   {
+      "name": "Carsten Ziegeler",
+      "imports": [
+         "Jeremias Maerki"
+      ]
+   },
+   {
+      "name": "Jeremias Maerki",
+      "imports": [
+         "Charles Matthew Chen",
+         "Charles Matthew Chen"
+      ]
+   },
+   {
+      "name": "Charles Matthew Chen",
+      "imports": [
+         "Jeremias Maerki",
+         "Carsten Ziegeler"
+      ]
+   },
+   {
+      "name": "Philipp Koch",
+      "imports": [
+         "Carsten Ziegeler"
+      ]
+   }
+]

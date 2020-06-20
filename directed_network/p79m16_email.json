@@ -1,0 +1,259 @@
+[
+   {
+      "name": "Danny Ayers",
+      "imports": [
+         "Tsuyoshi Ito"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Reto Bachmann-Gmuer"
+      ]
+   },
+   {
+      "name": "Henry Story (JIRA)",
+      "imports": [
+         "Hasan (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Tsuyoshi Ito",
+         "Hasan Hasan",
+         "Tsuyoshi Ito"
+      ]
+   },
+   {
+      "name": "Marco Zaugg",
+      "imports": [
+         "Tsuyoshi Ito",
+         "Tsuyoshi Ito",
+         "Reto Bachmann-Gmuer",
+         "Henry Story"
+      ]
+   },
+   {
+      "name": "Martin Wulff (JIRA)",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)"
+      ]
+   },
+   {
+      "name": "Dirk Dresch (JIRA)",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)"
+      ]
+   },
+   {
+      "name": "Reto Bachmann-Gmuer",
+      "imports": [
+         "Henry Story (JIRA)",
+         "Hasan Hasan",
+         "Marco Zaugg",
+         "Tsuyoshi Ito (JIRA)",
+         "Bertrand Delacretaz",
+         "Tsuyoshi Ito",
+         "=?utf-8?B?T2xpdmVyIFN0csOkc3Nlcg==?=",
+         "Tsuyoshi Ito",
+         "Henry Story",
+         "Ross Gardler",
+         "Tommaso Teofili",
+         "Tsuyoshi Ito",
+         "Olivier Grisel",
+         "Olivier Grisel",
+         "Olivier Grisel",
+         "Olivier Grisel"
+      ]
+   },
+   {
+      "name": "Hasan (JIRA)",
+      "imports": [
+         "Daniel Spicar (JIRA)",
+         "Daniel Spicar (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili (JIRA)",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)"
+      ]
+   },
+   {
+      "name": "Tsuyoshi Ito (JIRA)",
+      "imports": [
+         "Daniel Spicar (JIRA)",
+         "Daniel Spicar (JIRA)"
+      ]
+   },
+   {
+      "name": "Marco Zaugg (JIRA)",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)"
+      ]
+   },
+   {
+      "name": "Stefan Raupach",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?B?T2xpdmVyIFN0csOkc3Nlcg==?=",
+      "imports": [
+         "Reto Bachmann-Gmuer",
+         "Reto Bachmann-Gmuer"
+      ]
+   },
+   {
+      "name": "franco fallica (JIRA)",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)"
+      ]
+   },
+   {
+      "name": "Hasan Hasan",
+      "imports": [
+         "Reto Bachmann-Gmuer",
+         "Marco Zaugg",
+         "Reto Bachmann-Gmuer",
+         "Tsuyoshi Ito",
+         "Tsuyoshi Ito",
+         "Olivier Grisel"
+      ]
+   },
+   {
+      "name": "Ross Gardler",
+      "imports": [
+         "Marco Zaugg"
+      ]
+   },
+   {
+      "name": "Olivier Grisel",
+      "imports": [
+         "Hasan Hasan",
+         "Reto Bachmann-Gmuer",
+         "Reto Bachmann-Gmuer"
+      ]
+   },
+   {
+      "name": "=?iso-8859-1?Q?Oliver_Str=E4sser?=",
+      "imports": [
+         "=?utf-8?B?T2xpdmVyIFN0csOkc3Nlcg==?="
+      ]
+   },
+   {
+      "name": "Henry Story",
+      "imports": [
+         "Reto Bachmann-Gmuer",
+         "Reto Bachmann-Gmuer",
+         "Reto Bachmann-Gmuer",
+         "Reto Bachmann-Gmuer",
+         "Reto Bachmann-Gmuer"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Oliver_Str=C3=A4sser_=28JIRA=29?=",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz (JIRA)",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Daniel Spicar (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Tsuyoshi Ito",
+      "imports": [
+         "Reto Bachmann-Gmuer",
+         "Reto Bachmann-Gmuer",
+         "=?iso-8859-1?Q?Oliver_Str=E4sser?=",
+         "Reto Bachmann-Gmuer",
+         "Bertrand Delacretaz",
+         "Henry Story"
+      ]
+   },
+   {
+      "name": "Reto =?ISO-8859-1?Q?Bachmann-Gm=FCr?=",
+      "imports": [
+         "Henry Story (JIRA)",
+         "Tsuyoshi Ito"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Daniel Spicar (JIRA)",
+         "Daniel Spicar (JIRA)",
+         "=?utf-8?Q?Oliver_Str=C3=A4sser_=28JIRA=29?=",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Hasan (JIRA)",
+         "Hasan (JIRA)",
+         "Henry Story (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Daniel Spicar (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Henry Story (JIRA)",
+         "Daniel Spicar (JIRA)",
+         "Henry Story (JIRA)",
+         "Henry Story (JIRA)",
+         "Henry Story (JIRA)"
+      ]
+   },
+   {
+      "name": "Andy Seaborne",
+      "imports": [
+         "Reto Bachmann-Gmuer"
+      ]
+   },
+   {
+      "name": "Daniel Spicar",
+      "imports": [
+         "Stefan Raupach"
+      ]
+   }
+]

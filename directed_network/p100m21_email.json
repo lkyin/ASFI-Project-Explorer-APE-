@@ -1,0 +1,29 @@
+[
+   {
+      "name": "=?iso-8859-1?Q?Nicolas_Lalev=E9e?=",
+      "imports": [
+         "Jukka Zitting",
+         "Jean-Louis Boudart",
+         "Jean-Louis Boudart",
+         "Jean-Louis Boudart"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "=?iso-8859-1?Q?Nicolas_Lalev=E9e?="
+      ]
+   },
+   {
+      "name": "Apache Jenkins Server",
+      "imports": []
+   },
+   {
+      "name": "Jean-Louis Boudart",
+      "imports": [
+         "Apache Jenkins Server",
+         "=?iso-8859-1?Q?Nicolas_Lalev=E9e?=",
+         "=?iso-8859-1?Q?Nicolas_Lalev=E9e?="
+      ]
+   }
+]

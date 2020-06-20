@@ -1,0 +1,36 @@
+[
+   {
+      "name": "Neil Stein",
+      "imports": [
+         "Steve Toback",
+         "Yoav Shapira"
+      ]
+   },
+   {
+      "name": "drtobes",
+      "imports": [
+         "William A. Rowe, Jr."
+      ]
+   },
+   {
+      "name": "Yoav Shapira",
+      "imports": [
+         "drtobes",
+         "Steve Toback"
+      ]
+   },
+   {
+      "name": "Steve Toback",
+      "imports": [
+         "William A. Rowe, Jr.",
+         "Yoav Shapira"
+      ]
+   },
+   {
+      "name": "William A. Rowe, Jr.",
+      "imports": [
+         "drtobes",
+         "Steve Toback"
+      ]
+   }
+]

@@ -1,0 +1,205 @@
+[
+   {
+      "name": "Eric Friedrich",
+      "imports": []
+   },
+   {
+      "name": "Durfey, Ryan",
+      "imports": [
+         "Steve Malenfant",
+         "Dewayne Richardson",
+         "Dan Kirkwood",
+         "Eric Friedrich (efriedri)"
+      ]
+   },
+   {
+      "name": "Phil Sorber",
+      "imports": [
+         "Volz, Dylan (Contractor)"
+      ]
+   },
+   {
+      "name": "Dave Neuman",
+      "imports": [
+         "Zhilin Huang (zhilhuan)",
+         "Peters, Rawlin",
+         "Jeremy Mitchell",
+         "Dewayne Richardson",
+         "Eric Friedrich",
+         "Hank Beatty",
+         "Hank Beatty",
+         "Hank Beatty",
+         "Jeremy Mitchell",
+         "Gelinas, Derek",
+         "Dan Kirkwood",
+         "Zhilin Huang (zhilhuan)",
+         "Zhilin Huang (zhilhuan)",
+         "Michael Talyansky"
+      ]
+   },
+   {
+      "name": "Mills, Matthew",
+      "imports": [
+         "Steve Malenfant",
+         "Durfey, Ryan"
+      ]
+   },
+   {
+      "name": "Burak Sarp",
+      "imports": [
+         "Dewayne Richardson"
+      ]
+   },
+   {
+      "name": "rawlin.peters@gmail.com",
+      "imports": [
+         "Gelinas, Derek"
+      ]
+   },
+   {
+      "name": "Robert Butts",
+      "imports": [
+         "Dewayne Richardson",
+         "Durfey, Ryan"
+      ]
+   },
+   {
+      "name": "Leif Hedstrom",
+      "imports": [
+         "Eric Friedrich (efriedri)"
+      ]
+   },
+   {
+      "name": "Volz, Dylan (Contractor)",
+      "imports": [
+         "Dan Kirkwood"
+      ]
+   },
+   {
+      "name": "Zhilin Huang (zhilhuan)",
+      "imports": [
+         "Dave Neuman",
+         "Dave Neuman",
+         "Eric Friedrich (efriedri)",
+         "Dave Neuman"
+      ]
+   },
+   {
+      "name": "Gelinas, Derek",
+      "imports": [
+         "Eric Friedrich (efriedri)",
+         "Eric Friedrich (efriedri)",
+         "Eric Friedrich (efriedri)",
+         "Nir Sopher",
+         "Eric Friedrich (efriedri)",
+         "rawlin.peters@gmail.com"
+      ]
+   },
+   {
+      "name": "Jan van Doorn",
+      "imports": [
+         "Eric Friedrich (efriedri)"
+      ]
+   },
+   {
+      "name": "John Rushford",
+      "imports": [
+         "Dave Neuman"
+      ]
+   },
+   {
+      "name": "Dewayne Richardson",
+      "imports": [
+         "Nir Sopher",
+         "Dave Neuman",
+         "Jeremy Mitchell",
+         "Eric Friedrich (efriedri)",
+         "Jeremy Mitchell",
+         "Dave Neuman"
+      ]
+   },
+   {
+      "name": "Dan Kirkwood",
+      "imports": [
+         "Volz, Dylan (Contractor)",
+         "Phil Sorber",
+         "Eric Friedrich (efriedri)"
+      ]
+   },
+   {
+      "name": "Jeremy Mitchell",
+      "imports": [
+         "Dave Neuman",
+         "Dave Neuman",
+         "Peters, Rawlin",
+         "Peters, Rawlin"
+      ]
+   },
+   {
+      "name": "Michael Talyansky",
+      "imports": []
+   },
+   {
+      "name": "Jason Tucker",
+      "imports": [
+         "Jan van Doorn"
+      ]
+   },
+   {
+      "name": "Steve Malenfant",
+      "imports": [
+         "Durfey, Ryan",
+         "Jeremy Mitchell",
+         "Dewayne Richardson"
+      ]
+   },
+   {
+      "name": "Eric Friedrich (efriedri)",
+      "imports": [
+         "Zhilin Huang (zhilhuan)",
+         "Dewayne Richardson",
+         "Gelinas, Derek",
+         "Gelinas, Derek",
+         "Mark Torluemke",
+         "Leif Hedstrom",
+         "Durfey, Ryan"
+      ]
+   },
+   {
+      "name": "Nir Sopher",
+      "imports": [
+         "Durfey, Ryan",
+         "Dewayne Richardson",
+         "Dewayne Richardson",
+         "Gelinas, Derek",
+         "Gelinas, Derek"
+      ]
+   },
+   {
+      "name": "Mark Torluemke",
+      "imports": [
+         "Gelinas, Derek"
+      ]
+   },
+   {
+      "name": "Hank Beatty",
+      "imports": []
+   },
+   {
+      "name": "Peters, Rawlin",
+      "imports": [
+         "Dave Neuman",
+         "Zhilin Huang (zhilhuan)",
+         "Eric Friedrich (efriedri)",
+         "Robert Butts",
+         "Dave Neuman"
+      ]
+   },
+   {
+      "name": "Jeff Elsloo",
+      "imports": [
+         "Peters, Rawlin",
+         "rawlin.peters@gmail.com"
+      ]
+   }
+]

@@ -1,0 +1,25 @@
+[
+   {
+      "name": "Rob Weir",
+      "imports": [
+         "Marvin",
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": [
+         "Rob Weir"
+      ]
+   },
+   {
+      "name": "Oliver Rau",
+      "imports": [
+         "Rob Weir"
+      ]
+   }
+]

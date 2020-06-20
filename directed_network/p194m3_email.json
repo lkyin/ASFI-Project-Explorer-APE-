@@ -1,0 +1,265 @@
+[
+   {
+      "name": "IAlwaysBeCoding",
+      "imports": [
+         "HyukjinKwon"
+      ]
+   },
+   {
+      "name": "HyukjinKwon",
+      "imports": [
+         "pferrel",
+         "djones",
+         "maniteja6799"
+      ]
+   },
+   {
+      "name": "Simon Chan",
+      "imports": [
+         "Donald Szeto",
+         "Pat Ferrel",
+         "Donald Szeto"
+      ]
+   },
+   {
+      "name": "Alex Merritt",
+      "imports": [
+         "Pat Ferrel"
+      ]
+   },
+   {
+      "name": "Ziemin",
+      "imports": []
+   },
+   {
+      "name": "Hyukjin Kwon",
+      "imports": [
+         "Pat Ferrel"
+      ]
+   },
+   {
+      "name": "rogersd",
+      "imports": [
+         "samuelebistoletti"
+      ]
+   },
+   {
+      "name": "dszeto",
+      "imports": [
+         "HyukjinKwon",
+         "maniteja6799",
+         "djones",
+         "HyukjinKwon",
+         "HyukjinKwon",
+         "HyukjinKwon",
+         "Ziemin",
+         "maniteja6799",
+         "HyukjinKwon",
+         "Ziemin",
+         "maniteja6799",
+         "mars",
+         "pferrel",
+         "pferrel",
+         "HyukjinKwon",
+         "pferrel",
+         "pferrel",
+         "chanlee514",
+         "samuelebistoletti",
+         "samuelebistoletti",
+         "samuelebistoletti"
+      ]
+   },
+   {
+      "name": "maniteja6799",
+      "imports": []
+   },
+   {
+      "name": "Pat Ferrel",
+      "imports": [
+         "Donald Szeto",
+         "=?UTF-8?Q?Marcin_Ziemi=C5=84ski?=",
+         "=?UTF-8?Q?Marcin_Ziemi=C5=84ski?=",
+         "Chan Lee",
+         "Alex Merritt",
+         "Hyukjin Kwon",
+         "Simon Chan",
+         "Donald Szeto",
+         "Chan Lee",
+         "Donald Szeto",
+         "Andrew Purtell",
+         "Chan Lee",
+         "Donald Szeto",
+         "Donald Szeto",
+         "Chan Lee",
+         "Andrew Purtell",
+         "Andrew Purtell",
+         "Chan Lee",
+         "Suneel Marthi",
+         "Andrew Purtell",
+         "Andrew Purtell",
+         "Suneel Marthi",
+         "Chan Lee",
+         "Andrew Purtell",
+         "Donald Szeto"
+      ]
+   },
+   {
+      "name": "Mani Teja",
+      "imports": [
+         "Donald Szeto"
+      ]
+   },
+   {
+      "name": "djones",
+      "imports": []
+   },
+   {
+      "name": "Donald Szeto",
+      "imports": [
+         "=?UTF-8?Q?Marcin_Ziemi=C5=84ski?=",
+         "Andrew Purtell",
+         "Pat Ferrel",
+         "zulkifli",
+         "Chan Lee",
+         "Alex Merritt",
+         "Pat Ferrel",
+         "Mani Teja",
+         "=?UTF-8?Q?Marcin_Ziemi=C5=84ski?=",
+         "Pat Ferrel",
+         "Pat Ferrel",
+         "Andrew Purtell"
+      ]
+   },
+   {
+      "name": "jgam04",
+      "imports": [
+         "samuelebistoletti",
+         "samuelebistoletti"
+      ]
+   },
+   {
+      "name": "pferrel",
+      "imports": []
+   },
+   {
+      "name": "jamesward",
+      "imports": [
+         "HyukjinKwon",
+         "HyukjinKwon",
+         "HyukjinKwon",
+         "HyukjinKwon"
+      ]
+   },
+   {
+      "name": "mars",
+      "imports": []
+   },
+   {
+      "name": "chanlee514",
+      "imports": [
+         "Ziemin"
+      ]
+   },
+   {
+      "name": "Chan Lee",
+      "imports": [
+         "Pat Ferrel",
+         "=?UTF-8?Q?Marcin_Ziemi=C5=84ski?=",
+         "Pat Ferrel",
+         "Andrew Purtell",
+         "Pat Ferrel"
+      ]
+   },
+   {
+      "name": "samuelebistoletti",
+      "imports": []
+   },
+   {
+      "name": "moeamla",
+      "imports": [
+         "samuelebistoletti"
+      ]
+   },
+   {
+      "name": "tom-chan",
+      "imports": [
+         "pferrel",
+         "pferrel",
+         "pferrel",
+         "pferrel",
+         "pferrel",
+         "pferrel"
+      ]
+   },
+   {
+      "name": "EmergentOrder",
+      "imports": [
+         "pferrel",
+         "svalaskevicius",
+         "pferrel",
+         "pferrel",
+         "pferrel"
+      ]
+   },
+   {
+      "name": "gaoxuesong",
+      "imports": []
+   },
+   {
+      "name": "svalaskevicius",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?Q?Marcin_Ziemi=C5=84ski?=",
+      "imports": [
+         "Chan Lee",
+         "Pat Ferrel",
+         "Donald Szeto"
+      ]
+   },
+   {
+      "name": "Christophy",
+      "imports": [
+         "gaoxuesong",
+         "gaoxuesong"
+      ]
+   },
+   {
+      "name": "asfgit",
+      "imports": [
+         "svalaskevicius",
+         "HyukjinKwon",
+         "HyukjinKwon",
+         "maniteja6799",
+         "Ziemin",
+         "HyukjinKwon",
+         "chanlee514"
+      ]
+   },
+   {
+      "name": "Suneel Marthi",
+      "imports": [
+         "Andrew Purtell",
+         "Pat Ferrel"
+      ]
+   },
+   {
+      "name": "Andrew Purtell",
+      "imports": [
+         "Pat Ferrel",
+         "Suneel Marthi",
+         "Pat Ferrel",
+         "Pat Ferrel",
+         "Pat Ferrel",
+         "Pat Ferrel",
+         "Pat Ferrel",
+         "Pat Ferrel",
+         "Suneel Marthi",
+         "Pat Ferrel"
+      ]
+   },
+   {
+      "name": "zulkifli",
+      "imports": []
+   }
+]

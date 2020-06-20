@@ -1,0 +1,76 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Daniel Spicar"
+      ]
+   },
+   {
+      "name": "Tsuyoshi Ito (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+      "imports": [
+         "Daniel Spicar",
+         "Daniel Spicar",
+         "Robby Pelssers",
+         "Robby Pelssers"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?florent_andr=E9?=",
+      "imports": []
+   },
+   {
+      "name": "Hasan (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Robby Pelssers (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Daniel Spicar (JIRA)",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)"
+      ]
+   },
+   {
+      "name": "Robby Pelssers",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)",
+         "Daniel Spicar (JIRA)",
+         "Daniel Spicar (JIRA)",
+         "Daniel Spicar (JIRA)",
+         "Daniel Spicar (JIRA)",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28Created=29_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Daniel Spicar",
+      "imports": [
+         "=?ISO-8859-1?Q?florent_andr=E9?=",
+         "Tommaso Teofili",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28Created=29_=28JIRA=29?=",
+      "imports": []
+   }
+]

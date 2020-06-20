@@ -1,0 +1,60 @@
+[
+   {
+      "name": "Shazron",
+      "imports": [
+         "Joe Bowser"
+      ]
+   },
+   {
+      "name": "Andrew Grieve",
+      "imports": [
+         "Shazron"
+      ]
+   },
+   {
+      "name": "Christian Grobmeier",
+      "imports": [
+         "Raymond Camden",
+         "Brent Lintner"
+      ]
+   },
+   {
+      "name": "Brent Lintner",
+      "imports": [
+         "Raymond Camden",
+         "Raymond Camden",
+         "Raymond Camden",
+         "Raymond Camden"
+      ]
+   },
+   {
+      "name": "Raymond Camden",
+      "imports": [
+         "Brent Lintner",
+         "Brent Lintner",
+         "Brent Lintner",
+         "Brent Lintner",
+         "Christian Grobmeier",
+         "Brent Lintner",
+         "Brent Lintner"
+      ]
+   },
+   {
+      "name": "Parashuram Narasimhan (MS OPEN TECH)",
+      "imports": [
+         "Christian Grobmeier"
+      ]
+   },
+   {
+      "name": "Gorkem Ercan",
+      "imports": [
+         "Shazron"
+      ]
+   },
+   {
+      "name": "Joe Bowser",
+      "imports": [
+         "Brent Lintner"
+      ]
+   }
+]

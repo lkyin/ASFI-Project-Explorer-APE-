@@ -1,0 +1,55 @@
+[
+   {
+      "name": "Jeremy Bauer",
+      "imports": [
+         "Simone Tripodi"
+      ]
+   },
+   {
+      "name": "Kevan Miller",
+      "imports": [
+         "Simone Tripodi",
+         "no-reply",
+         "Niall Pemberton",
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "Kevan Miller",
+         "Gerhard Petracek"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Niall Pemberton",
+      "imports": [
+         "Gerhard Petracek"
+      ]
+   },
+   {
+      "name": "Matt Benson",
+      "imports": []
+   },
+   {
+      "name": "Gerhard Petracek",
+      "imports": [
+         "Mark Struberg",
+         "Matt Benson"
+      ]
+   },
+   {
+      "name": "Mohammad Nour El-Din",
+      "imports": []
+   },
+   {
+      "name": "Simone Tripodi",
+      "imports": [
+         "Mohammad Nour El-Din"
+      ]
+   }
+]

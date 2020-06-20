@@ -1,0 +1,22 @@
+[
+   {
+      "name": "rafaelweingartner",
+      "imports": [
+         "cristofolini"
+      ]
+   },
+   {
+      "name": "Tony Faustini",
+      "imports": [
+         "Lucas Berri Cristofolini"
+      ]
+   },
+   {
+      "name": "Lucas Berri Cristofolini",
+      "imports": []
+   },
+   {
+      "name": "cristofolini",
+      "imports": []
+   }
+]

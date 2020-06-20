@@ -1,0 +1,399 @@
+[
+   {
+      "name": "Arthur Wiedmer",
+      "imports": [
+         "Bence Nagy",
+         "Jeremiah Lowin",
+         "=?UTF-8?B?15TXmdec15Qg15XXmdeW158=?="
+      ]
+   },
+   {
+      "name": "Hitesh Shah",
+      "imports": [
+         "siddharth anand",
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Van Klaveren, Brian N.",
+      "imports": [
+         "Lance Norskog"
+      ]
+   },
+   {
+      "name": "Lance Norskog",
+      "imports": [
+         "Chris Riccomini",
+         "Dennis O''Brien",
+         "Bolke de Bruin",
+         "Chris Riccomini",
+         "Edwards, Jesse",
+         "Van Klaveren, Brian N.",
+         "Gerard Toonstra",
+         "Chris Riccomini",
+         "hilaviz",
+         "harish singh",
+         "harish singh"
+      ]
+   },
+   {
+      "name": "Tatsiana Klionskaya",
+      "imports": []
+   },
+   {
+      "name": "Ben Tallman",
+      "imports": [
+         "harish singh",
+         "harish singh",
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Michael England",
+      "imports": []
+   },
+   {
+      "name": "Ajay Yadava",
+      "imports": [
+         "Teresa Fontanella De Santis",
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Audubon Technologies",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Dan Davydov",
+      "imports": [
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "harish singh"
+      ]
+   },
+   {
+      "name": "Eric Johnson",
+      "imports": [
+         "George Leslie-Waksman"
+      ]
+   },
+   {
+      "name": "daniel williams",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Ajay Yadav",
+      "imports": [
+         "Jeremiah Lowin"
+      ]
+   },
+   {
+      "name": "Thoralf Gutierrez",
+      "imports": [
+         "siddharth anand"
+      ]
+   },
+   {
+      "name": "Msr Msr",
+      "imports": [
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Gerard Toonstra",
+      "imports": []
+   },
+   {
+      "name": "Jason Chen",
+      "imports": [
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "siddharth anand",
+         "Rob Froetscher"
+      ]
+   },
+   {
+      "name": "Griffin Thornton",
+      "imports": []
+   },
+   {
+      "name": "Jakob Homan",
+      "imports": [
+         "siddharth anand",
+         "Hitesh Shah",
+         "Ajay Yadav",
+         "Tyrone Hinderson"
+      ]
+   },
+   {
+      "name": "Sumit Maheshwari",
+      "imports": [
+         "Maxime Beauchemin",
+         "Joy Gao",
+         "Maxime Beauchemin",
+         "Jeremiah Lowin",
+         "Jason Chen",
+         "Msr Msr"
+      ]
+   },
+   {
+      "name": "Alyssa Kwan",
+      "imports": [
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Or Sher",
+      "imports": [
+         "Jeremiah Lowin"
+      ]
+   },
+   {
+      "name": "Rafael Barbosa",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Brian Candler",
+      "imports": []
+   },
+   {
+      "name": "Paul Rhodes",
+      "imports": [
+         "Bence Nagy"
+      ]
+   },
+   {
+      "name": "justin jose",
+      "imports": []
+   },
+   {
+      "name": "Joy Gao",
+      "imports": []
+   },
+   {
+      "name": "Ryabchuk, Pavlo",
+      "imports": [
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Jeremiah Lowin",
+      "imports": [
+         "Griffin Thornton",
+         "Michael England",
+         "siddharth anand",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Jason Kromm",
+         "Sumit Maheshwari",
+         "Bolke de Bruin",
+         "Or Sher",
+         "Tyrone Hinderson",
+         "Or Sher",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Rob Froetscher",
+      "imports": [
+         "Jason Chen"
+      ]
+   },
+   {
+      "name": "Tyrone Hinderson",
+      "imports": [
+         "Jeremiah Lowin",
+         "Jakob Homan",
+         "Jeremiah Lowin"
+      ]
+   },
+   {
+      "name": "Jason Kromm",
+      "imports": []
+   },
+   {
+      "name": "siddharth anand",
+      "imports": [
+         "Bence Nagy",
+         "Hitesh Shah",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Maxime Beauchemin",
+         "Thoralf Gutierrez",
+         "Sumit Maheshwari",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Matthias Huschle",
+      "imports": [
+         "Dennis O''Brien"
+      ]
+   },
+   {
+      "name": "Maxime Beauchemin",
+      "imports": [
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Jason Chen",
+         "Arthur Wiedmer",
+         "Chris Riccomini",
+         "Matthias Huschle",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Ryabchuk, Pavlo",
+         "Jeremiah Lowin",
+         "Jakob Homan",
+         "Sumit Maheshwari",
+         "Eric Johnson",
+         "Chris Riccomini",
+         "Sumit Maheshwari",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "harish singh",
+         "diwakar bhardwaj",
+         "harish singh",
+         "harish singh",
+         "harish singh",
+         "Chris Riccomini",
+         "Rafael Barbosa",
+         "Jeremiah Lowin",
+         "Bolke de Bruin",
+         "Sumit Maheshwari",
+         "Ben Tallman",
+         "Jeremiah Lowin"
+      ]
+   },
+   {
+      "name": "diwakar bhardwaj",
+      "imports": []
+   },
+   {
+      "name": "Bence Nagy",
+      "imports": [
+         "Qian Yu",
+         "Paul Rhodes",
+         "siddharth anand"
+      ]
+   },
+   {
+      "name": "Qian Yu",
+      "imports": []
+   },
+   {
+      "name": "MSR M",
+      "imports": [
+         "Msr Msr"
+      ]
+   },
+   {
+      "name": "Laura Lorenz",
+      "imports": [
+         "Rafael Barbosa"
+      ]
+   },
+   {
+      "name": "Teresa Fontanella De Santis",
+      "imports": []
+   },
+   {
+      "name": "hilaviz",
+      "imports": [
+         "Arthur Wiedmer",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?15TXmdec15Qg15XXmdeW158=?=",
+      "imports": []
+   },
+   {
+      "name": "Dennis O''Brien",
+      "imports": [
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Bolke de Bruin",
+      "imports": [
+         "justin jose",
+         "Ryabchuk, Pavlo",
+         "Jeremiah Lowin",
+         "Maxime Beauchemin",
+         "Maxime Beauchemin",
+         "Chris Riccomini",
+         "Ben Tallman",
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Edwards, Jesse",
+      "imports": []
+   },
+   {
+      "name": "George Leslie-Waksman",
+      "imports": [
+         "Lance Norskog",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "harish singh",
+      "imports": [
+         "Maxime Beauchemin",
+         "Maxime Beauchemin",
+         "Maxime Beauchemin",
+         "Ben Tallman",
+         "Dan Davydov",
+         "Lance Norskog"
+      ]
+   },
+   {
+      "name": "Chris Riccomini",
+      "imports": [
+         "Maxime Beauchemin",
+         "Jason Chen",
+         "Bence Nagy",
+         "Brian Candler",
+         "Jason Chen",
+         "Jason Chen",
+         "Jakob Homan",
+         "Jeremiah Lowin",
+         "siddharth anand",
+         "Maxime Beauchemin",
+         "Jeremiah Lowin",
+         "Paul Rhodes",
+         "siddharth anand",
+         "Maxime Beauchemin",
+         "Maxime Beauchemin",
+         "Jeremiah Lowin",
+         "Paul Rhodes",
+         "Lance Norskog",
+         "Maxime Beauchemin",
+         "Audubon Technologies",
+         "Audubon Technologies",
+         "Maxime Beauchemin",
+         "Maxime Beauchemin",
+         "Ben Tallman",
+         "Laura Lorenz",
+         "Lance Norskog",
+         "Lance Norskog",
+         "Jakob Homan",
+         "Jeremiah Lowin",
+         "Jeremiah Lowin",
+         "Jason Chen",
+         "Lance Norskog",
+         "Tatsiana Klionskaya",
+         "Bence Nagy",
+         "daniel williams"
+      ]
+   }
+]

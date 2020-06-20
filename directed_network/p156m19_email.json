@@ -1,0 +1,222 @@
+[
+   {
+      "name": "daddywri@gmail.com",
+      "imports": []
+   },
+   {
+      "name": "Shinichiro Abe (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "tobr dev",
+      "imports": [
+         "Karl Wright",
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Florent Guillaume",
+      "imports": [
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Kate McGonigal (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?Erlend_Gar=C3=A5sen_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Piergiorgio Lucidi (JIRA)",
+      "imports": [
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Tobias_R=C3=BCbner_=28JIRA=29?=",
+      "imports": [
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)"
+      ]
+   },
+   {
+      "name": "Farzad Valad",
+      "imports": [
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "daddywri@gmail.com",
+         "Karl Wright",
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Karl Wright",
+      "imports": [
+         "Farzad Valad",
+         "tobr dev",
+         "daddywri@gmail.com",
+         "Farzad Valad",
+         "Farzad Valad",
+         "Farzad Valad",
+         "tobr dev",
+         "Farzad Valad",
+         "Piergiorgio Lucidi",
+         "Piergiorgio Lucidi",
+         "Farzad Valad",
+         "Farzad Valad",
+         "Farzad Valad",
+         "Farzad Valad",
+         "tobr dev",
+         "Farzad Valad",
+         "=?ISO-8859-1?Q?Tobias_R=FCbner?=",
+         "=?ISO-8859-1?Q?Tobias_R=FCbner?=",
+         "=?ISO-8859-1?Q?Tobias_R=FCbner?=",
+         "=?ISO-8859-1?Q?Tobias_R=FCbner?=",
+         "=?ISO-8859-1?Q?Tobias_R=FCbner?=",
+         "Piergiorgio Lucidi",
+         "Piergiorgio Lucidi"
+      ]
+   },
+   {
+      "name": "Karl Wright (JIRA)",
+      "imports": [
+         "Shinichiro Abe (JIRA)",
+         "Shinichiro Abe (JIRA)",
+         "Shinichiro Abe (JIRA)",
+         "Shinichiro Abe (JIRA)",
+         "Emmanuel Keller (JIRA)",
+         "=?utf-8?Q?Erlend_Gar=C3=A5sen_=28JIRA=29?=",
+         "=?utf-8?Q?Erlend_Gar=C3=A5sen_=28JIRA=29?=",
+         "=?utf-8?Q?Erlend_Gar=C3=A5sen_=28JIRA=29?=",
+         "Piergiorgio Lucidi (JIRA)",
+         "Piergiorgio Lucidi (JIRA)",
+         "Kate McGonigal (JIRA)",
+         "Kate McGonigal (JIRA)",
+         "Kate McGonigal (JIRA)",
+         "Kate McGonigal (JIRA)",
+         "Kate McGonigal (JIRA)",
+         "Kate McGonigal (JIRA)"
+      ]
+   },
+   {
+      "name": "Daniel Kulp",
+      "imports": [
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Erlend_Gar=E5sen?=",
+      "imports": [
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Tobias_R=FCbner?=",
+      "imports": [
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Emmanuel Keller (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "David Broadfoot (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Erlend_Gar=C3=A5sen_=28JIRA=29?=",
+         "=?utf-8?Q?Erlend_Gar=C3=A5sen_=28JIRA=29?=",
+         "=?utf-8?Q?Erlend_Gar=C3=A5sen_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Piergiorgio Lucidi",
+      "imports": [
+         "Karl Wright",
+         "Karl Wright",
+         "daddywri@gmail.com",
+         "Karl Wright"
+      ]
+   }
+]

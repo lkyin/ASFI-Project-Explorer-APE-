@@ -1,0 +1,123 @@
+[
+   {
+      "name": "Adam Lally",
+      "imports": [
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor"
+      ]
+   },
+   {
+      "name": "Brian Romanowski (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Michael Baessler (JIRA)",
+      "imports": [
+         "Thilo Goetz (JIRA)",
+         "Thilo Goetz (JIRA)"
+      ]
+   },
+   {
+      "name": "Quoc-Bao Nguyen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Marshall Schor",
+      "imports": [
+         "Thilo Goetz (JIRA)",
+         "Adam Lally",
+         "Thilo Goetz",
+         "Thilo Goetz"
+      ]
+   },
+   {
+      "name": "Marshall Schor (JIRA)",
+      "imports": [
+         "Burn Lewis (JIRA)",
+         "=?utf-8?Q?J=C3=B6rn_Kottmann_=28JIRA=29?=",
+         "Burn Lewis (JIRA)",
+         "Brian Romanowski (JIRA)"
+      ]
+   },
+   {
+      "name": "Philip Ogren (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Thilo Goetz (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Adam Lally (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?J=C3=B6rn_Kottmann_=28JIRA=29?=",
+      "imports": [
+         "Philip Ogren (JIRA)"
+      ]
+   },
+   {
+      "name": "Burn Lewis (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jerry Cwiklik (JIRA)",
+      "imports": [
+         "Eddie Epstein (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Lev Kozakov (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Lev Kozakov (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Burn Lewis (JIRA)",
+         "Quoc-Bao Nguyen (JIRA)",
+         "Adam Lally (JIRA)",
+         "Eddie Epstein (JIRA)"
+      ]
+   },
+   {
+      "name": "Lev Kozakov (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Thilo Goetz",
+      "imports": [
+         "Marshall Schor",
+         "=?ISO-8859-1?Q?Rich=E1rd_Farkas?=",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor"
+      ]
+   },
+   {
+      "name": "Eddie Epstein (JIRA)",
+      "imports": [
+         "Burn Lewis (JIRA)"
+      ]
+   },
+   {
+      "name": "Eddie Epstein",
+      "imports": [
+         "Marshall Schor"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Rich=E1rd_Farkas?=",
+      "imports": []
+   }
+]

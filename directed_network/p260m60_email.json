@@ -1,0 +1,42 @@
+[
+   {
+      "name": "Tim Williams",
+      "imports": [
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Chris Rohr",
+      "imports": [
+         "Patrick Hunt"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": []
+   },
+   {
+      "name": "Doug Cutting",
+      "imports": [
+         "Chris Rohr"
+      ]
+   },
+   {
+      "name": "Aaron McCurry",
+      "imports": [
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Harinder Bedi",
+      "imports": [
+         "Aaron McCurry"
+      ]
+   },
+   {
+      "name": "Patrick Hunt",
+      "imports": [
+         "Harinder Bedi"
+      ]
+   }
+]

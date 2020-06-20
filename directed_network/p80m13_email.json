@@ -1,0 +1,89 @@
+[
+   {
+      "name": "Adrian A. (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Naoki Takezoe",
+      "imports": [
+         "Bob Schellink",
+         "Bob Schellink"
+      ]
+   },
+   {
+      "name": "Finn Bock (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Christophe FOIRET (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Malcolm Edgar (JIRA)",
+      "imports": [
+         "Bob Schellink (JIRA)"
+      ]
+   },
+   {
+      "name": "jozsef.gabor@bluewin.ch",
+      "imports": [
+         "Bob Schellink (JIRA)"
+      ]
+   },
+   {
+      "name": "Itou Akihiro (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Malcolm Edgar",
+      "imports": [
+         "Bob Schellink",
+         "Adrian A.",
+         "Adrian A.",
+         "Bob Schellink",
+         "Bob Schellink"
+      ]
+   },
+   {
+      "name": "Adrian A.",
+      "imports": [
+         "Bob Schellink",
+         "Malcolm Edgar",
+         "Bob Schellink",
+         "Malcolm Edgar"
+      ]
+   },
+   {
+      "name": "Bob Schellink",
+      "imports": [
+         "jozsef.gabor@bluewin.ch",
+         "Adrian A.",
+         "Malcolm Edgar",
+         "Naoki Takezoe",
+         "Malcolm Edgar"
+      ]
+   },
+   {
+      "name": "Bob Schellink (JIRA)",
+      "imports": [
+         "Malcolm Edgar (JIRA)",
+         "Malcolm Edgar (JIRA)",
+         "Christophe FOIRET (JIRA)",
+         "Adrian A. (JIRA)",
+         "Christophe FOIRET (JIRA)",
+         "Christophe FOIRET (JIRA)",
+         "Itou Akihiro (JIRA)",
+         "Malcolm Edgar (JIRA)",
+         "Itou Akihiro (JIRA)",
+         "Itou Akihiro (JIRA)",
+         "Malcolm Edgar (JIRA)",
+         "Malcolm Edgar (JIRA)",
+         "Finn Bock (JIRA)",
+         "Thiago Senna (JIRA)"
+      ]
+   },
+   {
+      "name": "Thiago Senna (JIRA)",
+      "imports": []
+   }
+]

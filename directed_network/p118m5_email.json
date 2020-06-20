@@ -1,0 +1,174 @@
+[
+   {
+      "name": "Mauro Molinari",
+      "imports": [
+         "Steve Amerige"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Jesper_Steen_M=C3=B8ller?=",
+      "imports": [
+         "Keegan Witt"
+      ]
+   },
+   {
+      "name": "Pascal Schumacher",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "=?UTF-8?Q?S=C3=B8ren_Berg_Glasius?=",
+         "Paul King",
+         "Paul King",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Russel Winder",
+         "balachandran",
+         "Keegan Witt"
+      ]
+   },
+   {
+      "name": "balachandran",
+      "imports": [
+         "Pascal Schumacher"
+      ]
+   },
+   {
+      "name": "Guillaume Laforge",
+      "imports": [
+         "Keegan Witt",
+         "Jochen Theodorou",
+         "Keegan Witt",
+         "KARR, DAVID"
+      ]
+   },
+   {
+      "name": "Russel Winder",
+      "imports": [
+         "Pascal Schumacher",
+         "Keegan Witt"
+      ]
+   },
+   {
+      "name": "Henrik Martin",
+      "imports": [
+         "Steve Amerige",
+         "Jeff Adamson",
+         "Steve Amerige"
+      ]
+   },
+   {
+      "name": "KARR, DAVID",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+      "imports": [
+         "Martin Lukas",
+         "Remi Forax",
+         "Pascal Schumacher",
+         "Pascal Schumacher",
+         "Pascal Schumacher",
+         "Paul King",
+         "Keegan Witt",
+         "Russel Winder",
+         "Jochen Theodorou",
+         "Pascal Schumacher",
+         "Keegan Witt"
+      ]
+   },
+   {
+      "name": "Martin Lukas",
+      "imports": [
+         "Jochen Theodorou"
+      ]
+   },
+   {
+      "name": "Jeff Adamson",
+      "imports": [
+         "Henrik Martin",
+         "Henrik Martin"
+      ]
+   },
+   {
+      "name": "Steve Amerige",
+      "imports": [
+         "Henrik Martin",
+         "Jochen Theodorou"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?RW1tYW51ZWwgTMOpY2hhcm55?=",
+      "imports": [
+         "Paul King",
+         "Paul King"
+      ]
+   },
+   {
+      "name": "Andrew Bayer",
+      "imports": []
+   },
+   {
+      "name": "Alexander Veit",
+      "imports": [
+         "Pascal Schumacher"
+      ]
+   },
+   {
+      "name": "Keegan Witt",
+      "imports": [
+         "Guillaume Laforge",
+         "Martin Lukas",
+         "Pascal Schumacher",
+         "Jochen Theodorou",
+         "Henrik Martin",
+         "=?UTF-8?Q?Esteban_G=C3=ADnez?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "=?utf-8?Q?Jesper_Steen_M=C3=B8ller?=",
+         "Christophe Henry"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Esteban_G=C3=ADnez?=",
+      "imports": []
+   },
+   {
+      "name": "Christophe Henry",
+      "imports": []
+   },
+   {
+      "name": "Jochen Theodorou",
+      "imports": [
+         "Martin Lukas",
+         "Remi Forax",
+         "Keegan Witt",
+         "Keegan Witt",
+         "Paul King",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Steve Amerige",
+         "=?UTF-8?Q?Esteban_G=C3=ADnez?="
+      ]
+   },
+   {
+      "name": "Paul King",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Pascal Schumacher",
+         "Keegan Witt",
+         "Keegan Witt",
+         "Jochen Theodorou",
+         "Andrew Bayer"
+      ]
+   },
+   {
+      "name": "Remi Forax",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?="
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?S=C3=B8ren_Berg_Glasius?=",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?="
+      ]
+   }
+]

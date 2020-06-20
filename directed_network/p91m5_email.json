@@ -1,0 +1,451 @@
+[
+   {
+      "name": "=?utf-8?Q?=C5=81ukasz_Dywicki_=28Resolved=29_=28JIRA=29?=",
+      "imports": [
+         "=?utf-8?Q?=C5=81ukasz_Dywicki_=28Created=29_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Ken Finnigan (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Gerhard Petracek (Updated) (JIRA)",
+      "imports": [
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Jason Porter (Created) (JIRA)",
+         "Dan Allen (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Jason Porter (Created) (JIRA)",
+         "Jason Porter (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Shane Bryzak (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Mark Struberg (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Matt Benson",
+      "imports": [
+         "Jason Porter"
+      ]
+   },
+   {
+      "name": "Jason Porter (Resolved) (JIRA)",
+      "imports": [
+         "Jason Porter (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Gerhard Petracek (Resolved) (JIRA)",
+      "imports": [
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Lincoln Baxter III (Created) (JIRA)",
+         "Jason Porter (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?=C5=81ukasz_Dywicki_=28Updated=29_=28JIRA=29?=",
+      "imports": [
+         "=?utf-8?Q?=C5=81ukasz_Dywicki_=28Created=29_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "Pete Muir",
+         "Jason Porter",
+         "Gerhard Petracek",
+         "Gerhard Petracek",
+         "Gerhard Petracek",
+         "Jason Porter",
+         "Stuart Douglas",
+         "Pete Muir",
+         "Pete Muir"
+      ]
+   },
+   {
+      "name": "Ken Finnigan (Resolved) (JIRA)",
+      "imports": [
+         "Ken Finnigan (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Romain Manni-Bucau",
+      "imports": [
+         "Gerhard Petracek"
+      ]
+   },
+   {
+      "name": "Gerhard Petracek (Reopened) (JIRA)",
+      "imports": [
+         "Lincoln Baxter III (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?=C5=81ukasz_Dywicki_=28Created=29_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "=?iso-8859-2?Q?=A3ukasz_Dywicki?=",
+      "imports": [
+         "Gerhard Petracek",
+         "Antoine Sabot-Durand",
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "Gerhard Petracek",
+      "imports": [
+         "Jason Porter",
+         "Pete Muir",
+         "Ken Finnigan",
+         "Jason Porter",
+         "Bruno Oliveira",
+         "Bruno Oliveira",
+         "Bruno Oliveira",
+         "Bruno Oliveira",
+         "Nicklas Karlsson",
+         "=?iso-8859-2?Q?=A3ukasz_Dywicki?=",
+         "Nicklas Karlsson",
+         "Bruno Oliveira",
+         "Christian Kaltepoth",
+         "Christian Kaltepoth",
+         "Marek Posolda",
+         "Shane Bryzak",
+         "Shane Bryzak",
+         "Marius Bogoevici",
+         "Boleslaw Dawidowicz",
+         "Jason Porter"
+      ]
+   },
+   {
+      "name": "Antoine Sabot-Durand",
+      "imports": [
+         "Cody Lerum",
+         "Pete Muir"
+      ]
+   },
+   {
+      "name": "Lincoln Baxter III (Resolved) (JIRA)",
+      "imports": [
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Mehdi Heidarzadeh",
+      "imports": [
+         "Jason Porter",
+         "Shane Bryzak",
+         "Christian Kaltepoth"
+      ]
+   },
+   {
+      "name": "Marius Bogoevici",
+      "imports": []
+   },
+   {
+      "name": "Pete Muir",
+      "imports": [
+         "Mark Struberg",
+         "Bruno Oliveira",
+         "Gerhard Petracek",
+         "Nicklas Karlsson",
+         "Gerhard Petracek"
+      ]
+   },
+   {
+      "name": "Gerhard Petracek (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ivo Maixner (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Darran Lofthouse",
+      "imports": []
+   },
+   {
+      "name": "Stuart Douglas",
+      "imports": [
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "Jason Porter",
+      "imports": [
+         "Pete Muir",
+         "Lincoln Baxter, III",
+         "Gerhard Petracek",
+         "Darran Lofthouse",
+         "Bruno Oliveira",
+         "Mark Struberg",
+         "Gerhard Petracek (Updated) (JIRA)"
+      ]
+   },
+   {
+      "name": "Gerhard Petracek (Assigned) (JIRA)",
+      "imports": [
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Lincoln Baxter III (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Cody Lerum",
+      "imports": [
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Christian Kaltepoth",
+      "imports": [
+         "Marek Posolda",
+         "Cody Lerum",
+         "Gerhard Petracek"
+      ]
+   },
+   {
+      "name": "Lincoln Baxter, III",
+      "imports": [
+         "Bruno Oliveira",
+         "Jason Porter"
+      ]
+   },
+   {
+      "name": "Shane Bryzak",
+      "imports": [
+         "Bruno Oliveira",
+         "Marek Posolda",
+         "Marek Posolda",
+         "Marek Posolda",
+         "Gerhard Petracek",
+         "Marek Posolda",
+         "Marek Posolda",
+         "Marek Posolda",
+         "Marek Posolda"
+      ]
+   },
+   {
+      "name": "Dan Allen (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jay Balunas",
+      "imports": [
+         "Pete Muir"
+      ]
+   },
+   {
+      "name": "Gerhard Petracek (Commented) (JIRA)",
+      "imports": [
+         "Ken Finnigan (Created) (JIRA)",
+         "=?utf-8?Q?=C5=81ukasz_Dywicki_=28Created=29_=28JIRA=29?=",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Ivo Maixner (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Gerhard Petracek (JIRA)",
+      "imports": [
+         "Jason Porter (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Romain Manni-Bucau (JIRA)"
+      ]
+   },
+   {
+      "name": "Bruno Oliveira",
+      "imports": [
+         "Gerhard Petracek",
+         "Mark Struberg",
+         "Jason Porter",
+         "Gerhard Petracek",
+         "Shane Bryzak",
+         "Shane Bryzak",
+         "Pete Muir"
+      ]
+   },
+   {
+      "name": "Boleslaw Dawidowicz",
+      "imports": [
+         "Marek Posolda",
+         "Shane Bryzak",
+         "Shane Bryzak",
+         "Marek Posolda",
+         "Marek Posolda"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "Ken Finnigan",
+      "imports": [
+         "Mark Struberg",
+         "Gerhard Petracek"
+      ]
+   },
+   {
+      "name": "Fabien Marsaud",
+      "imports": [
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "Lincoln Baxter III (Commented) (JIRA)",
+      "imports": [
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Mark Struberg (Updated) (JIRA)",
+      "imports": [
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Romain Manni-Bucau (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jason Porter (JIRA)",
+      "imports": [
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (JIRA)",
+         "Jason Porter (Created) (JIRA)",
+         "Mark Struberg (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Marek Posolda",
+      "imports": [
+         "Shane Bryzak",
+         "Darran Lofthouse",
+         "Shane Bryzak",
+         "Shane Bryzak",
+         "Christian Kaltepoth",
+         "Shane Bryzak",
+         "Shane Bryzak",
+         "Boleslaw Dawidowicz",
+         "Shane Bryzak",
+         "Shane Bryzak"
+      ]
+   },
+   {
+      "name": "Jason Porter (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Mark Struberg (Resolved) (JIRA)",
+      "imports": [
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Mark Struberg (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)",
+         "Gerhard Petracek (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Shane Bryzak (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jason Porter (Commented) (JIRA)",
+      "imports": [
+         "Gerhard Petracek (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Nicklas Karlsson",
+      "imports": [
+         "Gerhard Petracek",
+         "Mehdi Heidarzadeh"
+      ]
+   },
+   {
+      "name": "Lincoln Baxter III (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Mark Struberg (JIRA)",
+      "imports": [
+         "Gerhard Petracek (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Mark Struberg (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Gerhard Petracek (Issue Comment Edited) (JIRA)",
+      "imports": [
+         "=?utf-8?Q?=C5=81ukasz_Dywicki_=28Created=29_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Paul Dijou",
+      "imports": [
+         "Boleslaw Dawidowicz"
+      ]
+   }
+]

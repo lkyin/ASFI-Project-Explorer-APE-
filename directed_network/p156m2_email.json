@@ -1,0 +1,155 @@
+[
+   {
+      "name": "Arje Cahn",
+      "imports": []
+   },
+   {
+      "name": "Sami Siren",
+      "imports": [
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Shalin Shekhar Mangar",
+      "imports": [
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Robert Muir",
+      "imports": [
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Sami Siren (JIRA)",
+      "imports": [
+         "Karl Wright (JIRA)"
+      ]
+   },
+   {
+      "name": "Mark Miller",
+      "imports": [
+         "Grant Ingersoll"
+      ]
+   },
+   {
+      "name": "Robert Muir (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Karl Wright",
+      "imports": [
+         "Grant Ingersoll",
+         "Grant Ingersoll",
+         "Grant Ingersoll",
+         "Grant Ingersoll",
+         "Grant Ingersoll",
+         "Shalin Shekhar Mangar",
+         "Grant Ingersoll",
+         "Grant Ingersoll",
+         "Grant Ingersoll",
+         "Grant Ingersoll",
+         "Grant Ingersoll",
+         "Grant Ingersoll",
+         "Grant Ingersoll",
+         "Grant Ingersoll",
+         "=?UTF-8?B?THVrw6HFoSBWbMSNZWs=?=",
+         "Mark Miller",
+         "=?UTF-8?B?THVrw6HFoSBWbMSNZWs=?=",
+         "Ralph Benjamin Ruijs",
+         "Grant Ingersoll",
+         "=?UTF-8?B?THVrw6HFoSBWbMSNZWs=?="
+      ]
+   },
+   {
+      "name": "Karl Wright (JIRA)",
+      "imports": [
+         "Robert Muir (JIRA)",
+         "Robert Muir (JIRA)",
+         "Robert Muir (JIRA)"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?THVrw6HFoSBWbMSNZWs=?=",
+      "imports": [
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Grant Ingersoll",
+      "imports": [
+         "Arje Cahn",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Jukka Zitting",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Otis Gospodnetic (JIRA)",
+      "imports": [
+         "Karl Wright (JIRA)"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Ralph Benjamin Ruijs",
+      "imports": [
+         "Karl Wright",
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Oleg Kalnichevski (JIRA)",
+      "imports": [
+         "Karl Wright (JIRA)"
+      ]
+   },
+   {
+      "name": "Simon Willnauer",
+      "imports": [
+         "Karl Wright",
+         "Karl Wright",
+         "Grant Ingersoll",
+         "Sami Siren"
+      ]
+   },
+   {
+      "name": "Erik Hatcher (JIRA)",
+      "imports": [
+         "Karl Wright (JIRA)"
+      ]
+   }
+]

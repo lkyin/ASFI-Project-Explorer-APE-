@@ -1,0 +1,65 @@
+[
+   {
+      "name": "Andreas Neumann",
+      "imports": [
+         "Steve Loughran",
+         "Henry Saputra",
+         "Srinivas Reddy Kancharla"
+      ]
+   },
+   {
+      "name": "Terence Yim",
+      "imports": [
+         "Steve Loughran",
+         "Erick Tryzelaar",
+         "Erick Tryzelaar",
+         "Peter Grman"
+      ]
+   },
+   {
+      "name": "Srinivas Reddy Kancharla",
+      "imports": [
+         "Gary Helmling",
+         "Gary Helmling",
+         "Terence Yim",
+         "Andreas Neumann"
+      ]
+   },
+   {
+      "name": "Peter Grman",
+      "imports": [
+         "Terence Yim"
+      ]
+   },
+   {
+      "name": "Gary Helmling",
+      "imports": [
+         "Srinivas Reddy Kancharla",
+         "Srinivas Reddy Kancharla",
+         "=?utf-8?B?SGVuZHJpayBMw7xja2UtVGlla2U=?="
+      ]
+   },
+   {
+      "name": "Henry Saputra",
+      "imports": [
+         "Andreas Neumann"
+      ]
+   },
+   {
+      "name": "Steve Loughran",
+      "imports": [
+         "Andreas Neumann",
+         "Terence Yim"
+      ]
+   },
+   {
+      "name": "=?utf-8?B?SGVuZHJpayBMw7xja2UtVGlla2U=?=",
+      "imports": []
+   },
+   {
+      "name": "Erick Tryzelaar",
+      "imports": [
+         "Terence Yim"
+      ]
+   }
+]

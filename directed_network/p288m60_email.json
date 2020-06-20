@@ -1,0 +1,12 @@
+[
+   {
+      "name": "Apache Jenkins Server",
+      "imports": []
+   },
+   {
+      "name": "Svante Schubert",
+      "imports": [
+         "Apache Jenkins Server"
+      ]
+   }
+]

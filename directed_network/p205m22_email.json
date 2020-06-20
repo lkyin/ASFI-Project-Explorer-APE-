@@ -1,0 +1,49 @@
+[
+   {
+      "name": "Felix Meschberger",
+      "imports": [
+         "Carsten Ziegeler"
+      ]
+   },
+   {
+      "name": "Craig L Russell",
+      "imports": [
+         "Carsten Ziegeler"
+      ]
+   },
+   {
+      "name": "Philipp Koch",
+      "imports": [
+         "Carsten Ziegeler"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Carsten Ziegeler"
+      ]
+   },
+   {
+      "name": "Carsten Ziegeler",
+      "imports": []
+   },
+   {
+      "name": "Jeremias Maerki",
+      "imports": [
+         "Carsten Ziegeler"
+      ]
+   },
+   {
+      "name": "Holger Veltrup",
+      "imports": [
+         "Charles Matthew Chen"
+      ]
+   },
+   {
+      "name": "Charles Matthew Chen",
+      "imports": [
+         "Carsten Ziegeler",
+         "Holger Veltrup"
+      ]
+   }
+]

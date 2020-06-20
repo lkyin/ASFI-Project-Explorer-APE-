@@ -1,0 +1,147 @@
+[
+   {
+      "name": "Marcel Reutegger (JIRA)",
+      "imports": [
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)"
+      ]
+   },
+   {
+      "name": "Angela Schreiber",
+      "imports": [
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "David Nuescheler",
+      "imports": [
+         "julien viet",
+         "Angela Schreiber",
+         "Michael Wechner",
+         "Marcel Reutegger",
+         "Paul Russell",
+         "Gianugo Rabellino",
+         "julien viet",
+         "Dominique Pfister",
+         "Stefan Guggisberg",
+         "Dominique Pfister"
+      ]
+   },
+   {
+      "name": "Andreas Hartmann",
+      "imports": [
+         "Michael Wechner"
+      ]
+   },
+   {
+      "name": "Paul Russell",
+      "imports": [
+         "Roy T. Fielding",
+         "Andreas Hartmann",
+         "Roy T. Fielding",
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "Gianugo Rabellino",
+      "imports": [
+         "Stefan Guggisberg"
+      ]
+   },
+   {
+      "name": "Dominique Pfister",
+      "imports": [
+         "julien viet",
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "Andrew Savory",
+      "imports": [
+         "Roy T. Fielding"
+      ]
+   },
+   {
+      "name": "Rolf Kulemann",
+      "imports": [
+         "Andrew Savory",
+         "Roy T. Fielding",
+         "Michael Wechner",
+         "Michael Wechner",
+         "Michael Wechner"
+      ]
+   },
+   {
+      "name": "Felix Meschberger (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Stefan Guggisberg",
+      "imports": [
+         "julien viet",
+         "Michael Wechner",
+         "Rolf Kulemann",
+         "julien viet",
+         "julien viet"
+      ]
+   },
+   {
+      "name": "Marcel Reutegger",
+      "imports": [
+         "Roy T. Fielding",
+         "Roy T. Fielding",
+         "Roy T. Fielding",
+         "Tobias Strasser",
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "Roy T. Fielding",
+      "imports": [
+         "Michael Wechner",
+         "Marcel Reutegger",
+         "Paul Russell",
+         "Michael Wechner",
+         "Andrew Savory",
+         "Paul Russell"
+      ]
+   },
+   {
+      "name": "Michael Wechner",
+      "imports": [
+         "Stefan Guggisberg",
+         "Stefan Guggisberg",
+         "Roy T. Fielding",
+         "Roy T. Fielding",
+         "Paul Russell",
+         "Roy T. Fielding",
+         "Andrew Savory",
+         "Paul Russell",
+         "Rolf Kulemann"
+      ]
+   },
+   {
+      "name": "julien viet",
+      "imports": [
+         "David Nuescheler",
+         "J.Alkjaer",
+         "Stefan Guggisberg",
+         "Stefan Guggisberg",
+         "Stefan Guggisberg",
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "J.Alkjaer",
+      "imports": [
+         "julien viet"
+      ]
+   },
+   {
+      "name": "Tobias Strasser",
+      "imports": [
+         "Marcel Reutegger"
+      ]
+   }
+]

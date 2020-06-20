@@ -1,0 +1,130 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Jukka Zitting",
+         "Jukka Zitting",
+         "Jukka Zitting",
+         "Sami Siren",
+         "Sami Siren"
+      ]
+   },
+   {
+      "name": "Jukka Zitting (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Mats_Nor=C3=A9n_=28JIRA=29?=",
+         "Rida Benjelloun (JIRA)",
+         "=?utf-8?Q?Mats_Nor=C3=A9n_=28JIRA=29?=",
+         "Niall Pemberton (JIRA)",
+         "Rida Benjelloun (JIRA)",
+         "=?utf-8?Q?Mats_Nor=C3=A9n_=28JIRA=29?=",
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Chris A. Mattmann (JIRA)",
+         "Chris A. Mattmann (JIRA)"
+      ]
+   },
+   {
+      "name": "Dave Meikle (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Mats_Nor=C3=A9n_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Rida Benjelloun (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?Mats_Nor=C3=A9n_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Chris Mattmann",
+      "imports": [
+         "Jukka Zitting (JIRA)"
+      ]
+   },
+   {
+      "name": "Sami Siren",
+      "imports": [
+         "Jukka Zitting",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Niall Pemberton (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Chris A. Mattmann (JIRA)",
+      "imports": [
+         "James OConnor (JIRA)"
+      ]
+   },
+   {
+      "name": "James OConnor (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?J=E9r=F4me_Charron?=",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Rida Benjelloun",
+      "imports": [
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Niall Pemberton",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz",
+         "Chris Mattmann",
+         "Chris Mattmann",
+         "Bertrand Delacretaz",
+         "Litrik De Roy",
+         "Litrik De Roy"
+      ]
+   },
+   {
+      "name": "Thilo Goetz",
+      "imports": [
+         "Niall Pemberton"
+      ]
+   },
+   {
+      "name": "Jeremias Maerki",
+      "imports": [
+         "Litrik De Roy"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-2?Q?Antoni_My=B3ka?=",
+      "imports": []
+   },
+   {
+      "name": "Niall Pemberton",
+      "imports": [
+         "=?ISO-8859-2?Q?Antoni_My=B3ka?=",
+         "Thilo Goetz"
+      ]
+   },
+   {
+      "name": "Litrik De Roy",
+      "imports": [
+         "Jukka Zitting",
+         "Jukka Zitting",
+         "Jeremias Maerki"
+      ]
+   }
+]

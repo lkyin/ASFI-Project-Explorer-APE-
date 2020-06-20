@@ -1,0 +1,19 @@
+[
+   {
+      "name": "Jelmer Kuperus (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Harry Metske (JIRA)",
+      "imports": [
+         "Jelmer Kuperus (JIRA)",
+         "Jelmer Kuperus (JIRA)"
+      ]
+   },
+   {
+      "name": "Janne Jalkanen (JIRA)",
+      "imports": [
+         "Jelmer Kuperus (JIRA)"
+      ]
+   }
+]

@@ -1,0 +1,169 @@
+[
+   {
+      "name": "alt36",
+      "imports": []
+   },
+   {
+      "name": "Hiroki Niinuma",
+      "imports": []
+   },
+   {
+      "name": "Bruno Savard",
+      "imports": [
+         "Nick Couchman"
+      ]
+   },
+   {
+      "name": "Mike Jumper",
+      "imports": [
+         "Hiroki Niinuma",
+         "Robin James",
+         "Robin James"
+      ]
+   },
+   {
+      "name": "gamlerhart",
+      "imports": []
+   },
+   {
+      "name": "mike-jumper",
+      "imports": [
+         "alt36",
+         "alt36",
+         "alt36",
+         "alt36",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "gamlerhart",
+         "gamlerhart",
+         "gamlerhart",
+         "gamlerhart",
+         "gamlerhart",
+         "gamlerhart",
+         "gamlerhart",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "necouchman",
+         "dborth"
+      ]
+   },
+   {
+      "name": "dborth",
+      "imports": []
+   },
+   {
+      "name": "Frode Langelo",
+      "imports": [
+         "Mike Jumper"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Jean-Baptiste_Onofr=c3=a9?=",
+      "imports": [
+         "Mike Jumper"
+      ]
+   },
+   {
+      "name": "necouchman",
+      "imports": []
+   },
+   {
+      "name": "Robin James",
+      "imports": []
+   },
+   {
+      "name": "Nick Couchman",
+      "imports": [
+         "Mike Jumper",
+         "Bruno Savard"
+      ]
+   },
+   {
+      "name": "jmuehlner",
+      "imports": [
+         "mike-jumper",
+         "mike-jumper",
+         "necouchman",
+         "necouchman",
+         "necouchman"
+      ]
+   },
+   {
+      "name": "asfgit",
+      "imports": [
+         "mike-jumper",
+         "mike-jumper",
+         "mike-jumper",
+         "mike-jumper",
+         "mike-jumper",
+         "necouchman",
+         "mike-jumper",
+         "gamlerhart",
+         "necouchman",
+         "mike-jumper",
+         "mike-jumper",
+         "mike-jumper",
+         "necouchman",
+         "necouchman",
+         "mike-jumper",
+         "mike-jumper",
+         "mike-jumper",
+         "mike-jumper",
+         "mike-jumper",
+         "mike-jumper",
+         "mike-jumper",
+         "mike-jumper",
+         "mike-jumper",
+         "mike-jumper",
+         "dborth"
+      ]
+   },
+   {
+      "name": "Jim Sullivan",
+      "imports": [
+         "Nick Couchman"
+      ]
+   },
+   {
+      "name": "James Muehlner",
+      "imports": [
+         "Frode Langelo"
+      ]
+   }
+]

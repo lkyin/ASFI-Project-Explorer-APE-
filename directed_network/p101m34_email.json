@@ -1,0 +1,64 @@
+[
+   {
+      "name": "Ghislain Geffroy (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Apache Hudson Server",
+      "imports": []
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+      "imports": [
+         "Francis De Brabandere",
+         "no-reply"
+      ]
+   },
+   {
+      "name": "Francis De Brabandere",
+      "imports": [
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "Apache Hudson Server",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?="
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Rainer_D=C3=B6bele_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Francis De Brabandere (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Rainer_D=C3=B6bele_=28JIRA=29?=",
+         "Eric Cournarie (JIRA)",
+         "Eric Cournarie (JIRA)",
+         "Eric Cournarie (JIRA)",
+         "Ghislain Geffroy (JIRA)",
+         "Ghislain Geffroy (JIRA)",
+         "Eric Cournarie (JIRA)",
+         "Ghislain Geffroy (JIRA)",
+         "jazia jaballah (JIRA)",
+         "jazia jaballah (JIRA)",
+         "jazia jaballah (JIRA)",
+         "=?utf-8?Q?Rainer_D=C3=B6bele_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Martijn Dashorst",
+      "imports": [
+         "Francis De Brabandere"
+      ]
+   },
+   {
+      "name": "jazia jaballah (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Eric Cournarie (JIRA)",
+      "imports": []
+   }
+]

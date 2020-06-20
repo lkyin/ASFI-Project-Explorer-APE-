@@ -1,0 +1,12 @@
+[
+   {
+      "name": "Matthieu Morel",
+      "imports": []
+   },
+   {
+      "name": "Joe Brockmeier",
+      "imports": [
+         "Matthieu Morel"
+      ]
+   }
+]

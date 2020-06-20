@@ -1,0 +1,100 @@
+[
+   {
+      "name": "Dan Haywood",
+      "imports": [
+         "Kevin Meyer",
+         "Gordon, Bruce B - GMRT-GET",
+         "Mohammad Nour El-Din",
+         "Mark Struberg",
+         "Robert Matthews",
+         "Robert Matthews",
+         "Kevin Meyer - KMZ",
+         "Mohammad Nour El-Din",
+         "Mohammad Nour El-Din",
+         "Mark Struberg",
+         "Mohammad Nour El-Din",
+         "Mohammad Nour El-Din",
+         "Mohammad Nour El-Din",
+         "Gordon, Bruce B - GMRT-GET",
+         "Mohammad Nour El-Din",
+         "Mohammad Nour El-Din"
+      ]
+   },
+   {
+      "name": "Christian Schuhegger",
+      "imports": []
+   },
+   {
+      "name": "Kevin Meyer",
+      "imports": [
+         "Mohammad Nour El-Din"
+      ]
+   },
+   {
+      "name": "Gordon, Bruce B - GMRT-GET",
+      "imports": [
+         "Dan Haywood"
+      ]
+   },
+   {
+      "name": "Benson Margulies",
+      "imports": [
+         "dan haywood",
+         "Siegfried Goeschl"
+      ]
+   },
+   {
+      "name": "Kevin Meyer - KMZ",
+      "imports": [
+         "Mohammad Nour El-Din",
+         "Dan Haywood",
+         "Dan Haywood",
+         "Dan Haywood",
+         "Dan Haywood"
+      ]
+   },
+   {
+      "name": "Siegfried Goeschl",
+      "imports": [
+         "Dan Haywood"
+      ]
+   },
+   {
+      "name": "Robert Matthews",
+      "imports": [
+         "Dan Haywood",
+         "Dan Haywood",
+         "Dan Haywood"
+      ]
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "Dan Haywood",
+         "Christian Schuhegger",
+         "Dan Haywood"
+      ]
+   },
+   {
+      "name": "Mohammad Nour El-Din",
+      "imports": [
+         "dan haywood",
+         "Benson Margulies",
+         "Dan Haywood",
+         "dan haywood",
+         "Dan Haywood",
+         "Dan Haywood",
+         "Dan Haywood",
+         "Dan Haywood",
+         "Dan Haywood",
+         "Mark Struberg",
+         "Dan Haywood"
+      ]
+   },
+   {
+      "name": "dan haywood",
+      "imports": [
+         "Mohammad Nour El-Din"
+      ]
+   }
+]

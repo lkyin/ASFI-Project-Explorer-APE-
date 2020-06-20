@@ -1,0 +1,54 @@
+[
+   {
+      "name": "Brian LeRoux",
+      "imports": [
+         "Michael Brooks"
+      ]
+   },
+   {
+      "name": "Filip Maj",
+      "imports": [
+         "Brent Lintner",
+         "Brent Lintner"
+      ]
+   },
+   {
+      "name": "Christian Grobmeier",
+      "imports": [
+         "Gord Tanner",
+         "Ken Wallis"
+      ]
+   },
+   {
+      "name": "Brent Lintner",
+      "imports": [
+         "Gord Tanner",
+         "Damon Oehlman",
+         "Mayr Gregor"
+      ]
+   },
+   {
+      "name": "Ken Wallis",
+      "imports": []
+   },
+   {
+      "name": "Mayr Gregor",
+      "imports": []
+   },
+   {
+      "name": "Michael Brooks",
+      "imports": [
+         "Brent Lintner"
+      ]
+   },
+   {
+      "name": "Gord Tanner",
+      "imports": []
+   },
+   {
+      "name": "Damon Oehlman",
+      "imports": [
+         "Brent Lintner"
+      ]
+   }
+]

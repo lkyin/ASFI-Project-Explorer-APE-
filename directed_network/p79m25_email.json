@@ -1,0 +1,120 @@
+[
+   {
+      "name": "Daniel Spicar",
+      "imports": [
+         "Tommaso Teofili",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Daniel Spicar"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili (Reopened) (JIRA)",
+      "imports": [
+         "Tommaso Teofili (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28Closed=29_=28JIRA=29?=",
+      "imports": [
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28Created=29_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Daniel Spicar (Resolved) (JIRA)",
+      "imports": [
+         "Daniel Spicar (Created) (JIRA)",
+         "Daniel Spicar (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili (Resolved) (JIRA)",
+      "imports": [
+         "Tommaso Teofili (Created) (JIRA)",
+         "Tommaso Teofili (Created) (JIRA)",
+         "Tommaso Teofili (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler",
+      "imports": []
+   },
+   {
+      "name": "Daniel Spicar (Commented) (JIRA)",
+      "imports": [
+         "Daniel Spicar (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28Created=29_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Florent ANDRE (Updated) (JIRA)",
+      "imports": [
+         "Florent ANDRE (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Florent ANDRE (Reopened) (JIRA)",
+      "imports": [
+         "Florent ANDRE (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Enrico Daga",
+      "imports": [
+         "Rupert Westenthaler",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Daniel Spicar (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Florent ANDRE (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+      "imports": [
+         "Enrico Daga",
+         "Tommaso Teofili",
+         "Tommaso Teofili",
+         "Daniel Spicar"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28Commented=29_=28JIRA=29?=",
+      "imports": [
+         "Florent ANDRE (Created) (JIRA)",
+         "Florent ANDRE (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Joern Kottmann (Commented) (JIRA)",
+      "imports": [
+         "Tommaso Teofili (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Florent ANDRE (Commented) (JIRA)",
+      "imports": [
+         "Florent ANDRE (Created) (JIRA)"
+      ]
+   }
+]

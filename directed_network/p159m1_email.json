@@ -1,0 +1,36 @@
+[
+   {
+      "name": "Tom White",
+      "imports": [
+         "Matei Zaharia",
+         "Matei Zaharia",
+         "Matei Zaharia"
+      ]
+   },
+   {
+      "name": "Matei Zaharia",
+      "imports": [
+         "no-reply",
+         "Ian Holsman",
+         "Tom White",
+         "Tom White",
+         "Tom White"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Andy Konwinski",
+      "imports": [
+         "Matei Zaharia"
+      ]
+   },
+   {
+      "name": "Ian Holsman",
+      "imports": [
+         "Matei Zaharia"
+      ]
+   }
+]

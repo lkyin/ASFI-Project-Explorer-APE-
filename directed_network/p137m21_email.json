@@ -1,0 +1,41 @@
+[
+   {
+      "name": "Hendrik Dev",
+      "imports": [
+         "Karl Grosse"
+      ]
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "Romain Manni-Bucau",
+         "Justin Mclean"
+      ]
+   },
+   {
+      "name": "Justin Mclean",
+      "imports": [
+         "rmannibucau",
+         "Romain Manni-Bucau",
+         "Romain Manni-Bucau",
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "rmannibucau",
+      "imports": []
+   },
+   {
+      "name": "Karl Grosse",
+      "imports": [
+         "Romain Manni-Bucau"
+      ]
+   },
+   {
+      "name": "Romain Manni-Bucau",
+      "imports": [
+         "Justin Mclean",
+         "Justin Mclean"
+      ]
+   }
+]

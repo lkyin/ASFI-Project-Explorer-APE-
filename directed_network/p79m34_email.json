@@ -1,0 +1,104 @@
+[
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Tsuyoshi Ito (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+      "imports": [
+         "Tommaso Teofili",
+         "Alessandro Adamou",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Daniel Spicar",
+         "Daniel Spicar",
+         "=?ISO-8859-1?Q?florent_andr=E9?=",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "Tsuy Ito",
+         "Tsuy Ito"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?florent_andr=E9?=",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler",
+      "imports": [
+         "=?ISO-8859-1?Q?Florent_Andr=E9?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Hasan"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Florent_Andr=E9?=",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler (JIRA)",
+      "imports": [
+         "Florent ANDRE (JIRA)"
+      ]
+   },
+   {
+      "name": "Hasan",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Tsuy Ito",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Florent ANDRE (JIRA)",
+      "imports": [
+         "Rupert Westenthaler (JIRA)"
+      ]
+   },
+   {
+      "name": "Andy Seaborne",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Alessandro Adamou",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Daniel Spicar",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   }
+]

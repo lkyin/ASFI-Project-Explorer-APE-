@@ -1,0 +1,212 @@
+[
+   {
+      "name": "Nick Sieger (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Tal Rotbart",
+      "imports": [
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Timo Rantalaiho (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "assaf",
+      "imports": []
+   },
+   {
+      "name": "john layton (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Matthieu Riou",
+      "imports": [
+         "Gilles Scokart",
+         "Assaf Arkin",
+         "Yoav Shapira",
+         "Gilles Scokart",
+         "Gilles Scokart",
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Gilles Scokart",
+      "imports": [
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Matthieu Riou",
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Jim Jagielski",
+      "imports": [
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Tomas Carlsson (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ville Peurala (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Alex Boisvert",
+      "imports": [
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Timo Rantalaiho",
+      "imports": [
+         "Victor Hugo Borja",
+         "Assaf Arkin",
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Tammo van Lessen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "vic.borja",
+      "imports": [
+         "assaf"
+      ]
+   },
+   {
+      "name": "Pekka Enberg (JIRA)",
+      "imports": [
+         "Timo Rantalaiho (JIRA)",
+         "Timo Rantalaiho (JIRA)",
+         "Timo Rantalaiho (JIRA)",
+         "Timo Rantalaiho (JIRA)"
+      ]
+   },
+   {
+      "name": "Scott Robertson (JIRA)",
+      "imports": [
+         "Assaf Arkin (JIRA)"
+      ]
+   },
+   {
+      "name": "Victor Hugo Borja",
+      "imports": [
+         "Tomas Carlsson",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Alexis Midon",
+      "imports": [
+         "Tal Rotbart",
+         "Yoav Shapira"
+      ]
+   },
+   {
+      "name": "Daniel Spiewak (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Assaf Arkin",
+      "imports": [
+         "assaf",
+         "vic.borja",
+         "Tomas Carlsson",
+         "Tomas Carlsson",
+         "Matthieu Riou",
+         "Timo Rantalaiho",
+         "Shane Witbeck",
+         "Timo Rantalaiho",
+         "Matthieu Riou",
+         "Alexis Midon",
+         "Tal Rotbart",
+         "Gilles Scokart",
+         "Yoav Shapira"
+      ]
+   },
+   {
+      "name": "Nicolas Modrzyk (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Erik Hatcher",
+      "imports": [
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Tomas Carlsson",
+      "imports": []
+   },
+   {
+      "name": "Thomas Marek (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "A Jabbar Azam (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Shane Witbeck",
+      "imports": []
+   },
+   {
+      "name": "Yoav Shapira",
+      "imports": [
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Victor Hugo Borja (JIRA)",
+      "imports": [
+         "Assaf Arkin (JIRA)",
+         "john layton (JIRA)",
+         "Nicolas Modrzyk (JIRA)",
+         "Nick Sieger (JIRA)",
+         "Tomas Carlsson (JIRA)",
+         "Tomas Carlsson (JIRA)",
+         "Tomas Carlsson (JIRA)",
+         "Tomas Carlsson (JIRA)",
+         "Tomas Carlsson (JIRA)"
+      ]
+   },
+   {
+      "name": "Assaf Arkin (JIRA)",
+      "imports": [
+         "Yanko Ivanov (JIRA)",
+         "Tomas Carlsson (JIRA)",
+         "Yanko Ivanov (JIRA)",
+         "Yanko Ivanov (JIRA)",
+         "Thomas Marek (JIRA)",
+         "A Jabbar Azam (JIRA)",
+         "Nick Sieger (JIRA)",
+         "Tammo van Lessen (JIRA)",
+         "Tammo van Lessen (JIRA)",
+         "Ville Peurala (JIRA)",
+         "Tammo van Lessen (JIRA)",
+         "Daniel Spiewak (JIRA)",
+         "Timo Rantalaiho (JIRA)",
+         "Timo Rantalaiho (JIRA)",
+         "Timo Rantalaiho (JIRA)"
+      ]
+   },
+   {
+      "name": "Yanko Ivanov (JIRA)",
+      "imports": []
+   }
+]

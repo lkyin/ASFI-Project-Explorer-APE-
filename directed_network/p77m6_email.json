@@ -1,0 +1,50 @@
+[
+   {
+      "name": "Gabriele Columbro",
+      "imports": [
+         "Jukka Zitting",
+         "Florent Guillaume",
+         "Jukka Zitting",
+         "Florent Guillaume",
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Florent Guillaume",
+      "imports": [
+         "Gabriele Columbro",
+         "Gabriele Columbro",
+         "Jukka Zitting",
+         "Jason Tesser"
+      ]
+   },
+   {
+      "name": "Stefane Fermigier",
+      "imports": [
+         "Jason Tesser",
+         "Jason Tesser"
+      ]
+   },
+   {
+      "name": "Daniel Lichtenberger (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jason Tesser",
+      "imports": [
+         "Stefane Fermigier"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Gabriele Columbro"
+      ]
+   },
+   {
+      "name": "Florent Guillaume (JIRA)",
+      "imports": [
+         "Daniel Lichtenberger (JIRA)"
+      ]
+   }
+]

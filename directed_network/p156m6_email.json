@@ -1,0 +1,93 @@
+[
+   {
+      "name": "karl.wright",
+      "imports": [
+         "Grant Ingersoll",
+         "Mark Miller",
+         "Rohan.GPatil",
+         "Simon Willnauer",
+         "Jukka Zitting",
+         "Mark Miller",
+         "Jack Krupansky"
+      ]
+   },
+   {
+      "name": "Simon Willnauer",
+      "imports": [
+         "karl.wright"
+      ]
+   },
+   {
+      "name": "Mark Miller",
+      "imports": [
+         "karl.wright",
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Karl Wright (JIRA)",
+      "imports": [
+         "Mark Miller (JIRA)",
+         "Mark Miller (JIRA)",
+         "Mark Miller (JIRA)",
+         "Mark Miller (JIRA)",
+         "Rohan G Patil (JIRA)",
+         "Rohan G Patil (JIRA)",
+         "Rohan G Patil (JIRA)",
+         "Rohan G Patil (JIRA)",
+         "Jack Krupansky (JIRA)",
+         "Jack Krupansky (JIRA)",
+         "Jack Krupansky (JIRA)"
+      ]
+   },
+   {
+      "name": "Mark Miller (JIRA)",
+      "imports": [
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Jack Krupansky (JIRA)"
+      ]
+   },
+   {
+      "name": "Grant Ingersoll",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Jack Krupansky (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": []
+   },
+   {
+      "name": "Rohan G Patil (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Rohan.GPatil",
+      "imports": [
+         "karl.wright",
+         "karl.wright",
+         "karl.wright"
+      ]
+   },
+   {
+      "name": "Jack Krupansky",
+      "imports": [
+         "karl.wright",
+         "karl.wright"
+      ]
+   },
+   {
+      "name": "Erik Hatcher (JIRA)",
+      "imports": [
+         "Karl Wright (JIRA)"
+      ]
+   }
+]

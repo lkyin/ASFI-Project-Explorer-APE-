@@ -1,0 +1,367 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Ross Gardler",
+         "Rupert Westenthaler",
+         "Fabian Christ",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "harish suvarna",
+      "imports": [
+         "Walter Kasper",
+         "Walter Kasper",
+         "Walter Kasper",
+         "Iavor Jelev",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "Walter Kasper",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Andrea Taurchini",
+      "imports": [
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "kritarth anand",
+      "imports": [
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Dave Butler",
+      "imports": [
+         "Adrian Gschwend",
+         "Adrian Gschwend",
+         "Fabian Christ"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+      "imports": [
+         "Rupert Westenthaler",
+         "Fabian Christ",
+         "Sebastian Schaffert"
+      ]
+   },
+   {
+      "name": "Anuj Kumar",
+      "imports": [
+         "kritarth anand"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Ivo_Luka=C4=8D?=",
+      "imports": []
+   },
+   {
+      "name": "Walter Kasper",
+      "imports": [
+         "harish suvarna",
+         "harish suvarna",
+         "harish suvarna",
+         "harish suvarna",
+         "harish suvarna",
+         "harish suvarna",
+         "Rupert Westenthaler",
+         "harish suvarna",
+         "harish suvarna",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "David Riccitelli (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Suat Gonul (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Apache Jenkins Server",
+      "imports": []
+   },
+   {
+      "name": "Fabian Christ (JIRA)",
+      "imports": [
+         "Suat Gonul (Created) (JIRA)",
+         "Alex Rodriguez Lopez (Created) (JIRA)",
+         "Fabian Christ (Created) (JIRA)",
+         "Fabian Christ (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Rupert Westenthaler",
+         "=?ISO-8859-1?B?TWlo4Wx5IEjpZGVy?=",
+         "Sebastian Schaffert"
+      ]
+   },
+   {
+      "name": "Alessandro Adamou",
+      "imports": [
+         "Melanie Reiplinger",
+         "Melanie Reiplinger",
+         "Melanie Reiplinger",
+         "Melanie Reiplinger",
+         "Bertrand Delacretaz",
+         "Melanie Reiplinger",
+         "Melanie Reiplinger",
+         "Melanie Reiplinger",
+         "Melanie Reiplinger",
+         "Melanie Reiplinger",
+         "Melanie Reiplinger",
+         "Melanie Reiplinger",
+         "Melanie Reiplinger",
+         "Melanie Reiplinger"
+      ]
+   },
+   {
+      "name": "Raspreet Kaur",
+      "imports": [
+         "Rupert Westenthaler",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Sebastian Schaffert",
+      "imports": [
+         "Fabian Christ",
+         "Tommaso Teofili",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Walter Kasper (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Melanie Reiplinger",
+      "imports": [
+         "Alessandro Adamou",
+         "Alessandro Adamou",
+         "Alessandro Adamou",
+         "Alessandro Adamou",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "Alessandro Adamou",
+         "Alessandro Adamou",
+         "Alessandro Adamou",
+         "Alessandro Adamou",
+         "Rupert Westenthaler",
+         "Suat Gonul",
+         "Suat Gonul",
+         "Alessandro Adamou",
+         "Alessandro Adamou"
+      ]
+   },
+   {
+      "name": "Fabian Christ (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?B?TWlo4Wx5IEjpZGVy?=",
+      "imports": [
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Ross Gardler",
+      "imports": [
+         "Fabian Christ",
+         "Fabian Christ"
+      ]
+   },
+   {
+      "name": "Suat Gonul",
+      "imports": [
+         "Alessandro Adamou",
+         "Fabian Christ",
+         "Melanie Reiplinger",
+         "Melanie Reiplinger",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Suat Gonul (JIRA)",
+      "imports": [
+         "Ali Anil Sinaci (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "David Riccitelli",
+      "imports": [
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Adrian Gschwend",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Fabian Christ",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Alessandro Adamou (JIRA)",
+      "imports": [
+         "Alessandro Adamou (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler",
+      "imports": [
+         "Walter Kasper",
+         "Fabian Christ",
+         "Fabian Christ",
+         "Fabian Christ",
+         "Melanie Reiplinger",
+         "Melanie Reiplinger",
+         "Adrian Gschwend",
+         "Fabian Christ",
+         "Adrian Gschwend",
+         "Andrea Taurchini",
+         "kritarth anand",
+         "David Riccitelli",
+         "Bertrand Delacretaz",
+         "Alessandro Adamou",
+         "Fabian Christ",
+         "Suat Gonul",
+         "David Riccitelli",
+         "David Riccitelli",
+         "David Riccitelli",
+         "David Riccitelli",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Sebastian Hellmann",
+         "Fabian Christ",
+         "Raspreet Kaur",
+         "harish suvarna",
+         "Raspreet Kaur",
+         "Walter Kasper",
+         "Tommaso Teofili",
+         "harish suvarna",
+         "harish suvarna",
+         "harish suvarna",
+         "harish suvarna",
+         "Ross Gardler",
+         "Alessandro Adamou"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?St=E9phane_Gamard?=",
+      "imports": [
+         "Adrian Gschwend"
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler (JIRA)",
+      "imports": [
+         "Suat Gonul (JIRA)",
+         "Rupert Westenthaler (Created) (JIRA)",
+         "Rupert Westenthaler (Created) (JIRA)",
+         "David Riccitelli (JIRA)",
+         "David Riccitelli (JIRA)",
+         "Walter Kasper (JIRA)"
+      ]
+   },
+   {
+      "name": "Iavor Jelev",
+      "imports": [
+         "Melanie Reiplinger",
+         "harish suvarna"
+      ]
+   },
+   {
+      "name": "Olivier Grisel",
+      "imports": [
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Sergio_Fern=C3=A1ndez_=28JIRA=29?=",
+      "imports": [
+         "Fabian Christ (JIRA)",
+         "Fabian Christ (JIRA)"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+      "imports": [
+         "Rupert Westenthaler (Created) (JIRA)",
+         "Rupert Westenthaler (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Peter Ansell (JIRA)",
+      "imports": [
+         "Fabian Christ (JIRA)"
+      ]
+   },
+   {
+      "name": "Ali Anil Sinaci (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Fabian Christ",
+      "imports": [
+         "Suat Gonul",
+         "Olivier Grisel",
+         "Rupert Westenthaler",
+         "=?UTF-8?Q?Ivo_Luka=C4=8D?=",
+         "Apache Jenkins Server",
+         "Dave Butler",
+         "=?UTF-8?B?U2VyZ2lvIEZlcm7DoW5kZXo=?=",
+         "Adrian Gschwend",
+         "Adrian Gschwend",
+         "Rupert Westenthaler",
+         "Alessandro Adamou",
+         "Suat Gonul",
+         "Rupert Westenthaler",
+         "Ross Gardler"
+      ]
+   },
+   {
+      "name": "Sebastian Hellmann",
+      "imports": [
+         "Rupert Westenthaler",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?U2VyZ2lvIEZlcm7DoW5kZXo=?=",
+      "imports": [
+         "Fabian Christ",
+         "Fabian Christ",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Alessandro Adamou (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Alex Rodriguez Lopez (Created) (JIRA)",
+      "imports": []
+   }
+]

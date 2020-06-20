@@ -1,0 +1,54 @@
+[
+   {
+      "name": "Niclas Hedhman",
+      "imports": [
+         "Wes McKean"
+      ]
+   },
+   {
+      "name": "Vincent Tence",
+      "imports": []
+   },
+   {
+      "name": "jira",
+      "imports": []
+   },
+   {
+      "name": "Cimballi",
+      "imports": [
+         "Wes McKean"
+      ]
+   },
+   {
+      "name": "Wes McKean",
+      "imports": []
+   },
+   {
+      "name": "directory-dev",
+      "imports": [
+         "jira"
+      ]
+   },
+   {
+      "name": "Alex Karasulu",
+      "imports": [
+         "Vincent Tence",
+         "Wes McKean",
+         "Wes McKean",
+         "Vincent Tence"
+      ]
+   },
+   {
+      "name": "Brett Porter",
+      "imports": [
+         "Wes McKean",
+         "Wes McKean"
+      ]
+   },
+   {
+      "name": "Nicola Ken Barozzi",
+      "imports": [
+         "Alex Karasulu"
+      ]
+   }
+]

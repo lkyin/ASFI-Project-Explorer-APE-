@@ -1,0 +1,359 @@
+[
+   {
+      "name": "Rupert Westenthaler (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Andrea Nuzzolese (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+      "imports": [
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "Olivier Grisel",
+         "Olivier Grisel",
+         "Olivier Grisel",
+         "Sebastian Germesin",
+         "Fabian Christ",
+         "Sebastian Germesin",
+         "Sebastian Germesin",
+         "Olivier Grisel"
+      ]
+   },
+   {
+      "name": "szabyg",
+      "imports": []
+   },
+   {
+      "name": "Rupert Westenthaler (Resolved) (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "Olivier Grisel (JIRA)",
+         "Rupert Westenthaler (JIRA)",
+         "Rupert Westenthaler (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Enrico Daga (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Szabolcs_Gr=FCnwald?=",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Andreas Gruber (Commented) (JIRA)",
+      "imports": [
+         "Andreas Gruber (JIRA)"
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler (JIRA)",
+      "imports": [
+         "Florent ANDRE (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)"
+      ]
+   },
+   {
+      "name": "Enrico Daga (Commented) (JIRA)",
+      "imports": [
+         "Enrico Daga (Created) (JIRA)",
+         "Andrea Nuzzolese (JIRA)",
+         "Fabian Christ (JIRA)"
+      ]
+   },
+   {
+      "name": "Olivier Grisel (Updated) (JIRA)",
+      "imports": [
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)"
+      ]
+   },
+   {
+      "name": "Fabian Christ (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28Commented=29_=28JIRA=29?=",
+      "imports": [
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Andreas Gruber",
+      "imports": [
+         "Olivier Grisel"
+      ]
+   },
+   {
+      "name": "srecko joksimovic",
+      "imports": [
+         "Rupert Westenthaler",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Alessandro Adamou (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ali Anil Sinaci (Updated) (JIRA)",
+      "imports": [
+         "Ali Anil Sinaci (Created) (JIRA)",
+         "Ali Anil Sinaci (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Sebastian Germesin",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler",
+      "imports": [
+         "Apache Jenkins Server",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Fabian Christ",
+         "Rupert Westenthaler",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Apache Jenkins Server",
+         "Rupert Westenthaler",
+         "Olivier Grisel",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Jo=E3o_Pedro_Oliveira?="
+      ]
+   },
+   {
+      "name": "Alessandro Adamou (Resolved) (JIRA)",
+      "imports": [
+         "Enrico Daga (JIRA)",
+         "Enrico Daga (JIRA)",
+         "Alessandro Adamou (Created) (JIRA)",
+         "Alessandro Adamou (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Enrico Daga (Resolved) (JIRA)",
+      "imports": [
+         "Andrea Nuzzolese (JIRA)"
+      ]
+   },
+   {
+      "name": "Enrico Daga (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ali Anil Sinaci (Resolved) (JIRA)",
+      "imports": [
+         "Ali Anil Sinaci (Created) (JIRA)",
+         "Ali Anil Sinaci (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+      "imports": [
+         "Suat Gonul (JIRA)",
+         "Suat Gonul (JIRA)",
+         "Suat Gonul (JIRA)"
+      ]
+   },
+   {
+      "name": "Florent ANDRE (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Alessandro Adamou (Closed) (JIRA)",
+      "imports": [
+         "Andrea Nuzzolese (JIRA)"
+      ]
+   },
+   {
+      "name": "Alessandro Adamou (Assigned) (JIRA)",
+      "imports": [
+         "Alessandro Adamou (JIRA)"
+      ]
+   },
+   {
+      "name": "Olivier Grisel (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Rupert Westenthaler (Assigned) (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Fabian Christ (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Olivier Grisel (JIRA)",
+      "imports": [
+         "Fabian Christ (JIRA)"
+      ]
+   },
+   {
+      "name": "Andreas Gruber (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Suat Gonul (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Rupert Westenthaler (Commented) (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "Andreas Gruber (JIRA)",
+         "Rupert Westenthaler (JIRA)",
+         "Suat Gonul (Created) (JIRA)",
+         "Olivier Grisel (JIRA)"
+      ]
+   },
+   {
+      "name": "Apache Jenkins Server",
+      "imports": []
+   },
+   {
+      "name": "Stefane Fermigier",
+      "imports": []
+   },
+   {
+      "name": "Olivier Grisel (Resolved) (JIRA)",
+      "imports": [
+         "Olivier Grisel (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Alessandro Adamou",
+      "imports": [
+         "Enrico Daga"
+      ]
+   },
+   {
+      "name": "Peter Ansell (Commented) (JIRA)",
+      "imports": [
+         "Fabian Christ (JIRA)"
+      ]
+   },
+   {
+      "name": "Olivier Grisel (Commented) (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "Rupert Westenthaler (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Fabian Christ (Updated) (JIRA)",
+      "imports": [
+         "Fabian Christ (JIRA)"
+      ]
+   },
+   {
+      "name": "Suat Gonul (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Adam Retter",
+      "imports": [
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Alessandro Adamou (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Jo=E3o_Pedro_Oliveira?=",
+      "imports": [
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Suat Gonul (Commented) (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Fabian Christ (Resolved) (JIRA)",
+      "imports": [
+         "Fabian Christ (JIRA)",
+         "Fabian Christ (JIRA)",
+         "Fabian Christ (JIRA)",
+         "Fabian Christ (Created) (JIRA)",
+         "Fabian Christ (JIRA)",
+         "Fabian Christ (Created) (JIRA)",
+         "Fabian Christ (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Olivier Grisel",
+      "imports": [
+         "Stefane Fermigier",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Jo=E3o_Pedro_Oliveira?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Fabian Christ",
+         "Fabian Christ",
+         "Fabian Christ",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Enrico Daga",
+      "imports": [
+         "Fabian Christ"
+      ]
+   },
+   {
+      "name": "Andreas Gruber (Assigned) (JIRA)",
+      "imports": [
+         "Andreas Gruber (JIRA)"
+      ]
+   },
+   {
+      "name": "Ali Anil Sinaci (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Fabian Christ",
+      "imports": [
+         "Olivier Grisel",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Rupert Westenthaler",
+         "Olivier Grisel",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Olivier Grisel",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Olivier Grisel",
+         "szabyg",
+         "Enrico Daga"
+      ]
+   },
+   {
+      "name": "Alessandro Adamou (Commented) (JIRA)",
+      "imports": [
+         "Alessandro Adamou (JIRA)"
+      ]
+   }
+]

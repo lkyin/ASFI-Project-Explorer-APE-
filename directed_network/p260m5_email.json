@@ -1,0 +1,49 @@
+[
+   {
+      "name": "Aaron McCurry (JIRA)",
+      "imports": [
+         "Ashish Paliwal (JIRA)"
+      ]
+   },
+   {
+      "name": "Gagan Juneja",
+      "imports": [
+         "Aaron McCurry"
+      ]
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Gagan Deep Juneja (JIRA)",
+      "imports": [
+         "Aaron McCurry (JIRA)"
+      ]
+   },
+   {
+      "name": "Aaron McCurry",
+      "imports": [
+         "Gagan Juneja",
+         "Tim Williams",
+         "Patrick Hunt",
+         "Patrick Hunt"
+      ]
+   },
+   {
+      "name": "Ashish Paliwal (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Tim Williams",
+      "imports": [
+         "Marvin"
+      ]
+   },
+   {
+      "name": "Patrick Hunt",
+      "imports": [
+         "Aaron McCurry"
+      ]
+   }
+]

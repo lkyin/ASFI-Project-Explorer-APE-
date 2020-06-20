@@ -1,0 +1,65 @@
+[
+   {
+      "name": "E. Sammer (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Patrick Hunt (JIRA)",
+      "imports": [
+         "E. Sammer (JIRA)"
+      ]
+   },
+   {
+      "name": "Eric Sammer",
+      "imports": [
+         "Aaron Kimball",
+         "Aaron Kimball",
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Nigel Daley",
+      "imports": [
+         "Eric Sammer"
+      ]
+   },
+   {
+      "name": "Aaron Kimball",
+      "imports": [
+         "Eric Sammer",
+         "Eric Sammer",
+         "Mattmann, Chris A (388J)",
+         "Patrick Hunt",
+         "Mattmann, Chris A (388J)",
+         "Eric Sammer",
+         "Patrick Hunt",
+         "Eric Sammer"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "Eric Sammer",
+         "Patrick Hunt",
+         "Aaron Kimball",
+         "Eric Sammer",
+         "Eric Sammer",
+         "Eric Sammer",
+         "Patrick Hunt",
+         "Aaron Kimball",
+         "Aaron Kimball"
+      ]
+   },
+   {
+      "name": "Patrick Hunt",
+      "imports": [
+         "Aaron Kimball",
+         "Aaron Kimball",
+         "Aaron Kimball",
+         "Nigel Daley",
+         "Eric Sammer",
+         "Nigel Daley",
+         "Aaron Kimball"
+      ]
+   }
+]

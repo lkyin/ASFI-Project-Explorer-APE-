@@ -1,0 +1,42 @@
+[
+   {
+      "name": "Jerome Renard",
+      "imports": [
+         "James Pic",
+         "James Pic"
+      ]
+   },
+   {
+      "name": "Derick Rethans",
+      "imports": [
+         "Daniel Fahlke"
+      ]
+   },
+   {
+      "name": "Christian Grobmeier",
+      "imports": [
+         "Daniel Fahlke"
+      ]
+   },
+   {
+      "name": "Julien Vermillard",
+      "imports": [
+         "Jerome Renard"
+      ]
+   },
+   {
+      "name": "James Pic",
+      "imports": [
+         "Jerome Renard",
+         "Julien Vermillard",
+         "Daniel Fahlke"
+      ]
+   },
+   {
+      "name": "Daniel Fahlke",
+      "imports": [
+         "Derick Rethans",
+         "Christian Grobmeier"
+      ]
+   }
+]

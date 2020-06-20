@@ -1,0 +1,179 @@
+[
+   {
+      "name": "=?ISO-8859-1?Q?St=E9fane_Fermigier?=",
+      "imports": []
+   },
+   {
+      "name": "Cornelis Hoeflake",
+      "imports": []
+   },
+   {
+      "name": "David Nuescheler",
+      "imports": [
+         "Florent Guillaume",
+         "Shane Johnson"
+      ]
+   },
+   {
+      "name": "Norrie Quinn (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?Am=C3=A9lie_Avramo_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "=?iso-8859-1?Q?Jens_H=FCbel?=",
+      "imports": [
+         "Shane Johnson"
+      ]
+   },
+   {
+      "name": "Stefane Fermigier",
+      "imports": [
+         "Paolo Mottadelli",
+         "Cornelis Hoeflake"
+      ]
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Paolo Mottadelli",
+      "imports": [
+         "Florent Guillaume"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Michael_D=C3=BCrig_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Florent Guillaume",
+      "imports": [
+         "Flo",
+         "Flo",
+         "Flo",
+         "Flo",
+         "Flo",
+         "Flo",
+         "Flo",
+         "Flo",
+         "Flo",
+         "Felix Meschberger",
+         "Flo",
+         "Flo",
+         "Gabriele Columbro",
+         "Shane Johnson",
+         "Shane Johnson",
+         "=?ISO-8859-1?Q?Michael_D=FCrig?="
+      ]
+   },
+   {
+      "name": "Gianugo Rabellino",
+      "imports": [
+         "Florent Guillaume"
+      ]
+   },
+   {
+      "name": "Serge Huber",
+      "imports": [
+         "Florent Guillaume"
+      ]
+   },
+   {
+      "name": "Saperion",
+      "imports": [
+         "Shane Johnson"
+      ]
+   },
+   {
+      "name": "Michael Mertins (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Michael_D=FCrig?=",
+      "imports": [
+         "Florent Guillaume"
+      ]
+   },
+   {
+      "name": "Florian Roth (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "David Caruana (JIRA)",
+      "imports": [
+         "Norrie Quinn (JIRA)",
+         "Florent Guillaume (JIRA)",
+         "Gabriele Columbro (JIRA)",
+         "Gabriele Columbro (JIRA)"
+      ]
+   },
+   {
+      "name": "Stefane Fermigier (JIRA)",
+      "imports": [
+         "Gabriele Columbro (JIRA)"
+      ]
+   },
+   {
+      "name": "Gabriele Columbro",
+      "imports": [
+         "Flo",
+         "Stefane Fermigier",
+         "Florent Guillaume"
+      ]
+   },
+   {
+      "name": "Gabriele Columbro (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Flo",
+      "imports": [
+         "Florent Guillaume",
+         "Florent Guillaume",
+         "Florent Guillaume",
+         "Florent Guillaume",
+         "Florent Guillaume",
+         "Florent Guillaume",
+         "Florent Guillaume",
+         "Florent Guillaume",
+         "Florent Guillaume",
+         "=?ISO-8859-1?Q?St=E9fane_Fermigier?=",
+         "Florent Guillaume",
+         "Stefane Fermigier"
+      ]
+   },
+   {
+      "name": "Felix Meschberger",
+      "imports": [
+         "Marvin",
+         "Florent Guillaume"
+      ]
+   },
+   {
+      "name": "Florent Guillaume (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Am=C3=A9lie_Avramo_=28JIRA=29?=",
+         "=?utf-8?Q?Am=C3=A9lie_Avramo_=28JIRA=29?=",
+         "Norrie Quinn (JIRA)",
+         "Norrie Quinn (JIRA)",
+         "Florian Roth (JIRA)",
+         "=?utf-8?Q?Michael_D=C3=BCrig_=28JIRA=29?=",
+         "=?utf-8?Q?Michael_D=C3=BCrig_=28JIRA=29?=",
+         "Gabriele Columbro (JIRA)",
+         "=?utf-8?Q?Michael_D=C3=BCrig_=28JIRA=29?=",
+         "Michael Mertins (JIRA)"
+      ]
+   },
+   {
+      "name": "Shane Johnson",
+      "imports": [
+         "Florent Guillaume",
+         "=?iso-8859-1?Q?Jens_H=FCbel?=",
+         "David Nuescheler"
+      ]
+   }
+]

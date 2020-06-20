@@ -1,0 +1,38 @@
+[
+   {
+      "name": "aditi hilbert",
+      "imports": [
+         "Justin Mclean",
+         "Justin Mclean",
+         "Justin Mclean",
+         "Justin Mclean"
+      ]
+   },
+   {
+      "name": "Sterling Hughes",
+      "imports": [
+         "will sanfilippo"
+      ]
+   },
+   {
+      "name": "P. Taylor Goetz",
+      "imports": [
+         "aditi hilbert"
+      ]
+   },
+   {
+      "name": "Justin Mclean",
+      "imports": [
+         "aditi hilbert",
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "will sanfilippo",
+      "imports": []
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": []
+   }
+]

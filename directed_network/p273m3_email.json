@@ -1,0 +1,50 @@
+[
+   {
+      "name": "Andreas Veithen",
+      "imports": [
+         "rr",
+         "rr"
+      ]
+   },
+   {
+      "name": "Rafal Rusin",
+      "imports": [
+         "Matthieu Riou",
+         "Matthieu Riou",
+         "Matthieu Riou",
+         "Andreas Veithen",
+         "Andreas Veithen"
+      ]
+   },
+   {
+      "name": "rr",
+      "imports": []
+   },
+   {
+      "name": "Gavin (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Rafal Rusin (JIRA)",
+      "imports": [
+         "Gavin (JIRA)",
+         "Gavin (JIRA)",
+         "Gavin (JIRA)"
+      ]
+   },
+   {
+      "name": "Matthieu Riou",
+      "imports": [
+         "Rafal Rusin",
+         "Rafal Rusin"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Witek_Wo=C5=82ejszo_=28JIRA=29?=",
+      "imports": [
+         "Rafal Rusin (JIRA)",
+         "Rafal Rusin (JIRA)",
+         "Rafal Rusin (JIRA)"
+      ]
+   }
+]

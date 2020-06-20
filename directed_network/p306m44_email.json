@@ -1,0 +1,109 @@
+[
+   {
+      "name": "Kythyria",
+      "imports": [
+         "Thomas Wrobel",
+         "Thomas Wrobel"
+      ]
+   },
+   {
+      "name": "Pablo Ojanguren",
+      "imports": []
+   },
+   {
+      "name": "Thomas Wrobel",
+      "imports": [
+         "Joseph Gentle",
+         "=?UTF-8?B?55Sw5Lyg5q2m?=",
+         "=?UTF-8?B?55Sw5Lyg5q2m?="
+      ]
+   },
+   {
+      "name": "Yuri Z",
+      "imports": [
+         "Kinozen.C",
+         "Ali Lown",
+         "Ali Lown"
+      ]
+   },
+   {
+      "name": "John Blossom",
+      "imports": [
+         "Thomas Wrobel",
+         "=?UTF-8?B?55Sw5Lyg5q2m?=",
+         "=?UTF-8?B?55Sw5Lyg5q2m?=",
+         "Thomas Wrobel"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?55Sw5Lyg5q2m?=",
+      "imports": [
+         "Thomas Wrobel",
+         "Thomas Wrobel",
+         "John Blossom",
+         "Michael MacFadden",
+         "Kythyria",
+         "Michael MacFadden",
+         "Christian Grobmeier",
+         "Michael MacFadden"
+      ]
+   },
+   {
+      "name": "Andrew Kaplanov",
+      "imports": [
+         "Yuri Zelikov",
+         "Yuri Zelikov",
+         "Yuri Zelikov",
+         "Michael MacFadden",
+         "Michael MacFadden"
+      ]
+   },
+   {
+      "name": "Yuri Zelikov",
+      "imports": [
+         "Andrew Kaplanov",
+         "Andrew Kaplanov",
+         "Andrew Kaplanov",
+         "Andrew Kaplanov",
+         "Pablo Ojanguren",
+         "Pablo Ojanguren",
+         "Andrew Kaplanov",
+         "Andrew Kaplanov"
+      ]
+   },
+   {
+      "name": "Michael MacFadden",
+      "imports": [
+         "=?UTF-8?B?55Sw5Lyg5q2m?=",
+         "=?UTF-8?B?55Sw5Lyg5q2m?=",
+         "Andrew Kaplanov",
+         "=?UTF-8?B?55Sw5Lyg5q2m?=",
+         "Ali Lown",
+         "Kythyria"
+      ]
+   },
+   {
+      "name": "Kinozen.C",
+      "imports": []
+   },
+   {
+      "name": "Christian Grobmeier",
+      "imports": [
+         "=?UTF-8?B?55Sw5Lyg5q2m?="
+      ]
+   },
+   {
+      "name": "Joseph Gentle",
+      "imports": [
+         "=?UTF-8?B?55Sw5Lyg5q2m?="
+      ]
+   },
+   {
+      "name": "Ali Lown",
+      "imports": [
+         "Yuri Z",
+         "Yuri Z",
+         "Yuri Z"
+      ]
+   }
+]

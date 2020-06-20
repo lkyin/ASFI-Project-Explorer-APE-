@@ -1,0 +1,418 @@
+[
+   {
+      "name": "Arthur Wiedmer",
+      "imports": [
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Daniel Huang",
+         "Ash Berlin-Taylor",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "kevin@fathomhealth.co",
+      "imports": [
+         "Boris"
+      ]
+   },
+   {
+      "name": "Ash Berlin-Taylor",
+      "imports": [
+         "Sumit Maheshwari",
+         "Sumit Maheshwari",
+         "Niels Zeilemaker",
+         "Andy Hadjigeorgiou",
+         "Niels Zeilemaker",
+         "Chris Riccomini",
+         "Andy Hadjigeorgiou",
+         "Chris Riccomini",
+         "Daniel Huang",
+         "Bolke de Bruin",
+         "Alek Storm",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "F. Hakan Koklu",
+      "imports": [
+         "Michael Crawford"
+      ]
+   },
+   {
+      "name": "Daniel (Daniel Lamblin) [BDP - Seoul]",
+      "imports": [
+         "Sam Elamin",
+         "Rob Goretsky"
+      ]
+   },
+   {
+      "name": "Rob Goretsky",
+      "imports": [
+         "George Leslie-Waksman"
+      ]
+   },
+   {
+      "name": "Dan Davydov",
+      "imports": [
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Jeremiah Lowin",
+      "imports": [
+         "Diogo Franco"
+      ]
+   },
+   {
+      "name": "Boris",
+      "imports": []
+   },
+   {
+      "name": "Ruslan Dautkhanov",
+      "imports": [
+         "Maxime Beauchemin",
+         "Bolke de Bruin",
+         "Chris Riccomini",
+         "Joy Gao"
+      ]
+   },
+   {
+      "name": "Michael Crawford",
+      "imports": [
+         "Joy Gao",
+         "Gerard Toonstra",
+         "Ash Berlin-Taylor",
+         "Driesprong, Fokko"
+      ]
+   },
+   {
+      "name": "Daniel Huang",
+      "imports": [
+         "manish ranjan",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Driesprong, Fokko"
+      ]
+   },
+   {
+      "name": "Daniel Lamblin [Data Science & Platform Center]",
+      "imports": [
+         "Veeranagouda Mukkanagoudar",
+         "James Freedman"
+      ]
+   },
+   {
+      "name": "Gerard Toonstra",
+      "imports": [
+         "Driesprong, Fokko",
+         "Shoumitra Srivastava",
+         "Michael Crawford"
+      ]
+   },
+   {
+      "name": "Gaetan Semet",
+      "imports": [
+         "Grant Nicholas"
+      ]
+   },
+   {
+      "name": "Andrew Maguire",
+      "imports": [
+         "Driesprong, Fokko",
+         "Joy Gao",
+         "Alek Storm",
+         "Bolke de Bruin",
+         "Alek Storm",
+         "Driesprong, Fokko"
+      ]
+   },
+   {
+      "name": "David Capwell",
+      "imports": [
+         "Grant Nicholas",
+         "Devjyoti Patra"
+      ]
+   },
+   {
+      "name": "Sumit Maheshwari",
+      "imports": [
+         "Chris Riccomini",
+         "Feng Lu"
+      ]
+   },
+   {
+      "name": "Andy Hadjigeorgiou",
+      "imports": [
+         "Laura Lorenz",
+         "Ash Berlin-Taylor",
+         "Chris Riccomini",
+         "Driesprong, Fokko",
+         "Scott Halgrim",
+         "Ash Berlin-Taylor"
+      ]
+   },
+   {
+      "name": "David Klosowski",
+      "imports": []
+   },
+   {
+      "name": "Cieplucha, Michal",
+      "imports": [
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Michael Erdely",
+      "imports": [
+         "Marc Bollinger"
+      ]
+   },
+   {
+      "name": "James Freedman",
+      "imports": []
+   },
+   {
+      "name": "manish ranjan",
+      "imports": [
+         "Daniel Huang",
+         "Daniel Imberman"
+      ]
+   },
+   {
+      "name": "Joy Gao",
+      "imports": [
+         "Bolke de Bruin",
+         "Kevin Lam",
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Grant Nicholas",
+      "imports": [
+         "Niels Zeilemaker",
+         "Daniel Imberman"
+      ]
+   },
+   {
+      "name": "Diogo Franco",
+      "imports": [
+         "Sergei Iakhnin"
+      ]
+   },
+   {
+      "name": "Alek Storm",
+      "imports": [
+         "Michael Crawford",
+         "Arthur Wiedmer",
+         "Andrew Maguire",
+         "Andrew Maguire",
+         "Andy Hadjigeorgiou"
+      ]
+   },
+   {
+      "name": "Scott Halgrim",
+      "imports": [
+         "Andy Hadjigeorgiou",
+         "Andrew Maguire"
+      ]
+   },
+   {
+      "name": "Marc Bollinger",
+      "imports": [
+         "Bolke de Bruin",
+         "Alek Storm"
+      ]
+   },
+   {
+      "name": "Shoumitra Srivastava",
+      "imports": [
+         "Daniel Imberman"
+      ]
+   },
+   {
+      "name": "Maxime Beauchemin",
+      "imports": [
+         "Arthur Wiedmer",
+         "Chris Riccomini",
+         "Ruslan Dautkhanov",
+         "Driesprong, Fokko"
+      ]
+   },
+   {
+      "name": "Sergei Iakhnin",
+      "imports": [
+         "Maxime Beauchemin",
+         "Scott Halgrim",
+         "Andrew Maguire"
+      ]
+   },
+   {
+      "name": "Laura Lorenz",
+      "imports": [
+         "Bolke de Bruin",
+         "=?UTF-8?Q?Zsolt_T=C3=B3th?=",
+         "Sergei Iakhnin"
+      ]
+   },
+   {
+      "name": "Sid Anand",
+      "imports": [
+         "Driesprong, Fokko"
+      ]
+   },
+   {
+      "name": "Driesprong, Fokko",
+      "imports": [
+         "Andrew Maguire",
+         "Sumit Maheshwari",
+         "Gerard Toonstra",
+         "Sumit Maheshwari",
+         "Ash Berlin-Taylor",
+         "Michael Crawford",
+         "Marc Bollinger",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Veeranagouda Mukkanagoudar",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?Q?Zsolt_T=C3=B3th?=",
+      "imports": [
+         "Andrew Maguire"
+      ]
+   },
+   {
+      "name": "Boris Tyukin",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Bolke de Bruin",
+      "imports": [
+         "Grant Nicholas",
+         "Ruslan Dautkhanov",
+         "Niels Zeilemaker",
+         "Ash Berlin-Taylor",
+         "Andrew Maguire",
+         "Jeremiah Lowin",
+         "Chris Riccomini",
+         "Ash Berlin-Taylor",
+         "Chris Riccomini",
+         "Ash Berlin-Taylor",
+         "David Klosowski",
+         "Andy Hadjigeorgiou",
+         "Chris Riccomini",
+         "Niels Zeilemaker",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Shoumitra Srivastava",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Ash Berlin-Taylor",
+         "Arthur Wiedmer",
+         "Chris Riccomini",
+         "Andrew Maguire",
+         "Heistermann, Till",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Daniel (Daniel Lamblin) [BDP - Seoul]",
+         "Kevin Lam",
+         "Ruslan Dautkhanov",
+         "Chris Riccomini",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Niels Zeilemaker",
+      "imports": [
+         "Bolke de Bruin",
+         "Ash Berlin-Taylor",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Shah Altaf",
+      "imports": [
+         "Andy Hadjigeorgiou"
+      ]
+   },
+   {
+      "name": "Heistermann, Till",
+      "imports": [
+         "Ash Berlin-Taylor"
+      ]
+   },
+   {
+      "name": "Feng Lu",
+      "imports": [
+         "Bolke de Bruin",
+         "Sumit Maheshwari",
+         "Sumit Maheshwari"
+      ]
+   },
+   {
+      "name": "Kevin Lam",
+      "imports": [
+         "kevin@fathomhealth.co",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "George Leslie-Waksman",
+      "imports": [
+         "Daniel Imberman",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Daniel Imberman",
+      "imports": [
+         "Arthur Wiedmer",
+         "Michael Erdely"
+      ]
+   },
+   {
+      "name": "Sam Elamin",
+      "imports": [
+         "Daniel (Daniel Lamblin) [BDP - Seoul]"
+      ]
+   },
+   {
+      "name": "Chris Riccomini",
+      "imports": [
+         "Bolke de Bruin",
+         "Feng Lu",
+         "Andy Hadjigeorgiou",
+         "Ash Berlin-Taylor",
+         "Bolke de Bruin",
+         "Arthur Wiedmer",
+         "Boris Tyukin",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Cieplucha, Michal",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Ash Berlin-Taylor",
+         "Joy Gao",
+         "Bolke de Bruin",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Kate-Laurel Agnew",
+      "imports": [
+         "Laura Lorenz"
+      ]
+   },
+   {
+      "name": "Devjyoti Patra",
+      "imports": [
+         "David Capwell"
+      ]
+   }
+]

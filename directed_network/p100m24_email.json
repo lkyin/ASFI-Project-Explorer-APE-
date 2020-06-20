@@ -1,0 +1,32 @@
+[
+   {
+      "name": "=?iso-8859-1?Q?Nicolas_Lalev=E9e?=",
+      "imports": [
+         "Jean-Louis Boudart",
+         "Jean-Louis Boudart",
+         "Jean-Louis Boudart",
+         "Marvin"
+      ]
+   },
+   {
+      "name": "Brian M Dube",
+      "imports": [
+         "Nicolas Rigeade"
+      ]
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Nicolas Rigeade",
+      "imports": []
+   },
+   {
+      "name": "Jean-Louis Boudart",
+      "imports": [
+         "=?iso-8859-1?Q?Nicolas_Lalev=E9e?=",
+         "=?iso-8859-1?Q?Nicolas_Lalev=E9e?="
+      ]
+   }
+]

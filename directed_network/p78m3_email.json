@@ -1,0 +1,96 @@
+[
+   {
+      "name": "Bill Graham (JIRA)",
+      "imports": [
+         "Ari Rabkin (JIRA)"
+      ]
+   },
+   {
+      "name": "William A. Rowe Jr.",
+      "imports": [
+         "Bernd Fondermann",
+         "Ariel Rabkin"
+      ]
+   },
+   {
+      "name": "jaydeep ayachit (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ariel Rabkin",
+      "imports": [
+         "Bernd Fondermann",
+         "Ahmed Fathalla",
+         "Bernd Fondermann",
+         "Bill Graham",
+         "Bill Graham",
+         "William A. Rowe Jr.",
+         "Eric Yang",
+         "Eric Yang",
+         "Eric Yang"
+      ]
+   },
+   {
+      "name": "Ahmed Fathalla",
+      "imports": [
+         "Eric Yang"
+      ]
+   },
+   {
+      "name": "Jiaqi Tan",
+      "imports": [
+         "Jerome Boulon"
+      ]
+   },
+   {
+      "name": "Jerome Boulon",
+      "imports": [
+         "Bill Graham",
+         "Bernd Fondermann"
+      ]
+   },
+   {
+      "name": "Bill Graham",
+      "imports": [
+         "Ariel Rabkin",
+         "Bernd Fondermann",
+         "Eric Yang",
+         "Jerome Boulon",
+         "Ariel Rabkin",
+         "Ariel Rabkin",
+         "Eric Yang"
+      ]
+   },
+   {
+      "name": "Eric Yang",
+      "imports": [
+         "Ariel Rabkin",
+         "Bernd Fondermann",
+         "Bill Graham",
+         "Ariel Rabkin",
+         "Ariel Rabkin",
+         "Bill Graham"
+      ]
+   },
+   {
+      "name": "Bernd Fondermann",
+      "imports": [
+         "Bill Graham",
+         "Ariel Rabkin"
+      ]
+   },
+   {
+      "name": "Eric Yang (JIRA)",
+      "imports": [
+         "Ari Rabkin (JIRA)"
+      ]
+   },
+   {
+      "name": "Ari Rabkin (JIRA)",
+      "imports": [
+         "Eric Yang (JIRA)",
+         "Eric Yang (JIRA)",
+         "jaydeep ayachit (JIRA)"
+      ]
+   }
+]

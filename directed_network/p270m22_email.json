@@ -1,0 +1,42 @@
+[
+   {
+      "name": "Christophe Lombart (JIRA)",
+      "imports": [
+         "Alexandru Popescu (JIRA)",
+         "Martin Koci (JIRA)",
+         "Alexandru Popescu (JIRA)",
+         "Alexandru Popescu (JIRA)"
+      ]
+   },
+   {
+      "name": "Martin Koci (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Alexandru Popescu",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Christophe Lombart",
+      "imports": [
+         "drsla@tiscali.it",
+         "Jukka Zitting",
+         "drsla@tiscali.it",
+         "drsla@tiscali.it"
+      ]
+   },
+   {
+      "name": "Alexandru Popescu (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": []
+   },
+   {
+      "name": "drsla@tiscali.it",
+      "imports": []
+   }
+]

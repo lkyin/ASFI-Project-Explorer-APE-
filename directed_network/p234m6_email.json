@@ -1,0 +1,121 @@
+[
+   {
+      "name": "Jan van Doorn",
+      "imports": [
+         "David Neuman",
+         "David Neuman",
+         "Eric Friedrich (efriedri)",
+         "Oren Shemesh",
+         "Oren Shemesh",
+         "Mark Torluemke",
+         "Mark Torluemke",
+         "John D. Ament",
+         "John D. Ament",
+         "Gelinas, Derek",
+         "Steve Malenfant",
+         "Eric Friedrich (efriedri)"
+      ]
+   },
+   {
+      "name": "Dan Kirkwood",
+      "imports": [
+         "Leif Hedstrom",
+         "Dan Kirkwood",
+         "David Neuman",
+         "Leif Hedstrom",
+         "Dan Kirkwood",
+         "Dan Kirkwood",
+         "Eric Friedrich (efriedri)",
+         "Eric Friedrich (efriedri)"
+      ]
+   },
+   {
+      "name": "Jeremy Mitchell",
+      "imports": [
+         "Steve Malenfant",
+         "Mark Torluemke",
+         "Steve Malenfant"
+      ]
+   },
+   {
+      "name": "Mark Torluemke",
+      "imports": [
+         "Jan van Doorn",
+         "Jan van Doorn",
+         "Jan van Doorn",
+         "Jifeng Yang (jifyang)"
+      ]
+   },
+   {
+      "name": "Jifeng Yang (jifyang)",
+      "imports": [
+         "Mark Torluemke"
+      ]
+   },
+   {
+      "name": "David Neuman",
+      "imports": [
+         "Eric Friedrich (efriedri)",
+         "Dan Kirkwood",
+         "Dan Kirkwood"
+      ]
+   },
+   {
+      "name": "Steve Malenfant",
+      "imports": [
+         "Jeremy Mitchell",
+         "Jan van Doorn",
+         "Jeremy Mitchell",
+         "Jeff Elsloo"
+      ]
+   },
+   {
+      "name": "Oren Shemesh",
+      "imports": [
+         "Jan van Doorn",
+         "Jan van Doorn"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "Dan Kirkwood",
+         "Jan van Doorn"
+      ]
+   },
+   {
+      "name": "Leif Hedstrom",
+      "imports": [
+         "Dan Kirkwood",
+         "Dan Kirkwood",
+         "Dan Kirkwood",
+         "Dan Kirkwood"
+      ]
+   },
+   {
+      "name": "Eric Friedrich (efriedri)",
+      "imports": [
+         "Dan Kirkwood",
+         "Jan van Doorn",
+         "Jan van Doorn",
+         "Steve Malenfant",
+         "Jeff Elsloo",
+         "Jeremy Mitchell",
+         "Jan van Doorn"
+      ]
+   },
+   {
+      "name": "Gelinas, Derek",
+      "imports": [
+         "Jeremy Mitchell"
+      ]
+   },
+   {
+      "name": "Jeff Elsloo",
+      "imports": [
+         "Eric Friedrich (efriedri)",
+         "Eric Friedrich (efriedri)",
+         "Eric Friedrich (efriedri)"
+      ]
+   }
+]

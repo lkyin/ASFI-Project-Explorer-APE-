@@ -1,0 +1,53 @@
+[
+   {
+      "name": "Simon Willnauer",
+      "imports": [
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "Chris Hostetter",
+      "imports": [
+         "no-reply",
+         "Mattmann, Chris A (388J)",
+         "Upayavira"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Michael McCandless",
+      "imports": [
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Upayavira",
+      "imports": [
+         "Chris Hostetter"
+      ]
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": [
+         "Chris Hostetter",
+         "Mattmann, Chris A (388J)",
+         "Simon Willnauer"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "Peter Karman",
+         "Chris Hostetter",
+         "Marvin Humphrey",
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "Peter Karman",
+      "imports": []
+   }
+]

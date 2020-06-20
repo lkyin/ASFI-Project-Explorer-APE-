@@ -1,0 +1,295 @@
+[
+   {
+      "name": "William Wong",
+      "imports": [
+         "Daniel Imberman",
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Chris Fei",
+      "imports": [
+         "Diogo Franco"
+      ]
+   },
+   {
+      "name": "Shoumitra Srivastava",
+      "imports": [
+         "jeeyoung kim"
+      ]
+   },
+   {
+      "name": "Ash Berlin-Taylor",
+      "imports": [
+         "Chris Palmer",
+         "Sid Anand",
+         "Driesprong, Fokko",
+         "Maxime Beauchemin",
+         "Sid Anand"
+      ]
+   },
+   {
+      "name": "alex.n.james",
+      "imports": [
+         "=?UTF-8?Q?Zsolt_T=C3=B3th?=",
+         "=?UTF-8?Q?Zsolt_T=C3=B3th?="
+      ]
+   },
+   {
+      "name": "Marc Bollinger",
+      "imports": [
+         "George Leslie-Waksman"
+      ]
+   },
+   {
+      "name": "Song Liu",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Aaron Polhamus",
+      "imports": []
+   },
+   {
+      "name": "Diogo Franco",
+      "imports": [
+         "Maxime Beauchemin",
+         "Tao Feng"
+      ]
+   },
+   {
+      "name": "Maxime Beauchemin",
+      "imports": [
+         "Naik Kaxil",
+         "David Capwell",
+         "Chris Palmer",
+         "David Capwell",
+         "Naik Kaxil",
+         "Sid Anand",
+         "Kamenik, John",
+         "David Capwell",
+         "Kamenik, John",
+         "Beau Barker",
+         "Tao Feng",
+         "Kevin Pamplona"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Zsolt_T=C3=B3th?=",
+      "imports": []
+   },
+   {
+      "name": "Brian Greene",
+      "imports": [
+         "James Meickle"
+      ]
+   },
+   {
+      "name": "Naik Kaxil",
+      "imports": [
+         "Driesprong, Fokko"
+      ]
+   },
+   {
+      "name": "Michael Gong",
+      "imports": []
+   },
+   {
+      "name": "Hbw",
+      "imports": [
+         "jeeyoung kim",
+         "Hamade, Marcel (GfK)"
+      ]
+   },
+   {
+      "name": "Gerard Toonstra",
+      "imports": []
+   },
+   {
+      "name": "James Meickle",
+      "imports": [
+         "Maxime Beauchemin",
+         "Aaron Polhamus"
+      ]
+   },
+   {
+      "name": "Chris Palmer",
+      "imports": [
+         "Ash Berlin-Taylor",
+         "James Meickle",
+         "Maxime Beauchemin",
+         "Michael Gong"
+      ]
+   },
+   {
+      "name": "Joe Schaefer",
+      "imports": [
+         "Matthew Housley"
+      ]
+   },
+   {
+      "name": "Kamenik, John",
+      "imports": [
+         "Maxime Beauchemin",
+         "Maxime Beauchemin",
+         "Driesprong, Fokko"
+      ]
+   },
+   {
+      "name": "Driesprong, Fokko",
+      "imports": [
+         "Michael Gong",
+         "Andy Hadjigeorgiou",
+         "Ash Berlin-Taylor",
+         "Kamenik, John",
+         "Bruno Bonagura",
+         "David Capwell"
+      ]
+   },
+   {
+      "name": "Beau Barker",
+      "imports": [
+         "Matthew Housley"
+      ]
+   },
+   {
+      "name": "Matthew Housley",
+      "imports": [
+         "Praveen",
+         "twinkle"
+      ]
+   },
+   {
+      "name": "Andrew Maguire",
+      "imports": [
+         "Gerard Toonstra",
+         "Taylor Edmiston"
+      ]
+   },
+   {
+      "name": "Kevin Pamplona",
+      "imports": [
+         "Joy Gao"
+      ]
+   },
+   {
+      "name": "Shah Altaf",
+      "imports": [
+         "Hbw",
+         "Jakob Homan"
+      ]
+   },
+   {
+      "name": "David Capwell",
+      "imports": [
+         "Joy Gao",
+         "Joy Gao",
+         "Joy Gao",
+         "William Wong",
+         "Bolke de Bruin",
+         "Driesprong, Fokko"
+      ]
+   },
+   {
+      "name": "Jakob Homan",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Bolke de Bruin",
+      "imports": [
+         "Ash Berlin-Taylor",
+         "David Capwell"
+      ]
+   },
+   {
+      "name": "Tao Feng",
+      "imports": [
+         "Marc Bollinger",
+         "Diogo Franco"
+      ]
+   },
+   {
+      "name": "Praveen",
+      "imports": [
+         "Matthew Housley"
+      ]
+   },
+   {
+      "name": "Andy Hadjigeorgiou",
+      "imports": [
+         "Taylor Edmiston"
+      ]
+   },
+   {
+      "name": "Taylor Edmiston",
+      "imports": [
+         "Joy Gao",
+         "Maxime Beauchemin",
+         "Matthew Housley"
+      ]
+   },
+   {
+      "name": "jeeyoung kim",
+      "imports": []
+   },
+   {
+      "name": "Bruno Bonagura",
+      "imports": []
+   },
+   {
+      "name": "Michael Erdely",
+      "imports": [
+         "Chris Palmer"
+      ]
+   },
+   {
+      "name": "George Leslie-Waksman",
+      "imports": [
+         "Shah Altaf",
+         "Driesprong, Fokko"
+      ]
+   },
+   {
+      "name": "twinkle",
+      "imports": []
+   },
+   {
+      "name": "Daniel Imberman",
+      "imports": []
+   },
+   {
+      "name": "Sid Anand",
+      "imports": [
+         "James Meickle",
+         "Chris Palmer"
+      ]
+   },
+   {
+      "name": "Joy Gao",
+      "imports": [
+         "Sid Anand",
+         "David Capwell",
+         "David Capwell",
+         "Maxime Beauchemin",
+         "Chris Riccomini",
+         "Chris Fei"
+      ]
+   },
+   {
+      "name": "Chris Riccomini",
+      "imports": [
+         "Maxime Beauchemin",
+         "Maxime Beauchemin",
+         "Ash Berlin-Taylor"
+      ]
+   },
+   {
+      "name": "Hamade, Marcel (GfK)",
+      "imports": [
+         "Praveen"
+      ]
+   }
+]

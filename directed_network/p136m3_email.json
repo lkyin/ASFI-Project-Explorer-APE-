@@ -1,0 +1,277 @@
+[
+   {
+      "name": "Gavin Carothers (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Paolo Castagna (JIRA)",
+      "imports": [
+         "Sam Tunnicliffe (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Sam Tunnicliffe (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Sam Tunnicliffe (JIRA)",
+         "Sam Tunnicliffe (JIRA)",
+         "Sam Tunnicliffe (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)"
+      ]
+   },
+   {
+      "name": "Benson Margulies",
+      "imports": [
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Damian Steer"
+      ]
+   },
+   {
+      "name": "Stephen Allen (JIRA)",
+      "imports": [
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)"
+      ]
+   },
+   {
+      "name": "Paolo Castagna",
+      "imports": [
+         "Dave Reynolds",
+         "Ian Dickinson",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Ian Dickinson",
+         "Ian Dickinson",
+         "Ian Dickinson",
+         "Ian Dickinson",
+         "Ian Dickinson",
+         "Ian Dickinson",
+         "Ian Dickinson",
+         "Brian McBride",
+         "Dave Reynolds",
+         "Dave Reynolds",
+         "=?utf-8?Q?Thorsten_M=C3=B6ller?=",
+         "Dave Reynolds",
+         "=?iso-8859-1?Q?Thorsten_M=F6ller?="
+      ]
+   },
+   {
+      "name": "lists lists",
+      "imports": []
+   },
+   {
+      "name": "Jeff Doran (JIRA)",
+      "imports": [
+         "Gavin Carothers (JIRA)"
+      ]
+   },
+   {
+      "name": "Martynas Jusevicius",
+      "imports": [
+         "Paolo Castagna"
+      ]
+   },
+   {
+      "name": "Chris Dollin",
+      "imports": [
+         "Andy Seaborne",
+         "Ian Dickinson",
+         "Ian Dickinson"
+      ]
+   },
+   {
+      "name": "Dave Reynolds",
+      "imports": [
+         "Ian Dickinson",
+         "Paolo Castagna",
+         "Ian Dickinson",
+         "Ian Dickinson",
+         "Chris Dollin",
+         "Paolo Castagna",
+         "Paolo Castagna",
+         "Andy Seaborne",
+         "Ian Dickinson",
+         "Paolo Castagna"
+      ]
+   },
+   {
+      "name": "Brian McBride",
+      "imports": [
+         "Ian Dickinson",
+         "Paolo Castagna",
+         "Paolo Castagna"
+      ]
+   },
+   {
+      "name": "Benson Margulies (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Sam Tunnicliffe (JIRA)",
+      "imports": [
+         "Simon Helsen (JIRA)",
+         "Stephen Allen (JIRA)",
+         "Simon Helsen (JIRA)"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Thorsten_M=C3=B6ller?=",
+      "imports": []
+   },
+   {
+      "name": "Andy Seaborne (JIRA)",
+      "imports": [
+         "Simon Helsen (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "Benson Margulies (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Damian Steer (JIRA)",
+         "Damian Steer (JIRA)",
+         "Stephen Allen (JIRA)",
+         "Stephen Allen (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Paolo Castagna (JIRA)",
+         "Stephen Allen (JIRA)",
+         "Stephen Allen (JIRA)",
+         "Tim Harsch (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Sam Tunnicliffe (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Simon Helsen (JIRA)",
+         "Gavin Carothers (JIRA)",
+         "Gavin Carothers (JIRA)"
+      ]
+   },
+   {
+      "name": "Simon Helsen (JIRA)",
+      "imports": [
+         "Andy Seaborne (JIRA)"
+      ]
+   },
+   {
+      "name": "Tim Harsch (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Damian Steer",
+      "imports": [
+         "Andy Seaborne",
+         "Dave",
+         "Benson Margulies"
+      ]
+   },
+   {
+      "name": "Robert Battle (JIRA)",
+      "imports": [
+         "Simon Helsen (JIRA)"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Dave",
+      "imports": [
+         "Benson Margulies"
+      ]
+   },
+   {
+      "name": "Damian Steer (JIRA)",
+      "imports": [
+         "Gavin Carothers (JIRA)"
+      ]
+   },
+   {
+      "name": "Andy Seaborne",
+      "imports": [
+         "no-reply",
+         "Damian Steer",
+         "Benson Margulies",
+         "Chris Dollin",
+         "Benson Margulies",
+         "Benson Margulies",
+         "Benson Margulies",
+         "Benson Margulies",
+         "Benson Margulies (JIRA)",
+         "Paolo Castagna",
+         "Dave Reynolds",
+         "Dave Reynolds",
+         "lists lists",
+         "Dave Reynolds",
+         "Paolo Castagna"
+      ]
+   },
+   {
+      "name": "Ian Dickinson",
+      "imports": [
+         "Dave Reynolds",
+         "Dave Reynolds",
+         "Paolo Castagna",
+         "Dave Reynolds",
+         "Brian McBride",
+         "Paolo Castagna",
+         "Paolo Castagna",
+         "Paolo Castagna",
+         "Paolo Castagna",
+         "Brian McBride",
+         "Dave Reynolds"
+      ]
+   },
+   {
+      "name": "=?iso-8859-1?Q?Thorsten_M=F6ller?=",
+      "imports": [
+         "Paolo Castagna",
+         "Paolo Castagna"
+      ]
+   }
+]

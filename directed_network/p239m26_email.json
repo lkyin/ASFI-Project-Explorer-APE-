@@ -1,0 +1,24 @@
+[
+   {
+      "name": "gsps1",
+      "imports": []
+   },
+   {
+      "name": "hsaputra",
+      "imports": []
+   },
+   {
+      "name": "chtyim",
+      "imports": [
+         "gsps1",
+         "hsaputra",
+         "hsaputra"
+      ]
+   },
+   {
+      "name": "asfgit",
+      "imports": [
+         "gsps1"
+      ]
+   }
+]

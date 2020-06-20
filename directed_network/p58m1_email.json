@@ -1,0 +1,99 @@
+[
+   {
+      "name": "lewis john mcgibbney",
+      "imports": [
+         "Mattmann, Chris A (388J)",
+         "Davide Palmisano",
+         "Simone Tripodi",
+         "Michele Mostarda",
+         "Simone Tripodi",
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Simone Tripodi",
+         "lewis john mcgibbney",
+         "Davide Palmisano",
+         "Davide Palmisano"
+      ]
+   },
+   {
+      "name": "Michele Mostarda",
+      "imports": [
+         "Tommaso Teofili",
+         "lewis john mcgibbney"
+      ]
+   },
+   {
+      "name": "Giovanni Tummarello",
+      "imports": [
+         "Nick Kew",
+         "Nick Kew"
+      ]
+   },
+   {
+      "name": "Lewis John McGibbney (Commented) (JIRA)",
+      "imports": [
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Lewis John McGibbney (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Lewis John McGibbney (Updated) (JIRA)",
+      "imports": [
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Simone Tripodi",
+      "imports": [
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)",
+         "Davide Palmisano",
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Nick Kew",
+      "imports": [
+         "Davide Palmisano",
+         "Giovanni Tummarello"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "Simone Tripodi",
+         "Simone Tripodi",
+         "Simone Tripodi",
+         "Simone Tripodi",
+         "lewis john mcgibbney",
+         "lewis john mcgibbney",
+         "Simone Tripodi",
+         "Michele Mostarda",
+         "lewis john mcgibbney",
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Davide Palmisano",
+      "imports": [
+         "Mattmann, Chris A (388J)",
+         "lewis john mcgibbney",
+         "Simone Tripodi",
+         "Tommaso Teofili",
+         "Nick Kew"
+      ]
+   }
+]

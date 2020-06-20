@@ -1,0 +1,126 @@
+[
+   {
+      "name": "Arthur Berezin",
+      "imports": [
+         "=?UTF-8?Q?Matej_Arta=c4=8d?=",
+         "Suneel Marthi",
+         "Ran Ziv"
+      ]
+   },
+   {
+      "name": "ran-z",
+      "imports": [
+         "tliron",
+         "tliron",
+         "tliron",
+         "tliron",
+         "tliron",
+         "tliron",
+         "tliron",
+         "tliron",
+         "tliron",
+         "tliron",
+         "tliron",
+         "tliron",
+         "tliron",
+         "tliron",
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv",
+         "kbijakowski"
+      ]
+   },
+   {
+      "name": "mxmrlv",
+      "imports": [
+         "tliron",
+         "tliron",
+         "tliron",
+         "tliron",
+         "ran-z",
+         "dankilman"
+      ]
+   },
+   {
+      "name": "dankilman",
+      "imports": [
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv"
+      ]
+   },
+   {
+      "name": "Ran Ziv",
+      "imports": [
+         "Suneel Marthi",
+         "John D. Ament",
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "tliron",
+      "imports": [
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Matej_Arta=c4=8d?=",
+      "imports": [
+         "Arthur Berezin"
+      ]
+   },
+   {
+      "name": "asfgit",
+      "imports": [
+         "dankilman",
+         "tliron",
+         "dankilman",
+         "tliron",
+         "tliron",
+         "dankilman",
+         "mxmrlv",
+         "mxmrlv",
+         "mxmrlv",
+         "ran-z",
+         "tliron",
+         "mxmrlv",
+         "mxmrlv",
+         "tliron",
+         "dankilman",
+         "ran-z",
+         "mxmrlv"
+      ]
+   },
+   {
+      "name": "Suneel Marthi",
+      "imports": [
+         "Ran Ziv"
+      ]
+   },
+   {
+      "name": "kbijakowski",
+      "imports": []
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "Ran Ziv",
+         "Ran Ziv",
+         "Ran Ziv"
+      ]
+   }
+]

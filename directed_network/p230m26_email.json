@@ -1,0 +1,322 @@
+[
+   {
+      "name": "Pierre-Alexandre St-Jean",
+      "imports": [
+         "David Reiss",
+         "Greg Stein",
+         "David Reiss",
+         "Mark Slee",
+         "David Reiss",
+         "Anthony Molinaro"
+      ]
+   },
+   {
+      "name": "Paul Querna (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Doug Judd",
+      "imports": [
+         "Todd Lipcon"
+      ]
+   },
+   {
+      "name": "Eugene Letuchy (JIRA)",
+      "imports": [
+         "Anthony Molinaro (JIRA)"
+      ]
+   },
+   {
+      "name": "Jan Dolecek",
+      "imports": [
+         "Mark Slee",
+         "James King"
+      ]
+   },
+   {
+      "name": "Jeff DeCew (JIRA)",
+      "imports": [
+         "David Reiss (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)"
+      ]
+   },
+   {
+      "name": "Yann Kerherve (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Martin Grabmueller (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Esteve Fernandez (JIRA)",
+      "imports": [
+         "Jonathan Ellis (JIRA)"
+      ]
+   },
+   {
+      "name": "Joe Schaefer",
+      "imports": [
+         "Bryan Duxbury",
+         "Bryan Duxbury",
+         "David Reiss",
+         "Bryan Duxbury"
+      ]
+   },
+   {
+      "name": "Jan Dolecek (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bryan Duxbury (JIRA)",
+      "imports": [
+         "Piotr Kozikowski (JIRA)",
+         "Piotr Kozikowski (JIRA)",
+         "Jeff DeCew (JIRA)",
+         "Rush Manbert (JIRA)",
+         "david herviou (JIRA)",
+         "Jan Dolecek (JIRA)",
+         "Jonathan Ellis (JIRA)",
+         "immars (JIRA)",
+         "Jonathan Ellis (JIRA)",
+         "Jonathan Ellis (JIRA)",
+         "Jonathan Ellis (JIRA)",
+         "Jonathan Ellis (JIRA)",
+         "Jonathan Ellis (JIRA)"
+      ]
+   },
+   {
+      "name": "Andrew McGeachie (JIRA)",
+      "imports": [
+         "Aaron Haney (JIRA)",
+         "Aaron Haney (JIRA)"
+      ]
+   },
+   {
+      "name": "Rush Manbert (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Aaron Haney (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "immars (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "David Reiss (JIRA)",
+      "imports": [
+         "Anthony Molinaro (JIRA)",
+         "Jan Dolecek (JIRA)",
+         "Jan Dolecek (JIRA)",
+         "Jan Dolecek (JIRA)",
+         "Adrian Woodhead (JIRA)",
+         "Jean-Sebastien Delfino (JIRA)",
+         "Jonathan Ellis (JIRA)",
+         "Paul Querna (JIRA)",
+         "Jonathan Ellis (JIRA)",
+         "Jonathan Ellis (JIRA)",
+         "Nick Welch (JIRA)",
+         "Nick Welch (JIRA)",
+         "Jonathan Ellis (JIRA)",
+         "Jonathan Ellis (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Jonathan Ellis (JIRA)",
+         "Jonathan Ellis (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)"
+      ]
+   },
+   {
+      "name": "Rob Slifka (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Upayavira",
+      "imports": [
+         "no-reply"
+      ]
+   },
+   {
+      "name": "Eugene Letuchy",
+      "imports": [
+         "David Reiss (JIRA)"
+      ]
+   },
+   {
+      "name": "Spiridon Eliopoulos (JIRA)",
+      "imports": [
+         "Martin Grabmueller (JIRA)"
+      ]
+   },
+   {
+      "name": "Pooja Gupta",
+      "imports": []
+   },
+   {
+      "name": "Jean-Sebastien Delfino (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Carl Steinbach (JIRA)",
+      "imports": [
+         "Rush Manbert (JIRA)"
+      ]
+   },
+   {
+      "name": "andrew zimmer (JIRA)",
+      "imports": [
+         "Adrian Woodhead (JIRA)"
+      ]
+   },
+   {
+      "name": "Jonathan Ellis (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bryan Duxbury",
+      "imports": [
+         "Jan Dolecek",
+         "Upayavira",
+         "Jools",
+         "Jools",
+         "James King"
+      ]
+   },
+   {
+      "name": "Michael Montano (JIRA)",
+      "imports": [
+         "Jonathan Ellis (JIRA)"
+      ]
+   },
+   {
+      "name": "T Jake Luciani (JIRA)",
+      "imports": [
+         "Ted Zlatanov (JIRA)",
+         "Yann Kerherve (JIRA)",
+         "Yann Kerherve (JIRA)"
+      ]
+   },
+   {
+      "name": "Nick Welch (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jools",
+      "imports": [
+         "Bryan Duxbury"
+      ]
+   },
+   {
+      "name": "Adrian Woodhead (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Aron Sogor",
+      "imports": [
+         "Edmond Lau"
+      ]
+   },
+   {
+      "name": "Todd Lipcon",
+      "imports": [
+         "Doug Judd"
+      ]
+   },
+   {
+      "name": "Ted Zlatanov (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Piotr Kozikowski (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Philip Zeyliger (JIRA)",
+      "imports": [
+         "Rob Slifka (JIRA)",
+         "Rob Slifka (JIRA)",
+         "Rob Slifka (JIRA)"
+      ]
+   },
+   {
+      "name": "Mark Slee",
+      "imports": [
+         "Bryan Duxbury",
+         "David Reiss",
+         "Jan Dolecek"
+      ]
+   },
+   {
+      "name": "Anthony Molinaro (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "James King",
+      "imports": [
+         "Bryan Duxbury",
+         "Bryan Duxbury",
+         "Bryan Duxbury",
+         "Jan Dolecek",
+         "Jan Dolecek"
+      ]
+   },
+   {
+      "name": "David Reiss",
+      "imports": [
+         "Joe Schaefer",
+         "Pierre-Alexandre St-Jean",
+         "Pierre-Alexandre St-Jean",
+         "Pierre-Alexandre St-Jean",
+         "Pierre-Alexandre St-Jean",
+         "Jan Dolecek",
+         "Pierre-Alexandre St-Jean",
+         "Joe Schaefer"
+      ]
+   },
+   {
+      "name": "Nathan Marz (JIRA)",
+      "imports": [
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Jonathan Ellis (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Jonathan Ellis (JIRA)"
+      ]
+   },
+   {
+      "name": "david herviou (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Anthony Molinaro",
+      "imports": [
+         "Pierre-Alexandre St-Jean"
+      ]
+   },
+   {
+      "name": "Edmond Lau",
+      "imports": []
+   },
+   {
+      "name": "Kevin Clark",
+      "imports": [
+         "Pooja Gupta"
+      ]
+   },
+   {
+      "name": "Greg Stein",
+      "imports": [
+         "David Reiss"
+      ]
+   }
+]

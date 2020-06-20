@@ -1,0 +1,64 @@
+[
+   {
+      "name": "Henry Saputra (JIRA)",
+      "imports": [
+         "Yves Langisch (JIRA)",
+         "Andrzej Bialecki  (JIRA)",
+         "Yves Langisch (JIRA)"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "Henry Saputra"
+      ]
+   },
+   {
+      "name": "Julien Nioche",
+      "imports": []
+   },
+   {
+      "name": "Ioannis Canellos (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Andrzej Bialecki  (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Henry Saputra",
+      "imports": [
+         "Julien Nioche",
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Yves Langisch (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?Q?Enis_S=C3=B6ztutar?=",
+      "imports": [
+         "Julien Nioche",
+         "Henry Saputra"
+      ]
+   },
+   {
+      "name": "Joseph Vychtrle (JIRA)",
+      "imports": [
+         "Ioannis Canellos (JIRA)"
+      ]
+   },
+   {
+      "name": "Chris A. Mattmann (JIRA)",
+      "imports": [
+         "Ioannis Canellos (JIRA)",
+         "Ioannis Canellos (JIRA)",
+         "Ioannis Canellos (JIRA)",
+         "Ioannis Canellos (JIRA)",
+         "Ioannis Canellos (JIRA)",
+         "Ioannis Canellos (JIRA)"
+      ]
+   }
+]

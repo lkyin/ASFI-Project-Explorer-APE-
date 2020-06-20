@@ -1,0 +1,44 @@
+[
+   {
+      "name": "Brian Foster (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Sean McCleese (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Joshua Garcia (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Justin Erenkrantz",
+      "imports": [
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "no-reply",
+         "Justin Erenkrantz"
+      ]
+   },
+   {
+      "name": "Chris A. Mattmann (JIRA)",
+      "imports": [
+         "Brian Foster (JIRA)",
+         "Brian Foster (JIRA)",
+         "Brian Foster (JIRA)",
+         "Brian Foster (JIRA)",
+         "Joshua Garcia (JIRA)",
+         "Sean McCleese (JIRA)",
+         "Joshua Garcia (JIRA)"
+      ]
+   }
+]

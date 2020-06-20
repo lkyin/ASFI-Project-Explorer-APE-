@@ -1,0 +1,61 @@
+[
+   {
+      "name": "Dick Hardt",
+      "imports": []
+   },
+   {
+      "name": "Eugene Eric Kim",
+      "imports": [
+         "Recordon, David"
+      ]
+   },
+   {
+      "name": "Recordon, David",
+      "imports": [
+         "Dick Hardt",
+         "Ted Leung"
+      ]
+   },
+   {
+      "name": "William A. Rowe, Jr.",
+      "imports": [
+         "Granqvist, Hans",
+         "Yoav Shapira"
+      ]
+   },
+   {
+      "name": "Johannes Ernst",
+      "imports": [
+         "Ted Leung"
+      ]
+   },
+   {
+      "name": "Matt Pelletier",
+      "imports": [
+         "Ted Leung"
+      ]
+   },
+   {
+      "name": "Granqvist, Hans",
+      "imports": [
+         "Recordon, David"
+      ]
+   },
+   {
+      "name": "Michael Mell",
+      "imports": [
+         "Recordon, David"
+      ]
+   },
+   {
+      "name": "Yoav Shapira",
+      "imports": []
+   },
+   {
+      "name": "Ted Leung",
+      "imports": [
+         "Eugene Eric Kim",
+         "Yoav Shapira"
+      ]
+   }
+]

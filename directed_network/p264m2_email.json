@@ -1,0 +1,111 @@
+[
+   {
+      "name": "Dave Fisher",
+      "imports": [
+         "jan i",
+         "jan i",
+         "Peter Kelly",
+         "jani",
+         "jan i",
+         "jan i",
+         "jan i"
+      ]
+   },
+   {
+      "name": "Edward Zimmermann",
+      "imports": [
+         "=?utf-8?Q?Louis_Su=C3=A1rez-Potts?="
+      ]
+   },
+   {
+      "name": "jan i",
+      "imports": [
+         "orcmid",
+         "orcmid",
+         "Dave Fisher",
+         "Andrea Pescetti",
+         "Dave Fisher",
+         "Peter Kelly",
+         "Peter Kelly",
+         "Peter Kelly",
+         "Dave Fisher",
+         "Dave Fisher",
+         "Andrea Pescetti",
+         "Peter Kelly",
+         "=?utf-8?Q?Louis_Su=C3=A1rez-Potts?=",
+         "=?windows-1252?Q?Louis_Su=E1rez-Potts?=",
+         "Dave Fisher"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Louis_Su=C3=A1rez=2DPotts?=",
+      "imports": [
+         "Dave Fisher"
+      ]
+   },
+   {
+      "name": "Dennis E. Hamilton (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "orcmid",
+      "imports": []
+   },
+   {
+      "name": "jani",
+      "imports": []
+   },
+   {
+      "name": "Peter Kelly",
+      "imports": [
+         "Andrea Pescetti",
+         "Dave Fisher",
+         "Dave Fisher",
+         "jan i",
+         "jan i",
+         "Dennis E. Hamilton (JIRA)",
+         "shathawa",
+         "jan i"
+      ]
+   },
+   {
+      "name": "=?windows-1252?Q?Louis_Su=E1rez-Potts?=",
+      "imports": [
+         "Peter Kelly"
+      ]
+   },
+   {
+      "name": "Svante Schubert",
+      "imports": [
+         "Dave Fisher"
+      ]
+   },
+   {
+      "name": "Andrea Pescetti",
+      "imports": [
+         "jan i",
+         "Peter Kelly",
+         "Peter Kelly",
+         "jan i",
+         "jan i",
+         "jan i"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Louis_Su=C3=A1rez-Potts?=",
+      "imports": [
+         "jan i",
+         "jan i",
+         "jan i",
+         "jan i",
+         "jan i",
+         "jan i"
+      ]
+   },
+   {
+      "name": "shathawa",
+      "imports": [
+         "Peter Kelly"
+      ]
+   }
+]

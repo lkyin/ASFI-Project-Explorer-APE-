@@ -1,0 +1,204 @@
+[
+   {
+      "name": "Jochen Wiedmann",
+      "imports": [
+         "Michael Blow"
+      ]
+   },
+   {
+      "name": "Ate Douma",
+      "imports": [
+         "Ted Dunning",
+         "Till Westmann"
+      ]
+   },
+   {
+      "name": "abdullah alamoudi",
+      "imports": [
+         "Young-Seok Kim",
+         "Xikui Wang",
+         "Mike Carey",
+         "Veeral Shah",
+         "Taewoo Kim",
+         "Vignesh Raghunathan",
+         "Yingyi Bu",
+         "Chen Li",
+         "Mike Carey"
+      ]
+   },
+   {
+      "name": "Henry Saputra",
+      "imports": [
+         "Yingyi Bu",
+         "Till Westmann",
+         "Till Westmann"
+      ]
+   },
+   {
+      "name": "Michael Blow",
+      "imports": [
+         "Preston Carman",
+         "Khurram Faraaz"
+      ]
+   },
+   {
+      "name": "Khurram Faraaz",
+      "imports": [
+         "Mike Carey"
+      ]
+   },
+   {
+      "name": "Chris Hillery",
+      "imports": []
+   },
+   {
+      "name": "Ted Dunning",
+      "imports": [
+         "Mattmann, Chris A (3980)",
+         "Till Westmann"
+      ]
+   },
+   {
+      "name": "Murtadha Hubail",
+      "imports": [
+         "Xikui Wang"
+      ]
+   },
+   {
+      "name": "Wail Alkowaileet",
+      "imports": [
+         "Veeral Shah"
+      ]
+   },
+   {
+      "name": "Xikui Wang",
+      "imports": [
+         "Yingyi Bu",
+         "abdullah alamoudi",
+         "Murtadha Hubail"
+      ]
+   },
+   {
+      "name": "Till Westmann",
+      "imports": [
+         "Taewoo Kim",
+         "Jochen Wiedmann",
+         "Sandeep Joshi",
+         "Michael Blow",
+         "abdullah alamoudi",
+         "Chen Li",
+         "Mattmann, Chris A (3980)",
+         "Ate Douma",
+         "Henry Saputra"
+      ]
+   },
+   {
+      "name": "Chen Li",
+      "imports": [
+         "Jianfeng Jia",
+         "abdullah alamoudi",
+         "Mike Carey",
+         "Till Westmann"
+      ]
+   },
+   {
+      "name": "Taewoo Kim",
+      "imports": []
+   },
+   {
+      "name": "Preston Carman",
+      "imports": [
+         "Till Westmann"
+      ]
+   },
+   {
+      "name": "Young-Seok Kim",
+      "imports": [
+         "Xikui Wang",
+         "Yingyi Bu"
+      ]
+   },
+   {
+      "name": "Yingyi Bu",
+      "imports": [
+         "Xikui Wang",
+         "Young-Seok Kim",
+         "Ian Maxon",
+         "Mike Carey",
+         "Sandeep Joshi"
+      ]
+   },
+   {
+      "name": "Jianfeng Jia",
+      "imports": [
+         "abdullah alamoudi",
+         "Murtadha Hubail",
+         "Yingyi Bu"
+      ]
+   },
+   {
+      "name": "Veeral Shah",
+      "imports": [
+         "Mike Carey",
+         "abdullah alamoudi"
+      ]
+   },
+   {
+      "name": "Vignesh Raghunathan",
+      "imports": [
+         "abdullah alamoudi"
+      ]
+   },
+   {
+      "name": "Sandeep Joshi",
+      "imports": [
+         "Mike Carey"
+      ]
+   },
+   {
+      "name": "Ian Maxon",
+      "imports": [
+         "Wail Alkowaileet",
+         "Mattmann, Chris A (3980)"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (3980)",
+      "imports": [
+         "Till Westmann",
+         "Till Westmann"
+      ]
+   },
+   {
+      "name": "Steven Jacobs",
+      "imports": [
+         "abdullah alamoudi"
+      ]
+   },
+   {
+      "name": "Mike Carey",
+      "imports": [
+         "Chen Li",
+         "Chris Hillery",
+         "Raman Grover",
+         "Young-Seok Kim",
+         "Yingyi Bu",
+         "abdullah alamoudi",
+         "Yingyi Bu",
+         "Jianfeng Jia",
+         "Till Westmann",
+         "Till Westmann",
+         "Yingyi Bu",
+         "Till Westmann",
+         "Henry Saputra",
+         "Steven Jacobs",
+         "Steven Jacobs"
+      ]
+   },
+   {
+      "name": "Raman Grover",
+      "imports": [
+         "Yingyi Bu"
+      ]
+   }
+]

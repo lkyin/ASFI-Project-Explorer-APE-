@@ -1,0 +1,462 @@
+[
+   {
+      "name": "Arthur Wiedmer",
+      "imports": [
+         "Alison Stanton",
+         "Dan Davydov"
+      ]
+   },
+   {
+      "name": "Ash Berlin-Taylor",
+      "imports": [
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Bolke de Bruin",
+         "Chris Riccomini",
+         "Joy Gao",
+         "Bolke de Bruin",
+         "Ash Berlin-Taylor",
+         "Boris Tyukin",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Kevin Lam"
+      ]
+   },
+   {
+      "name": "Alison Stanton",
+      "imports": [
+         "Laura Lorenz"
+      ]
+   },
+   {
+      "name": "Niranda Perera",
+      "imports": [
+         "Daniel Imberman"
+      ]
+   },
+   {
+      "name": "Dan Davydov",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Russell Pierce",
+      "imports": [
+         "Sumit Maheshwari"
+      ]
+   },
+   {
+      "name": "Rafael Gomes",
+      "imports": [
+         "vincent.fh.lopez@gmail.com"
+      ]
+   },
+   {
+      "name": "Ruslan Dautkhanov",
+      "imports": [
+         "Gerard Toonstra",
+         "Gerard Toonstra"
+      ]
+   },
+   {
+      "name": "Van Klaveren, Brian N.",
+      "imports": [
+         "Alex Guziel"
+      ]
+   },
+   {
+      "name": "Yifei Hong",
+      "imports": [
+         "Andy Cooper"
+      ]
+   },
+   {
+      "name": "Daniel Huang",
+      "imports": [
+         "Ash Berlin-Taylor"
+      ]
+   },
+   {
+      "name": "Gerard Toonstra",
+      "imports": [
+         "Nathan McIntyre",
+         "Sam Elamin"
+      ]
+   },
+   {
+      "name": "Andy Cooper",
+      "imports": [
+         "Yifei Hong",
+         "Yifei Hong"
+      ]
+   },
+   {
+      "name": "William Pursell",
+      "imports": [
+         "Rajesh Chamarthi"
+      ]
+   },
+   {
+      "name": "Neethu M V",
+      "imports": []
+   },
+   {
+      "name": "Andy Huynh",
+      "imports": []
+   },
+   {
+      "name": "Koen Mevissen",
+      "imports": [
+         "Marc Bollinger"
+      ]
+   },
+   {
+      "name": "Sumit Maheshwari",
+      "imports": [
+         "Driesprong, Fokko",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Russell Pierce"
+      ]
+   },
+   {
+      "name": "Gael Magnan",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Andy Hadjigeorgiou",
+      "imports": [
+         "Bolke de Bruin",
+         "Chris Riccomini",
+         "Driesprong, Fokko"
+      ]
+   },
+   {
+      "name": "Michael Erdely",
+      "imports": [
+         "Alek Storm"
+      ]
+   },
+   {
+      "name": "Andreas Koeltringer",
+      "imports": []
+   },
+   {
+      "name": "Joy Gao",
+      "imports": [
+         "Bolke de Bruin",
+         "Maxime Beauchemin",
+         "Rajesh Chamarthi",
+         "Bolke de Bruin",
+         "Chris Riccomini",
+         "Feng Lu"
+      ]
+   },
+   {
+      "name": "Grant Nicholas",
+      "imports": [
+         "Chris Riccomini",
+         "Alex Guziel",
+         "Alex Guziel",
+         "Alex Guziel",
+         "Maxime Beauchemin",
+         "Daniel Imberman",
+         "Christopher Bockman"
+      ]
+   },
+   {
+      "name": "Alek Storm",
+      "imports": [
+         "Igors Vaitkus",
+         "Michael Erdely",
+         "Bolke de Bruin",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Alex Guziel",
+      "imports": [
+         "Andy Huynh",
+         "Grant Nicholas",
+         "Daniel Imberman",
+         "Grant Nicholas",
+         "Daniel (Daniel Lamblin) [BDP - Seoul]"
+      ]
+   },
+   {
+      "name": "Trevor Edwards",
+      "imports": [
+         "Feng Lu"
+      ]
+   },
+   {
+      "name": "vincent.fh.lopez@gmail.com",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Marc Bollinger",
+      "imports": [
+         "Ruslan Dautkhanov"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Radek_Tom=C5=A1ej?=",
+      "imports": []
+   },
+   {
+      "name": "Maxime Beauchemin",
+      "imports": [
+         "Driesprong, Fokko",
+         "Ruslan Dautkhanov",
+         "Joy Gao",
+         "Grant Nicholas",
+         "Grant Nicholas",
+         "Alek Storm",
+         "Bolke de Bruin",
+         "Joy Gao"
+      ]
+   },
+   {
+      "name": "Sergei Iakhnin",
+      "imports": [
+         "Andreas Koeltringer"
+      ]
+   },
+   {
+      "name": "Mark Grover",
+      "imports": [
+         "=?UTF-8?Q?Radek_Tom=C5=A1ej?="
+      ]
+   },
+   {
+      "name": "Nathan McIntyre",
+      "imports": [
+         "Alek Storm"
+      ]
+   },
+   {
+      "name": "Allison Wang",
+      "imports": [
+         "William Pursell"
+      ]
+   },
+   {
+      "name": "Laura Lorenz",
+      "imports": [
+         "Gerard Toonstra"
+      ]
+   },
+   {
+      "name": "Kerr Shireman",
+      "imports": [
+         "Arthur Wiedmer"
+      ]
+   },
+   {
+      "name": "Rajesh Chamarthi",
+      "imports": [
+         "Joy Gao",
+         "William Pursell"
+      ]
+   },
+   {
+      "name": "Megan Kearl",
+      "imports": [
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Christopher Bockman",
+      "imports": [
+         "Bolke de Bruin",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Sid Anand",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Somasundaram Sekar",
+      "imports": [
+         "Bolke de Bruin",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Driesprong, Fokko",
+      "imports": [
+         "Bolke de Bruin",
+         "Veeranagouda Mukkanagoudar",
+         "Ash Berlin-Taylor",
+         "Chris Riccomini",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Veeranagouda Mukkanagoudar",
+      "imports": [
+         "Driesprong, Fokko"
+      ]
+   },
+   {
+      "name": "Boris Tyukin",
+      "imports": [
+         "Bolke de Bruin",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Bolke de Bruin",
+      "imports": [
+         "Ash Berlin-Taylor",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Ash Berlin-Taylor",
+         "Maxime Beauchemin",
+         "Andy Hadjigeorgiou",
+         "Chris Riccomini",
+         "Ash Berlin-Taylor",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Grant Nicholas",
+         "Alek Storm",
+         "Sumit Maheshwari",
+         "Sumit Maheshwari",
+         "Boris Tyukin",
+         "Neethu M V",
+         "Somasundaram Sekar",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Trevor Edwards",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Gael Magnan",
+         "Gael Magnan",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Joy Gao",
+         "Joy Gao",
+         "Christopher Bockman",
+         "Christopher Bockman",
+         "Chris Riccomini",
+         "George Leslie-Waksman",
+         "Chris Riccomini",
+         "Kevin Lam",
+         "Kevin Lam",
+         "Arthur Wiedmer"
+      ]
+   },
+   {
+      "name": "Daniel (Daniel Lamblin) [BDP - Seoul]",
+      "imports": [
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Igors Vaitkus",
+      "imports": [
+         "Kate-Laurel Agnew"
+      ]
+   },
+   {
+      "name": "Feng Lu",
+      "imports": [
+         "Daniel Imberman",
+         "Grant Nicholas",
+         "Driesprong, Fokko",
+         "Driesprong, Fokko",
+         "Kevin Lam",
+         "Kevin Lam"
+      ]
+   },
+   {
+      "name": "Kevin Lam",
+      "imports": [
+         "Feng Lu",
+         "Bolke de Bruin",
+         "Ash Berlin-Taylor"
+      ]
+   },
+   {
+      "name": "George Leslie-Waksman",
+      "imports": [
+         "Driesprong, Fokko",
+         "Alek Storm"
+      ]
+   },
+   {
+      "name": "Daniel Imberman",
+      "imports": [
+         "Grant Nicholas",
+         "Grant Nicholas",
+         "Alex Guziel",
+         "Sumit Maheshwari",
+         "Feng Lu"
+      ]
+   },
+   {
+      "name": "Sam Elamin",
+      "imports": [
+         "Gerard Toonstra"
+      ]
+   },
+   {
+      "name": "Chris Riccomini",
+      "imports": [
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Kerr Shireman",
+         "Niranda Perera",
+         "Driesprong, Fokko",
+         "Ash Berlin-Taylor",
+         "Ash Berlin-Taylor",
+         "Bolke de Bruin",
+         "Ash Berlin-Taylor",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Gerard Toonstra",
+         "Rafael Gomes",
+         "Maxime Beauchemin",
+         "Bolke de Bruin",
+         "Andy Hadjigeorgiou",
+         "Andy Hadjigeorgiou",
+         "Bolke de Bruin",
+         "Joy Gao",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Ash Berlin-Taylor",
+         "Bolke de Bruin",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Kate-Laurel Agnew",
+      "imports": [
+         "Koen Mevissen"
+      ]
+   },
+   {
+      "name": "Gurer Kiratli",
+      "imports": [
+         "Megan Kearl"
+      ]
+   }
+]

@@ -1,0 +1,117 @@
+[
+   {
+      "name": "Jorge SM",
+      "imports": [
+         "Alexander Broekhuis"
+      ]
+   },
+   {
+      "name": "Alexander Broekhuis (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "erik",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Bj=F6rn_Petri?=",
+      "imports": [
+         "Alexander Broekhuis",
+         "Alexander Broekhuis"
+      ]
+   },
+   {
+      "name": "Gerrit Binnenmars (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Mike van Dongen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Gerrit Binnenmars",
+      "imports": [
+         "Alexander Broekhuis",
+         "Alexander Broekhuis",
+         "Alexander Broekhuis"
+      ]
+   },
+   {
+      "name": "Mohammad Nour El-Din",
+      "imports": [
+         "Alexander Broekhuis (JIRA)"
+      ]
+   },
+   {
+      "name": "Jorge SANCHEZ",
+      "imports": []
+   },
+   {
+      "name": "Pepijn Noltes",
+      "imports": [
+         "Jorge SM",
+         "Alexander Broekhuis",
+         "erik",
+         "Alexander Broekhuis"
+      ]
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Alexander Broekhuis",
+      "imports": [
+         "=?ISO-8859-1?Q?Bj=F6rn_Petri?=",
+         "Gerrit Binnenmars",
+         "=?UTF-8?Q?Bj=C3=B6rn_Petri?=",
+         "Mike van Dongen (JIRA)",
+         "Jorge SANCHEZ",
+         "Mike van Dongen",
+         "Jorge SM",
+         "Pepijn Noltes",
+         "Pepijn Noltes",
+         "=?UTF-8?Q?Bj=C3=B6rn_Petri?=",
+         "=?ISO-8859-1?Q?Bj=F6rn_Petri?=",
+         "Marvin",
+         "erik",
+         "Gerrit Binnenmars (JIRA)",
+         "Gerrit Binnenmars",
+         "Bjoern Petri (JIRA)",
+         "=?UTF-8?Q?Bj=C3=B6rn_Petri?=",
+         "Gerrit Binnenmars",
+         "=?UTF-8?Q?Bj=C3=B6rn_Petri?="
+      ]
+   },
+   {
+      "name": "Mike van Dongen",
+      "imports": []
+   },
+   {
+      "name": "Bjoern Petri (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Marcel Offermans",
+      "imports": [
+         "Alexander Broekhuis"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Bj=C3=B6rn_Petri?=",
+      "imports": [
+         "Alexander Broekhuis",
+         "Alexander Broekhuis",
+         "Alexander Broekhuis",
+         "Alexander Broekhuis",
+         "Alexander Broekhuis",
+         "Alexander Broekhuis"
+      ]
+   },
+   {
+      "name": "Sascha Zelzer",
+      "imports": [
+         "Alexander Broekhuis"
+      ]
+   }
+]

@@ -1,0 +1,30 @@
+[
+   {
+      "name": "Rob Weir",
+      "imports": [
+         "Svante Schubert",
+         "Svante Schubert",
+         "sebb",
+         "Svante Schubert"
+      ]
+   },
+   {
+      "name": "sebb",
+      "imports": [
+         "Svante Schubert"
+      ]
+   },
+   {
+      "name": "Svante Schubert",
+      "imports": [
+         "Florian Hopf",
+         "Florian Hopf"
+      ]
+   },
+   {
+      "name": "Florian Hopf",
+      "imports": [
+         "Svante Schubert"
+      ]
+   }
+]

@@ -1,0 +1,199 @@
+[
+   {
+      "name": "Dave Fisher",
+      "imports": [
+         "Jai Asher",
+         "Matteo Merli"
+      ]
+   },
+   {
+      "name": "Hiroyuki Sakai",
+      "imports": [
+         "Jai Asher",
+         "Matteo Merli"
+      ]
+   },
+   {
+      "name": "Jim Jagielski",
+      "imports": [
+         "Jai Asher"
+      ]
+   },
+   {
+      "name": "Jerry Peng",
+      "imports": [
+         "Sijie Guo",
+         "Jia Zhai",
+         "Matteo Merli",
+         "Sijie Guo",
+         "Ivan Kelly"
+      ]
+   },
+   {
+      "name": "Enrico Olivelli",
+      "imports": [
+         "Sijie Guo"
+      ]
+   },
+   {
+      "name": "P. Taylor Goetz",
+      "imports": [
+         "Matteo Merli",
+         "Matteo Merli",
+         "Matteo Merli"
+      ]
+   },
+   {
+      "name": "Joe F",
+      "imports": [
+         "Sijie Guo",
+         "Sijie Guo",
+         "Sijie Guo"
+      ]
+   },
+   {
+      "name": "Ali Ahmed",
+      "imports": [
+         "Ivan Kelly",
+         "Jerry Peng",
+         "Geoffroy Fouquier",
+         "Rajan Dhabalia"
+      ]
+   },
+   {
+      "name": "Ivan Kelly",
+      "imports": [
+         "Sijie Guo",
+         "Sijie Guo",
+         "Ali Ahmed",
+         "Ali Ahmed",
+         "Matteo Merli"
+      ]
+   },
+   {
+      "name": "Masakazu Kitajo",
+      "imports": [
+         "Matteo Merli"
+      ]
+   },
+   {
+      "name": "Daniel Pono Takamori",
+      "imports": []
+   },
+   {
+      "name": "Nozomi Kurihara",
+      "imports": [
+         "Rajan Dhabalia",
+         "Jai Asher",
+         "Sijie Guo",
+         "Matteo Merli"
+      ]
+   },
+   {
+      "name": "Matteo Merli",
+      "imports": [
+         "P. Taylor Goetz",
+         "Sijie Guo",
+         "P. Taylor Goetz",
+         "Joe F",
+         "P. Taylor Goetz",
+         "Masahiro Sakamoto",
+         "Masahiro Sakamoto",
+         "Masahiro Sakamoto",
+         "Masahiro Sakamoto"
+      ]
+   },
+   {
+      "name": "Sahaya Andrews",
+      "imports": [
+         "Matteo Merli"
+      ]
+   },
+   {
+      "name": "Geoffroy Fouquier",
+      "imports": [
+         "Sijie Guo",
+         "Sijie Guo"
+      ]
+   },
+   {
+      "name": "Jai Asher",
+      "imports": [
+         "Sijie Guo"
+      ]
+   },
+   {
+      "name": "Sanjeev Kulkarni",
+      "imports": [
+         "Joe F",
+         "Matteo Merli",
+         "Matteo Merli"
+      ]
+   },
+   {
+      "name": "Sijie Guo",
+      "imports": [
+         "Geoffroy Fouquier",
+         "Joe F",
+         "Ivan Kelly",
+         "Matteo Merli",
+         "Dave Fisher",
+         "Jai Asher",
+         "Matteo Merli",
+         "Ivan Kelly",
+         "jmclean",
+         "Ivan Kelly",
+         "Dave Fisher",
+         "Matteo Merli",
+         "Sanjeev Kulkarni",
+         "Matteo Merli",
+         "Jerry Peng",
+         "Geoffroy Fouquier",
+         "Geoffroy Fouquier",
+         "Joe F",
+         "Matteo Merli",
+         "Matteo Merli",
+         "geoffroy.fouquier",
+         "Matteo Merli"
+      ]
+   },
+   {
+      "name": "Rajan Dhabalia",
+      "imports": [
+         "Matteo Merli",
+         "Matteo Merli",
+         "Daniel Pono Takamori",
+         "Matteo Merli"
+      ]
+   },
+   {
+      "name": "Masahiro Sakamoto",
+      "imports": [
+         "Hiroyuki Sakai",
+         "Matteo Merli",
+         "Matteo Merli",
+         "Matteo Merli"
+      ]
+   },
+   {
+      "name": "Jia Zhai",
+      "imports": [
+         "Matteo Merli",
+         "Sijie Guo",
+         "Sanjeev Kulkarni",
+         "Sijie Guo",
+         "Enrico Olivelli",
+         "Sijie Guo"
+      ]
+   },
+   {
+      "name": "geoffroy.fouquier",
+      "imports": [
+         "Ali Ahmed"
+      ]
+   },
+   {
+      "name": "jmclean",
+      "imports": []
+   }
+]

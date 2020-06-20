@@ -1,0 +1,48 @@
+[
+   {
+      "name": "Zhangshunyu",
+      "imports": []
+   },
+   {
+      "name": "Ravindra Pesala",
+      "imports": [
+         "=?UTF-8?Q?Jean-Baptiste_Onofr=c3=a9?="
+      ]
+   },
+   {
+      "name": "397090770",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?Q?Jean-Baptiste_Onofr=c3=a9?=",
+      "imports": [
+         "Liang Big data"
+      ]
+   },
+   {
+      "name": "ravipesala",
+      "imports": [
+         "397090770",
+         "397090770",
+         "397090770",
+         "Zhangshunyu",
+         "Zhangshunyu",
+         "Zhangshunyu",
+         "Zhangshunyu",
+         "Zhangshunyu",
+         "Zhangshunyu",
+         "Zhangshunyu",
+         "Zhangshunyu"
+      ]
+   },
+   {
+      "name": "Chenliang (Liang, CarbonData)",
+      "imports": [
+         "Ravindra Pesala"
+      ]
+   },
+   {
+      "name": "Liang Big data",
+      "imports": []
+   }
+]

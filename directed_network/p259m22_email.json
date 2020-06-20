@@ -1,0 +1,27 @@
+[
+   {
+      "name": "Arthur Chen",
+      "imports": [
+         "Samuel Kevin"
+      ]
+   },
+   {
+      "name": "qinjian (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Samuel Kevin",
+      "imports": [
+         "Arthur Chen",
+         "qinjian (JIRA)",
+         "visionfly"
+      ]
+   },
+   {
+      "name": "visionfly",
+      "imports": [
+         "Arthur Chen",
+         "Samuel Kevin"
+      ]
+   }
+]

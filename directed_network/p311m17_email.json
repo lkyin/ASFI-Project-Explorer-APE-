@@ -1,0 +1,28 @@
+[
+   {
+      "name": "Sebastian Bergmann",
+      "imports": [
+         "Benjamin Eberlei"
+      ]
+   },
+   {
+      "name": "David Rekowski",
+      "imports": [
+         "Henri Bergius",
+         "Henri Bergius"
+      ]
+   },
+   {
+      "name": "Henri Bergius",
+      "imports": [
+         "David Rekowski",
+         "David Rekowski"
+      ]
+   },
+   {
+      "name": "Benjamin Eberlei",
+      "imports": [
+         "Sebastian Bergmann"
+      ]
+   }
+]

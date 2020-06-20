@@ -1,0 +1,130 @@
+[
+   {
+      "name": "Sean Zhong(clockfly)",
+      "imports": []
+   },
+   {
+      "name": "sriram",
+      "imports": [
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Tejas Patil",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "JG Homan",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Stone",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Jakob Homan",
+      "imports": [
+         "Paul Brown",
+         "sriram",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Alan Li",
+      "imports": []
+   },
+   {
+      "name": "Mathias Herberts",
+      "imports": [
+         "Chris Riccomini",
+         "Jay Kreps"
+      ]
+   },
+   {
+      "name": "Kam Kasravi",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Chris Riccomini",
+      "imports": [
+         "Alex The Rocker",
+         "Ross Gardler",
+         "sriram",
+         "JG Homan",
+         "Alan Li",
+         "Jay Kreps",
+         "Sean Zhong(clockfly)",
+         "sriram",
+         "Jay Kreps",
+         "Paul Brown",
+         "Kam Kasravi",
+         "Sriram",
+         "sriram",
+         "Jay Kreps",
+         "Jakob Homan",
+         "Mathias Herberts",
+         "Jay Kreps",
+         "Stone",
+         "Sriram Subramanian"
+      ]
+   },
+   {
+      "name": "Jay Kreps",
+      "imports": [
+         "Stone",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Mathias Herberts",
+         "Sriram Subramanian"
+      ]
+   },
+   {
+      "name": "Paul Brown",
+      "imports": [
+         "Jay Kreps"
+      ]
+   },
+   {
+      "name": "Alex The Rocker",
+      "imports": []
+   },
+   {
+      "name": "Tejas Patil",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Sriram",
+      "imports": [
+         "Jakob Homan"
+      ]
+   },
+   {
+      "name": "Daniel Shahaf",
+      "imports": [
+         "Ross Gardler",
+         "Marvin Humphrey",
+         "Ross Gardler"
+      ]
+   },
+   {
+      "name": "Sriram Subramanian",
+      "imports": []
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": []
+   },
+   {
+      "name": "Ross Gardler",
+      "imports": [
+         "Marvin Humphrey"
+      ]
+   }
+]

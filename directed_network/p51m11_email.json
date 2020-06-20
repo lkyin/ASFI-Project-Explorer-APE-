@@ -1,0 +1,61 @@
+[
+   {
+      "name": "Mari",
+      "imports": [
+         "Marcel Offermans"
+      ]
+   },
+   {
+      "name": "Brian Topping (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Toni Menzel",
+      "imports": [
+         "Marcel Offermans",
+         "Marcel Offermans",
+         "Brian Topping",
+         "Carsten Ziegeler",
+         "Carsten Ziegeler"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-15?Q?Jean-Baptiste_Onofr=E9?=",
+      "imports": [
+         "Carsten Ziegeler"
+      ]
+   },
+   {
+      "name": "Carsten Ziegeler",
+      "imports": [
+         "Toni Menzel",
+         "Marcel Offermans",
+         "Marcel Offermans"
+      ]
+   },
+   {
+      "name": "Brian Topping",
+      "imports": []
+   },
+   {
+      "name": "Toni Menzel (JIRA)",
+      "imports": [
+         "Brian Topping (JIRA)"
+      ]
+   },
+   {
+      "name": "Marcel Offermans",
+      "imports": [
+         "Toni Menzel",
+         "Toni Menzel",
+         "Carsten Ziegeler",
+         "Toni Menzel"
+      ]
+   },
+   {
+      "name": "Zilvinas Kybartas (JIRA)",
+      "imports": [
+         "Brian Topping (JIRA)"
+      ]
+   }
+]

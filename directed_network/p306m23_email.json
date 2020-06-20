@@ -1,0 +1,264 @@
+[
+   {
+      "name": "=?ISO-8859-1?Q?Alberto_P=E9rez?=",
+      "imports": [
+         "Yuri Z"
+      ]
+   },
+   {
+      "name": "Yuri Zelikov",
+      "imports": [
+         "Ali Lown",
+         "Ali Lown",
+         "Vicente J. Ruiz Jurado",
+         "Angus Turner",
+         "wavegrove",
+         "Vicente J. Ruiz Jurado",
+         "Vicente J. Ruiz Jurado",
+         "Vicente J. Ruiz Jurado",
+         "Vicente J. Ruiz Jurado",
+         "Andrew Kaplanov",
+         "Andrew Kaplanov",
+         "Andrew Kaplanov",
+         "wavegrove",
+         "Andrew Kaplanov",
+         "wavegrove",
+         "Vicente J. Ruiz Jurado",
+         "Vicente J. Ruiz Jurado",
+         "Vicente J. Ruiz Jurado",
+         "Vicente J. Ruiz Jurado",
+         "Vicente J. Ruiz Jurado",
+         "Ali Lown"
+      ]
+   },
+   {
+      "name": "Lamu Guo (JIRA)",
+      "imports": [
+         "Witold Baryluk (Created) (JIRA)",
+         "=?utf-8?Q?Manuel_Carrasco_Mo=C3=B1ino_=28Created=29_=28JIRA=29?=",
+         "=?utf-8?Q?Manuel_Carrasco_Mo=C3=B1ino_=28Created=29_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Thomas Leonard",
+      "imports": [
+         "Ali Lown"
+      ]
+   },
+   {
+      "name": "Ben Hegarty",
+      "imports": [
+         "Ali Lown",
+         "Ali Lown",
+         "Ali Lown",
+         "Ali Lown",
+         "Ali Lown",
+         "Ali Lown",
+         "Ali Lown",
+         "Ali Lown",
+         "Ali Lown",
+         "Ali Lown",
+         "Ali Lown",
+         "Ali Lown",
+         "Ali Lown"
+      ]
+   },
+   {
+      "name": "Andrew Kaplanov",
+      "imports": [
+         "Yuri Zelikov",
+         "Yuri Zelikov"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Manuel_Carrasco_Mo=C3=B1ino_=28Created=29_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Michael MacFadden",
+      "imports": [
+         "Angus Turner",
+         "Ed - 0x1b, Inc."
+      ]
+   },
+   {
+      "name": "Vicente J. Ruiz Jurado (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?J=E9r=E9my_Naegel?=",
+      "imports": [
+         "=?UTF-8?B?WmFjaGFyeSDigJxHYW1lcl9aLuKAnSBZYXJv?="
+      ]
+   },
+   {
+      "name": "Witold Baryluk (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Patrick Coleman",
+      "imports": [
+         "Vicente J. Ruiz Jurado",
+         "wavegrove"
+      ]
+   },
+   {
+      "name": "Wave Grove",
+      "imports": [
+         "=?UTF-8?B?WmFjaGFyeSDigJxHYW1lcl9aLuKAnSBZYXJv?="
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?WmFjaGFyeSDigJxHYW1lcl9aLuKAnSBZYXJv?=",
+      "imports": [
+         "Bruno Gonzalez",
+         "Angus Turner",
+         "Wave Grove"
+      ]
+   },
+   {
+      "name": "Angus Turner",
+      "imports": [
+         "Ali Lown",
+         "Upayavira",
+         "Upayavira",
+         "Upayavira",
+         "Yuri Zelikov",
+         "Upayavira",
+         "Upayavira",
+         "wavegrove",
+         "Ali Lown",
+         "Ed - 0x1b, Inc."
+      ]
+   },
+   {
+      "name": "Bruno Gonzalez",
+      "imports": [
+         "=?UTF-8?B?WmFjaGFyeSDigJxHYW1lcl9aLuKAnSBZYXJv?="
+      ]
+   },
+   {
+      "name": "Paulo Pires (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Manuel_Carrasco_Mo=C3=B1ino_=28Created=29_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Yuri Z",
+      "imports": [
+         "Jorge Ricardez",
+         "Jorge Ricardez",
+         "Dougherty, Hugh",
+         "=?ISO-8859-1?Q?Alberto_P=E9rez?="
+      ]
+   },
+   {
+      "name": "Ed - 0x1b, Inc.",
+      "imports": [
+         "Michael MacFadden",
+         "Michael MacFadden"
+      ]
+   },
+   {
+      "name": "Vicente J. Ruiz Jurado",
+      "imports": [
+         "Ali Lown",
+         "Yuri Zelikov",
+         "Yuri Zelikov",
+         "Yuri Zelikov",
+         "Yuri Zelikov",
+         "Patrick Coleman",
+         "Yuri Zelikov",
+         "Patrick Coleman",
+         "wavegrove",
+         "Yuri Zelikov",
+         "Yuri Zelikov",
+         "Thomas Leonard"
+      ]
+   },
+   {
+      "name": "Ali Lown (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Vicente J. Ruiz Jurado (JIRA)",
+      "imports": [
+         "Vicente J. Ruiz Jurado (Created) (JIRA)",
+         "Vicente J. Ruiz Jurado (Created) (JIRA)",
+         "Vicente J. Ruiz Jurado (Created) (JIRA)",
+         "Samer (JIRA)",
+         "Samer (JIRA)",
+         "Samer (JIRA)",
+         "Ali Lown (Created) (JIRA)",
+         "Ali Lown (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Ali Lown",
+      "imports": [
+         "Angus Turner",
+         "Ben Hegarty",
+         "Ben Hegarty",
+         "Ben Hegarty",
+         "Ben Hegarty",
+         "Ben Hegarty",
+         "Ben Hegarty",
+         "Ben Hegarty",
+         "Ben Hegarty",
+         "Ben Hegarty",
+         "Ben Hegarty",
+         "Yuri Zelikov",
+         "Vicente J. Ruiz Jurado",
+         "Yuri Zelikov",
+         "Yuri Zelikov",
+         "Bruno Gonzalez",
+         "Ben Hegarty",
+         "Angus Turner",
+         "Angus Turner",
+         "Ben Hegarty",
+         "Ben Hegarty",
+         "Yuri Zelikov",
+         "Vicente J. Ruiz Jurado",
+         "Vicente J. Ruiz Jurado",
+         "Vicente J. Ruiz Jurado",
+         "Yuri Zelikov",
+         "Thomas Leonard"
+      ]
+   },
+   {
+      "name": "Upayavira",
+      "imports": [
+         "Angus Turner",
+         "Angus Turner",
+         "Angus Turner",
+         "Angus Turner"
+      ]
+   },
+   {
+      "name": "Dougherty, Hugh",
+      "imports": []
+   },
+   {
+      "name": "Samer (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jorge Ricardez",
+      "imports": []
+   },
+   {
+      "name": "wavegrove",
+      "imports": [
+         "Angus Turner",
+         "Angus Turner",
+         "Yuri Zelikov"
+      ]
+   },
+   {
+      "name": "Olof (JIRA)",
+      "imports": [
+         "Vicente J. Ruiz Jurado (JIRA)",
+         "Samer (JIRA)"
+      ]
+   }
+]

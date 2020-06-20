@@ -1,0 +1,92 @@
+[
+   {
+      "name": "Benjamin Venditti (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Rainer_D=C3=B6bele_=28JIRA=29?=",
+         "=?utf-8?Q?Rainer_D=C3=B6bele_=28JIRA=29?=",
+         "=?utf-8?Q?Rainer_D=C3=B6bele_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Benjamin Venditti",
+      "imports": [
+         "Matt DeHoust",
+         "Matt DeHoust",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "Francis De Brabandere"
+      ]
+   },
+   {
+      "name": "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+      "imports": [
+         "Martijn Dashorst",
+         "Francis De Brabandere",
+         "Francis De Brabandere",
+         "Francis De Brabandere",
+         "Francis De Brabandere",
+         "Francis De Brabandere",
+         "Benjamin Venditti",
+         "Francis De Brabandere",
+         "Francis De Brabandere",
+         "Matt DeHoust",
+         "Martijn Dashorst",
+         "Francis De Brabandere",
+         "Francis De Brabandere",
+         "Francis De Brabandere"
+      ]
+   },
+   {
+      "name": "Matt DeHoust",
+      "imports": [
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "Benjamin Venditti"
+      ]
+   },
+   {
+      "name": "doebele",
+      "imports": []
+   },
+   {
+      "name": "Francis De Brabandere",
+      "imports": [
+         "doebele",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "Eike Kettner",
+         "Eike Kettner",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?="
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Rainer_D=C3=B6bele_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Eike Kettner",
+      "imports": [
+         "Francis De Brabandere",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?="
+      ]
+   },
+   {
+      "name": "Martijn Dashorst",
+      "imports": [
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "Francis De Brabandere"
+      ]
+   },
+   {
+      "name": "Matt DeHoust (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Rainer_D=C3=B6bele_=28JIRA=29?="
+      ]
+   }
+]

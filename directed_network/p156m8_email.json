@@ -1,0 +1,262 @@
+[
+   {
+      "name": "Matt Weber",
+      "imports": [
+         "Karl Wright",
+         "Mark Miller"
+      ]
+   },
+   {
+      "name": "Robert Muir",
+      "imports": [
+         "Simon Willnauer",
+         "karl.wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "karl.wright",
+      "imports": [
+         "Jettro Coenradie",
+         "Grant Ingersoll",
+         "Jack Krupansky",
+         "Jettro Coenradie",
+         "Jettro Coenradie",
+         "Grant Ingersoll",
+         "Jack Krupansky",
+         "Grant Ingersoll",
+         "Simon Willnauer",
+         "Jettro Coenradie",
+         "Jettro Coenradie",
+         "Jettro Coenradie",
+         "Jettro Coenradie",
+         "Robert Muir",
+         "Gianugo Rabellino",
+         "Jack Krupansky"
+      ]
+   },
+   {
+      "name": "Jettro Coenradie",
+      "imports": [
+         "karl.wright",
+         "karl.wright",
+         "karl.wright",
+         "karl.wright",
+         "karl.wright",
+         "Mark Miller",
+         "karl.wright",
+         "karl.wright",
+         "karl.wright",
+         "Simon Willnauer"
+      ]
+   },
+   {
+      "name": "Mark Miller",
+      "imports": [
+         "Jack Krupansky",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Matt Weber",
+         "Robert Muir",
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Robert Muir (JIRA)",
+      "imports": [
+         "Jettro Coenradie (JIRA)"
+      ]
+   },
+   {
+      "name": "Jettro Coenradie (JIRA)",
+      "imports": [
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)"
+      ]
+   },
+   {
+      "name": "Karl Wright",
+      "imports": [
+         "Grant Ingersoll",
+         "Simon Willnauer",
+         "Mark Miller",
+         "Jack Krupansky",
+         "Grant Ingersoll",
+         "Jack Krupansky",
+         "Mark Miller",
+         "Mark Miller",
+         "Mark Miller",
+         "Mark Miller",
+         "Matt Weber",
+         "Grant Ingersoll",
+         "Jack Krupansky",
+         "Jack Krupansky",
+         "Otis Gospodnetic",
+         "Grant Ingersoll",
+         "Jack Krupansky",
+         "Robert Muir",
+         "Mark Miller",
+         "no-reply",
+         "Grant Ingersoll",
+         "Jack Krupansky",
+         "Mark Miller",
+         "Jack Krupansky"
+      ]
+   },
+   {
+      "name": "Karl Wright (JIRA)",
+      "imports": [
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Robert Muir (JIRA)",
+         "Robert Muir (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Robert Muir (JIRA)",
+         "Robert Muir (JIRA)",
+         "Robert Muir (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Robert Muir (JIRA)",
+         "Jack Krupansky (JIRA)",
+         "Jack Krupansky (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jack Krupansky (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jettro Coenradie (JIRA)",
+         "Jack Krupansky (JIRA)",
+         "Jack Krupansky (JIRA)"
+      ]
+   },
+   {
+      "name": "Mark Miller (JIRA)",
+      "imports": [
+         "Jack Krupansky (JIRA)",
+         "Jack Krupansky (JIRA)"
+      ]
+   },
+   {
+      "name": "Grant Ingersoll",
+      "imports": [
+         "karl.wright",
+         "karl.wright",
+         "karl.wright",
+         "karl.wright",
+         "Robert Muir",
+         "karl.wright",
+         "karl.wright",
+         "karl.wright",
+         "Karl Wright",
+         "Jack Krupansky",
+         "Jack Krupansky",
+         "Mark Miller",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Jack Krupansky (JIRA)",
+      "imports": [
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)",
+         "Karl Wright (JIRA)"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Erik Hatcher",
+      "imports": [
+         "Simon Willnauer"
+      ]
+   },
+   {
+      "name": "Gianugo Rabellino",
+      "imports": [
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Simon Willnauer",
+      "imports": [
+         "Jack Krupansky",
+         "karl.wright",
+         "Karl Wright",
+         "Jettro Coenradie",
+         "Grant Ingersoll",
+         "Grant Ingersoll",
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Jack Krupansky",
+      "imports": [
+         "Grant Ingersoll",
+         "karl.wright",
+         "karl.wright",
+         "Grant Ingersoll",
+         "Jettro Coenradie",
+         "Karl Wright",
+         "Karl Wright",
+         "Robert Muir",
+         "Grant Ingersoll",
+         "karl.wright",
+         "Simon Willnauer",
+         "Grant Ingersoll",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Grant Ingersoll",
+         "Karl Wright",
+         "Grant Ingersoll",
+         "Grant Ingersoll",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright",
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Otis Gospodnetic",
+      "imports": [
+         "Karl Wright"
+      ]
+   }
+]

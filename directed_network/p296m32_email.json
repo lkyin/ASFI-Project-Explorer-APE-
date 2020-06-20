@@ -1,0 +1,47 @@
+[
+   {
+      "name": "Ross Gardler (MS OPEN TECH)",
+      "imports": [
+         "Tim Barham",
+         "Christian Grobmeier"
+      ]
+   },
+   {
+      "name": "Brent Lintner (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Christian Grobmeier",
+      "imports": []
+   },
+   {
+      "name": "Brent Lintner",
+      "imports": [
+         "Parashuram N (MS OPEN TECH)",
+         "Brent Lintner (JIRA)"
+      ]
+   },
+   {
+      "name": "Tim Barham",
+      "imports": [
+         "Brent Lintner",
+         "Arzhan Kinzhalin",
+         "Arzhan Kinzhalin",
+         "Arzhan Kinzhalin"
+      ]
+   },
+   {
+      "name": "Arzhan Kinzhalin",
+      "imports": [
+         "Tim Barham",
+         "Tim Barham",
+         "Ross Gardler (MS OPEN TECH)"
+      ]
+   },
+   {
+      "name": "Parashuram N (MS OPEN TECH)",
+      "imports": [
+         "Ross Gardler (MS OPEN TECH)"
+      ]
+   }
+]

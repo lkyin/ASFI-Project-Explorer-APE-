@@ -1,0 +1,21 @@
+[
+   {
+      "name": "Jerome Renard",
+      "imports": [
+         "Christian Grobmeier"
+      ]
+   },
+   {
+      "name": "Christian Grobmeier",
+      "imports": [
+         "Jerome Renard",
+         "Jerome Renard"
+      ]
+   },
+   {
+      "name": "Philippe Vincent-Royol",
+      "imports": [
+         "Christian Grobmeier"
+      ]
+   }
+]

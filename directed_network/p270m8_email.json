@@ -1,0 +1,75 @@
+[
+   {
+      "name": "David Sean Taylor",
+      "imports": [
+         "clombart",
+         "Christophe Lombart",
+         "=?UTF-8?Q?Oliver_Kie=C3=9Fler_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Oliver Kiessler",
+      "imports": [
+         "Christophe Lombart"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Rapha=EBl_Luta?=",
+      "imports": [
+         "Christophe Lombart",
+         "Christophe Lombart",
+         "Christophe Lombart"
+      ]
+   },
+   {
+      "name": "Christophe Lombart",
+      "imports": [
+         "raphael",
+         "Michael Neilly",
+         "Michael Neilly",
+         "Shinsuke SUGAYA",
+         "Michael Neilly",
+         "=?ISO-8859-1?Q?Rapha=EBl_Luta?=",
+         "=?ISO-8859-1?Q?Rapha=EBl_Luta?=",
+         "Markus Joschko"
+      ]
+   },
+   {
+      "name": "Markus Joschko",
+      "imports": [
+         "Christophe Lombart"
+      ]
+   },
+   {
+      "name": "Shinsuke SUGAYA",
+      "imports": []
+   },
+   {
+      "name": "clombart",
+      "imports": []
+   },
+   {
+      "name": "Christophe Lombart (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Michael Neilly",
+      "imports": [
+         "Christophe Lombart"
+      ]
+   },
+   {
+      "name": "Shinsuke SUGAYA (JIRA)",
+      "imports": [
+         "Christophe Lombart (JIRA)"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Oliver_Kie=C3=9Fler_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "raphael",
+      "imports": []
+   }
+]

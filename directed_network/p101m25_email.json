@@ -1,0 +1,32 @@
+[
+   {
+      "name": "Francis De Brabandere",
+      "imports": [
+         "Eike Kettner",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?="
+      ]
+   },
+   {
+      "name": "Andreas Fink",
+      "imports": [
+         "=?iso-8859-1?Q?Rainer_D=F6bele?="
+      ]
+   },
+   {
+      "name": "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+      "imports": [
+         "Andreas Fink",
+         "Eike Kettner",
+         "Eike Kettner",
+         "Francis De Brabandere"
+      ]
+   },
+   {
+      "name": "Eike Kettner",
+      "imports": [
+         "=?iso-8859-1?Q?Rainer_D=F6bele?="
+      ]
+   }
+]

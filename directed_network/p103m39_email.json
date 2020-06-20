@@ -1,0 +1,40 @@
+[
+   {
+      "name": "Seth Call (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Michal Miksovic (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Michael Fitzner (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Michael Fitzner (Assigned) (JIRA)",
+      "imports": [
+         "Michal Miksovic (JIRA)"
+      ]
+   },
+   {
+      "name": "Michael Fitzner (Updated) (JIRA)",
+      "imports": [
+         "Michal Miksovic (JIRA)"
+      ]
+   },
+   {
+      "name": "Martin Veith (Resolved) (JIRA)",
+      "imports": [
+         "Michael Fitzner (JIRA)"
+      ]
+   },
+   {
+      "name": "Seth Call (Updated) (JIRA)",
+      "imports": [
+         "Seth Call (Created) (JIRA)",
+         "Seth Call (Created) (JIRA)",
+         "Seth Call (Created) (JIRA)"
+      ]
+   }
+]

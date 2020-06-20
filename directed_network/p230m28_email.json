@@ -1,0 +1,407 @@
+[
+   {
+      "name": "Doug Judd",
+      "imports": []
+   },
+   {
+      "name": "Jake Luciani",
+      "imports": [
+         "Mark Slee"
+      ]
+   },
+   {
+      "name": "Mathias Herberts",
+      "imports": [
+         "Jeffrey DeCew"
+      ]
+   },
+   {
+      "name": "Michael Stockton (JIRA)",
+      "imports": [
+         "Tony Kamenick (JIRA)"
+      ]
+   },
+   {
+      "name": "Chad Walters (JIRA)",
+      "imports": [
+         "Jordan (JIRA)"
+      ]
+   },
+   {
+      "name": "Anatol Pomozov (JIRA)",
+      "imports": [
+         "Mathias Herberts (JIRA)",
+         "Mathias Herberts (JIRA)",
+         "Mathias Herberts (JIRA)"
+      ]
+   },
+   {
+      "name": "Jeff DeCew (JIRA)",
+      "imports": [
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)"
+      ]
+   },
+   {
+      "name": "David Reiss",
+      "imports": [
+         "Bryan Duxbury",
+         "Todd Lipcon"
+      ]
+   },
+   {
+      "name": "Joe Schaefer",
+      "imports": [
+         "Mark Slee"
+      ]
+   },
+   {
+      "name": "Steven Ong",
+      "imports": [
+         "Mark Slee",
+         "Mark Slee",
+         "Bryan Duxbury",
+         "Bryan Duxbury (JIRA)"
+      ]
+   },
+   {
+      "name": "Kevin Ballard (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bryan Duxbury (JIRA)",
+      "imports": [
+         "Dan Sully (JIRA)",
+         "Dan Sully (JIRA)",
+         "immars (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Lev Walkin (JIRA)",
+         "=?utf-8?Q?J=C3=A9r=C3=A9mie_BORDIER_=28JIRA=29?=",
+         "Dan Sully (JIRA)",
+         "Eric Jensen (JIRA)",
+         "Nate McCall (JIRA)",
+         "Dan Sully (JIRA)",
+         "Dan Sully (JIRA)",
+         "Nate McCall (JIRA)",
+         "Ning Liang (JIRA)",
+         "Esteve Fernandez (JIRA)",
+         "Steven Ong (JIRA)",
+         "Ning Liang (JIRA)",
+         "Fredrik Hedberg (JIRA)",
+         "Ning Liang (JIRA)",
+         "Ning Liang (JIRA)",
+         "Mathias Herberts (JIRA)",
+         "Mathias Herberts (JIRA)",
+         "Tony Kamenick (JIRA)",
+         "Conrad Hughes (JIRA)",
+         "Conrad Hughes (JIRA)",
+         "Thomas Kho (JIRA)",
+         "David Reiss (JIRA)",
+         "Thomas Kho (JIRA)",
+         "Loreto Parisi (JIRA)",
+         "Jordan (JIRA)",
+         "Chad Walters (JIRA)",
+         "Chad Walters (JIRA)",
+         "Andrew Kuhnhausen (JIRA)",
+         "Walter Chang (JIRA)",
+         "Ben Taitelbaum (JIRA)",
+         "Michael Stockton (JIRA)",
+         "Andrew Kuhnhausen (JIRA)",
+         "Chad Walters (JIRA)",
+         "Jonathan Ellis (JIRA)"
+      ]
+   },
+   {
+      "name": "Andrew McGeachie (JIRA)",
+      "imports": [
+         "Kevin Ballard (JIRA)",
+         "Kevin Ballard (JIRA)",
+         "Kevin Ballard (JIRA)",
+         "Kevin Ballard (JIRA)"
+      ]
+   },
+   {
+      "name": "Roger Meier",
+      "imports": [
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Bryan Duxbury"
+      ]
+   },
+   {
+      "name": "immars (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Tony Kamenick (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Loreto Parisi (JIRA)",
+      "imports": [
+         "Gary Richardson (JIRA)"
+      ]
+   },
+   {
+      "name": "David Reiss (JIRA)",
+      "imports": [
+         "Dan Sully (JIRA)",
+         "=?utf-8?Q?J=C3=A9r=C3=A9mie_BORDIER_=28JIRA=29?=",
+         "Dan Sully (JIRA)",
+         "Bryan Duxbury (JIRA)"
+      ]
+   },
+   {
+      "name": "Florentine, Justin F.",
+      "imports": [
+         "Aron Sogor"
+      ]
+   },
+   {
+      "name": "Upayavira",
+      "imports": [
+         "Bryan Duxbury"
+      ]
+   },
+   {
+      "name": "Steven Ong (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Eugene Letuchy",
+      "imports": [
+         "Dmitry Demeshchuk",
+         "Dmitry Demeshchuk"
+      ]
+   },
+   {
+      "name": "Jordan (JIRA)",
+      "imports": [
+         "Dan Sully (JIRA)"
+      ]
+   },
+   {
+      "name": "T Jake Luciani (JIRA)",
+      "imports": [
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)"
+      ]
+   },
+   {
+      "name": "Aron Sogor",
+      "imports": [
+         "Florentine, Justin F."
+      ]
+   },
+   {
+      "name": "Gary Richardson (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jonathan Ellis (JIRA)",
+      "imports": [
+         "Eric Jensen (JIRA)",
+         "Nate McCall (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)"
+      ]
+   },
+   {
+      "name": "Eric Jensen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bryan Duxbury",
+      "imports": [
+         "Mark Slee",
+         "Roger Meier",
+         "Michael_Brindamour",
+         "Emmanuel Bourg",
+         "Jeffrey DeCew",
+         "Jeffrey DeCew",
+         "Emmanuel Bourg",
+         "Doug Cutting",
+         "Igor Ribeiro de Assis",
+         "Steven Ong",
+         "Greg Stein",
+         "Doug Judd",
+         "Steven Ong"
+      ]
+   },
+   {
+      "name": "Mathias Herberts (JIRA)",
+      "imports": [
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)"
+      ]
+   },
+   {
+      "name": "Lev Walkin (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Walter Chang (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Roger Meier (JIRA)",
+      "imports": [
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)",
+         "=?utf-8?Q?J=C3=A9r=C3=A9mie_BORDIER_=28JIRA=29?=",
+         "=?utf-8?Q?J=C3=A9r=C3=A9mie_BORDIER_=28JIRA=29?=",
+         "Jordan (JIRA)",
+         "=?utf-8?Q?J=C3=A9r=C3=A9mie_BORDIER_=28JIRA=29?=",
+         "=?utf-8?Q?J=C3=A9r=C3=A9mie_BORDIER_=28JIRA=29?=",
+         "Jordan (JIRA)",
+         "Jordan (JIRA)"
+      ]
+   },
+   {
+      "name": "Jools",
+      "imports": [
+         "Joe Schaefer"
+      ]
+   },
+   {
+      "name": "Emmanuel Bourg",
+      "imports": [
+         "Bryan Duxbury"
+      ]
+   },
+   {
+      "name": "Todd Lipcon",
+      "imports": []
+   },
+   {
+      "name": "Ben Taitelbaum (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jeffrey DeCew",
+      "imports": [
+         "Bryan Duxbury",
+         "Bryan Duxbury"
+      ]
+   },
+   {
+      "name": "Christopher Armstrong (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Thomas Kho (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Fredrik Hedberg (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Mark Slee",
+      "imports": [
+         "no-reply",
+         "Todd Lipcon",
+         "David Reiss",
+         "Bryan Duxbury",
+         "Bryan Duxbury"
+      ]
+   },
+   {
+      "name": "Ning Liang (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Doug Cutting",
+      "imports": [
+         "Bryan Duxbury",
+         "Bryan Duxbury"
+      ]
+   },
+   {
+      "name": "Igor Ribeiro de Assis",
+      "imports": [
+         "Bryan Duxbury"
+      ]
+   },
+   {
+      "name": "Esteve Fernandez (JIRA)",
+      "imports": [
+         "Christopher Armstrong (JIRA)",
+         "Christopher Armstrong (JIRA)"
+      ]
+   },
+   {
+      "name": "Jeremy Hanna (JIRA)",
+      "imports": [
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Dmitry Demeshchuk",
+      "imports": [
+         "Eugene Letuchy",
+         "Eugene Letuchy"
+      ]
+   },
+   {
+      "name": "Conrad Hughes (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?J=C3=A9r=C3=A9mie_BORDIER_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Andrew Kuhnhausen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Nate McCall (JIRA)",
+      "imports": [
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)"
+      ]
+   },
+   {
+      "name": "Michael_Brindamour",
+      "imports": []
+   },
+   {
+      "name": "Dan Sully (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Greg Stein",
+      "imports": [
+         "Mark Slee"
+      ]
+   }
+]

@@ -1,0 +1,76 @@
+[
+   {
+      "name": "Niclas Hedhman",
+      "imports": [
+         "Peter Firmstone",
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Jeff Ramsdale",
+      "imports": [
+         "Peter Firmstone"
+      ]
+   },
+   {
+      "name": "Patrick Wright",
+      "imports": [
+         "Jim Hurley"
+      ]
+   },
+   {
+      "name": "Dave Brosius (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Peter Firmstone (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Peter Jones (JIRA)",
+      "imports": [
+         "Dave Brosius (JIRA)",
+         "Peter Firmstone (JIRA)",
+         "Peter Firmstone (JIRA)",
+         "Peter Firmstone (JIRA)"
+      ]
+   },
+   {
+      "name": "Tom Hobbs",
+      "imports": [
+         "Peter Firmstone",
+         "Niclas Hedhman"
+      ]
+   },
+   {
+      "name": "Jonathan Costers",
+      "imports": [
+         "Tom Hobbs"
+      ]
+   },
+   {
+      "name": "Jim Hurley",
+      "imports": []
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": []
+   },
+   {
+      "name": "Peter Firmstone",
+      "imports": [
+         "Dominic Cleal",
+         "Patrick Wright",
+         "Niclas Hedhman",
+         "Jeff Ramsdale",
+         "Jonathan Costers",
+         "Niclas Hedhman"
+      ]
+   },
+   {
+      "name": "Dominic Cleal",
+      "imports": [
+         "Peter Firmstone"
+      ]
+   }
+]

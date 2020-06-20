@@ -1,0 +1,39 @@
+[
+   {
+      "name": "Pan, Lei (398K)",
+      "imports": [
+         "Mattmann, Chris A (3980)",
+         "Ted Dunning"
+      ]
+   },
+   {
+      "name": "Ted Dunning",
+      "imports": [
+         "Pan, Lei (398K)",
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (3980)",
+      "imports": []
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "Pan, Lei (398K)"
+      ]
+   },
+   {
+      "name": "Lee, Seungwon (398K)",
+      "imports": [
+         "Pan, Lei (398K)",
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Martin Desruisseaux",
+      "imports": [
+         "Mattmann, Chris A (3980)"
+      ]
+   }
+]

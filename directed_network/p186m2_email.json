@@ -1,0 +1,150 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Matt Rutkowski",
+         "Daniel Krook",
+         "Carlos Santana",
+         "Daniel Krook"
+      ]
+   },
+   {
+      "name": "James Thomas",
+      "imports": []
+   },
+   {
+      "name": "Dragos Dascalita Haut",
+      "imports": [
+         "Rodric Rabbah",
+         "Carlos Santana",
+         "Stephen Fink",
+         "Rodric Rabbah"
+      ]
+   },
+   {
+      "name": "Stephen Fink",
+      "imports": [
+         "Rodric Rabbah",
+         "Dragos Dascalita Haut",
+         "Rodric Rabbah"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "Carlos Santana"
+      ]
+   },
+   {
+      "name": "Vinay",
+      "imports": []
+   },
+   {
+      "name": "Michael Marth",
+      "imports": [
+         "James Thomas",
+         "Rodric Rabbah",
+         "Rodric Rabbah",
+         "Matt Rutkowski",
+         "Rodric Rabbah"
+      ]
+   },
+   {
+      "name": "Michael M Behrendt",
+      "imports": [
+         "Nick Mitchell"
+      ]
+   },
+   {
+      "name": "Jeremias Werner",
+      "imports": [
+         "Michael M Behrendt"
+      ]
+   },
+   {
+      "name": "johndament",
+      "imports": []
+   },
+   {
+      "name": "Felix Meschberger",
+      "imports": [
+         "Carlos Santana",
+         "johndament",
+         "Rodric Rabbah",
+         "Stephen Fink",
+         "Carlos Santana",
+         "Carlos Santana",
+         "Rodric Rabbah",
+         "John D. Ament",
+         "Matt Rutkowski",
+         "Carlos Santana",
+         "Vinay"
+      ]
+   },
+   {
+      "name": "Carlos Santana",
+      "imports": [
+         "Matt Rutkowski",
+         "Felix Meschberger",
+         "Matt Rutkowski",
+         "Rodric Rabbah",
+         "Rodric Rabbah",
+         "Felix Meschberger",
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?="
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Markus_Th=C3=B6mmes?=",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+      "imports": [
+         "Felix Meschberger",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Daniel Krook",
+      "imports": [
+         "Carlos Santana",
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?="
+      ]
+   },
+   {
+      "name": "Rodric Rabbah",
+      "imports": [
+         "Dragos Dascalita Haut",
+         "Carlos Santana",
+         "Stephen Fink",
+         "=?utf-8?Q?Markus_Th=C3=B6mmes?=",
+         "Nick Mitchell",
+         "Stephen Fink",
+         "Michael Marth",
+         "Michael Marth",
+         "Dragos Dascalita Haut",
+         "Dragos Dascalita Haut",
+         "Carlos Santana"
+      ]
+   },
+   {
+      "name": "Nick Mitchell",
+      "imports": [
+         "Michael M Behrendt",
+         "=?utf-8?Q?Markus_Th=C3=B6mmes?="
+      ]
+   },
+   {
+      "name": "Matt Rutkowski",
+      "imports": [
+         "Felix Meschberger",
+         "Carlos Santana",
+         "Carlos Santana",
+         "Michael Marth",
+         "Michael Marth",
+         "Bertrand Delacretaz",
+         "Dragos Dascalita Haut"
+      ]
+   }
+]

@@ -1,0 +1,234 @@
+[
+   {
+      "name": "Michal Fojtik (JIRA)",
+      "imports": [
+         "Shveta Sachdeva (JIRA)"
+      ]
+   },
+   {
+      "name": "Chris Lalancette",
+      "imports": [
+         "Justin Clift",
+         "Michal Fojtik",
+         "=?ISO-8859-1?Q?Andr=E9_Dietisheim?=",
+         "marios@redhat.com",
+         "marios@redhat.com",
+         "Tomas Von Veschler",
+         "David Lutterkort",
+         "David Lutterkort",
+         "Tomas Von Veschler",
+         "Michal Fojtik",
+         "Richard Su",
+         "Francesco Vollero",
+         "mfojtik",
+         "David Lutterkort"
+      ]
+   },
+   {
+      "name": "lutter",
+      "imports": []
+   },
+   {
+      "name": "Sang-Min Park",
+      "imports": [
+         "seb delta",
+         "David Lutterkort",
+         "David Lutterkort"
+      ]
+   },
+   {
+      "name": "Marios Andreou (JIRA)",
+      "imports": [
+         "wes hayutin (JIRA)",
+         "wes hayutin (JIRA)",
+         "wes hayutin (JIRA)"
+      ]
+   },
+   {
+      "name": "mfojtik",
+      "imports": []
+   },
+   {
+      "name": "Daniel Molina",
+      "imports": [
+         "seb delta"
+      ]
+   },
+   {
+      "name": "Shveta Sachdeva (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "seb delta",
+      "imports": [
+         "marios@redhat.com",
+         "marios@redhat.com",
+         "Sang-Min Park"
+      ]
+   },
+   {
+      "name": "Tomas Hrcka",
+      "imports": [
+         "Michal Fojtik"
+      ]
+   },
+   {
+      "name": "Francesco Vollero",
+      "imports": [
+         "=?ISO-8859-1?Q?Andr=E9_Dietisheim?=",
+         "Chris Lalancette"
+      ]
+   },
+   {
+      "name": "marios",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-15?Q?Andr=E9_Dietisheim?=",
+      "imports": [
+         "David Lutterkort"
+      ]
+   },
+   {
+      "name": "Richard Su",
+      "imports": [
+         "Chris Lalancette"
+      ]
+   },
+   {
+      "name": "wes hayutin (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Tomas Von Veschler",
+      "imports": [
+         "Chris Lalancette",
+         "Chris Lalancette"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Andr=E9_Dietisheim?=",
+      "imports": [
+         "Chris Lalancette",
+         "Chris Lalancette",
+         "marios",
+         "marios",
+         "marios",
+         "marios@redhat.com"
+      ]
+   },
+   {
+      "name": "Jeremy Bar",
+      "imports": []
+   },
+   {
+      "name": "David Lutterkort",
+      "imports": [
+         "marios@redhat.com",
+         "seb delta",
+         "=?ISO-8859-1?Q?Andr=E9_Dietisheim?=",
+         "marios",
+         "Justin Clift",
+         "Chris Lalancette",
+         "Justin Clift",
+         "Michal Fojtik",
+         "marios",
+         "marios",
+         "marios",
+         "Chris Lalancette",
+         "Chris Lalancette",
+         "Chris Lalancette",
+         "Chris Lalancette",
+         "Chris Lalancette",
+         "mfojtik",
+         "marios",
+         "marios",
+         "marios",
+         "marios",
+         "marios",
+         "marios@redhat.com",
+         "Chris Lalancette"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "delta op",
+      "imports": []
+   },
+   {
+      "name": "Justin Clift",
+      "imports": [
+         "Chris Lalancette",
+         "Michal Fojtik",
+         "David Lutterkort"
+      ]
+   },
+   {
+      "name": "marios@redhat.com",
+      "imports": [
+         "Michal Fojtik",
+         "delta op",
+         "seb delta",
+         "no-reply",
+         "=?ISO-8859-1?Q?Andr=E9_Dietisheim?=",
+         "marios",
+         "Chris Lalancette",
+         "Chris Lalancette",
+         "Chris Lalancette",
+         "Sang-Min Park",
+         "Michal Fojtik",
+         "=?ISO-8859-1?Q?Andr=E9_Dietisheim?=",
+         "Chris Lalancette",
+         "mfojtik",
+         "mfojtik",
+         "Jeremy Bar",
+         "marios",
+         "David Lutterkort",
+         "Michal Fojtik",
+         "David Lutterkort"
+      ]
+   },
+   {
+      "name": "Michal Fojtik",
+      "imports": [
+         "marios",
+         "marios",
+         "mfojtik",
+         "Chris Lalancette",
+         "Justin Clift",
+         "Martyn Taylor (JIRA)",
+         "wes hayutin (JIRA)",
+         "marios",
+         "marios@redhat.com",
+         "marios",
+         "Chris Lalancette",
+         "Chris Lalancette",
+         "wes hayutin (JIRA)",
+         "Tomas Von Veschler",
+         "Chris Lalancette",
+         "David Lutterkort",
+         "Francesco Vollero",
+         "mfojtik",
+         "David Lutterkort",
+         "Chris Lalancette",
+         "Chris Lalancette",
+         "Chris Lalancette",
+         "lutter",
+         "marios",
+         "marios"
+      ]
+   },
+   {
+      "name": "Carl Trieloff",
+      "imports": [
+         "Sang-Min Park"
+      ]
+   },
+   {
+      "name": "Martyn Taylor (JIRA)",
+      "imports": []
+   }
+]

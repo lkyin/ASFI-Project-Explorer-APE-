@@ -1,0 +1,91 @@
+[
+   {
+      "name": "Jonathan Eagles",
+      "imports": [
+         "Alan Gates",
+         "Rohini Palaniswamy"
+      ]
+   },
+   {
+      "name": "Daniel Dai",
+      "imports": [
+         "Jason Lowe"
+      ]
+   },
+   {
+      "name": "Jason Lowe",
+      "imports": [
+         "Siddharth Seth"
+      ]
+   },
+   {
+      "name": "Siddharth Seth",
+      "imports": [
+         "Rohini Palaniswamy"
+      ]
+   },
+   {
+      "name": "Arun Murthy",
+      "imports": [
+         "Siddharth Seth"
+      ]
+   },
+   {
+      "name": "Tsuyoshi OZAWA",
+      "imports": [
+         "Siddharth Seth"
+      ]
+   },
+   {
+      "name": "Prasanth Jayachandran",
+      "imports": [
+         "Manu Zhang"
+      ]
+   },
+   {
+      "name": "Alan Gates",
+      "imports": [
+         "Siddharth Seth",
+         "Siddharth Seth"
+      ]
+   },
+   {
+      "name": "Gunther Hagleitner",
+      "imports": [
+         "Mohammad Islam"
+      ]
+   },
+   {
+      "name": "Rohini Palaniswamy",
+      "imports": [
+         "Siddharth Seth",
+         "Jonathan Eagles",
+         "Siddharth Seth",
+         "Prasanth Jayachandran"
+      ]
+   },
+   {
+      "name": "Arun C. Murthy",
+      "imports": [
+         "Siddharth Seth"
+      ]
+   },
+   {
+      "name": "Chen He",
+      "imports": [
+         "Gunther Hagleitner",
+         "Siddharth Seth",
+         "Jonathan Eagles"
+      ]
+   },
+   {
+      "name": "Manu Zhang",
+      "imports": []
+   },
+   {
+      "name": "Mohammad Islam",
+      "imports": [
+         "Arun Murthy"
+      ]
+   }
+]

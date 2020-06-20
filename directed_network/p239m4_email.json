@@ -1,0 +1,73 @@
+[
+   {
+      "name": "Andreas Neumann",
+      "imports": [
+         "larry mccay",
+         "Terence Yim",
+         "Terence Yim",
+         "Terence Yim",
+         "Terence Yim",
+         "Henry Saputra",
+         "Terence Yim",
+         "Terence Yim",
+         "Terence Yim",
+         "Terence Yim",
+         "larry mccay",
+         "Terence Yim",
+         "Terence Yim"
+      ]
+   },
+   {
+      "name": "larry mccay",
+      "imports": [
+         "Andreas Neumann"
+      ]
+   },
+   {
+      "name": "Terence Yim",
+      "imports": [
+         "Henry Saputra",
+         "Andreas Neumann",
+         "Andreas Neumann",
+         "Fabian Murariu",
+         "Fabian Murariu",
+         "Fabian Murariu",
+         "Andreas Neumann",
+         "Jiahua Wang",
+         "Jiahua Wang",
+         "Jiahua Wang"
+      ]
+   },
+   {
+      "name": "Safder Raza",
+      "imports": [
+         "Terence Yim"
+      ]
+   },
+   {
+      "name": "Fabian Murariu",
+      "imports": []
+   },
+   {
+      "name": "Bernd Fondermann",
+      "imports": [
+         "Terence Yim"
+      ]
+   },
+   {
+      "name": "Jiahua Wang",
+      "imports": [
+         "Terence Yim",
+         "Terence Yim",
+         "Terence Yim",
+         "Terence Yim",
+         "Terence Yim"
+      ]
+   },
+   {
+      "name": "Henry Saputra",
+      "imports": [
+         "Terence Yim"
+      ]
+   }
+]

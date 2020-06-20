@@ -1,0 +1,192 @@
+[
+   {
+      "name": "Ivan Kozik (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Soren Hilmer",
+      "imports": [
+         "Jan Lehnardt"
+      ]
+   },
+   {
+      "name": "Jeffrey C. Ollie (JIRA)",
+      "imports": [
+         "Benoit Chesneau (JIRA)"
+      ]
+   },
+   {
+      "name": "Christopher Lenz",
+      "imports": [
+         "Benoit Chesneau",
+         "Damien Katz",
+         "Damien Katz"
+      ]
+   },
+   {
+      "name": "=?iso-8859-1?q?S=F8ren_Hilmer?=",
+      "imports": [
+         "Jan Lehnardt"
+      ]
+   },
+   {
+      "name": "Noah Slater",
+      "imports": [
+         "Jan Lehnardt",
+         "Robin B",
+         "Damien Katz",
+         "Christopher Lenz"
+      ]
+   },
+   {
+      "name": "Jeff Davey (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Robert Rees (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Nils Adermann",
+      "imports": [
+         "Jan Lehnardt",
+         "Jan Lehnardt"
+      ]
+   },
+   {
+      "name": "Michael Hendricks",
+      "imports": []
+   },
+   {
+      "name": "Matt Goodall",
+      "imports": [
+         "Jan Lehnardt"
+      ]
+   },
+   {
+      "name": "Robin B",
+      "imports": []
+   },
+   {
+      "name": "Jan Lehnardt",
+      "imports": [
+         "=?iso-8859-1?q?S=F8ren_Hilmer?=",
+         "Nils Adermann",
+         "Soren Hilmer",
+         "Matt Goodall",
+         "Matt Goodall",
+         "Jeffrey Ollie",
+         "Jeffrey Ollie",
+         "Damien Katz",
+         "Ted Leung",
+         "Michael Hendricks",
+         "Michael Hendricks",
+         "Noah Slater"
+      ]
+   },
+   {
+      "name": "Damien Katz",
+      "imports": [
+         "Jan Lehnardt",
+         "Christopher Lenz",
+         "Christopher Lenz"
+      ]
+   },
+   {
+      "name": "Benoit Chesneau (JIRA)",
+      "imports": [
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)"
+      ]
+   },
+   {
+      "name": "Jeffrey Ollie",
+      "imports": [
+         "Jan Lehnardt"
+      ]
+   },
+   {
+      "name": "Jan Lehnardt (JIRA)",
+      "imports": [
+         "Robert Rees (JIRA)",
+         "Jeff Davey (JIRA)",
+         "Jeff Davey (JIRA)"
+      ]
+   },
+   {
+      "name": "Robert Wojciechowski (JIRA)",
+      "imports": [
+         "Benoit Chesneau (JIRA)",
+         "Paul Joseph Davis (JIRA)"
+      ]
+   },
+   {
+      "name": "Paul Joseph Davis (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Noah Slater (JIRA)",
+      "imports": [
+         "Robert Rees (JIRA)",
+         "Robert Rees (JIRA)",
+         "Nick Galbreath (JIRA)",
+         "Nick Galbreath (JIRA)"
+      ]
+   },
+   {
+      "name": "Olle Jonsson (JIRA)",
+      "imports": [
+         "Noah Slater (JIRA)"
+      ]
+   },
+   {
+      "name": "Benoit Chesneau",
+      "imports": [
+         "Christopher Lenz"
+      ]
+   },
+   {
+      "name": "Kore Nordmann (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Sebastian Probst Eide (JIRA)",
+      "imports": [
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)"
+      ]
+   },
+   {
+      "name": "Christopher Lenz (JIRA)",
+      "imports": [
+         "Ivan Kozik (JIRA)",
+         "Benoit Chesneau (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)",
+         "Kore Nordmann (JIRA)"
+      ]
+   },
+   {
+      "name": "Nick Galbreath (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ted Leung",
+      "imports": [
+         "Jan Lehnardt"
+      ]
+   }
+]

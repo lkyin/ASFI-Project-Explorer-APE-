@@ -1,0 +1,41 @@
+[
+   {
+      "name": "Jerome Renard",
+      "imports": [
+         "Christian Grobmeier"
+      ]
+   },
+   {
+      "name": "Christian Grobmeier",
+      "imports": [
+         "Jerome Renard",
+         "Henri Bergius",
+         "Fabrice PICCINALI"
+      ]
+   },
+   {
+      "name": "Fabrice PICCINALI",
+      "imports": [
+         "Christian Grobmeier"
+      ]
+   },
+   {
+      "name": "Henri Bergius",
+      "imports": [
+         "Christian Grobmeier",
+         "Fabrice PICCINALI"
+      ]
+   },
+   {
+      "name": "Maxime Thomas",
+      "imports": [
+         "Gaetano Giunta"
+      ]
+   },
+   {
+      "name": "Gaetano Giunta",
+      "imports": [
+         "Maxime Thomas"
+      ]
+   }
+]

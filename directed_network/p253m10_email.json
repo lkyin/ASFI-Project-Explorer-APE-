@@ -1,0 +1,35 @@
+[
+   {
+      "name": "Paul Brown",
+      "imports": [
+         "Christopher Lim"
+      ]
+   },
+   {
+      "name": "Chris Lim (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Christopher Lim",
+      "imports": [
+         "Ralph Goers",
+         "Ralph Goers",
+         "Geir Magnusson Jr."
+      ]
+   },
+   {
+      "name": "Geir Magnusson Jr.",
+      "imports": [
+         "Chris Lim (JIRA)",
+         "David Black"
+      ]
+   },
+   {
+      "name": "Ralph Goers",
+      "imports": []
+   },
+   {
+      "name": "David Black",
+      "imports": []
+   }
+]

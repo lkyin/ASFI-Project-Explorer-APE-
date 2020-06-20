@@ -1,0 +1,125 @@
+[
+   {
+      "name": "Jeffrey Blattman",
+      "imports": [
+         "Xavier Hanin"
+      ]
+   },
+   {
+      "name": "Robert Buck (JIRA)",
+      "imports": [
+         "Eric Crahen (JIRA)"
+      ]
+   },
+   {
+      "name": "Ignacio Coloma (JIRA)",
+      "imports": [
+         "John Williams (JIRA)",
+         "John Williams (JIRA)"
+      ]
+   },
+   {
+      "name": "Gilles Scokart (JIRA)",
+      "imports": [
+         "Ignacio Coloma (JIRA)",
+         "Nikita Salnikov-Tarnovski (JIRA)",
+         "Anson Mayers (JIRA)"
+      ]
+   },
+   {
+      "name": "Xavier Hanin",
+      "imports": [
+         "Gilles Scokart",
+         "Gilles Scokart",
+         "Jeffrey Blattman",
+         "Gilles Scokart",
+         "gscokart",
+         "Gilles Scokart",
+         "Steve Loughran",
+         "Gilles Scokart"
+      ]
+   },
+   {
+      "name": "gscokart",
+      "imports": []
+   },
+   {
+      "name": "Eric Crahen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "John Williams (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Anson Mayers (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Gilles Scokart",
+      "imports": [
+         "Xavier Hanin",
+         "Steve Loughran",
+         "Xavier Hanin",
+         "gscokart"
+      ]
+   },
+   {
+      "name": "Steve Loughran (JIRA)",
+      "imports": [
+         "Nigel Charman (JIRA)"
+      ]
+   },
+   {
+      "name": "Jean-Baptiste Quenot (JIRA)",
+      "imports": [
+         "John Williams (JIRA)"
+      ]
+   },
+   {
+      "name": "Hez Jing (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "James P. White (JIRA)",
+      "imports": [
+         "Nigel Charman (JIRA)"
+      ]
+   },
+   {
+      "name": "Maarten Coene (JIRA)",
+      "imports": [
+         "Anson Mayers (JIRA)"
+      ]
+   },
+   {
+      "name": "Nikita Salnikov-Tarnovski (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Nigel Charman (JIRA)",
+      "imports": [
+         "Hez Jing (JIRA)"
+      ]
+   },
+   {
+      "name": "Scott Goldstein (JIRA)",
+      "imports": [
+         "Maarten Coene (JIRA)",
+         "Maarten Coene (JIRA)"
+      ]
+   },
+   {
+      "name": "Ross Clewley (JIRA)",
+      "imports": [
+         "John Williams (JIRA)"
+      ]
+   },
+   {
+      "name": "Steve Loughran",
+      "imports": [
+         "Gilles Scokart",
+         "Xavier Hanin"
+      ]
+   }
+]

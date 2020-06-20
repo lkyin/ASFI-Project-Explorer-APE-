@@ -1,0 +1,43 @@
+[
+   {
+      "name": "Hudson (JIRA)",
+      "imports": [
+         "Edward J. Yoon (JIRA)"
+      ]
+   },
+   {
+      "name": "Brett Porter",
+      "imports": [
+         "edwardyoon",
+         "edwardyoon"
+      ]
+   },
+   {
+      "name": "Samuel Guo",
+      "imports": [
+         "Edward J. Yoon"
+      ]
+   },
+   {
+      "name": "Edward J. Yoon",
+      "imports": [
+         "Samuel Guo",
+         "Lance Bradley",
+         "Brett Porter"
+      ]
+   },
+   {
+      "name": "Lance Bradley",
+      "imports": [
+         "Edward J. Yoon"
+      ]
+   },
+   {
+      "name": "edwardyoon",
+      "imports": []
+   },
+   {
+      "name": "Edward J. Yoon (JIRA)",
+      "imports": []
+   }
+]

@@ -1,0 +1,60 @@
+[
+   {
+      "name": "Jochen Wiedmann",
+      "imports": [
+         "Stian Soiland-Reyes",
+         "James Bognar",
+         "James Bognar"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "James Bognar",
+         "Stian Soiland-Reyes"
+      ]
+   },
+   {
+      "name": "James Bognar",
+      "imports": [
+         "Stian Soiland-Reyes",
+         "Jochen Wiedmann",
+         "James Bognar",
+         "jochen.wiedmann",
+         "Stian Soiland-Reyes",
+         "Stian Soiland-Reyes",
+         "Stian Soiland-Reyes"
+      ]
+   },
+   {
+      "name": "Craig Russell",
+      "imports": [
+         "James Bognar",
+         "James Bognar"
+      ]
+   },
+   {
+      "name": "Peter Haumer",
+      "imports": [
+         "James Bognar"
+      ]
+   },
+   {
+      "name": "Stian Soiland-Reyes",
+      "imports": [
+         "Jochen Wiedmann",
+         "James Bognar",
+         "James Bognar",
+         "James Bognar",
+         "James Bognar",
+         "James Bognar",
+         "James Bognar"
+      ]
+   },
+   {
+      "name": "jochen.wiedmann",
+      "imports": [
+         "Craig Russell"
+      ]
+   }
+]

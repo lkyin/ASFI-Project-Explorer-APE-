@@ -1,0 +1,41 @@
+[
+   {
+      "name": "Mathieu Avoine",
+      "imports": []
+   },
+   {
+      "name": "Padmanabhan_Sheeba",
+      "imports": []
+   },
+   {
+      "name": "Kelly Boettcher",
+      "imports": [
+         "Charles Matthew Chen",
+         "Charles Matthew Chen (JIRA)"
+      ]
+   },
+   {
+      "name": "Charles Matthew Chen (JIRA)",
+      "imports": [
+         "Kelly Boettcher (JIRA)",
+         "Kelly Boettcher (JIRA)"
+      ]
+   },
+   {
+      "name": "Craig L Russell",
+      "imports": [
+         "Padmanabhan_Sheeba",
+         "Charles Matthew Chen"
+      ]
+   },
+   {
+      "name": "Kelly Boettcher (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Charles Matthew Chen",
+      "imports": [
+         "Mathieu Avoine"
+      ]
+   }
+]

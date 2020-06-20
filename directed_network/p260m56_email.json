@@ -1,0 +1,30 @@
+[
+   {
+      "name": "Tim Williams",
+      "imports": [
+         "Aaron McCurry"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "Aaron McCurry",
+         "Patrick Hunt"
+      ]
+   },
+   {
+      "name": "Aaron McCurry",
+      "imports": [
+         "Patrick Hunt",
+         "John D. Ament",
+         "Patrick Hunt",
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Patrick Hunt",
+      "imports": [
+         "Aaron McCurry"
+      ]
+   }
+]

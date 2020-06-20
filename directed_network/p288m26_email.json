@@ -1,0 +1,37 @@
+[
+   {
+      "name": "Apache Jenkins Server",
+      "imports": []
+   },
+   {
+      "name": "Oliver Rau",
+      "imports": [
+         "Ian C"
+      ]
+   },
+   {
+      "name": "Guzman Rejon (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Nick Burch",
+      "imports": [
+         "Svante Schubert"
+      ]
+   },
+   {
+      "name": "Svante Schubert",
+      "imports": [
+         "Nick Burch",
+         "Apache Jenkins Server",
+         "Apache Jenkins Server"
+      ]
+   },
+   {
+      "name": "Ian C",
+      "imports": [
+         "Guzman Rejon (JIRA)",
+         "Svante Schubert"
+      ]
+   }
+]

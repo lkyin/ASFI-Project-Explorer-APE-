@@ -1,0 +1,196 @@
+[
+   {
+      "name": "Maciej Szefler",
+      "imports": [
+         "ant elder",
+         "Janne Savukoski",
+         "Alex Boisvert",
+         "Joerg Selig"
+      ]
+   },
+   {
+      "name": "Prasanna Rajaperumal",
+      "imports": [
+         "Jim Alateras"
+      ]
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "Matthieu Riou",
+         "Matthieu Riou",
+         "Matthieu Riou",
+         "Roger Menday",
+         "Roger Menday",
+         "Matthieu Riou",
+         "Matthieu Riou",
+         "Alex Boisvert",
+         "Alex Boisvert",
+         "Alex Boisvert",
+         "Maciej Szefler"
+      ]
+   },
+   {
+      "name": "Matthieu Riou",
+      "imports": [
+         "Guillaume Nodet",
+         "Janne Savukoski",
+         "Janne Savukoski",
+         "Janne Savukoski",
+         "Janne Savukoski",
+         "Guillaume Nodet",
+         "Guillaume Nodet",
+         "Jim Alateras",
+         "Guillaume Nodet",
+         "Alex Boisvert",
+         "Janne Savukoski",
+         "Tammo van Lessen",
+         "Janne Savukoski"
+      ]
+   },
+   {
+      "name": "Paul Brown",
+      "imports": [
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Jim Alateras",
+      "imports": [
+         "Matthieu Riou",
+         "Prasanna Rajaperumal",
+         "Prasanna Rajaperumal",
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Xuli (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Matthieu Riou (JIRA)",
+      "imports": [
+         "Dan Kearns (JIRA)",
+         "Dan Kearns (JIRA)",
+         "Lance Waterman (JIRA)",
+         "Lance Waterman (JIRA)",
+         "Maciej Szefler (JIRA)",
+         "Guillaume Nodet (JIRA)",
+         "Xuli (JIRA)",
+         "Lance Waterman (JIRA)",
+         "Lance Waterman (JIRA)"
+      ]
+   },
+   {
+      "name": "Lance Waterman (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "victor panizza",
+      "imports": [
+         "Mauricio Bitencourt"
+      ]
+   },
+   {
+      "name": "Zubin Wadia",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Guillaume Nodet (JIRA)",
+      "imports": [
+         "Xuli (JIRA)",
+         "Xuli (JIRA)",
+         "Xuli (JIRA)"
+      ]
+   },
+   {
+      "name": "Alex Boisvert",
+      "imports": [
+         "Janne Savukoski",
+         "Jim Alateras",
+         "Zubin Wadia",
+         "Assaf Arkin",
+         "Guillaume Nodet",
+         "Matthieu Riou",
+         "Guillaume Nodet",
+         "Guillaume Nodet",
+         "Janne Savukoski",
+         "Matthieu Riou",
+         "Maciej Szefler"
+      ]
+   },
+   {
+      "name": "Janne Savukoski",
+      "imports": [
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Mauricio Bitencourt",
+      "imports": []
+   },
+   {
+      "name": "ant elder",
+      "imports": [
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Assaf Arkin",
+      "imports": [
+         "Alex Boisvert",
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Joerg Selig",
+      "imports": []
+   },
+   {
+      "name": "Maciej Szefler (JIRA)",
+      "imports": [
+         "Xuli (JIRA)",
+         "Xuli (JIRA)",
+         "Xuli (JIRA)"
+      ]
+   },
+   {
+      "name": "Roger Menday",
+      "imports": [
+         "Guillaume Nodet",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Manu Lopez",
+      "imports": [
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Alex Boisvert (JIRA)",
+      "imports": [
+         "Dan Kearns (JIRA)",
+         "Xuli (JIRA)",
+         "Matthieu Riou (JIRA)",
+         "Matthieu Riou (JIRA)",
+         "Xuli (JIRA)"
+      ]
+   },
+   {
+      "name": "Antoine Toulme",
+      "imports": [
+         "victor panizza"
+      ]
+   },
+   {
+      "name": "Dan Kearns (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Tammo van Lessen",
+      "imports": []
+   }
+]

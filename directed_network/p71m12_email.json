@@ -1,0 +1,339 @@
+[
+   {
+      "name": "Juliano DeCarvalho",
+      "imports": [
+         "Tal Rotbart"
+      ]
+   },
+   {
+      "name": "vborja",
+      "imports": []
+   },
+   {
+      "name": "Jim Jagielski",
+      "imports": [
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Alex Boisvert",
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Timo Rantalaiho (JIRA)",
+      "imports": [
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)"
+      ]
+   },
+   {
+      "name": "Alex Boisvert (JIRA)",
+      "imports": [
+         "Marko Sibakov (JIRA)",
+         "Anders Asplund (JIRA)",
+         "Anders Asplund (JIRA)",
+         "Anders Asplund (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Daniel Spiewak (JIRA)",
+         "Daniel Spiewak (JIRA)",
+         "Daniel Spiewak (JIRA)",
+         "Julien Ponge (JIRA)"
+      ]
+   },
+   {
+      "name": "Matthieu Riou",
+      "imports": [
+         "Assaf Arkin",
+         "Alex Boisvert",
+         "Assaf Arkin",
+         "Alex Boisvert",
+         "Alex Boisvert",
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Kelly Harward (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Assaf Arkin",
+      "imports": [
+         "Jim Jagielski",
+         "Juliano DeCarvalho",
+         "lacton",
+         "lacton",
+         "lacton",
+         "Victor Hugo Borja (JIRA)",
+         "Victor Hugo Borja",
+         "Victor Hugo Borja",
+         "Shane Witbeck",
+         "Shane Witbeck",
+         "Shane Witbeck",
+         "Shane Witbeck",
+         "Alex Boisvert",
+         "lacton",
+         "Alex Boisvert",
+         "lacton",
+         "Alex Boisvert",
+         "Alex Boisvert",
+         "Alex Boisvert",
+         "vborja",
+         "Victor Hugo Borja",
+         "Victor Hugo Borja",
+         "Victor Hugo Borja",
+         "lacton",
+         "Matthieu Riou",
+         "Alex Boisvert",
+         "Matthieu Riou",
+         "Matthieu Riou",
+         "Ittay Dror",
+         "lacton",
+         "lacton",
+         "lacton",
+         "Alex Boisvert",
+         "Ittay Dror",
+         "lacton"
+      ]
+   },
+   {
+      "name": "Marko Sibakov (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ittay Dror (JIRA)",
+      "imports": [
+         "Assaf Arkin (JIRA)"
+      ]
+   },
+   {
+      "name": "Ville Peurala (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Tammo van Lessen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Matthieu Riou (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Lacton (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Victor Hugo Borja",
+      "imports": [
+         "lacton",
+         "Tal Rotbart",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Shane Witbeck",
+      "imports": [
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Tal Rotbart",
+      "imports": [
+         "Juliano DeCarvalho",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "lacton",
+      "imports": [
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Alex Boisvert",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Alex Boisvert",
+         "Assaf Arkin",
+         "lacton",
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Alex Boisvert",
+      "imports": [
+         "Matthieu Riou",
+         "Matthieu Riou",
+         "lacton",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Victor Hugo Borja",
+         "Ittay Dror",
+         "Assaf Arkin",
+         "Jim Jagielski",
+         "Jim Jagielski",
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Julien Ponge (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Alexis Midon",
+      "imports": [
+         "Victor Hugo Borja"
+      ]
+   },
+   {
+      "name": "Daniel Spiewak (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "lacton (JIRA)",
+      "imports": [
+         "Ittay Dror (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Assaf Arkin (JIRA)",
+         "Anders Asplund (JIRA)",
+         "Anders Asplund (JIRA)",
+         "Daniel Spiewak (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Anders Asplund (JIRA)",
+         "Anders Asplund (JIRA)",
+         "Lacton (JIRA)",
+         "Lacton (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Assaf Arkin (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Ville Peurala (JIRA)"
+      ]
+   },
+   {
+      "name": "Jim Morris (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Nicolas Modrzyk (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Victor Hugo Borja (JIRA)",
+      "imports": [
+         "Ittay Dror (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Jim Morris (JIRA)",
+         "Assaf Arkin (JIRA)",
+         "Assaf Arkin (JIRA)",
+         "Assaf Arkin (JIRA)",
+         "Assaf Arkin (JIRA)",
+         "Alex Boisvert (JIRA)",
+         "Assaf Arkin (JIRA)",
+         "Alex Boisvert (JIRA)",
+         "Alex Boisvert (JIRA)"
+      ]
+   },
+   {
+      "name": "Marc Lee (JIRA)",
+      "imports": [
+         "Tim Dysinger (JIRA)"
+      ]
+   },
+   {
+      "name": "Sean Ahn (JIRA)",
+      "imports": [
+         "Daniel Spiewak (JIRA)"
+      ]
+   },
+   {
+      "name": "Ittay Dror",
+      "imports": [
+         "Alex Boisvert",
+         "Alex Boisvert",
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Anders Asplund (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "redbeard",
+      "imports": [
+         "Juliano DeCarvalho"
+      ]
+   },
+   {
+      "name": "Yoav Shapira",
+      "imports": [
+         "lacton"
+      ]
+   },
+   {
+      "name": "Tim Dysinger (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Assaf Arkin (JIRA)",
+      "imports": [
+         "Matthieu Riou (JIRA)",
+         "Matthieu Riou (JIRA)",
+         "Tammo van Lessen (JIRA)",
+         "Tammo van Lessen (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Kelly Harward (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Matthieu Riou (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Alex Boisvert (JIRA)",
+         "lacton (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Marko Sibakov (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Marc Lee (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Nicolas Modrzyk (JIRA)",
+         "Ittay Dror (JIRA)",
+         "Ittay Dror (JIRA)"
+      ]
+   }
+]

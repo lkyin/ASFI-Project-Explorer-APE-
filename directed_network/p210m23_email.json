@@ -1,0 +1,91 @@
+[
+   {
+      "name": "=?ISO-8859-1?Q?Willi_Sch=F6nborn?=",
+      "imports": []
+   },
+   {
+      "name": "Les Hazlewood",
+      "imports": [
+         "Kalle Korhonen",
+         "Kalle Korhonen",
+         "Peter Ledbrook",
+         "Erik Beeson",
+         "Kalle Korhonen",
+         "Kalle Korhonen",
+         "Kalle Korhonen",
+         "Alan D. Cabrera",
+         "Peter Ledbrook",
+         "Kalle Korhonen",
+         "=?ISO-8859-1?Q?Willi_Sch=F6nborn?=",
+         "Kalle Korhonen",
+         "Kalle Korhonen"
+      ]
+   },
+   {
+      "name": "Erik Beeson",
+      "imports": [
+         "Kalle Korhonen"
+      ]
+   },
+   {
+      "name": "Chris Dutrow (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Kalle Korhonen",
+      "imports": [
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Alan D. Cabrera"
+      ]
+   },
+   {
+      "name": "Peter Ladanyi (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Allan Ditzel",
+      "imports": [
+         "Les Hazlewood",
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Les Hazlewood (JIRA)",
+      "imports": [
+         "Peter Ladanyi (JIRA)",
+         "Chris Dutrow (JIRA)",
+         "Peter Ladanyi (JIRA)"
+      ]
+   },
+   {
+      "name": "Alan D. Cabrera",
+      "imports": [
+         "Kalle Korhonen"
+      ]
+   },
+   {
+      "name": "Daniel Kulp",
+      "imports": [
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Peter Ledbrook",
+      "imports": []
+   },
+   {
+      "name": "Allan Ditzel (JIRA)",
+      "imports": [
+         "Chris Dutrow (JIRA)"
+      ]
+   }
+]

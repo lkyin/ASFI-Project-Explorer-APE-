@@ -1,0 +1,106 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Tsuy Ito",
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Aaron Coburn",
+      "imports": [
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+      "imports": [
+         "Marco Zaugg",
+         "Tommaso Teofili",
+         "Tsuyoshi Ito",
+         "=?ISO-8859-1?Q?florent_andr=E9?="
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?florent_andr=E9?=",
+      "imports": [
+         "Tommaso Teofili",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Marco Zaugg",
+      "imports": [
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler",
+      "imports": [
+         "Enrico Daga",
+         "=?ISO-8859-1?Q?florent_andr=E9?="
+      ]
+   },
+   {
+      "name": "Enrico Daga",
+      "imports": [
+         "=?ISO-8859-1?Q?florent_andr=E9?="
+      ]
+   },
+   {
+      "name": "Minto van der Sluis",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Tsuyoshi Ito",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Hasan",
+      "imports": [
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Tsuy Ito",
+      "imports": [
+         "Tommaso Teofili",
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Alessandro Adamou",
+      "imports": [
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Fabian Christ",
+      "imports": [
+         "Tsuy Ito"
+      ]
+   },
+   {
+      "name": "Daniel Spicar",
+      "imports": [
+         "Tsuy Ito"
+      ]
+   },
+   {
+      "name": "Hasan Hasan",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   }
+]

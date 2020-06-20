@@ -1,0 +1,24 @@
+[
+   {
+      "name": "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+      "imports": [
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": []
+   },
+   {
+      "name": "Stian Soiland-Reyes",
+      "imports": [
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?="
+      ]
+   },
+   {
+      "name": "Andy Seaborne",
+      "imports": [
+         "Stian Soiland-Reyes"
+      ]
+   }
+]

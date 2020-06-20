@@ -1,0 +1,14 @@
+[
+   {
+      "name": "Kamaljit Bath",
+      "imports": [
+         "Akopov, Sergei (GE Intelligent Platforms)"
+      ]
+   },
+   {
+      "name": "Akopov, Sergei (GE Intelligent Platforms)",
+      "imports": [
+         "Kamaljit Bath"
+      ]
+   }
+]

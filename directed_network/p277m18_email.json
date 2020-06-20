@@ -1,0 +1,95 @@
+[
+   {
+      "name": "gtapper",
+      "imports": []
+   },
+   {
+      "name": "Barbara",
+      "imports": [
+         "=?UTF-8?Q?Rafael_Weing=C3=A4rtner?="
+      ]
+   },
+   {
+      "name": "Gunnar Tapper",
+      "imports": [
+         "rafaelweingartner"
+      ]
+   },
+   {
+      "name": "cristofolini",
+      "imports": []
+   },
+   {
+      "name": "Justin Mclean",
+      "imports": [
+         "=?UTF-8?Q?Rafael_Weing=C3=A4rtner?=",
+         "Tony Faustini"
+      ]
+   },
+   {
+      "name": "barbaragomes",
+      "imports": [
+         "cristofolini"
+      ]
+   },
+   {
+      "name": "Tony Faustini",
+      "imports": [
+         "Lucas Berri Cristofolini",
+         "=?UTF-8?Q?Rafael_Weing=C3=A4rtner?=",
+         "=?UTF-8?Q?Rafael_Weing=C3=A4rtner?=",
+         "=?UTF-8?Q?Rafael_Weing=C3=A4rtner?="
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Rafael_Weing=C3=A4rtner?=",
+      "imports": [
+         "Barbara Malta Gomes",
+         "Barbara Malta Gomes",
+         "Lucas Berri Cristofolini",
+         "Barbara",
+         "Lucas Berri Cristofolini",
+         "Tony Faustini",
+         "Omkar Prabhu",
+         "Barbara Malta Gomes",
+         "Lucas Berri Cristofolini",
+         "Barbara Malta Gomes",
+         "Justin Mclean"
+      ]
+   },
+   {
+      "name": "rafaelweingartner",
+      "imports": [
+         "gtapper",
+         "cristofolini",
+         "cristofolini",
+         "cristofolini"
+      ]
+   },
+   {
+      "name": "Lucas Berri Cristofolini",
+      "imports": [
+         "=?UTF-8?Q?Rafael_Weing=C3=A4rtner?=",
+         "Barbara",
+         "Barbara Malta Gomes",
+         "=?UTF-8?Q?Rafael_Weing=C3=A4rtner?=",
+         "Barbara Malta Gomes"
+      ]
+   },
+   {
+      "name": "Omkar Prabhu",
+      "imports": [
+         "Tony Faustini"
+      ]
+   },
+   {
+      "name": "Barbara Malta Gomes",
+      "imports": [
+         "Lucas Berri Cristofolini",
+         "=?UTF-8?Q?Rafael_Weing=C3=A4rtner?=",
+         "Lucas Berri Cristofolini",
+         "=?UTF-8?Q?Rafael_Weing=C3=A4rtner?=",
+         "Justin Mclean"
+      ]
+   }
+]

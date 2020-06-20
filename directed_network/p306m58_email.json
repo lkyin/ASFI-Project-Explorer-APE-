@@ -1,0 +1,42 @@
+[
+   {
+      "name": "Pablo Ojanguren",
+      "imports": [
+         "Ali Lown",
+         "Yuri Z"
+      ]
+   },
+   {
+      "name": "Thomas Wrobel",
+      "imports": [
+         "Pablo Ojanguren"
+      ]
+   },
+   {
+      "name": "Yuri Z",
+      "imports": [
+         "Evan Hughes",
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "Evan Hughes",
+      "imports": [
+         "Yuri Z",
+         "Ali Lown",
+         "Ali Lown"
+      ]
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": []
+   },
+   {
+      "name": "Ali Lown",
+      "imports": [
+         "Evan Hughes",
+         "Thomas Wrobel",
+         "Evan Hughes"
+      ]
+   }
+]

@@ -1,0 +1,52 @@
+[
+   {
+      "name": "Pablo Ojanguren",
+      "imports": [
+         "Yuri Z",
+         "Thomas Wrobel"
+      ]
+   },
+   {
+      "name": "Thomas Wrobel",
+      "imports": [
+         "Pablo Ojanguren",
+         "Pablo Ojanguren"
+      ]
+   },
+   {
+      "name": "Ali Lown",
+      "imports": [
+         "Yuri Z"
+      ]
+   },
+   {
+      "name": "Alex North",
+      "imports": []
+   },
+   {
+      "name": "Ben Hegarty",
+      "imports": []
+   },
+   {
+      "name": "Vicente J. Ruiz Jurado",
+      "imports": [
+         "Ben Hegarty"
+      ]
+   },
+   {
+      "name": "Joseph Gentle",
+      "imports": [
+         "Alex North"
+      ]
+   },
+   {
+      "name": "Michael MacFadden",
+      "imports": [
+         "Yuri Z"
+      ]
+   },
+   {
+      "name": "Yuri Z",
+      "imports": []
+   }
+]

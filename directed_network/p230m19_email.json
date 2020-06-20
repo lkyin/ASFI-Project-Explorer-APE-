@@ -1,0 +1,242 @@
+[
+   {
+      "name": "Alex Burkhart (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jonathan Ellis (JIRA)",
+      "imports": [
+         "Chris Goffinet (JIRA)",
+         "Chris Goffinet (JIRA)"
+      ]
+   },
+   {
+      "name": "James Clarke (JIRA)",
+      "imports": [
+         "pablo platt (JIRA)"
+      ]
+   },
+   {
+      "name": "Matt Stevens (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Doug Judd",
+      "imports": [
+         "Chad Walters"
+      ]
+   },
+   {
+      "name": "Mathias Herberts (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Todd Lipcon",
+      "imports": [
+         "Kevin Clark",
+         "David Reiss",
+         "David Reiss",
+         "Doug Cutting",
+         "David Reiss",
+         "Joe Schaefer"
+      ]
+   },
+   {
+      "name": "Doug Judd (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Cyrus Katrak (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Chris Goffinet",
+      "imports": [
+         "Chad Walters"
+      ]
+   },
+   {
+      "name": "Matt Jones (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Gary Rudolph (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Rob S.",
+      "imports": [
+         "David Reiss",
+         "Joe Schaefer"
+      ]
+   },
+   {
+      "name": "pablo platt (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Joe Schaefer (JIRA)",
+      "imports": [
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)"
+      ]
+   },
+   {
+      "name": "Esteve Fernandez (JIRA)",
+      "imports": [
+         "Chris Goffinet (JIRA)",
+         "Chris Goffinet (JIRA)",
+         "Chris Goffinet (JIRA)"
+      ]
+   },
+   {
+      "name": "Jerome Boulon (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Joe Schaefer",
+      "imports": [
+         "Chad Walters",
+         "David Reiss",
+         "David Reiss",
+         "David Reiss",
+         "David Reiss",
+         "Kevin Clark"
+      ]
+   },
+   {
+      "name": "Roger Meier (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bryan Duxbury (JIRA)",
+      "imports": [
+         "Alex Burkhart (JIRA)",
+         "Cyrus Katrak (JIRA)",
+         "Andrew Kuhnhausen (JIRA)",
+         "Jerome Boulon (JIRA)",
+         "Jerome Boulon (JIRA)",
+         "Oliver Kennedy (JIRA)",
+         "Oliver Kennedy (JIRA)"
+      ]
+   },
+   {
+      "name": "Oliver Kennedy (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Doug Cutting",
+      "imports": [
+         "David Reiss",
+         "David Reiss"
+      ]
+   },
+   {
+      "name": "Todd Lipcon (JIRA)",
+      "imports": [
+         "Roger Meier (JIRA)",
+         "Bryan Duxbury (JIRA)"
+      ]
+   },
+   {
+      "name": "David Reiss (JIRA)",
+      "imports": [
+         "Doug Judd (JIRA)",
+         "Doug Judd (JIRA)",
+         "Roger Meier (JIRA)",
+         "Todd Lipcon (JIRA)",
+         "Todd Lipcon (JIRA)",
+         "Todd Lipcon (JIRA)",
+         "Chris Goffinet (JIRA)",
+         "Chris Goffinet (JIRA)",
+         "Mathias Herberts (JIRA)",
+         "Mathias Herberts (JIRA)",
+         "Chris Goffinet (JIRA)",
+         "Chris Goffinet (JIRA)",
+         "Gary Richardson (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Matt Jones (JIRA)",
+         "Julian Scheid (JIRA)",
+         "Julian Scheid (JIRA)"
+      ]
+   },
+   {
+      "name": "David Reiss",
+      "imports": [
+         "Doug Cutting",
+         "Todd Lipcon",
+         "Joe Schaefer",
+         "Joe Schaefer",
+         "Joe Schaefer",
+         "Joe Schaefer",
+         "Rob S.",
+         "Doug Cutting",
+         "Doug Cutting",
+         "Kevin Clark",
+         "Esteve Fernandez"
+      ]
+   },
+   {
+      "name": "Chad Walters",
+      "imports": [
+         "Doug Judd",
+         "Joe Schaefer",
+         "Joe Schaefer",
+         "Esteve Fernandez"
+      ]
+   },
+   {
+      "name": "Julian Scheid (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Rob Slifka (JIRA)",
+      "imports": [
+         "Gary Rudolph (JIRA)"
+      ]
+   },
+   {
+      "name": "Upayavira",
+      "imports": [
+         "Esteve Fernandez"
+      ]
+   },
+   {
+      "name": "Kevin Clark",
+      "imports": [
+         "Todd Lipcon",
+         "Chad Walters",
+         "David Reiss",
+         "David Reiss"
+      ]
+   },
+   {
+      "name": "Andrew Kuhnhausen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Andrew McGeachie (JIRA)",
+      "imports": [
+         "Matt Stevens (JIRA)",
+         "Matt Stevens (JIRA)"
+      ]
+   },
+   {
+      "name": "Esteve Fernandez",
+      "imports": [
+         "Todd Lipcon"
+      ]
+   },
+   {
+      "name": "Chris Goffinet (JIRA)",
+      "imports": [
+         "Gary Richardson (JIRA)",
+         "Gary Richardson (JIRA)",
+         "Gary Richardson (JIRA)"
+      ]
+   },
+   {
+      "name": "Gary Richardson (JIRA)",
+      "imports": []
+   }
+]

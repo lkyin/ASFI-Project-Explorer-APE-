@@ -1,0 +1,454 @@
+[
+   {
+      "name": "Rob Vesse (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Paolo Castagna",
+         "Andy Seaborne",
+         "Paolo Castagna",
+         "Andy Seaborne"
+      ]
+   },
+   {
+      "name": "Paolo Castagna (Updated) (JIRA)",
+      "imports": [
+         "Paolo Castagna (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+      "imports": [
+         "Stephen Allen"
+      ]
+   },
+   {
+      "name": "Sam Tunnicliffe",
+      "imports": [
+         "Andy Seaborne"
+      ]
+   },
+   {
+      "name": "Andy Seaborne (Commented) (JIRA)",
+      "imports": [
+         "Andy Seaborne (Created) (JIRA)",
+         "Simon Helsen (Created) (JIRA)",
+         "Simon Helsen (Created) (JIRA)",
+         "Paolo Castagna (JIRA)",
+         "Simon Helsen (Created) (JIRA)",
+         "Andy Seaborne (Created) (JIRA)",
+         "Henry Story (Created) (JIRA)",
+         "Henry Story (Created) (JIRA)",
+         "Henry Story (Created) (JIRA)",
+         "Henry Story (Created) (JIRA)",
+         "Henry Story (Created) (JIRA)",
+         "Andy Seaborne (Created) (JIRA)",
+         "Andy Seaborne (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Paolo Castagna (Commented) (JIRA)",
+      "imports": [
+         "Rob Vesse (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Simon Helsen (Commented) (JIRA)",
+      "imports": [
+         "Simon Helsen (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Paolo Castagna",
+      "imports": [
+         "K.Senthil Kumar",
+         "Andy Seaborne",
+         "Bertrand Delacretaz",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "castagna",
+         "Andy Seaborne",
+         "Benson Margulies",
+         "Bertrand Delacretaz",
+         "Benson Margulies",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "George Vamos",
+         "andy",
+         "Leo Simons",
+         "Andy Seaborne",
+         "Leo Simons",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "=?iso-8859-1?Q?Thorsten_M=F6ller?=",
+         "Andy Seaborne",
+         "Andy Seaborne (Commented) (JIRA)",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Stephen Allen"
+      ]
+   },
+   {
+      "name": "Ian Dickinson (Assigned) (JIRA)",
+      "imports": [
+         "Alexander Dutton (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Laurent Pellegrino",
+      "imports": [
+         "Leo Simons",
+         "Andy Seaborne"
+      ]
+   },
+   {
+      "name": "Rob Vesse (Updated) (JIRA)",
+      "imports": [
+         "Rob Vesse (Created) (JIRA)",
+         "Rob Vesse (Created) (JIRA)",
+         "Rob Vesse (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Stephen Allen",
+      "imports": [
+         "Andy Seaborne",
+         "Andy Seaborne"
+      ]
+   },
+   {
+      "name": "Damian Steer (Updated) (JIRA)",
+      "imports": [
+         "Rob Vesse (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Dave Reynolds",
+      "imports": [
+         "Ian Dickinson",
+         "Andy Seaborne"
+      ]
+   },
+   {
+      "name": "Leo Simons",
+      "imports": [
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Paolo Castagna",
+         "Andy Seaborne",
+         "Paolo Castagna",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Benson Margulies",
+         "Andy Seaborne",
+         "Andy Seaborne"
+      ]
+   },
+   {
+      "name": "Andy Seaborne (Closed) (JIRA)",
+      "imports": [
+         "Paolo Castagna (JIRA)",
+         "Simon Helsen (Created) (JIRA)",
+         "Benson Margulies (JIRA)",
+         "Andy Seaborne (JIRA)",
+         "Paolo Castagna (Created) (JIRA)",
+         "Andy Seaborne (JIRA)"
+      ]
+   },
+   {
+      "name": "Dave Reynolds (Commented) (JIRA)",
+      "imports": [
+         "Dave Reynolds (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Thorsten_M=C3=B6ller_=28Updated=29_=28JIRA=29?=",
+      "imports": [
+         "=?utf-8?Q?Thorsten_M=C3=B6ller_=28Created=29_=28JIRA=29?=",
+         "=?utf-8?Q?Thorsten_M=C3=B6ller_=28Created=29_=28JIRA=29?=",
+         "=?utf-8?Q?Thorsten_M=C3=B6ller_=28Created=29_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Paolo Castagna (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Damian Steer",
+      "imports": [
+         "Andy Seaborne",
+         "Stephen Allen",
+         "=?iso-8859-1?Q?Thorsten_M=F6ller?=",
+         "=?iso-8859-1?Q?Thorsten_M=F6ller?="
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Thorsten_M=C3=B6ller_=28Created=29_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Ian Dickinson (Resolved) (JIRA)",
+      "imports": [
+         "Alexander Dutton (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Stephen Allen (Commented) (JIRA)",
+      "imports": [
+         "Stephen Allen (JIRA)",
+         "Rob Vesse (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Paolo Castagna (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Dennis E. Hamilton (Issue Comment Edited) (JIRA)",
+      "imports": [
+         "Henry Story (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "=?iso-8859-1?Q?Thorsten_M=F6ller?=",
+      "imports": [
+         "Andy Seaborne",
+         "Paolo Castagna",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Damian Steer"
+      ]
+   },
+   {
+      "name": "Andy Seaborne (Updated) (JIRA)",
+      "imports": [
+         "Andy Seaborne (Created) (JIRA)",
+         "Simon Helsen (Created) (JIRA)",
+         "Henry Story (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Henry Story (Commented) (JIRA)",
+      "imports": [
+         "Henry Story (Created) (JIRA)",
+         "Henry Story (Created) (JIRA)",
+         "Henry Story (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Damian Steer (Assigned) (JIRA)",
+      "imports": [
+         "Andy Seaborne (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Benson Margulies (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "George Vamos",
+      "imports": [
+         "Andy Seaborne"
+      ]
+   },
+   {
+      "name": "Benson Margulies",
+      "imports": [
+         "Paolo Castagna",
+         "Ian Dickinson",
+         "Bertrand Delacretaz",
+         "Paolo Castagna",
+         "Andy Seaborne",
+         "Leo Simons"
+      ]
+   },
+   {
+      "name": "Henry Story (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Andy Seaborne",
+      "imports": [
+         "Paolo Castagna",
+         "Paolo Castagna",
+         "Laurent Pellegrino",
+         "Ian Dickinson",
+         "Leo Simons",
+         "Ross Gardler",
+         "Paolo Castagna",
+         "Paolo Castagna",
+         "Paolo Castagna",
+         "Paolo Castagna",
+         "Paolo Castagna",
+         "Paolo Castagna",
+         "Benson Margulies",
+         "Paolo Castagna",
+         "Paolo Castagna",
+         "Leo Simons",
+         "Paolo Castagna",
+         "Paolo Castagna",
+         "Leo Simons",
+         "=?iso-8859-1?Q?Thorsten_M=F6ller?=",
+         "Laurent Pellegrino",
+         "Ian Dickinson",
+         "Paolo Castagna",
+         "Benson Margulies",
+         "Leo Simons",
+         "Laurent Pellegrino",
+         "Leo Simons",
+         "Leo Simons",
+         "Leo Simons",
+         "=?iso-8859-1?Q?Thorsten_M=F6ller?=",
+         "Paolo Castagna",
+         "Sam Tunnicliffe",
+         "Bertrand Delacretaz",
+         "Paolo Castagna",
+         "Stephen Allen",
+         "Paolo Castagna",
+         "Dave Reynolds",
+         "Ian Dickinson"
+      ]
+   },
+   {
+      "name": "Henry Story (Issue Comment Edited) (JIRA)",
+      "imports": [
+         "Henry Story (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Andy Seaborne (Issue Comment Edited) (JIRA)",
+      "imports": [
+         "Andy Seaborne (Created) (JIRA)",
+         "Andy Seaborne (Created) (JIRA)",
+         "Henry Story (Created) (JIRA)",
+         "Henry Story (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "andy",
+      "imports": []
+   },
+   {
+      "name": "Dennis E. Hamilton (Commented) (JIRA)",
+      "imports": [
+         "Henry Story (Created) (JIRA)",
+         "Henry Story (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Damian Steer (Closed) (JIRA)",
+      "imports": [
+         "Andy Seaborne (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Alexander Dutton (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Damian Steer (Resolved) (JIRA)",
+      "imports": [
+         "Andy Seaborne (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Thorsten_M=C3=B6ller_=28Commented=29_=28JIRA=29?=",
+      "imports": [
+         "=?utf-8?Q?Thorsten_M=C3=B6ller_=28Created=29_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Dave Reynolds (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ross Gardler",
+      "imports": [
+         "Leo Simons",
+         "Leo Simons"
+      ]
+   },
+   {
+      "name": "K.Senthil Kumar",
+      "imports": []
+   },
+   {
+      "name": "Damian Steer (Commented) (JIRA)",
+      "imports": [
+         "Rob Vesse (Created) (JIRA)",
+         "Rob Vesse (Created) (JIRA)",
+         "Rob Vesse (Created) (JIRA)",
+         "Rob Vesse (Created) (JIRA)",
+         "Andy Seaborne (Created) (JIRA)",
+         "Rob Vesse (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Andy Seaborne (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Stephen Allen (Updated) (JIRA)",
+      "imports": [
+         "Rob Vesse (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Andy Seaborne (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Stephen Allen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Rob Vesse (Commented) (JIRA)",
+      "imports": [
+         "Andy Seaborne (JIRA)",
+         "Rob Vesse (Created) (JIRA)",
+         "Rob Vesse (Created) (JIRA)",
+         "Rob Vesse (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Simon Helsen (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "castagna",
+      "imports": []
+   },
+   {
+      "name": "Ian Dickinson",
+      "imports": [
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "George Vamos",
+         "Andy Seaborne",
+         "Ian Dickinson (Resolved) (JIRA)",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Paolo Castagna"
+      ]
+   },
+   {
+      "name": "Andy Seaborne (Resolved) (JIRA)",
+      "imports": [
+         "Simon Helsen (Created) (JIRA)",
+         "Paolo Castagna (JIRA)",
+         "Simon Helsen (Created) (JIRA)",
+         "Henry Story (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Andy Seaborne (Assigned) (JIRA)",
+      "imports": [
+         "Simon Helsen (Created) (JIRA)"
+      ]
+   }
+]

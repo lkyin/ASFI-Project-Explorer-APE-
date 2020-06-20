@@ -1,0 +1,36 @@
+[
+   {
+      "name": "Kore Nordmann",
+      "imports": [
+         "Derick Rethans"
+      ]
+   },
+   {
+      "name": "Derick Rethans",
+      "imports": [
+         "Tim Landscheidt",
+         "Jukka Zitting",
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Tim Landscheidt",
+      "imports": []
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": []
+   },
+   {
+      "name": "Maxime Thomas",
+      "imports": [
+         "James Pic"
+      ]
+   },
+   {
+      "name": "James Pic",
+      "imports": [
+         "Maxime Thomas"
+      ]
+   }
+]

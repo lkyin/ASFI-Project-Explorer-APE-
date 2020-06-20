@@ -1,0 +1,23 @@
+[
+   {
+      "name": "Toni Menzel",
+      "imports": [
+         "Bram de Kruijff",
+         "Marcel Offermans"
+      ]
+   },
+   {
+      "name": "Marcel Offermans",
+      "imports": [
+         "Toni Menzel",
+         "Bram de Kruijff"
+      ]
+   },
+   {
+      "name": "Bram de Kruijff",
+      "imports": [
+         "Toni Menzel",
+         "Marcel Offermans"
+      ]
+   }
+]

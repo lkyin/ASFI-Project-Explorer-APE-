@@ -1,0 +1,74 @@
+[
+   {
+      "name": "Michael Mertins",
+      "imports": [
+         "Gabriele Columbro",
+         "Florent Guillaume"
+      ]
+   },
+   {
+      "name": "David Nuescheler",
+      "imports": []
+   },
+   {
+      "name": "Florent Guillaume",
+      "imports": [
+         "Emanuele Lombardi",
+         "Gabriele Columbro",
+         "Michael Mertins",
+         "Michael Mertins",
+         "Jukka Zitting",
+         "Bobby Warner"
+      ]
+   },
+   {
+      "name": "David Caruana",
+      "imports": [
+         "Jukka Zitting",
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "Bobby Warner",
+      "imports": []
+   },
+   {
+      "name": "Gabriele Columbro",
+      "imports": [
+         "Florent Guillaume",
+         "Florent Guillaume",
+         "Florent Guillaume"
+      ]
+   },
+   {
+      "name": "David Caruana (JIRA)",
+      "imports": [
+         "Gabriele Columbro (JIRA)",
+         "Gabriele Columbro (JIRA)"
+      ]
+   },
+   {
+      "name": "Daniel Lichtenberger (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Emanuele Lombardi",
+      "imports": []
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": []
+   },
+   {
+      "name": "Florent Guillaume (JIRA)",
+      "imports": [
+         "Daniel Lichtenberger (JIRA)",
+         "Daniel Lichtenberger (JIRA)",
+         "Daniel Lichtenberger (JIRA)"
+      ]
+   },
+   {
+      "name": "Gabriele Columbro (JIRA)",
+      "imports": []
+   }
+]

@@ -1,0 +1,38 @@
+[
+   {
+      "name": "Mattmann, Chris A (1761)",
+      "imports": []
+   },
+   {
+      "name": "Chris Mattmann",
+      "imports": [
+         "lewis john mcgibbney"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Matt Post",
+         "Matt Post",
+         "Mattmann, Chris A (1761)"
+      ]
+   },
+   {
+      "name": "lewis john mcgibbney",
+      "imports": []
+   },
+   {
+      "name": "Thamme Gowda",
+      "imports": [
+         "Mattmann, Chris A (1761)",
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Matt Post",
+      "imports": [
+         "Tommaso Teofili",
+         "Tommaso Teofili"
+      ]
+   }
+]

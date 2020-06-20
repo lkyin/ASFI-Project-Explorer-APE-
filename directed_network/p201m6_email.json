@@ -1,0 +1,273 @@
+[
+   {
+      "name": "Mark Brouwer (JIRA)",
+      "imports": [
+         "Jim Hurley (JIRA)"
+      ]
+   },
+   {
+      "name": "Jukka Zitting (JIRA)",
+      "imports": [
+         "Jim Hurley (JIRA)"
+      ]
+   },
+   {
+      "name": "Michael Warres",
+      "imports": [
+         "Mark Brouwer"
+      ]
+   },
+   {
+      "name": "Brian Murphy",
+      "imports": [
+         "Mark Brouwer"
+      ]
+   },
+   {
+      "name": "Frank Barnaby",
+      "imports": [
+         "Mark Brouwer",
+         "Mark Brouwer",
+         "Mark Brouwer",
+         "Bob Scheifler",
+         "Bob Scheifler"
+      ]
+   },
+   {
+      "name": "Herrick, Mike",
+      "imports": []
+   },
+   {
+      "name": "John McClain - Sun Microsystems, Inc.",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Gianugo Rabellino",
+      "imports": [
+         "Jukka Zitting",
+         "Jim Hurley",
+         "Mark Brouwer",
+         "Phil Steitz",
+         "Dan Creswell",
+         "Mark Brouwer"
+      ]
+   },
+   {
+      "name": "Phil Steitz",
+      "imports": [
+         "Gianugo Rabellino",
+         "Bob Scheifler"
+      ]
+   },
+   {
+      "name": "Jim Hurley",
+      "imports": [
+         "Herrick, Mike",
+         "Jukka Zitting",
+         "Jukka Zitting (JIRA)",
+         "Jukka Zitting",
+         "Craig L Russell",
+         "Frank Barnaby",
+         "Gianugo Rabellino",
+         "Nigel Daley"
+      ]
+   },
+   {
+      "name": "Craig L Russell",
+      "imports": [
+         "Gianugo Rabellino",
+         "Christopher G. Stach II",
+         "Dan Creswell",
+         "Jim Hurley",
+         "Mark Brouwer",
+         "Jim Hurley",
+         "Phil Steitz"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Jim Hurley",
+         "Mark Brouwer",
+         "Mark Brouwer",
+         "Frank Barnaby",
+         "Gianugo Rabellino",
+         "Jim Hurley",
+         "Gianugo Rabellino",
+         "Gianugo Rabellino"
+      ]
+   },
+   {
+      "name": "Dan Creswell",
+      "imports": [
+         "Mark Brouwer",
+         "John McClain - Sun Microsystems, Inc.",
+         "John McClain",
+         "Gregg Wonderly",
+         "Jim Hurley",
+         "Gianugo Rabellino",
+         "Mark Brouwer"
+      ]
+   },
+   {
+      "name": "Mark Brouwer",
+      "imports": [
+         "Jukka Zitting",
+         "Jim Hurley",
+         "Frank Barnaby",
+         "Jim Hurley",
+         "Jukka Zitting",
+         "Dan Creswell",
+         "Jim Hurley",
+         "Dan Creswell",
+         "Vinod Johnson - Sun Microsystems",
+         "Gianugo Rabellino",
+         "Bob Scheifler",
+         "Gregg Wonderly",
+         "Michael Warres",
+         "Bob Scheifler",
+         "Craig L Russell",
+         "Rick Moynihan",
+         "Bob Scheifler",
+         "Bob Scheifler",
+         "Bob Scheifler",
+         "Bob Scheifler",
+         "Bob Scheifler",
+         "Bob Scheifler",
+         "Christopher G. Stach II",
+         "Gregg Wonderly",
+         "Bob Scheifler",
+         "Greg Trasuk",
+         "Bob Scheifler",
+         "Bob Scheifler",
+         "Gianugo Rabellino",
+         "Dan Creswell",
+         "Bob Scheifler",
+         "Frank Barnaby",
+         "Bob Scheifler",
+         "Vinod Johnson - Sun Microsystems",
+         "Bob Scheifler"
+      ]
+   },
+   {
+      "name": "John McClain",
+      "imports": [
+         "Gianugo Rabellino"
+      ]
+   },
+   {
+      "name": "Bob Scheifler",
+      "imports": [
+         "Mark Brouwer",
+         "Mark Brouwer",
+         "Rick Moynihan",
+         "Mark Brouwer",
+         "Mark Brouwer",
+         "Mark Brouwer",
+         "Mark Brouwer",
+         "Mark Brouwer",
+         "Mark Brouwer",
+         "Jim Hurley",
+         "Christopher G. Stach II",
+         "Mark Brouwer",
+         "Mark Brouwer",
+         "Gianugo Rabellino",
+         "Mark Brouwer",
+         "Mark Brouwer",
+         "Mark Brouwer",
+         "Phil Steitz",
+         "Frank Barnaby",
+         "Phil Steitz",
+         "Mark Brouwer"
+      ]
+   },
+   {
+      "name": "Greg Trasuk",
+      "imports": [
+         "Bob Scheifler",
+         "Bob Scheifler"
+      ]
+   },
+   {
+      "name": "Dennis Reedy",
+      "imports": [
+         "Dan Creswell"
+      ]
+   },
+   {
+      "name": "Juan Ramirez",
+      "imports": []
+   },
+   {
+      "name": "Jim Hurley (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Vinod Johnson - Sun Microsystems",
+      "imports": [
+         "Mark Brouwer",
+         "Juan Ramirez",
+         "Mark Brouwer"
+      ]
+   },
+   {
+      "name": "Gregg Wonderly",
+      "imports": [
+         "Dan Creswell",
+         "Mark Brouwer",
+         "Bob Scheifler",
+         "Mark Brouwer",
+         "Mark Brouwer",
+         "Mark Brouwer",
+         "Bob Scheifler"
+      ]
+   },
+   {
+      "name": "Stephen Pietrowicz",
+      "imports": []
+   },
+   {
+      "name": "Jim Waldo",
+      "imports": [
+         "Jim Hurley"
+      ]
+   },
+   {
+      "name": "Nigel Daley",
+      "imports": [
+         "Stephen Pietrowicz"
+      ]
+   },
+   {
+      "name": "Christopher G. Stach II",
+      "imports": [
+         "Frank Barnaby",
+         "Craig L Russell",
+         "Mark Brouwer"
+      ]
+   },
+   {
+      "name": "Frank Barnaby (JIRA)",
+      "imports": [
+         "Jim Hurley (JIRA)",
+         "Jim Hurley (JIRA)",
+         "Jim Hurley (JIRA)",
+         "Jim Hurley (JIRA)",
+         "Jim Hurley (JIRA)"
+      ]
+   },
+   {
+      "name": "Rick Moynihan",
+      "imports": [
+         "Mark Brouwer"
+      ]
+   },
+   {
+      "name": "Phil Steitz (JIRA)",
+      "imports": [
+         "Jim Hurley (JIRA)"
+      ]
+   }
+]

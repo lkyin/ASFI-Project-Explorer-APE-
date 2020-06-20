@@ -1,0 +1,49 @@
+[
+   {
+      "name": "Dmitriy Setrakyan",
+      "imports": [
+         "Konstantin Boudnik"
+      ]
+   },
+   {
+      "name": "Roman Shaposhnik",
+      "imports": [
+         "Dmitriy Setrakyan",
+         "Konstantin Boudnik"
+      ]
+   },
+   {
+      "name": "Konstantin Boudnik",
+      "imports": [
+         "Valentin Kulichenko",
+         "Roman Shaposhnik"
+      ]
+   },
+   {
+      "name": "Yakov Zhdanov",
+      "imports": [
+         "Valentin Kulichenko",
+         "Ilya Sterin"
+      ]
+   },
+   {
+      "name": "Alexey Goncharuk",
+      "imports": [
+         "Dmitriy Setrakyan"
+      ]
+   },
+   {
+      "name": "Ilya Sterin",
+      "imports": [
+         "Alexey Goncharuk",
+         "Yakov Zhdanov"
+      ]
+   },
+   {
+      "name": "Valentin Kulichenko",
+      "imports": [
+         "Ilya Sterin",
+         "Yakov Zhdanov"
+      ]
+   }
+]

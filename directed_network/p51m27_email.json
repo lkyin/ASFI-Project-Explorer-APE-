@@ -1,0 +1,89 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "=?UTF-8?Q?P=C5=99emek_Brada?="
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+      "imports": [
+         "Carsten Ziegeler"
+      ]
+   },
+   {
+      "name": "Karl Pauls (JIRA)",
+      "imports": [
+         "Angelo van der Sijpt (JIRA)"
+      ]
+   },
+   {
+      "name": "Toni Menzel",
+      "imports": [
+         "=?UTF-8?B?SmVhbi1CYXB0aXN0ZSBPbm9mcsOp?="
+      ]
+   },
+   {
+      "name": "Angelo van der Sijpt",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?Q?P=C5=99emek_Brada?=",
+      "imports": [
+         "Marcel Offermans",
+         "=?UTF-8?B?SmVhbi1CYXB0aXN0ZSBPbm9mcsOp?=",
+         "Marcel Offermans",
+         "Bertrand Delacretaz",
+         "Marcel Offermans",
+         "Marcel Offermans"
+      ]
+   },
+   {
+      "name": "Marcel Offermans (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Carsten Ziegeler",
+      "imports": [
+         "Angelo van der Sijpt",
+         "Marcel Offermans"
+      ]
+   },
+   {
+      "name": "Angelo van der Sijpt (JIRA)",
+      "imports": [
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)"
+      ]
+   },
+   {
+      "name": "Marcel Offermans",
+      "imports": [
+         "Bram de Kruijff",
+         "Toni Menzel",
+         "=?UTF-8?Q?P=C5=99emek_Brada?=",
+         "Carsten Ziegeler",
+         "Bertrand Delacretaz",
+         "=?UTF-8?Q?P=C5=99emek_Brada?=",
+         "Bram de Kruijff",
+         "Bram de Kruijff",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?="
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?SmVhbi1CYXB0aXN0ZSBPbm9mcsOp?=",
+      "imports": [
+         "=?UTF-8?Q?P=C5=99emek_Brada?="
+      ]
+   },
+   {
+      "name": "Bram de Kruijff",
+      "imports": [
+         "=?UTF-8?Q?P=C5=99emek_Brada?=",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans",
+         "Marcel Offermans"
+      ]
+   }
+]

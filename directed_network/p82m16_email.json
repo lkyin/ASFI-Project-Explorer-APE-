@@ -1,0 +1,63 @@
+[
+   {
+      "name": "johndament",
+      "imports": []
+   },
+   {
+      "name": "stain",
+      "imports": []
+   },
+   {
+      "name": "Benedikt Ritter",
+      "imports": []
+   },
+   {
+      "name": "afs",
+      "imports": [
+         "stain"
+      ]
+   },
+   {
+      "name": "Andy Seaborne",
+      "imports": [
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+         "Stian Soiland-Reyes",
+         "Stian Soiland-Reyes"
+      ]
+   },
+   {
+      "name": "Gary Gregory",
+      "imports": [
+         "Benedikt Ritter",
+         "Stian Soiland-Reyes",
+         "johndament"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+      "imports": [
+         "Gary Gregory",
+         "johndament",
+         "Stian Soiland-Reyes",
+         "Andreas Harth"
+      ]
+   },
+   {
+      "name": "Stian Soiland-Reyes",
+      "imports": [
+         "johndament",
+         "Andy Seaborne",
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+         "Andy Seaborne"
+      ]
+   },
+   {
+      "name": "Andreas Harth",
+      "imports": [
+         "Stian Soiland-Reyes",
+         "Stian Soiland-Reyes"
+      ]
+   }
+]

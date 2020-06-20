@@ -1,0 +1,17 @@
+[
+   {
+      "name": "Martin Cooper",
+      "imports": []
+   },
+   {
+      "name": "Luciano Resende",
+      "imports": [
+         "Roland Weber",
+         "Martin Cooper"
+      ]
+   },
+   {
+      "name": "Roland Weber",
+      "imports": []
+   }
+]

@@ -1,0 +1,25 @@
+[
+   {
+      "name": "rgass",
+      "imports": []
+   },
+   {
+      "name": "Richard Gass",
+      "imports": [
+         "Michael Stroucken"
+      ]
+   },
+   {
+      "name": "Michael Stroucken",
+      "imports": [
+         "rgass",
+         "Gass, Richard"
+      ]
+   },
+   {
+      "name": "Gass, Richard",
+      "imports": [
+         "Michael Stroucken"
+      ]
+   }
+]

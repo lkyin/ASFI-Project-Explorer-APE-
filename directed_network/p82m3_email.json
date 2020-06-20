@@ -1,0 +1,137 @@
+[
+   {
+      "name": "Brian Fox",
+      "imports": [
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?="
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "Stian Soiland-Reyes",
+         "Benedikt Ritter",
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "Rob Vesse",
+      "imports": [
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Gary Gregory",
+      "imports": []
+   },
+   {
+      "name": "Benedikt Ritter",
+      "imports": [
+         "Stian Soiland-Reyes",
+         "Andy Seaborne",
+         "Stian Soiland-Reyes",
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?="
+      ]
+   },
+   {
+      "name": "Alexandre Bertails",
+      "imports": [
+         "Stian Soiland-Reyes",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Stian Soiland-Reyes",
+         "Stian Soiland-Reyes",
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+         "Andy Seaborne",
+         "=?UTF-8?Q?Reto_Gm=C3=BCr?="
+      ]
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": []
+   },
+   {
+      "name": "stain",
+      "imports": [
+         "britter"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Reto_Gm=C3=BCr?=",
+      "imports": []
+   },
+   {
+      "name": "britter",
+      "imports": []
+   },
+   {
+      "name": "Andy Seaborne",
+      "imports": [
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+         "Stian Soiland-Reyes",
+         "Alexandre Bertails",
+         "Alexandre Bertails",
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+         "Stian Soiland-Reyes",
+         "Stian Soiland-Reyes",
+         "Stian Soiland-Reyes",
+         "John D. Ament",
+         "Alexandre Bertails",
+         "Alexandre Bertails",
+         "Gary Gregory",
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Jakob Frank",
+      "imports": [
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?="
+      ]
+   },
+   {
+      "name": "asfgit",
+      "imports": [
+         "britter"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+      "imports": [
+         "Brian Fox",
+         "Benedikt Ritter",
+         "Stian Soiland-Reyes",
+         "Andy Seaborne",
+         "Stian Soiland-Reyes",
+         "Andy Seaborne",
+         "Stian Soiland-Reyes",
+         "Alexandre Bertails",
+         "Alexandre Bertails"
+      ]
+   },
+   {
+      "name": "Stian Soiland-Reyes",
+      "imports": [
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+         "Andy Seaborne",
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+         "Alexandre Bertails",
+         "=?UTF-8?Q?Sergio_Fern=C3=A1ndez?=",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Jakob Frank",
+         "Rob Vesse",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "John D. Ament",
+         "Andy Seaborne",
+         "Alexandre Bertails"
+      ]
+   },
+   {
+      "name": "Paul Houle",
+      "imports": [
+         "Alexandre Bertails"
+      ]
+   }
+]

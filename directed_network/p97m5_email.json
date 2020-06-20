@@ -1,0 +1,24 @@
+[
+   {
+      "name": "Ted Dunning",
+      "imports": [
+         "Marvin",
+         "InJun Song",
+         "Michael Hausenblas"
+      ]
+   },
+   {
+      "name": "InJun Song",
+      "imports": []
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Michael Hausenblas",
+      "imports": [
+         "Ted Dunning"
+      ]
+   }
+]

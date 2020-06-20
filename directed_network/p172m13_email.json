@@ -1,0 +1,97 @@
+[
+   {
+      "name": "Waxter",
+      "imports": [
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Alex Boisvert",
+      "imports": [
+         "Jiang Liu",
+         "Jiang Liu",
+         "Lance Waterman",
+         "Jiang Liu",
+         "Jiang Liu",
+         "Jim Alateras",
+         "victor panizza"
+      ]
+   },
+   {
+      "name": "Matthieu Riou",
+      "imports": [
+         "Manu Lopez",
+         "Alex Boisvert",
+         "Jiang Liu",
+         "Davanum Srinivas",
+         "Lance Waterman",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "Manu Lopez",
+         "Matthieu Riou",
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Wolfgang Pleus (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "claudio cacciari (JIRA)",
+      "imports": [
+         "Wolfgang Pleus (JIRA)"
+      ]
+   },
+   {
+      "name": "Davanum Srinivas",
+      "imports": [
+         "Jim Alateras"
+      ]
+   },
+   {
+      "name": "Jim Alateras",
+      "imports": [
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Manu Lopez",
+      "imports": [
+         "Waxter",
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Alex Boisvert (JIRA)",
+      "imports": [
+         "Wolfgang Pleus (JIRA)",
+         "Matthieu Riou (JIRA)"
+      ]
+   },
+   {
+      "name": "Matthieu Riou (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "victor panizza",
+      "imports": [
+         "Alex Boisvert",
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Lance Waterman",
+      "imports": [
+         "Alex Boisvert",
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Jiang Liu",
+      "imports": []
+   }
+]

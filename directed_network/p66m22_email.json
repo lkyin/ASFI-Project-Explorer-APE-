@@ -1,0 +1,84 @@
+[
+   {
+      "name": "Donald Woods",
+      "imports": [
+         "Mohammad Nour El-Din"
+      ]
+   },
+   {
+      "name": "Mark Struberg (Resolved) (JIRA)",
+      "imports": [
+         "Mark Struberg (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Matt Benson (Updated) (JIRA)",
+      "imports": [
+         "Sascha Vujevic (JIRA)",
+         "David J. M. Karlsen (JIRA)",
+         "Sascha Vujevic (JIRA)"
+      ]
+   },
+   {
+      "name": "Mohammad Nour El-Din",
+      "imports": [
+         "Niall Pemberton",
+         "Kevan Miller"
+      ]
+   },
+   {
+      "name": "David J. M. Karlsen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Kevan Miller",
+      "imports": [
+         "Matt Benson",
+         "Mohammad Nour El-Din"
+      ]
+   },
+   {
+      "name": "Matt Benson (Resolved) (JIRA)",
+      "imports": [
+         "David J. M. Karlsen (JIRA)"
+      ]
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "Kevan Miller"
+      ]
+   },
+   {
+      "name": "Mark Struberg (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Matt Benson",
+      "imports": []
+   },
+   {
+      "name": "Matt Benson (Commented) (JIRA)",
+      "imports": [
+         "Romain Manni-Bucau (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Romain Manni-Bucau (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Sascha Vujevic (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Niall Pemberton",
+      "imports": []
+   },
+   {
+      "name": "Romain Manni-Bucau (Updated) (JIRA)",
+      "imports": [
+         "Romain Manni-Bucau (Created) (JIRA)"
+      ]
+   }
+]

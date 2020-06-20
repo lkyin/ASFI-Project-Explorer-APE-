@@ -1,0 +1,323 @@
+[
+   {
+      "name": "Georgieva, Violeta",
+      "imports": [
+         "zoe"
+      ]
+   },
+   {
+      "name": "Siqi Du",
+      "imports": [
+         "Rex Wang",
+         "Rex Wang"
+      ]
+   },
+   {
+      "name": "Alan Keane",
+      "imports": [
+         "Joe Bohn",
+         "Alasdair Nottingham"
+      ]
+   },
+   {
+      "name": "Tankov, Nikolai",
+      "imports": [
+         "zoe"
+      ]
+   },
+   {
+      "name": "Jarek Gawor",
+      "imports": [
+         "The Dweller",
+         "zoe",
+         "zoe",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "ozzy",
+         "The Dweller",
+         "Alasdair Nottingham",
+         "zoe",
+         "Alasdair Nottingham"
+      ]
+   },
+   {
+      "name": "Jeremy Hughes",
+      "imports": [
+         "Guillaume Nodet",
+         "Alasdair Nottingham",
+         "zoe",
+         "Alasdair Nottingham"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Kevan Miller",
+         "Kevan Miller"
+      ]
+   },
+   {
+      "name": "Kevan Miller",
+      "imports": [
+         "Alasdair Nottingham",
+         "Alasdair Nottingham",
+         "zoe",
+         "zoe",
+         "zoe",
+         "Jeremy Hughes",
+         "Joe Bohn",
+         "zoe",
+         "zoe"
+      ]
+   },
+   {
+      "name": "Andrew Osborne (JIRA)",
+      "imports": [
+         "Oliver Lietz (JIRA)",
+         "Oliver Lietz (JIRA)",
+         "Oliver Lietz (JIRA)",
+         "Guillaume Nodet (JIRA)"
+      ]
+   },
+   {
+      "name": "Joe Bohn",
+      "imports": [
+         "Alan Keane",
+         "Jeremy Hughes",
+         "zoe",
+         "Alasdair Nottingham"
+      ]
+   },
+   {
+      "name": "Lin Sun (JIRA)",
+      "imports": [
+         "Guillaume Nodet (JIRA)",
+         "Guillaume Nodet (JIRA)"
+      ]
+   },
+   {
+      "name": "Stuart McCulloch",
+      "imports": [
+         "zoe"
+      ]
+   },
+   {
+      "name": "zoe",
+      "imports": [
+         "Jeremy Hughes",
+         "Davanum Srinivas",
+         "Kevan Miller"
+      ]
+   },
+   {
+      "name": "Oliver Lietz (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Guillaume Nodet (JIRA)",
+      "imports": [
+         "Andrew Osborne (JIRA)",
+         "Andrew Osborne (JIRA)",
+         "Graham Charters (JIRA)"
+      ]
+   },
+   {
+      "name": "Raymond Feng",
+      "imports": [
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?="
+      ]
+   },
+   {
+      "name": "Alasdair Nottingham (JIRA)",
+      "imports": [
+         "Lin Sun (JIRA)",
+         "Lin Sun (JIRA)",
+         "Lin Sun (JIRA)",
+         "Lin Sun (JIRA)",
+         "Jarek Gawor (JIRA)",
+         "Guillaume Nodet (JIRA)",
+         "Guillaume Nodet (JIRA)"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+      "imports": [
+         "David Bosschaert"
+      ]
+   },
+   {
+      "name": "David Bosschaert",
+      "imports": [
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+         "=?utf-8?B?SmVhbi1CYXB0aXN0ZSBPbm9mcsOp?=",
+         "Kevan Miller"
+      ]
+   },
+   {
+      "name": "Donald Woods",
+      "imports": [
+         "zoe"
+      ]
+   },
+   {
+      "name": "=?utf-8?B?SmVhbi1CYXB0aXN0ZSBPbm9mcsOp?=",
+      "imports": [
+         "Raymond Feng"
+      ]
+   },
+   {
+      "name": "Davanum Srinivas",
+      "imports": [
+         "Alasdair Nottingham",
+         "zoe"
+      ]
+   },
+   {
+      "name": "Alasdair Nottingham",
+      "imports": [
+         "Adam Wojtuniak (JIRA)",
+         "Daniel Kulp",
+         "Davanum Srinivas",
+         "Guillaume Nodet",
+         "adam wojtuniak",
+         "zoe",
+         "Bertrand Delacretaz",
+         "Kevan Miller",
+         "adam wojtuniak",
+         "adam wojtuniak",
+         "Rex Wang"
+      ]
+   },
+   {
+      "name": "Graham Charters",
+      "imports": [
+         "David Bosschaert",
+         "Lin Sun"
+      ]
+   },
+   {
+      "name": "Alan D. Cabrera",
+      "imports": [
+         "Joe Bohn"
+      ]
+   },
+   {
+      "name": "Charles Moulliard",
+      "imports": [
+         "zoe"
+      ]
+   },
+   {
+      "name": "zoe slattery (JIRA)",
+      "imports": [
+         "Jeremy Hughes (JIRA)",
+         "Jeremy Hughes (JIRA)",
+         "Jeremy Hughes (JIRA)",
+         "Jeremy Hughes (JIRA)"
+      ]
+   },
+   {
+      "name": "Rex Wang (JIRA)",
+      "imports": [
+         "Andrew Osborne (JIRA)"
+      ]
+   },
+   {
+      "name": "Lin Sun",
+      "imports": [
+         "zoe"
+      ]
+   },
+   {
+      "name": "Adam Wojtuniak (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "davidb",
+      "imports": [
+         "zoe"
+      ]
+   },
+   {
+      "name": "Graham Charters (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "The Dweller",
+      "imports": [
+         "Guillaume Nodet",
+         "Jarek Gawor",
+         "Guillaume Nodet",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Carsten Ziegeler",
+      "imports": [
+         "Jarek Gawor"
+      ]
+   },
+   {
+      "name": "Jarek Gawor (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Mark Nuttall",
+      "imports": [
+         "zoe"
+      ]
+   },
+   {
+      "name": "Valentin Mahrwald (JIRA)",
+      "imports": [
+         "Lin Sun (JIRA)",
+         "Lin Sun (JIRA)"
+      ]
+   },
+   {
+      "name": "Rex Wang",
+      "imports": [
+         "Alasdair Nottingham",
+         "Alan Keane",
+         "Siqi Du"
+      ]
+   },
+   {
+      "name": "Alan Keane (JIRA)",
+      "imports": [
+         "Adam Wojtuniak (JIRA)"
+      ]
+   },
+   {
+      "name": "ozzy",
+      "imports": []
+   },
+   {
+      "name": "Rick McGuire",
+      "imports": [
+         "Joe Bohn"
+      ]
+   },
+   {
+      "name": "Daniel Kulp",
+      "imports": []
+   },
+   {
+      "name": "Jeremy Hughes (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "adam wojtuniak",
+      "imports": [
+         "Alasdair Nottingham",
+         "Alasdair Nottingham",
+         "zoe",
+         "Alasdair Nottingham",
+         "Alasdair Nottingham"
+      ]
+   }
+]

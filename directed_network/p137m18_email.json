@@ -1,0 +1,29 @@
+[
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "Romain Manni-Bucau"
+      ]
+   },
+   {
+      "name": "Karl Grosse",
+      "imports": [
+         "Romain Manni-Bucau"
+      ]
+   },
+   {
+      "name": "Reinhard Sandtner",
+      "imports": [
+         "Romain Manni-Bucau",
+         "Romain Manni-Bucau"
+      ]
+   },
+   {
+      "name": "Romain Manni-Bucau",
+      "imports": [
+         "Mark Struberg",
+         "Reinhard Sandtner",
+         "Reinhard Sandtner"
+      ]
+   }
+]

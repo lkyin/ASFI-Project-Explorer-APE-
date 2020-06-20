@@ -1,0 +1,315 @@
+[
+   {
+      "name": "Matei Zaharia",
+      "imports": [
+         "Andy Konwinski",
+         "Shane Huang",
+         "Patrick Wendell",
+         "Patrick Wendell",
+         "Vadim Chekan",
+         "Patrick Wendell",
+         "Evan Chan",
+         "Evan Chan",
+         "Evan Chan",
+         "Evan Chan",
+         "Christopher Nguyen",
+         "Vadim Chekan",
+         "Marvin",
+         "Shane Huang",
+         "Han JU"
+      ]
+   },
+   {
+      "name": "Markus Losoi",
+      "imports": []
+   },
+   {
+      "name": "Konstantin Boudnik",
+      "imports": [
+         "Gary Struthers",
+         "Matei Zaharia",
+         "Roman Shaposhnik",
+         "Roman Shaposhnik",
+         "Sean Mackrory",
+         "Jay Vyas",
+         "Shane Huang",
+         "Shane Huang"
+      ]
+   },
+   {
+      "name": "Andy Konwinski",
+      "imports": [
+         "Patrick Wendell",
+         "Mattmann, Chris A (398J)"
+      ]
+   },
+   {
+      "name": "Aaron Babcock",
+      "imports": [
+         "Laksh Gupta"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (398J)",
+      "imports": [
+         "Patrick Wendell",
+         "Henry Saputra"
+      ]
+   },
+   {
+      "name": "Henry Saputra",
+      "imports": [
+         "Roman Shaposhnik",
+         "Roman Shaposhnik",
+         "Patrick Wendell",
+         "Mark Hamstra",
+         "Roman Shaposhnik",
+         "Patrick Wendell",
+         "Patrick Wendell",
+         "Patrick Wendell",
+         "Patrick Wendell",
+         "Patrick Wendell",
+         "Patrick Wendell",
+         "Roman Shaposhnik",
+         "Patrick Wendell",
+         "Matei Zaharia",
+         "karthik tunga"
+      ]
+   },
+   {
+      "name": "Chris Mattmann",
+      "imports": [
+         "Patrick Wendell",
+         "Andy Konwinski",
+         "Matei Zaharia",
+         "Patrick Wendell",
+         "Henry Saputra",
+         "Patrick Wendell",
+         "Patrick Wendell",
+         "Patrick Wendell",
+         "Matei Zaharia"
+      ]
+   },
+   {
+      "name": "Laksh Gupta",
+      "imports": []
+   },
+   {
+      "name": "Josh Rosen",
+      "imports": [
+         "Matei Zaharia"
+      ]
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Aaron Davidson",
+      "imports": [
+         "karthik tunga"
+      ]
+   },
+   {
+      "name": "Christopher Nguyen",
+      "imports": [
+         "=?UTF-8?B?0KDQvtC80LDQvSDQotC60LDQu9C10L3QutC+?=",
+         "Mark Hamstra"
+      ]
+   },
+   {
+      "name": "Ali Ghodsi",
+      "imports": [
+         "Patrick Wendell"
+      ]
+   },
+   {
+      "name": "Vadim Chekan",
+      "imports": [
+         "Reynold Xin",
+         "Michael Joyce"
+      ]
+   },
+   {
+      "name": "Sean Mackrory",
+      "imports": [
+         "Konstantin Boudnik"
+      ]
+   },
+   {
+      "name": "Shane Huang",
+      "imports": [
+         "Matei Zaharia",
+         "Matei Zaharia",
+         "Reynold Xin",
+         "Konstantin Boudnik"
+      ]
+   },
+   {
+      "name": "Martin Weindel",
+      "imports": []
+   },
+   {
+      "name": "Patrick Wendell",
+      "imports": [
+         "Reynold Xin",
+         "Andy Konwinski",
+         "Mark Hamstra",
+         "Mark Hamstra",
+         "Chris Mattmann",
+         "Henry Saputra",
+         "Roman Shaposhnik",
+         "Henry Saputra",
+         "Henry Saputra",
+         "Roman Shaposhnik",
+         "Roman Shaposhnik",
+         "Roman Shaposhnik",
+         "Chris Mattmann",
+         "Chris Mattmann",
+         "Chris Mattmann",
+         "Ryan Weald"
+      ]
+   },
+   {
+      "name": "Roman Shaposhnik",
+      "imports": [
+         "Henry Saputra",
+         "Henry Saputra",
+         "Patrick Wendell",
+         "Patrick Wendell",
+         "Henry Saputra",
+         "Patrick Wendell",
+         "Patrick Wendell",
+         "Mattmann, Chris A (398J)"
+      ]
+   },
+   {
+      "name": "Xia, Junluan",
+      "imports": [
+         "Shane Huang",
+         "Evan Chan",
+         "Matei Zaharia"
+      ]
+   },
+   {
+      "name": "Mark Hamstra",
+      "imports": [
+         "Reynold Xin",
+         "Matei Zaharia",
+         "Henry Saputra",
+         "Christopher Nguyen",
+         "Vadim Chekan",
+         "hilfi alkaff",
+         "hilfi alkaff"
+      ]
+   },
+   {
+      "name": "Gerard Maas",
+      "imports": [
+         "Tathagata Das",
+         "Tathagata Das"
+      ]
+   },
+   {
+      "name": "Reynold Xin",
+      "imports": [
+         "Martin Weindel",
+         "Konstantin Boudnik",
+         "Chris Mattmann",
+         "Shane Huang"
+      ]
+   },
+   {
+      "name": "Ryan Weald",
+      "imports": [
+         "Aaron Babcock"
+      ]
+   },
+   {
+      "name": "Michael Joyce",
+      "imports": [
+         "sivaraman Cj"
+      ]
+   },
+   {
+      "name": "Evan Chan",
+      "imports": [
+         "Shane Huang",
+         "Xia, Junluan",
+         "Markus Losoi",
+         "Matei Zaharia",
+         "Matei Zaharia",
+         "Matei Zaharia",
+         "Patrick Wendell"
+      ]
+   },
+   {
+      "name": "hilfi alkaff",
+      "imports": [
+         "Vadim Chekan",
+         "Mark Hamstra"
+      ]
+   },
+   {
+      "name": "Tathagata Das",
+      "imports": [
+         "Gerard Maas",
+         "Gerard Maas"
+      ]
+   },
+   {
+      "name": "Gurvinder Singh",
+      "imports": [
+         "Matei Zaharia"
+      ]
+   },
+   {
+      "name": "karthik tunga",
+      "imports": [
+         "Aaron Davidson",
+         "Henry Saputra"
+      ]
+   },
+   {
+      "name": "Mike",
+      "imports": [
+         "hilfi alkaff"
+      ]
+   },
+   {
+      "name": "Chester",
+      "imports": [
+         "Evan Chan"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?0KDQvtC80LDQvSDQotC60LDQu9C10L3QutC+?=",
+      "imports": []
+   },
+   {
+      "name": "sivaraman Cj",
+      "imports": []
+   },
+   {
+      "name": "Han JU",
+      "imports": []
+   },
+   {
+      "name": "Jay Vyas",
+      "imports": [
+         "Konstantin Boudnik"
+      ]
+   },
+   {
+      "name": "Murali Raju",
+      "imports": [
+         "Andy Konwinski"
+      ]
+   },
+   {
+      "name": "Gary Struthers",
+      "imports": [
+         "Konstantin Boudnik"
+      ]
+   }
+]

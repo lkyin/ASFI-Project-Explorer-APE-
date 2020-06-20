@@ -1,0 +1,12 @@
+[
+   {
+      "name": "Angelo van der Sijpt (JIRA)",
+      "imports": [
+         "Toni Menzel (JIRA)"
+      ]
+   },
+   {
+      "name": "Toni Menzel (JIRA)",
+      "imports": []
+   }
+]

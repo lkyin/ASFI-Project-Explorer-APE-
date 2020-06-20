@@ -1,0 +1,57 @@
+[
+   {
+      "name": "Roger Schildmeijer",
+      "imports": [
+         "Caron, Maxime",
+         "Caron, Maxime"
+      ]
+   },
+   {
+      "name": "Caron, Maxime",
+      "imports": [
+         "Emmanuel Lecharny"
+      ]
+   },
+   {
+      "name": "Adam Lofts (Updated) (JIRA)",
+      "imports": [
+         "Adam Lofts (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Roger Schildmeijer (Commented) (JIRA)",
+      "imports": [
+         "Roger Schildmeijer (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Julien Vermillard (Commented) (JIRA)",
+      "imports": [
+         "Roger Schildmeijer (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Adam Lofts (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Emmanuel Lecharny",
+      "imports": [
+         "Roger Schildmeijer"
+      ]
+   },
+   {
+      "name": "Roger Schildmeijer (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Roger Schildmeijer (Updated) (JIRA)",
+      "imports": [
+         "Roger Schildmeijer (Created) (JIRA)",
+         "Roger Schildmeijer (Created) (JIRA)",
+         "Roger Schildmeijer (Created) (JIRA)",
+         "Roger Schildmeijer (Created) (JIRA)",
+         "Roger Schildmeijer (Created) (JIRA)"
+      ]
+   }
+]

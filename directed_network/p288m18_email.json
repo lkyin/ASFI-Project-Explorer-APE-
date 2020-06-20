@@ -1,0 +1,66 @@
+[
+   {
+      "name": "Rob Weir",
+      "imports": [
+         "Marvin",
+         "Nick Burch",
+         "Dali Liu",
+         "Apache Jenkins Server",
+         "Dali Liu"
+      ]
+   },
+   {
+      "name": "Dali Liu",
+      "imports": [
+         "Florian Hopf",
+         "Florian Hopf"
+      ]
+   },
+   {
+      "name": "Oliver Rau",
+      "imports": [
+         "Dali Liu"
+      ]
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Apache Jenkins Server",
+      "imports": []
+   },
+   {
+      "name": "Dave Fisher",
+      "imports": [
+         "Florian Hopf"
+      ]
+   },
+   {
+      "name": "Nick Burch",
+      "imports": []
+   },
+   {
+      "name": "Svante Schubert",
+      "imports": [
+         "Dali Liu",
+         "Oliver Rau",
+         "Apache Jenkins Server",
+         "Apache Jenkins Server",
+         "Steele, Raymond"
+      ]
+   },
+   {
+      "name": "Florian Hopf",
+      "imports": [
+         "Dali Liu",
+         "Dali Liu"
+      ]
+   },
+   {
+      "name": "Steele, Raymond",
+      "imports": [
+         "Svante Schubert"
+      ]
+   }
+]

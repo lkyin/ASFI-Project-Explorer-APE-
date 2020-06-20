@@ -1,0 +1,410 @@
+[
+   {
+      "name": "Brian Moseley (JIRA)",
+      "imports": [
+         "angela (JIRA)"
+      ]
+   },
+   {
+      "name": "nafise hassani",
+      "imports": []
+   },
+   {
+      "name": "David Nuescheler",
+      "imports": [
+         "James Myers",
+         "Walter",
+         "Walter",
+         "nafise hassani",
+         "Michael Wechner",
+         "Stefano Mazzocchi",
+         "Michael Singer",
+         "Magnus Grimsell"
+      ]
+   },
+   {
+      "name": "Guillaume Bort",
+      "imports": [
+         "Stefan Guggisberg"
+      ]
+   },
+   {
+      "name": "angela (JIRA)",
+      "imports": [
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)",
+         "Brian Moseley (JIRA)"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?J=FCrg_Stuker?=",
+      "imports": [
+         "Marcel Reutegger (JIRA)"
+      ]
+   },
+   {
+      "name": "Manu",
+      "imports": [
+         "=?ISO-8859-1?Q?J=FCrg_Stuker?="
+      ]
+   },
+   {
+      "name": "Miklos Pocsaji",
+      "imports": []
+   },
+   {
+      "name": "Michael Singer",
+      "imports": [
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "Stefano Mazzocchi",
+      "imports": [
+         "Michael Wechner",
+         "Angela Schreiber",
+         "Michael Wechner",
+         "James Myers",
+         "James Myers",
+         "Angela Schreiber"
+      ]
+   },
+   {
+      "name": "Edgar Poce",
+      "imports": [
+         "Torsten Schlabach",
+         "Sogal, Nagavardhan",
+         "Florian Ried",
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Torsten Schlabach",
+      "imports": [
+         "Oliver Kiessler",
+         "Oliver Kiessler",
+         "Michael Wechner",
+         "Oliver Kiessler",
+         "Oliver Kiessler",
+         "Oliver Kiessler",
+         "Oliver Kiessler",
+         "Oliver Kiessler",
+         "Oliver Kiessler",
+         "Edgar Poce"
+      ]
+   },
+   {
+      "name": "Stefan Guggisberg (JIRA)",
+      "imports": [
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Tobias Bocanegra",
+         "Tobias Bocanegra",
+         "Brian Moseley",
+         "Edgar Poce",
+         "Florian Ried"
+      ]
+   },
+   {
+      "name": "Nicolas Belisle",
+      "imports": [
+         "Walter Raboch",
+         "Walter Raboch"
+      ]
+   },
+   {
+      "name": "fabrizio giustina (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Rob Owen (JIRA)",
+      "imports": [
+         "angela (JIRA)"
+      ]
+   },
+   {
+      "name": "Fabrizio Giustina",
+      "imports": []
+   },
+   {
+      "name": "Tobias Bocanegra",
+      "imports": [
+         "Jukka Zitting",
+         "Jukka Zitting",
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Marcel Reutegger (JIRA)",
+      "imports": [
+         "Miro Walker (JIRA)",
+         "Torsten Schlabach (JIRA)",
+         "Torsten Schlabach (JIRA)",
+         "Torsten Schlabach (JIRA)"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?J=E9r=F4me?= BENOIS",
+      "imports": [
+         "Tobias Bocanegra",
+         "Torsten Schlabach"
+      ]
+   },
+   {
+      "name": "Robert Ritchy",
+      "imports": [
+         "Torsten Schlabach"
+      ]
+   },
+   {
+      "name": "Philipp Bracher",
+      "imports": [
+         "Fabrizio Giustina"
+      ]
+   },
+   {
+      "name": "Sean Radford",
+      "imports": []
+   },
+   {
+      "name": "Torsten Schlabach (JIRA)",
+      "imports": [
+         "Miro Walker (JIRA)"
+      ]
+   },
+   {
+      "name": "Edgar Poce (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "McComsey, Doug",
+      "imports": []
+   },
+   {
+      "name": "Sogal, Nagavardhan",
+      "imports": []
+   },
+   {
+      "name": "Tobias Strasser (JIRA)",
+      "imports": [
+         "angela (JIRA)",
+         "angela (JIRA)"
+      ]
+   },
+   {
+      "name": "Michael Wechner",
+      "imports": [
+         "David Nuescheler",
+         "Stefano Mazzocchi"
+      ]
+   },
+   {
+      "name": "Serge Huber (JIRA)",
+      "imports": [
+         "Edgar Poce (JIRA)"
+      ]
+   },
+   {
+      "name": "Jukka Zitting (JIRA)",
+      "imports": [
+         "Edgar Poce (JIRA)",
+         "Edgar Poce (JIRA)",
+         "fabrizio giustina (JIRA)",
+         "fabrizio giustina (JIRA)",
+         "Richard Osbaldeston (JIRA)",
+         "Edgar Poce (JIRA)"
+      ]
+   },
+   {
+      "name": "Kevin Wiggen",
+      "imports": []
+   },
+   {
+      "name": "Janne Kario",
+      "imports": [
+         "Brian Moseley",
+         "Angela Schreiber"
+      ]
+   },
+   {
+      "name": "Florian Ried",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Richard Osbaldeston (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Stefan Guggisberg",
+      "imports": [
+         "nafise hassani",
+         "McComsey, Doug",
+         "Guillaume Bort",
+         "Brian Moseley",
+         "Jukka Zitting",
+         "Richard Osbaldeston",
+         "Miklos Pocsaji",
+         "Richard Osbaldeston",
+         "Walter Raboch",
+         "Marcel Reutegger",
+         "Jeremy Stell-Smith",
+         "Nicolas Belisle",
+         "Walter Raboch",
+         "Walter Raboch",
+         "Walter Raboch"
+      ]
+   },
+   {
+      "name": "Richard Osbaldeston",
+      "imports": [
+         "Stefan Guggisberg"
+      ]
+   },
+   {
+      "name": "Marcel Reutegger",
+      "imports": [
+         "Stefan Guggisberg",
+         "Brian Moseley",
+         "Brian Moseley",
+         "Paul Skinner"
+      ]
+   },
+   {
+      "name": "Dominique Pfister (JIRA)",
+      "imports": [
+         "Walter Raboch (JIRA)"
+      ]
+   },
+   {
+      "name": "Brian Moseley",
+      "imports": [
+         "angela (JIRA)",
+         "Angela Schreiber",
+         "Janne Kario",
+         "Angela Schreiber",
+         "Marcel Reutegger",
+         "Marcel Reutegger (JIRA)",
+         "Angela Schreiber",
+         "Stefan Guggisberg",
+         "Angela Schreiber",
+         "Jeremy Stell-Smith",
+         "Stefano Mazzocchi",
+         "Angela Schreiber",
+         "Kevin Wiggen",
+         "Angela Schreiber",
+         "Marcel Reutegger"
+      ]
+   },
+   {
+      "name": "Walter",
+      "imports": [
+         "David Nuescheler",
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "Walter Raboch",
+      "imports": [
+         "Stefan Guggisberg",
+         "Stefan Guggisberg",
+         "Stefan Guggisberg",
+         "Stefan Guggisberg"
+      ]
+   },
+   {
+      "name": "Jakub Pawlowicz",
+      "imports": [
+         "Marcel Reutegger"
+      ]
+   },
+   {
+      "name": "Magnus Grimsell",
+      "imports": [
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "Angela Schreiber",
+      "imports": [
+         "Brian Moseley",
+         "Janne Kario",
+         "Janne Kario",
+         "Brian Moseley",
+         "Brian Moseley",
+         "Brian Moseley",
+         "Brian Moseley",
+         "Brian Moseley"
+      ]
+   },
+   {
+      "name": "Oliver Kiessler",
+      "imports": [
+         "Torsten Schlabach",
+         "Torsten Schlabach",
+         "Torsten Schlabach",
+         "Torsten Schlabach",
+         "Sean Radford",
+         "Torsten Schlabach",
+         "Torsten Schlabach",
+         "Torsten Schlabach",
+         "Torsten Schlabach",
+         "Torsten Schlabach"
+      ]
+   },
+   {
+      "name": "Peeter Piegaze",
+      "imports": [
+         "Michael Wechner"
+      ]
+   },
+   {
+      "name": "Walter Raboch (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Paul Skinner",
+      "imports": []
+   },
+   {
+      "name": "Jeremy Stell-Smith",
+      "imports": []
+   },
+   {
+      "name": "Roy T. Fielding",
+      "imports": [
+         "Walter"
+      ]
+   },
+   {
+      "name": "Miro Walker (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "James Myers",
+      "imports": [
+         "David Nuescheler"
+      ]
+   }
+]

@@ -1,0 +1,32 @@
+[
+   {
+      "name": "Nigel Daley",
+      "imports": [
+         "Patrick Hunt"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "Patrick Hunt"
+      ]
+   },
+   {
+      "name": "Eric Sammer",
+      "imports": [
+         "Patrick Hunt"
+      ]
+   },
+   {
+      "name": "Patrick Hunt",
+      "imports": [
+         "Eric Sammer",
+         "Nigel Daley",
+         "no-reply"
+      ]
+   }
+]

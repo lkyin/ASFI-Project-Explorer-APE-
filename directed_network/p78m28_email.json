@@ -1,0 +1,23 @@
+[
+   {
+      "name": "Bernd Fondermann",
+      "imports": [
+         "Eric Yang"
+      ]
+   },
+   {
+      "name": "Eric Yang",
+      "imports": []
+   },
+   {
+      "name": "Eric Yang (JIRA)",
+      "imports": [
+         "Eric Spishak (JIRA)",
+         "Eric Spishak (JIRA)"
+      ]
+   },
+   {
+      "name": "Eric Spishak (JIRA)",
+      "imports": []
+   }
+]

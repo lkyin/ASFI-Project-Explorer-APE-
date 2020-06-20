@@ -1,0 +1,55 @@
+[
+   {
+      "name": "John R. Fallows (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Lars Corneliussen",
+      "imports": [
+         "christofer.dutz@c-ware.de",
+         "Brett Porter"
+      ]
+   },
+   {
+      "name": "Brett Porter",
+      "imports": [
+         "Gentile, Mark A"
+      ]
+   },
+   {
+      "name": "christofer.dutz@c-ware.de",
+      "imports": [
+         "Brett Porter"
+      ]
+   },
+   {
+      "name": "Gentile, Mark A",
+      "imports": []
+   },
+   {
+      "name": "Lars Corneliussen (JIRA)",
+      "imports": [
+         "Urs Keller (Created) (JIRA)",
+         "Urs Keller (Created) (JIRA)",
+         "Urs Keller (Created) (JIRA)",
+         "Urs Keller (Created) (JIRA)",
+         "Urs Keller (Created) (JIRA)",
+         "Urs Keller (Created) (JIRA)",
+         "John R. Fallows (JIRA)"
+      ]
+   },
+   {
+      "name": "Brett Porter (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Urs Keller (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Brett Porter (JIRA)",
+      "imports": [
+         "Brett Porter (Created) (JIRA)"
+      ]
+   }
+]

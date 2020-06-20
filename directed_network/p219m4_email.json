@@ -1,0 +1,97 @@
+[
+   {
+      "name": "Martin Sebor",
+      "imports": [
+         "Justin Erenkrantz",
+         "Justin Erenkrantz",
+         "William A. Rowe, Jr.",
+         "Alex Ostapenko",
+         "Alex Ostapenko",
+         "Alessio Marchetti",
+         "Alex Ostapenko",
+         "Alessio Marchetti",
+         "Alex Ostapenko",
+         "Alex Ostapenko",
+         "Alex Ostapenko",
+         "Alex Ostapenko",
+         "David Crossley",
+         "Justin Erenkrantz",
+         "Justin Erenkrantz",
+         "LANCE DIDUCK, BLOOMBERG/ 731 LEXIN",
+         "LANCE DIDUCK, BLOOMBERG/ 731 LEXIN"
+      ]
+   },
+   {
+      "name": "William A. Rowe, Jr.",
+      "imports": [
+         "Justin Erenkrantz",
+         "Martin Sebor"
+      ]
+   },
+   {
+      "name": "Justin Erenkrantz",
+      "imports": [
+         "Martin Sebor",
+         "Martin Sebor",
+         "Martin Sebor",
+         "Martin Sebor",
+         "Martin Sebor"
+      ]
+   },
+   {
+      "name": "Alessio Marchetti",
+      "imports": [
+         "Martin Sebor",
+         "Martin Sebor"
+      ]
+   },
+   {
+      "name": "Liviu Nicoara",
+      "imports": [
+         "Martin Sebor"
+      ]
+   },
+   {
+      "name": "Alex Ostapenko (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Martin Sebor (JIRA)",
+      "imports": [
+         "Alex Ostapenko (JIRA)",
+         "Alex Ostapenko (JIRA)",
+         "Alex Ostapenko (JIRA)",
+         "Alex Ostapenko (JIRA)",
+         "Alex Ostapenko (JIRA)",
+         "Lance Diduck (JIRA)",
+         "Alex Ostapenko (JIRA)"
+      ]
+   },
+   {
+      "name": "LANCE DIDUCK, BLOOMBERG/ 731 LEXIN",
+      "imports": []
+   },
+   {
+      "name": "Lance Diduck (JIRA)",
+      "imports": [
+         "Martin Sebor (JIRA)"
+      ]
+   },
+   {
+      "name": "Steve Downey (JIRA)",
+      "imports": [
+         "Martin Sebor (JIRA)"
+      ]
+   },
+   {
+      "name": "Alex Ostapenko",
+      "imports": []
+   },
+   {
+      "name": "David Crossley",
+      "imports": [
+         "Martin Sebor",
+         "Martin Sebor"
+      ]
+   }
+]

@@ -1,0 +1,549 @@
+[
+   {
+      "name": "Aaron Siri",
+      "imports": []
+   },
+   {
+      "name": "Steven E. Harris",
+      "imports": []
+   },
+   {
+      "name": "Damian Minkov",
+      "imports": [
+         "Richard S. Hall",
+         "Richard S. Hall"
+      ]
+   },
+   {
+      "name": "Richard S. Hall",
+      "imports": [
+         "Marcel Offermans",
+         "Thanh NGUYEN",
+         "Toni Menzel",
+         "Upayavira",
+         "Camila Nunes",
+         "Camila Nunes",
+         "Bram de Kruijff",
+         "Toni Menzel",
+         "Damian Minkov",
+         "Damian Minkov",
+         "Ivo K. Koga",
+         "Toni Menzel",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Peter Neubauer",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Aaron Siri",
+         "Steven E. Harris",
+         "Aaron Siri",
+         "Aaron Siri",
+         "Enrique Rodriguez",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Rick Litton",
+         "Steven E. Harris",
+         "Enrique Rodriguez",
+         "Rick Litton",
+         "Steven E. Harris",
+         "Dale Peakall",
+         "Peter Kriens",
+         "Aaron Siri",
+         "Aaron Siri",
+         "Aaron Siri",
+         "John E. Conlon",
+         "Aaron Siri",
+         "Aaron Siri",
+         "Aaron Siri",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Aaron Siri",
+         "Aaron Siri",
+         "Marcel Offermans",
+         "Aaron Siri",
+         "Karl Pauls",
+         "Steven E. Harris",
+         "=?ISO-8859-1?Q?Emil_Eifr=E9m?=",
+         "Henrik Larsson",
+         "Steven E. Harris",
+         "Aaron Siri",
+         "=?ISO-8859-1?Q?Emil_Eifr=E9m?=",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Aaron Siri",
+         "Aaron Siri",
+         "Felix Meschberger",
+         "Alan D. Cabrera",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Steven E. Harris",
+         "Rick Litton",
+         "Rick Litton",
+         "Rick Litton",
+         "Jeremy Boynes",
+         "Jeremy Boynes",
+         "Steven E. Harris",
+         "Karl Pauls",
+         "Steven E. Harris",
+         "Steven E. Harris"
+      ]
+   },
+   {
+      "name": "Camila Nunes",
+      "imports": [
+         "Richard S. Hall"
+      ]
+   },
+   {
+      "name": "Steven E. Harris (JIRA)",
+      "imports": [
+         "Richard S. Hall (JIRA)"
+      ]
+   },
+   {
+      "name": "Thanh NGUYEN (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jeff McAffer",
+      "imports": [
+         "Toni Menzel",
+         "Toni Menzel",
+         "Wouter de Vaal",
+         "Richard S. Hall",
+         "Felix Meschberger",
+         "Richard S. Hall",
+         "Rick Litton",
+         "rl16783"
+      ]
+   },
+   {
+      "name": "stephane.frenot",
+      "imports": [
+         "Richard S. Hall",
+         "Francesco Furfari (JIRA)",
+         "Steven E. Harris",
+         "Karl Pauls"
+      ]
+   },
+   {
+      "name": "Felix Meschberger (JIRA)",
+      "imports": [
+         "Chris Custine (JIRA)"
+      ]
+   },
+   {
+      "name": "Humberto Cervantes",
+      "imports": [
+         "Karl Pauls"
+      ]
+   },
+   {
+      "name": "Peter Kriens",
+      "imports": [
+         "Felix Meschberger",
+         "Peter Neubauer",
+         "=?ISO-8859-1?Q?Emil_Eifr=E9m?="
+      ]
+   },
+   {
+      "name": "Clement Escoffier",
+      "imports": [
+         "Toni Menzel"
+      ]
+   },
+   {
+      "name": "Piero Campanelli",
+      "imports": []
+   },
+   {
+      "name": "Didier Donsez",
+      "imports": [
+         "Richard S. Hall",
+         "Karl Pauls"
+      ]
+   },
+   {
+      "name": "Marcel Offermans",
+      "imports": [
+         "Richard S. Hall",
+         "Richard S. Hall",
+         "Karl Pauls",
+         "Francesco Furfari"
+      ]
+   },
+   {
+      "name": "Ikuo YAMASAKI",
+      "imports": [
+         "Richard S. Hall"
+      ]
+   },
+   {
+      "name": "Ivo K. Koga",
+      "imports": [
+         "Richard S. Hall"
+      ]
+   },
+   {
+      "name": "Simon Willnauer",
+      "imports": [
+         "weihui.tan"
+      ]
+   },
+   {
+      "name": "Cameron Taggart",
+      "imports": [
+         "Felix Meschberger"
+      ]
+   },
+   {
+      "name": "Dale Peakall",
+      "imports": [
+         "Arjan Schaaf"
+      ]
+   },
+   {
+      "name": "Peter Neubauer",
+      "imports": [
+         "Peter Kriens",
+         "=?ISO-8859-1?Q?Emil_Eifr=E9m?=",
+         "=?ISO-8859-1?Q?Emil_Eifr=E9m?=",
+         "Enrique Rodriguez"
+      ]
+   },
+   {
+      "name": "Eelco Hillenius",
+      "imports": [
+         "Alex Karasulu"
+      ]
+   },
+   {
+      "name": "Niclas Hedhman",
+      "imports": [
+         "Steven E. Harris",
+         "Aaron Siri",
+         "Richard S. Hall",
+         "=?ISO-8859-1?Q?Emil_Eifr=E9m?=",
+         "Karl Pauls",
+         "Aaron Siri",
+         "Karl Pauls",
+         "Karl Pauls",
+         "Aaron Siri"
+      ]
+   },
+   {
+      "name": "Chris Custine (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Toni Menzel (JIRA)",
+      "imports": [
+         "Tim Moloney (JIRA)",
+         "Tim Moloney (JIRA)",
+         "Richard S. Hall (JIRA)",
+         "Didier DONSEZ (JIRA)"
+      ]
+   },
+   {
+      "name": "Marcel Offermans (JIRA)",
+      "imports": [
+         "Bram de Kruijff (JIRA)",
+         "Bram de Kruijff (JIRA)"
+      ]
+   },
+   {
+      "name": "Daniel Kulp",
+      "imports": [
+         "Karl Pauls"
+      ]
+   },
+   {
+      "name": "Glyn Normington",
+      "imports": [
+         "Francesco Furfari"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Manuel_Santill=E1n?=",
+      "imports": [
+         "Enrique Rodriguez"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Emil_Eifr=E9m?=",
+      "imports": [
+         "Peter Kriens",
+         "Aaron Siri",
+         "Richard S. Hall",
+         "Aaron Siri",
+         "Richard S. Hall",
+         "Richard S. Hall",
+         "Niclas Hedhman",
+         "Niclas Hedhman",
+         "Richard S. Hall"
+      ]
+   },
+   {
+      "name": "Bram de Kruijff",
+      "imports": []
+   },
+   {
+      "name": "Felix Meschberger",
+      "imports": [
+         "Richard S. Hall",
+         "Peter Kriens",
+         "Cameron Taggart",
+         "Cameron Taggart",
+         "Jeff McAffer",
+         "Bram de Kruijff",
+         "Karl Pauls",
+         "Steven E. Harris"
+      ]
+   },
+   {
+      "name": "Francesco Furfari (JIRA)",
+      "imports": [
+         "Denis Beras (JIRA)"
+      ]
+   },
+   {
+      "name": "Karl Pauls",
+      "imports": [
+         "Richard S. Hall",
+         "Niclas Hedhman",
+         "Francesco Furfari",
+         "Richard S. Hall"
+      ]
+   },
+   {
+      "name": "Clement Escoffier (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Chris Wall (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ronald Spierenburg",
+      "imports": [
+         "Karl Pauls"
+      ]
+   },
+   {
+      "name": "Alex Karasulu",
+      "imports": [
+         "Richard S. Hall"
+      ]
+   },
+   {
+      "name": "BJ Hargrave",
+      "imports": [
+         "Richard S. Hall",
+         "Steven E. Harris"
+      ]
+   },
+   {
+      "name": "Emil Ivov",
+      "imports": [
+         "Richard S. Hall"
+      ]
+   },
+   {
+      "name": "Upayavira",
+      "imports": [
+         "Steven E. Harris"
+      ]
+   },
+   {
+      "name": "Jeremy Boynes",
+      "imports": [
+         "Richard S. Hall",
+         "Richard S. Hall"
+      ]
+   },
+   {
+      "name": "Tim Moloney",
+      "imports": []
+   },
+   {
+      "name": "Denis Beras (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Carlos Sanchez",
+      "imports": [
+         "Karl Pauls"
+      ]
+   },
+   {
+      "name": "Toni Menzel",
+      "imports": [
+         "Tim Moloney",
+         "Piero Campanelli",
+         "Clement Escoffier",
+         "Felix Meschberger",
+         "Jeff McAffer",
+         "Richard S. Hall",
+         "Wouter de Vaal",
+         "Emil Ivov",
+         "Francesco Furfari",
+         "Karl Pauls"
+      ]
+   },
+   {
+      "name": "John E. Conlon",
+      "imports": [
+         "Peter Kriens",
+         "John Conlon (JIRA)",
+         "Karl Pauls"
+      ]
+   },
+   {
+      "name": "Chris Custine",
+      "imports": [
+         "Francesco Furfari",
+         "Steven E. Harris"
+      ]
+   },
+   {
+      "name": "weihui.tan",
+      "imports": []
+   },
+   {
+      "name": "Wouter de Vaal",
+      "imports": [
+         "Toni Menzel",
+         "Richard S. Hall"
+      ]
+   },
+   {
+      "name": "Peter Kriens (JIRA)",
+      "imports": [
+         "Tim Moloney (JIRA)"
+      ]
+   },
+   {
+      "name": "Thanh NGUYEN",
+      "imports": []
+   },
+   {
+      "name": "Arjan Schaaf",
+      "imports": []
+   },
+   {
+      "name": "Tim Moloney (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Enrique Rodriguez",
+      "imports": [
+         "Richard S. Hall",
+         "Richard S. Hall",
+         "Karl Pauls"
+      ]
+   },
+   {
+      "name": "Rob Walker",
+      "imports": [
+         "=?ISO-8859-1?Q?Manuel_Santill=E1n?=",
+         "Nektarios K. Papadopoulos"
+      ]
+   },
+   {
+      "name": "Henrik Larsson",
+      "imports": [
+         "Aaron Siri"
+      ]
+   },
+   {
+      "name": "Rick Litton",
+      "imports": [
+         "Peter Kriens",
+         "Richard S. Hall",
+         "Richard S. Hall",
+         "Richard S. Hall",
+         "Richard S. Hall"
+      ]
+   },
+   {
+      "name": "John Conlon (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bram de Kruijff (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Alan D. Cabrera",
+      "imports": [
+         "Niclas Hedhman"
+      ]
+   },
+   {
+      "name": "Didier DONSEZ (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "rl16783",
+      "imports": []
+   },
+   {
+      "name": "Nektarios K. Papadopoulos",
+      "imports": [
+         "stephane.frenot"
+      ]
+   },
+   {
+      "name": "Roy T. Fielding",
+      "imports": [
+         "Karl Pauls"
+      ]
+   },
+   {
+      "name": "Francesco Furfari",
+      "imports": [
+         "Richard S. Hall",
+         "stephane.frenot",
+         "Richard S. Hall",
+         "Rick Litton",
+         "Karl Pauls",
+         "Karl Pauls",
+         "Simon Willnauer"
+      ]
+   },
+   {
+      "name": "Guillaume Sauthier",
+      "imports": [
+         "Karl Pauls"
+      ]
+   },
+   {
+      "name": "Richard S. Hall (JIRA)",
+      "imports": [
+         "Thanh NGUYEN (JIRA)",
+         "Thanh NGUYEN (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Clement Escoffier (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Chris Wall (JIRA)",
+         "Thanh NGUYEN (JIRA)",
+         "Chris Custine (JIRA)",
+         "Chris Custine (JIRA)"
+      ]
+   }
+]

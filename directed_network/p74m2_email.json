@@ -1,0 +1,14 @@
+[
+   {
+      "name": "Johan Oskarsson",
+      "imports": [
+         "Torsten Curdt"
+      ]
+   },
+   {
+      "name": "Torsten Curdt",
+      "imports": [
+         "Johan Oskarsson"
+      ]
+   }
+]

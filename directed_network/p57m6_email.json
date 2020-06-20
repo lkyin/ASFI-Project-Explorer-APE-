@@ -1,0 +1,43 @@
+[
+   {
+      "name": "Pid",
+      "imports": [
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Simone Tripodi",
+         "Simone Tripodi",
+         "Simone Tripodi",
+         "no-reply",
+         "jean-frederic clere",
+         "David Jencks"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "David Jencks",
+      "imports": [
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "jean-frederic clere",
+      "imports": [
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Simone Tripodi",
+      "imports": [
+         "Tommaso Teofili",
+         "Tommaso Teofili",
+         "Tommaso Teofili"
+      ]
+   }
+]

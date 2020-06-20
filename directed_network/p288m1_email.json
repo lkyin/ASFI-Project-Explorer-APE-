@@ -1,0 +1,115 @@
+[
+   {
+      "name": "Daisy Guo",
+      "imports": [
+         "Dave Fisher",
+         "Rob Weir"
+      ]
+   },
+   {
+      "name": "Rob Weir",
+      "imports": [
+         "Devin Han",
+         "Nick Burch",
+         "Andy Brown",
+         "Andy Brown",
+         "Rob Weir",
+         "Ansgar Konermann",
+         "Nick Burch",
+         "Ying Chun Guo",
+         "Dave Fisher",
+         "Dave Fisher",
+         "Devin Han",
+         "Dave Fisher",
+         "Dave Fisher",
+         "Devin Han",
+         "Dave Fisher",
+         "Devin Han",
+         "Dave Fisher",
+         "Devin Han"
+      ]
+   },
+   {
+      "name": "Svante Schubert",
+      "imports": [
+         "Biao Han"
+      ]
+   },
+   {
+      "name": "Ansgar Konermann",
+      "imports": [
+         "Rob Weir",
+         "Nick Burch"
+      ]
+   },
+   {
+      "name": "Andy Brown",
+      "imports": [
+         "Rob Weir",
+         "Rob Weir",
+         "Devin Han",
+         "Rob Weir",
+         "Biao Han",
+         "Ying Chun Guo",
+         "Devin Han"
+      ]
+   },
+   {
+      "name": "Dave Fisher",
+      "imports": [
+         "Nick Burch",
+         "Rob Weir",
+         "Rob Weir",
+         "Rob Weir",
+         "Rob Weir",
+         "Jeremias Maerki",
+         "Andy Brown",
+         "Devin Han",
+         "Rob Weir",
+         "Rob Weir",
+         "Rob Weir"
+      ]
+   },
+   {
+      "name": "Nick Burch",
+      "imports": [
+         "Rob Weir",
+         "Rob Weir",
+         "Rob Weir",
+         "Ansgar Konermann"
+      ]
+   },
+   {
+      "name": "Jeremias Maerki",
+      "imports": []
+   },
+   {
+      "name": "Devin Han",
+      "imports": [
+         "Daisy Guo",
+         "Rob Weir",
+         "Rob Weir",
+         "Andy Brown",
+         "Andy Brown",
+         "Rob Weir",
+         "Dave Fisher",
+         "Rob Weir",
+         "Rob Weir"
+      ]
+   },
+   {
+      "name": "Ying Chun Guo",
+      "imports": [
+         "Andy Brown"
+      ]
+   },
+   {
+      "name": "Biao Han",
+      "imports": [
+         "Rob Weir",
+         "Rob Weir",
+         "Ansgar Konermann",
+         "Rob Weir"
+      ]
+   }
+]

@@ -1,0 +1,24 @@
+[
+   {
+      "name": "Tom White",
+      "imports": [
+         "Patrick Hunt"
+      ]
+   },
+   {
+      "name": "Alan Gates",
+      "imports": [
+         "Patrick Hunt"
+      ]
+   },
+   {
+      "name": "Andrew Bayer",
+      "imports": [
+         "Tom White"
+      ]
+   },
+   {
+      "name": "Patrick Hunt",
+      "imports": []
+   }
+]

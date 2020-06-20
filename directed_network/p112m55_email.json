@@ -1,0 +1,51 @@
+[
+   {
+      "name": "Jon Peterson (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Niklas Gustavsson (JIRA)",
+      "imports": [
+         "Magnus Grimsell (JIRA)",
+         "Magnus Grimsell (JIRA)",
+         "Jon Peterson (JIRA)",
+         "Clinton Foster (JIRA)"
+      ]
+   },
+   {
+      "name": "Magnus Grimsell",
+      "imports": []
+   },
+   {
+      "name": "Dave Roberts",
+      "imports": []
+   },
+   {
+      "name": "Kristian Rink",
+      "imports": [
+         "Niklas Gustavsson"
+      ]
+   },
+   {
+      "name": "Magnus Grimsell (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Niklas Gustavsson",
+      "imports": [
+         "Kristian Rink",
+         "Peter Kostouros",
+         "Kristian Rink",
+         "Magnus Grimsell",
+         "Dave Roberts"
+      ]
+   },
+   {
+      "name": "Peter Kostouros",
+      "imports": []
+   },
+   {
+      "name": "Clinton Foster (JIRA)",
+      "imports": []
+   }
+]

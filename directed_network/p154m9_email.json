@@ -1,0 +1,114 @@
+[
+   {
+      "name": "Simon Willnauer",
+      "imports": [
+         "Peter Karman"
+      ]
+   },
+   {
+      "name": "Chris Hostetter",
+      "imports": [
+         "no-reply"
+      ]
+   },
+   {
+      "name": "Nathan Kurz",
+      "imports": [
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "David E. Wheeler",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "Henry C.",
+      "imports": [
+         "Peter Karman"
+      ]
+   },
+   {
+      "name": "Robert Muir",
+      "imports": [
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "David E. Wheeler",
+      "imports": [
+         "Marvin Humphrey",
+         "Peter Karman",
+         "Peter Karman",
+         "Peter Karman",
+         "Mattmann, Chris A (388J)",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Peter Karman"
+      ]
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": [
+         "David E. Wheeler",
+         "Peter Karman",
+         "Nathan Kurz",
+         "Chris Hostetter",
+         "Peter Karman",
+         "Nathan Kurz",
+         "Nathan Kurz",
+         "Peter Karman",
+         "Nathan Kurz",
+         "Nathan Kurz",
+         "Nathan Kurz",
+         "Chris Hostetter",
+         "Nathan Kurz",
+         "Nathan Kurz",
+         "David E. Wheeler",
+         "Nathan Kurz",
+         "Nathan Kurz",
+         "Nathan Kurz"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "Chris Hostetter",
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "Peter Karman",
+      "imports": [
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "David E. Wheeler",
+         "David E. Wheeler",
+         "Marvin Humphrey",
+         "David E. Wheeler",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Nathan Kurz",
+         "Nathan Kurz",
+         "David E. Wheeler",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "David E. Wheeler"
+      ]
+   }
+]

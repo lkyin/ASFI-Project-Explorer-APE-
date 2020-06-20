@@ -1,0 +1,51 @@
+[
+   {
+      "name": "James M Snell",
+      "imports": []
+   },
+   {
+      "name": "Ugo Cei (JIRA)",
+      "imports": [
+         "Runping Qi (JIRA)"
+      ]
+   },
+   {
+      "name": "Garrett Rooney",
+      "imports": [
+         "Stephen Duncan",
+         "Emmanuel Lecharny"
+      ]
+   },
+   {
+      "name": "Stephen Duncan",
+      "imports": [
+         "Garrett Rooney"
+      ]
+   },
+   {
+      "name": "Emmanuel Lecharny",
+      "imports": [
+         "Garrett Rooney"
+      ]
+   },
+   {
+      "name": "Runping Qi (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jeremy Hughes",
+      "imports": [
+         "James M Snell"
+      ]
+   },
+   {
+      "name": "jmsnell",
+      "imports": []
+   },
+   {
+      "name": "Dan Diephouse",
+      "imports": [
+         "jmsnell"
+      ]
+   }
+]

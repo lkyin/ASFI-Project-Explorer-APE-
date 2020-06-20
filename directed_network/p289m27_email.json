@@ -1,0 +1,12 @@
+[
+   {
+      "name": "wanghaiyan",
+      "imports": []
+   },
+   {
+      "name": "Shanti Subramanyam",
+      "imports": [
+         "wanghaiyan"
+      ]
+   }
+]

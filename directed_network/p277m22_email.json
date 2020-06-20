@@ -1,0 +1,73 @@
+[
+   {
+      "name": "Gunnar Tapper",
+      "imports": [
+         "Xi Chen (Neil)",
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "rutvij.clerk",
+      "imports": []
+   },
+   {
+      "name": "Justin Mclean",
+      "imports": [
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Tony Faustini",
+      "imports": [
+         "Barbara Malta Gomes"
+      ]
+   },
+   {
+      "name": "Hadrian Zbarcea",
+      "imports": [
+         "Tony Faustini"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "Justin Mclean",
+         "Tony Faustini"
+      ]
+   },
+   {
+      "name": "Pierre Smits",
+      "imports": [
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Sandeep Purohit",
+      "imports": [
+         "Gunnar Tapper"
+      ]
+   },
+   {
+      "name": "Xi Chen (Neil)",
+      "imports": []
+   },
+   {
+      "name": "Sydney Noteboom",
+      "imports": [
+         "Barbara Malta Gomes"
+      ]
+   },
+   {
+      "name": "Chi Zhang",
+      "imports": [
+         "Barbara Malta Gomes"
+      ]
+   },
+   {
+      "name": "Barbara Malta Gomes",
+      "imports": [
+         "Hadrian Zbarcea",
+         "rutvij.clerk"
+      ]
+   }
+]

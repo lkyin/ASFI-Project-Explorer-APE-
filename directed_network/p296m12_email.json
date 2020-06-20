@@ -1,0 +1,74 @@
+[
+   {
+      "name": "Hadrien TULIPE",
+      "imports": [
+         "Raymond Camden",
+         "Gord Tanner"
+      ]
+   },
+   {
+      "name": "Christian Grobmeier",
+      "imports": [
+         "Gord Tanner",
+         "Gord Tanner",
+         "Gord Tanner",
+         "Gord Tanner",
+         "Damon Oehlman"
+      ]
+   },
+   {
+      "name": "Raymond Camden",
+      "imports": [
+         "Gord Tanner",
+         "Gord Tanner",
+         "JR",
+         "Gord Tanner",
+         "Gord Tanner",
+         "Gord Tanner",
+         "Gord Tanner",
+         "Gord Tanner",
+         "Gord Tanner"
+      ]
+   },
+   {
+      "name": "Damon Oehlman",
+      "imports": [
+         "Christian Grobmeier"
+      ]
+   },
+   {
+      "name": "Gord Tanner",
+      "imports": [
+         "Hadrien TULIPE",
+         "Raymond Camden",
+         "JR",
+         "JR",
+         "Hadrien Tipule (JIRA)",
+         "Hadrien TULIPE",
+         "Raymond Camden",
+         "Raymond Camden",
+         "Hadrien TULIPE",
+         "Christian Grobmeier",
+         "Damon Oehlman",
+         "Raymond Camden",
+         "Raymond Camden",
+         "Raymond Camden",
+         "Raymond Camden",
+         "Raymond Camden"
+      ]
+   },
+   {
+      "name": "JR",
+      "imports": [
+         "Raymond Camden",
+         "Raymond Camden",
+         "Gord Tanner",
+         "Raymond Camden",
+         "Raymond Camden"
+      ]
+   },
+   {
+      "name": "Hadrien Tipule (JIRA)",
+      "imports": []
+   }
+]

@@ -1,0 +1,77 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Jeremias Maerki"
+      ]
+   },
+   {
+      "name": "Paul Bakker (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+      "imports": [
+         "Marcel Offermans",
+         "Marcel Offermans"
+      ]
+   },
+   {
+      "name": "Jeremias Maerki (Updated) (JIRA)",
+      "imports": [
+         "Jeremias Maerki (Created) (JIRA)",
+         "Jeremias Maerki (Created) (JIRA)",
+         "Jeremias Maerki (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Adrian Cole",
+      "imports": [
+         "Marcel Offermans"
+      ]
+   },
+   {
+      "name": "Karl Pauls (JIRA)",
+      "imports": [
+         "Paul Bakker (JIRA)",
+         "Paul Bakker (JIRA)",
+         "Paul Bakker (JIRA)"
+      ]
+   },
+   {
+      "name": "Jeremias Maerki (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Marcel Offermans (Assigned) (JIRA)",
+      "imports": [
+         "Jeremias Maerki (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Jeremias Maerki",
+      "imports": [
+         "Marcel Offermans",
+         "Bertrand Delacretaz",
+         "Marcel Offermans"
+      ]
+   },
+   {
+      "name": "Marcel Offermans",
+      "imports": [
+         "Jeremias Maerki",
+         "Jeremias Maerki",
+         "no-reply"
+      ]
+   },
+   {
+      "name": "Marcel Offermans (Resolved) (JIRA)",
+      "imports": [
+         "Jeremias Maerki (Created) (JIRA)"
+      ]
+   }
+]

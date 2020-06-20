@@ -1,0 +1,71 @@
+[
+   {
+      "name": "Janne Jalkanen",
+      "imports": []
+   },
+   {
+      "name": "P Saraswathi Sailaja (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Florian Holeczek (JIRA)",
+      "imports": [
+         "Jens Doll (JIRA)",
+         "Michael Neifeld (JIRA)",
+         "Michael Neifeld (JIRA)",
+         "Michael Neifeld (JIRA)",
+         "Michael Neifeld (JIRA)",
+         "Michael Neifeld (JIRA)",
+         "Michael Neifeld (JIRA)",
+         "Michael Neifeld (JIRA)",
+         "Jens Doll (JIRA)",
+         "Jens Doll (JIRA)",
+         "Jens Doll (JIRA)",
+         "Jens Doll (JIRA)",
+         "Jens Doll (JIRA)",
+         "Jens Doll (JIRA)",
+         "Jens Doll (JIRA)"
+      ]
+   },
+   {
+      "name": "Harry Metske (JIRA)",
+      "imports": [
+         "Stefan Bohn (JIRA)",
+         "Stefan Bohn (JIRA)",
+         "Florian Holeczek (JIRA)",
+         "P Saraswathi Sailaja (JIRA)",
+         "Florian Holeczek (JIRA)",
+         "Florian Holeczek (JIRA)"
+      ]
+   },
+   {
+      "name": "Stefan Bohn (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Harry Metske",
+      "imports": [
+         "Florian Holeczek"
+      ]
+   },
+   {
+      "name": "Bruce Wen (JIRA)",
+      "imports": [
+         "Jens Doll (JIRA)"
+      ]
+   },
+   {
+      "name": "Florian Holeczek",
+      "imports": [
+         "Janne Jalkanen"
+      ]
+   },
+   {
+      "name": "Michael Neifeld (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jens Doll (JIRA)",
+      "imports": []
+   }
+]

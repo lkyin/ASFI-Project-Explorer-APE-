@@ -1,0 +1,150 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Jukka Zitting",
+         "Thorsten Scherler"
+      ]
+   },
+   {
+      "name": "Jukka Zitting (JIRA)",
+      "imports": [
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Litrik De Roy (JIRA)",
+         "Litrik De Roy (JIRA)",
+         "Litrik De Roy (JIRA)",
+         "Litrik De Roy (JIRA)",
+         "Rida Benjelloun (JIRA)",
+         "Rida Benjelloun (JIRA)",
+         "Sami Siren (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Sami Siren (JIRA)",
+         "julien nioche (JIRA)",
+         "Karl Heinz Marbaise (JIRA)",
+         "julien nioche (JIRA)",
+         "Dave Meikle (JIRA)",
+         "Karl Heinz Marbaise (JIRA)",
+         "Paolo Mottadelli (JIRA)",
+         "Sami Siren (JIRA)",
+         "Sami Siren (JIRA)"
+      ]
+   },
+   {
+      "name": "Dave Meikle (JIRA)",
+      "imports": [
+         "Litrik De Roy (JIRA)",
+         "Litrik De Roy (JIRA)",
+         "Litrik De Roy (JIRA)",
+         "Rida Benjelloun (JIRA)"
+      ]
+   },
+   {
+      "name": "Julien Nioche",
+      "imports": []
+   },
+   {
+      "name": "julien nioche (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Dave Meikle",
+      "imports": [
+         "Jukka Zitting (JIRA)",
+         "Sami Siren",
+         "Brian Levay",
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Thorsten Scherler",
+      "imports": [
+         "Jukka Zitting",
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Litrik De Roy (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Paolo Mottadelli",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Paolo Mottadelli (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Apache Hudson Server",
+         "Apache Hudson Server",
+         "Dave Meikle",
+         "Brian Levay",
+         "Julien Nioche",
+         "Brian Levay",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Sami Siren",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Jerome Charron (JIRA)",
+      "imports": [
+         "Paolo Mottadelli (JIRA)"
+      ]
+   },
+   {
+      "name": "Rida Benjelloun (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Sami Siren (JIRA)",
+      "imports": [
+         "James OConnor (JIRA)",
+         "julien nioche (JIRA)"
+      ]
+   },
+   {
+      "name": "Apache Hudson Server",
+      "imports": []
+   },
+   {
+      "name": "Bertrand Delacretaz (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "James OConnor (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Brian Levay",
+      "imports": [
+         "Thorsten Scherler"
+      ]
+   },
+   {
+      "name": "Michael Wechner",
+      "imports": [
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Karl Heinz Marbaise (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Grant Ingersoll",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   }
+]

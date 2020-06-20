@@ -1,0 +1,32 @@
+[
+   {
+      "name": "Ilya Buziuk (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Brent Lintner",
+      "imports": [
+         "Ross Martin (JIRA)"
+      ]
+   },
+   {
+      "name": "Ross Martin (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Gord Tanner",
+      "imports": [
+         "Ilya Buziuk (JIRA)"
+      ]
+   },
+   {
+      "name": "Horn, Julian C",
+      "imports": [
+         "Pascal Brewing (JIRA)"
+      ]
+   },
+   {
+      "name": "Pascal Brewing (JIRA)",
+      "imports": []
+   }
+]

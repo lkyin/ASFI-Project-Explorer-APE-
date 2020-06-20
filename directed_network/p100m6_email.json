@@ -1,0 +1,46 @@
+[
+   {
+      "name": "Jean-Louis Boudart (JIRA)",
+      "imports": [
+         "alex322 (JIRA)",
+         "alex322 (JIRA)"
+      ]
+   },
+   {
+      "name": "=?iso-8859-1?Q?Nicolas_Lalev=E9e?=",
+      "imports": [
+         "Jean-Louis Boudart",
+         "Jean-Louis Boudart"
+      ]
+   },
+   {
+      "name": "alex322 (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jean-Louis Boudart",
+      "imports": [
+         "Stefan Bodewig",
+         "Stefan Bodewig",
+         "Siddhartha Purkayastha",
+         "Stefan Bodewig"
+      ]
+   },
+   {
+      "name": "Stefan Bodewig",
+      "imports": []
+   },
+   {
+      "name": "Siddhartha Purkayastha",
+      "imports": [
+         "Jean-Louis Boudart",
+         "Jean-Louis Boudart"
+      ]
+   },
+   {
+      "name": "Bertrand Rousseau",
+      "imports": [
+         "Jean-Louis Boudart"
+      ]
+   }
+]

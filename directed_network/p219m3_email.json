@@ -1,0 +1,30 @@
+[
+   {
+      "name": "Nicole Willson (JIRA)",
+      "imports": [
+         "Martin Sebor (JIRA)"
+      ]
+   },
+   {
+      "name": "fielding",
+      "imports": []
+   },
+   {
+      "name": "Martin Sebor (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Martin Sebor",
+      "imports": [
+         "fielding",
+         "Liviu Nicoara",
+         "Liviu Nicoara"
+      ]
+   },
+   {
+      "name": "Liviu Nicoara",
+      "imports": [
+         "Martin Sebor"
+      ]
+   }
+]

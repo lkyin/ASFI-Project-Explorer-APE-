@@ -1,0 +1,369 @@
+[
+   {
+      "name": "Tom White",
+      "imports": [
+         "Roman Shaposhnik",
+         "Roman Shaposhnik"
+      ]
+   },
+   {
+      "name": "Stack",
+      "imports": [
+         "Stephen Chu"
+      ]
+   },
+   {
+      "name": "Arun C Murthy",
+      "imports": [
+         "Konstantin Boudnik",
+         "Roman Shaposhnik",
+         "Konstantin Boudnik"
+      ]
+   },
+   {
+      "name": "Konstantin Boudnik",
+      "imports": [
+         "Roman Shaposhnik",
+         "Roman Shaposhnik",
+         "Alan Gates",
+         "Arun C Murthy",
+         "Arun C Murthy",
+         "Alan Gates",
+         "Roman Shaposhnik",
+         "Roman Shaposhnik",
+         "Roman Shaposhnik",
+         "Roman Shaposhnik",
+         "Arun C Murthy",
+         "Roman Shaposhnik",
+         "Roman Shaposhnik",
+         "Roman Shaposhnik",
+         "Alan Gates",
+         "Arun C Murthy",
+         "=?ISO-8859-1?Q?Bruno_Mah=E9?="
+      ]
+   },
+   {
+      "name": "Patrick Taylor Ramsey (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "sebb",
+      "imports": [
+         "Roman Shaposhnik"
+      ]
+   },
+   {
+      "name": "Arun Singla",
+      "imports": [
+         "=?ISO-8859-1?Q?Bruno_Mah=E9?="
+      ]
+   },
+   {
+      "name": "Alejandro Abdelnur",
+      "imports": [
+         "Konstantin Boudnik",
+         "Konstantin Boudnik",
+         "Peter Linnell",
+         "Roman Shaposhnik"
+      ]
+   },
+   {
+      "name": "Johnny Zhang (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "John Vines (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jos Backus",
+      "imports": [
+         "Roman Shaposhnik"
+      ]
+   },
+   {
+      "name": "Roman Shaposhnik",
+      "imports": [
+         "Roman Shaposhnik",
+         "sebb",
+         "Konstantin Boudnik",
+         "Anatoli Fomenko",
+         "MTG dev",
+         "Konstantin Boudnik",
+         "Konstantin Boudnik",
+         "Konstantin Boudnik",
+         "Alan Gates",
+         "Alejandro Abdelnur",
+         "Konstantin Boudnik"
+      ]
+   },
+   {
+      "name": "Roman Shaposhnik (JIRA)",
+      "imports": [
+         "Johnny Zhang (JIRA)",
+         "Johnny Zhang (JIRA)",
+         "Johnny Zhang (JIRA)",
+         "Alejandro Abdelnur (JIRA)",
+         "Johnny Zhang (JIRA)",
+         "Patrick Taylor Ramsey (Created) (JIRA)",
+         "Harsh J (JIRA)",
+         "Harsh J (JIRA)",
+         "Harsh J (JIRA)",
+         "Steve Loughran (JIRA)",
+         "Steve Loughran (JIRA)",
+         "Steve Loughran (JIRA)",
+         "John Vines (JIRA)",
+         "=?utf-8?Q?Bruno_Mah=C3=A9_=28JIRA=29?=",
+         "Colin Patrick McCabe (JIRA)",
+         "Colin Patrick McCabe (JIRA)",
+         "Johnny Zhang (JIRA)",
+         "Johnny Zhang (JIRA)",
+         "Johnny Zhang (JIRA)",
+         "Johnny Zhang (JIRA)",
+         "Alejandro Abdelnur (JIRA)"
+      ]
+   },
+   {
+      "name": "Stephen Chu",
+      "imports": [
+         "Anatoli Fomenko",
+         "Alejandro Abdelnur",
+         "Roman Shaposhnik"
+      ]
+   },
+   {
+      "name": "Andrew Bayer (JIRA)",
+      "imports": [
+         "Alejandro Abdelnur (JIRA)"
+      ]
+   },
+   {
+      "name": "Steve Loughran (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Peter Linnell (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Colin Patrick McCabe (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?Bruno_Mah=C3=A9_=28JIRA=29?=",
+      "imports": [
+         "Sean Mackrory (JIRA)",
+         "Sean Mackrory (JIRA)",
+         "Anatoli Fomenko (JIRA)",
+         "Anatoli Fomenko (JIRA)",
+         "Anatoli Fomenko (JIRA)",
+         "Anatoli Fomenko (JIRA)",
+         "Anatoli Fomenko (JIRA)",
+         "Anatoli Fomenko (JIRA)",
+         "Anatoli Fomenko (JIRA)"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Bruno_Mah=E9?=",
+      "imports": [
+         "Stephen Chu",
+         "Roman Shaposhnik",
+         "MTG dev",
+         "Roman Shaposhnik",
+         "Roman Shaposhnik",
+         "Sean Mackrory",
+         "Roman Shaposhnik"
+      ]
+   },
+   {
+      "name": "Patrick Taylor Ramsey",
+      "imports": [
+         "Roman Shaposhnik",
+         "Johnny Zhang"
+      ]
+   },
+   {
+      "name": "Sean Mackrory (JIRA)",
+      "imports": [
+         "John Vines (JIRA)",
+         "Johnny Zhang (JIRA)"
+      ]
+   },
+   {
+      "name": "Hennig, Ryan",
+      "imports": [
+         "Tom White"
+      ]
+   },
+   {
+      "name": "Harsh J (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Eli Collins",
+      "imports": [
+         "Roman Shaposhnik"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?QnJ1bm8gTWFow6k=?=",
+      "imports": [
+         "Konstantin Boudnik",
+         "Konstantin Boudnik",
+         "Sean Mackrory"
+      ]
+   },
+   {
+      "name": "MTG dev",
+      "imports": [
+         "=?ISO-8859-1?Q?Bruno_Mah=E9?=",
+         "=?ISO-8859-1?Q?Bruno_Mah=E9?="
+      ]
+   },
+   {
+      "name": "Johnny Zhang",
+      "imports": [
+         "Konstantin Boudnik",
+         "Sean Mackrory"
+      ]
+   },
+   {
+      "name": "Andrew Bayer",
+      "imports": [
+         "Alejandro Abdelnur"
+      ]
+   },
+   {
+      "name": "Eli Collins (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Stephen Chu (JIRA)",
+      "imports": [
+         "Roman Shaposhnik (JIRA)"
+      ]
+   },
+   {
+      "name": "Peter Linnell",
+      "imports": [
+         "Eli Collins",
+         "Roman Shaposhnik"
+      ]
+   },
+   {
+      "name": "Sean Mackrory",
+      "imports": [
+         "Patrick Hunt",
+         "Roman Shaposhnik",
+         "Alejandro Abdelnur"
+      ]
+   },
+   {
+      "name": "James Page",
+      "imports": [
+         "Roman Shaposhnik"
+      ]
+   },
+   {
+      "name": "Konstantin Boudnik (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Bruno_Mah=C3=A9_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Alan Gates",
+      "imports": [
+         "Konstantin Boudnik",
+         "Konstantin Boudnik",
+         "Konstantin Boudnik",
+         "Roman Shaposhnik"
+      ]
+   },
+   {
+      "name": "Edward J. Yoon",
+      "imports": [
+         "Sean Mackrory"
+      ]
+   },
+   {
+      "name": "Anatoli Fomenko (JIRA)",
+      "imports": [
+         "Johnny Zhang (JIRA)",
+         "Roman Shaposhnik (JIRA)",
+         "Roman Shaposhnik (JIRA)",
+         "=?utf-8?Q?Bruno_Mah=C3=A9_=28JIRA=29?=",
+         "=?utf-8?Q?Bruno_Mah=C3=A9_=28JIRA=29?=",
+         "Roman Shaposhnik (JIRA)",
+         "Eli Collins (Created) (JIRA)",
+         "Eli Collins (Created) (JIRA)",
+         "Peter Linnell (Created) (JIRA)",
+         "Peter Linnell (Created) (JIRA)",
+         "=?utf-8?Q?Bruno_Mah=C3=A9_=28Created=29_=28JIRA=29?=",
+         "=?utf-8?Q?Bruno_Mah=C3=A9_=28Created=29_=28JIRA=29?=",
+         "=?utf-8?Q?Bruno_Mah=C3=A9_=28Created=29_=28JIRA=29?=",
+         "=?utf-8?Q?Bruno_Mah=C3=A9_=28Created=29_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "bc Wong (JIRA)",
+      "imports": [
+         "Roman Shaposhnik (JIRA)",
+         "Roman Shaposhnik (JIRA)"
+      ]
+   },
+   {
+      "name": "Patrick Taylor Ramsey (JIRA)",
+      "imports": [
+         "Johnny Zhang (JIRA)",
+         "Johnny Zhang (JIRA)",
+         "Johnny Zhang (JIRA)",
+         "Johnny Zhang (JIRA)",
+         "Roman Shaposhnik (JIRA)"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Bruno_Mah=C3=A9_=28Created=29_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Stephen Boesch",
+      "imports": [
+         "Stephen Chu"
+      ]
+   },
+   {
+      "name": "Peter Linnell (JIRA)",
+      "imports": [
+         "Johnny Zhang (JIRA)",
+         "Peter Linnell (Created) (JIRA)",
+         "Roman Shaposhnik (JIRA)"
+      ]
+   },
+   {
+      "name": "Anatoli Fomenko",
+      "imports": [
+         "Konstantin Boudnik",
+         "Konstantin Boudnik",
+         "Roman Shaposhnik",
+         "Roman Shaposhnik",
+         "Roman Shaposhnik"
+      ]
+   },
+   {
+      "name": "Alejandro Abdelnur (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Andrew Purtell",
+      "imports": [
+         "Roman Shaposhnik"
+      ]
+   },
+   {
+      "name": "Patrick Hunt",
+      "imports": [
+         "Roman Shaposhnik",
+         "Roman Shaposhnik"
+      ]
+   }
+]

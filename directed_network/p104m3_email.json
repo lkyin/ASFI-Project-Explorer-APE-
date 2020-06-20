@@ -1,0 +1,24 @@
+[
+   {
+      "name": "Alan Gates",
+      "imports": [
+         "Srikanth Sundarrajan"
+      ]
+   },
+   {
+      "name": "Scott Preece",
+      "imports": [
+         "Seetharam Venkatesh"
+      ]
+   },
+   {
+      "name": "Srikanth Sundarrajan",
+      "imports": [
+         "Alan Gates"
+      ]
+   },
+   {
+      "name": "Seetharam Venkatesh",
+      "imports": []
+   }
+]

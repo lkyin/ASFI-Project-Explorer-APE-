@@ -1,0 +1,62 @@
+[
+   {
+      "name": "Chris Mattmann",
+      "imports": [
+         "lewis john mcgibbney",
+         "Tommaso Teofili",
+         "Suneel Marthi"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (3010)",
+      "imports": []
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Mattmann, Chris A (3010)",
+         "Suneel Marthi",
+         "Matt Post",
+         "lewis john mcgibbney",
+         "Henry Saputra",
+         "John Hewitt",
+         "lewis john mcgibbney",
+         "Chris Mattmann",
+         "Matt Post"
+      ]
+   },
+   {
+      "name": "lewis john mcgibbney",
+      "imports": []
+   },
+   {
+      "name": "John Hewitt",
+      "imports": [
+         "Tommaso Teofili",
+         "lewis john mcgibbney"
+      ]
+   },
+   {
+      "name": "Henry Saputra",
+      "imports": [
+         "Tommaso Teofili",
+         "Matt Post"
+      ]
+   },
+   {
+      "name": "Suneel Marthi",
+      "imports": [
+         "Tommaso Teofili",
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Matt Post",
+      "imports": [
+         "Tommaso Teofili",
+         "lewis john mcgibbney",
+         "Tommaso Teofili",
+         "Tommaso Teofili"
+      ]
+   }
+]

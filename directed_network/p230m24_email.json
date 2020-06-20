@@ -1,0 +1,312 @@
+[
+   {
+      "name": "Jonathan Ellis (JIRA)",
+      "imports": [
+         "Eric Evans (JIRA)",
+         "Eric Evans (JIRA)"
+      ]
+   },
+   {
+      "name": "Mayan Moudgill",
+      "imports": []
+   },
+   {
+      "name": "Bryan Duxbury",
+      "imports": [
+         "mayan",
+         "tomer filiba",
+         "Mathias Herberts",
+         "mayan",
+         "Rajeev Sampath",
+         "Rajat Goel"
+      ]
+   },
+   {
+      "name": "Gary Rudolph (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jeff Brown",
+      "imports": [
+         "James King"
+      ]
+   },
+   {
+      "name": "David Sims (JIRA)",
+      "imports": [
+         "Dave Lerman (JIRA)"
+      ]
+   },
+   {
+      "name": "Kay Kay (JIRA)",
+      "imports": [
+         "Gary Rudolph (JIRA)"
+      ]
+   },
+   {
+      "name": "Mathias Herberts",
+      "imports": [
+         "Bryan Duxbury (JIRA)"
+      ]
+   },
+   {
+      "name": "Aron Sogor (JIRA)",
+      "imports": [
+         "Dave Lerman (JIRA)",
+         "Dave Lerman (JIRA)",
+         "Dave Lerman (JIRA)",
+         "Dave Lerman (JIRA)",
+         "Dave Lerman (JIRA)"
+      ]
+   },
+   {
+      "name": "Adam Simpkins (JIRA)",
+      "imports": [
+         "Tim Wilson-Brown (JIRA)",
+         "Tim Wilson-Brown (JIRA)",
+         "Tim Wilson-Brown (JIRA)"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Juho_M=C3=A4kinen_=28JIRA=29?=",
+      "imports": [
+         "Eric Evans (JIRA)"
+      ]
+   },
+   {
+      "name": "James King",
+      "imports": []
+   },
+   {
+      "name": "Eric Jensen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Dave Engberg (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Anuj Garg",
+      "imports": []
+   },
+   {
+      "name": "kert (JIRA)",
+      "imports": [
+         "Eric Anderson (JIRA)"
+      ]
+   },
+   {
+      "name": "Eric Evans (JIRA)",
+      "imports": [
+         "Eric Anderson (JIRA)"
+      ]
+   },
+   {
+      "name": "Mark Slee",
+      "imports": [
+         "Anuj Garg",
+         "mayan",
+         "Bryan Duxbury",
+         "David Reiss",
+         "Todd Lipcon",
+         "mayan",
+         "Bryan Duxbury"
+      ]
+   },
+   {
+      "name": "Ian Pye (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Mathias Herberts (JIRA)",
+      "imports": [
+         "Bryan Duxbury (JIRA)"
+      ]
+   },
+   {
+      "name": "Rajat Goel",
+      "imports": [
+         "Bryan Duxbury"
+      ]
+   },
+   {
+      "name": "tomer filiba",
+      "imports": []
+   },
+   {
+      "name": "Michael Stockton (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bryan Duxbury (JIRA)",
+      "imports": [
+         "Michael Stockton (JIRA)",
+         "Nathan Marz (JIRA)",
+         "Nathan Marz (JIRA)",
+         "Nathan Marz (JIRA)",
+         "Eric Jensen (JIRA)",
+         "Dmitry Chechik (JIRA)",
+         "David Reiss (JIRA)",
+         "Nathan Marz (JIRA)",
+         "Gary Rudolph (JIRA)",
+         "Dmitry Chechik (JIRA)",
+         "Dmitry Chechik (JIRA)",
+         "Dmitry Chechik (JIRA)",
+         "Jonathan Ellis (JIRA)",
+         "Eric Evans (JIRA)",
+         "Eric Evans (JIRA)",
+         "Dave Engberg (JIRA)",
+         "Dave Engberg (JIRA)",
+         "Dave Engberg (JIRA)",
+         "Mathias Herberts (JIRA)",
+         "Mathias Herberts (JIRA)",
+         "Dave Engberg (JIRA)",
+         "Mathias Herberts (JIRA)"
+      ]
+   },
+   {
+      "name": "James E. King, III (JIRA)",
+      "imports": [
+         "Eric Evans (JIRA)",
+         "Johan Stuyts (JIRA)"
+      ]
+   },
+   {
+      "name": "Eric Anderson (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "David Castro (JIRA)",
+      "imports": [
+         "Nathan Marz (JIRA)",
+         "Nathan Marz (JIRA)"
+      ]
+   },
+   {
+      "name": "Tim Wilson-Brown (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ping Li (JIRA)",
+      "imports": [
+         "Ian Pye (JIRA)"
+      ]
+   },
+   {
+      "name": "Todd Lipcon",
+      "imports": [
+         "mayan",
+         "David Reiss",
+         "David Reiss",
+         "Mayan Moudgill"
+      ]
+   },
+   {
+      "name": "Stig Bakken (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "David Reiss",
+      "imports": [
+         "Mark Slee",
+         "Todd Lipcon",
+         "Mark Slee",
+         "James King"
+      ]
+   },
+   {
+      "name": "Stephen Starkey (JIRA)",
+      "imports": [
+         "Dave Engberg (JIRA)",
+         "Dave Engberg (JIRA)",
+         "Dave Engberg (JIRA)"
+      ]
+   },
+   {
+      "name": "David Reiss (JIRA)",
+      "imports": [
+         "Dave Lerman (JIRA)",
+         "Michael Stockton (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Bryan Duxbury (JIRA)",
+         "Nathan Marz (JIRA)",
+         "Nathan Marz (JIRA)",
+         "Nathan Marz (JIRA)",
+         "Stig Bakken (JIRA)",
+         "Eric Evans (JIRA)",
+         "Eric Evans (JIRA)",
+         "Eric Evans (JIRA)",
+         "Mathias Herberts (JIRA)",
+         "Tim Wilson-Brown (JIRA)",
+         "Tim Wilson-Brown (JIRA)",
+         "Tim Wilson-Brown (JIRA)",
+         "Tim Wilson-Brown (JIRA)",
+         "Tim Wilson-Brown (JIRA)",
+         "Bryan Duxbury (JIRA)"
+      ]
+   },
+   {
+      "name": "Anatol (JIRA)",
+      "imports": [
+         "Nathan Marz (JIRA)"
+      ]
+   },
+   {
+      "name": "mayan",
+      "imports": [
+         "Todd Lipcon",
+         "Todd Lipcon",
+         "tomer filiba"
+      ]
+   },
+   {
+      "name": "Rajeev Sampath",
+      "imports": []
+   },
+   {
+      "name": "Dmitry Chechik (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Dave Lerman (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Johan Stuyts (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "T Jake Luciani (JIRA)",
+      "imports": [
+         "Nathan Marz (JIRA)",
+         "Nathan Marz (JIRA)"
+      ]
+   },
+   {
+      "name": "Alexey Savartsov (JIRA)",
+      "imports": [
+         "Ian Pye (JIRA)"
+      ]
+   },
+   {
+      "name": "Nathan Marz (JIRA)",
+      "imports": []
+   }
+]

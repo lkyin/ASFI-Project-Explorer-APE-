@@ -1,0 +1,163 @@
+[
+   {
+      "name": "Maciej Szefler",
+      "imports": [
+         "Lance Waterman",
+         "Bruce Snyder",
+         "sam tam",
+         "sam tam",
+         "Jeffrey Puro"
+      ]
+   },
+   {
+      "name": "Jeffrey Puro",
+      "imports": []
+   },
+   {
+      "name": "Alex Boisvert",
+      "imports": [
+         "solmaz",
+         "Guillaume Nodet",
+         "solmaz",
+         "sam tam",
+         "sam tam",
+         "Jeffrey Puro",
+         "sam tam",
+         "sam tam",
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Bruce Snyder",
+      "imports": []
+   },
+   {
+      "name": "Rob Davies (JIRA)",
+      "imports": [
+         "Alex Boisvert (JIRA)"
+      ]
+   },
+   {
+      "name": "Matthieu Riou",
+      "imports": [
+         "Davanum Srinivas",
+         "Jim Alateras",
+         "sam tam",
+         "sam tam",
+         "sam tam",
+         "Alex Boisvert",
+         "Alex Boisvert",
+         "sam tam",
+         "sam tam",
+         "Lance Waterman",
+         "Lance Waterman"
+      ]
+   },
+   {
+      "name": "Paul Brown",
+      "imports": [
+         "solmaz"
+      ]
+   },
+   {
+      "name": "sam tam",
+      "imports": [
+         "Matthieu Riou",
+         "Lance Waterman",
+         "Alex Boisvert",
+         "Alex Boisvert",
+         "Alex Boisvert",
+         "Matthieu Riou",
+         "Lance Waterman",
+         "Maciej Szefler",
+         "Alex Boisvert",
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Vo, Khanh",
+      "imports": [
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Rob Davies",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "solmaz",
+      "imports": [
+         "Rob Davies",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Davanum Srinivas",
+      "imports": [
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "Alex Boisvert",
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Matthias von Arx (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jim Alateras",
+      "imports": [
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "solmaz anvar (JIRA)",
+      "imports": [
+         "Alex Boisvert (JIRA)"
+      ]
+   },
+   {
+      "name": "Alex Boisvert (JIRA)",
+      "imports": [
+         "Matthias von Arx (JIRA)",
+         "Matthias von Arx (JIRA)",
+         "Matthias von Arx (JIRA)",
+         "Matthias von Arx (JIRA)",
+         "Matthias von Arx (JIRA)",
+         "Matthias von Arx (JIRA)",
+         "Matthias von Arx (JIRA)",
+         "Matthias von Arx (JIRA)",
+         "Matthias von Arx (JIRA)",
+         "Matthieu Riou (JIRA)",
+         "Matthieu Riou (JIRA)"
+      ]
+   },
+   {
+      "name": "Matthieu Riou (JIRA)",
+      "imports": [
+         "Matthias von Arx (JIRA)"
+      ]
+   },
+   {
+      "name": "Assaf Arkin",
+      "imports": [
+         "Lance Waterman"
+      ]
+   },
+   {
+      "name": "Lance Waterman",
+      "imports": [
+         "Maciej Szefler",
+         "sam tam",
+         "sam tam",
+         "Matthieu Riou",
+         "Matthieu Riou"
+      ]
+   }
+]

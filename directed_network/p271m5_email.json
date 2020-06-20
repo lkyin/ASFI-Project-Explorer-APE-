@@ -1,0 +1,45 @@
+[
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Adam Berry",
+      "imports": [
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)",
+         "Marvin"
+      ]
+   },
+   {
+      "name": "Bob Kerns",
+      "imports": []
+   },
+   {
+      "name": "Evert Lammerts",
+      "imports": [
+         "Adam Berry"
+      ]
+   },
+   {
+      "name": "Roman Shaposhnik",
+      "imports": []
+   },
+   {
+      "name": "Suresh Marru",
+      "imports": [
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "Adam Berry",
+         "Bob Kerns",
+         "Bob Kerns",
+         "Adam Berry",
+         "Roman Shaposhnik"
+      ]
+   }
+]

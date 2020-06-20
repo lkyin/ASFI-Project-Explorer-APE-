@@ -1,0 +1,57 @@
+[
+   {
+      "name": "Sergey Vladimirov",
+      "imports": [
+         "Niklas Gustavsson",
+         "Rana Bhattacharyya",
+         "Rana Bhattacharyya",
+         "Rana Bhattacharyya"
+      ]
+   },
+   {
+      "name": "Schmolzi, Christian",
+      "imports": []
+   },
+   {
+      "name": "Ricardo",
+      "imports": [
+         "Catalin Kormos"
+      ]
+   },
+   {
+      "name": "Rana Bhattacharyya",
+      "imports": [
+         "Dave Roberts",
+         "Catalin Kormos",
+         "Sergey Vladimirov",
+         "Schmolzi, Christian",
+         "Sergey Vladimirov",
+         "Sergey Vladimirov"
+      ]
+   },
+   {
+      "name": "Niklas Gustavsson",
+      "imports": [
+         "Sergey Vladimirov"
+      ]
+   },
+   {
+      "name": "Pierre Huttin",
+      "imports": [
+         "Rana Bhattacharyya"
+      ]
+   },
+   {
+      "name": "Dave Roberts",
+      "imports": [
+         "Rana Bhattacharyya",
+         "Rana Bhattacharyya"
+      ]
+   },
+   {
+      "name": "Catalin Kormos",
+      "imports": [
+         "Ricardo"
+      ]
+   }
+]

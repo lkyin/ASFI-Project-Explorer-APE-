@@ -1,0 +1,155 @@
+[
+   {
+      "name": "Daniel Zwink",
+      "imports": []
+   },
+   {
+      "name": "Ilya Kuleshov",
+      "imports": [
+         "Massimo Sonego"
+      ]
+   },
+   {
+      "name": "Hiram Chirino",
+      "imports": [
+         "Guillaume Nodet",
+         "Jordan Christensen",
+         "David Grigglestone"
+      ]
+   },
+   {
+      "name": "Rob Davies",
+      "imports": [
+         "cory",
+         "cory",
+         "cory",
+         "Sanjiva Weerawarana",
+         "Daniel Zwink",
+         "Simone Bordet"
+      ]
+   },
+   {
+      "name": "Simone Bordet",
+      "imports": []
+   },
+   {
+      "name": "Thomas Auzinger (JIRA)",
+      "imports": [
+         "Guillaume Nodet (JIRA)"
+      ]
+   },
+   {
+      "name": "Aaron Mulder",
+      "imports": [
+         "Jordan Christensen"
+      ]
+   },
+   {
+      "name": "Philip Dodds",
+      "imports": [
+         "Bruce Snyder"
+      ]
+   },
+   {
+      "name": "Guillaume Nodet (JIRA)",
+      "imports": [
+         "Ilya Kuleshov (JIRA)"
+      ]
+   },
+   {
+      "name": "Bruce Snyder",
+      "imports": [
+         "cory"
+      ]
+   },
+   {
+      "name": "Sanjiva Weerawarana",
+      "imports": [
+         "James Strachan",
+         "Rob Davies",
+         "James Strachan",
+         "Alan D. Cabrera",
+         "Guillaume Nodet",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Massimo Sonego",
+      "imports": []
+   },
+   {
+      "name": "cory",
+      "imports": [
+         "Davanum Srinivas"
+      ]
+   },
+   {
+      "name": "Hossam Karim",
+      "imports": [
+         "Aaron Mulder"
+      ]
+   },
+   {
+      "name": "Davanum Srinivas",
+      "imports": [
+         "cory",
+         "James Strachan",
+         "James Strachan",
+         "James Strachan",
+         "James Strachan",
+         "James Strachan"
+      ]
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "Sanjiva Weerawarana",
+         "cory",
+         "Daniel Zwink",
+         "Jordan Christensen",
+         "Hossam Karim",
+         "Simone Bordet"
+      ]
+   },
+   {
+      "name": "Bill Flood",
+      "imports": [
+         "Alan D. Cabrera",
+         "Alan D. Cabrera"
+      ]
+   },
+   {
+      "name": "Alan D. Cabrera",
+      "imports": [
+         "Davanum Srinivas",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "James Strachan",
+      "imports": [
+         "Sanjiva Weerawarana",
+         "Massimo Sonego",
+         "cory",
+         "Sanjiva Weerawarana",
+         "Sanjiva Weerawarana",
+         "Davanum Srinivas",
+         "Davanum Srinivas",
+         "Sanjiva Weerawarana"
+      ]
+   },
+   {
+      "name": "David Grigglestone",
+      "imports": []
+   },
+   {
+      "name": "Ilya Kuleshov (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jordan Christensen",
+      "imports": [
+         "Hiram Chirino"
+      ]
+   }
+]

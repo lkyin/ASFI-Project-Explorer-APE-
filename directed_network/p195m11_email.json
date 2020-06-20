@@ -1,0 +1,96 @@
+[
+   {
+      "name": "Dave Fisher",
+      "imports": [
+         "Ivan Kelly"
+      ]
+   },
+   {
+      "name": "Sahaya Andrews",
+      "imports": [
+         "Matteo Merli",
+         "Nozomi Kurihara",
+         "Jai Asher"
+      ]
+   },
+   {
+      "name": "Joe F",
+      "imports": [
+         "Matteo Merli",
+         "Sijie Guo"
+      ]
+   },
+   {
+      "name": "Enrico Olivelli",
+      "imports": [
+         "Jia Zhai"
+      ]
+   },
+   {
+      "name": "Henry Saputra",
+      "imports": [
+         "Sijie Guo"
+      ]
+   },
+   {
+      "name": "Jai Asher",
+      "imports": [
+         "Sahaya Andrews",
+         "Sijie Guo",
+         "Sijie Guo",
+         "Jia Zhai"
+      ]
+   },
+   {
+      "name": "Ivan Kelly",
+      "imports": [
+         "Joe F",
+         "Sahaya Andrews",
+         "Dave Fisher"
+      ]
+   },
+   {
+      "name": "Sijie Guo",
+      "imports": [
+         "Jai Asher",
+         "Matteo Merli",
+         "Fabian Hueske",
+         "Tzu-Li (Gordon) Tai"
+      ]
+   },
+   {
+      "name": "Fabian Hueske",
+      "imports": [
+         "Henry Saputra"
+      ]
+   },
+   {
+      "name": "Jia Zhai",
+      "imports": [
+         "Jai Asher",
+         "Sijie Guo",
+         "Sijie Guo"
+      ]
+   },
+   {
+      "name": "Nozomi Kurihara",
+      "imports": [
+         "Jia Zhai"
+      ]
+   },
+   {
+      "name": "Matteo Merli",
+      "imports": [
+         "Ivan Kelly",
+         "Ivan Kelly",
+         "Joe F",
+         "Sahaya Andrews"
+      ]
+   },
+   {
+      "name": "Tzu-Li (Gordon) Tai",
+      "imports": [
+         "Sijie Guo"
+      ]
+   }
+]

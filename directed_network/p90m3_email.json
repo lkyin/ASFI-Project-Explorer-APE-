@@ -1,0 +1,121 @@
+[
+   {
+      "name": "mandreou",
+      "imports": []
+   },
+   {
+      "name": "Michal Fojtik (JIRA)",
+      "imports": [
+         "Ben Browning (JIRA)"
+      ]
+   },
+   {
+      "name": "Chris Lalancette",
+      "imports": []
+   },
+   {
+      "name": "Sassy Natan",
+      "imports": [
+         "marios@redhat.com"
+      ]
+   },
+   {
+      "name": "Mohammed Morsi",
+      "imports": [
+         "David Lutterkort",
+         "David Lutterkort",
+         "David Lutterkort"
+      ]
+   },
+   {
+      "name": "Ben Browning",
+      "imports": [
+         "David Lutterkort"
+      ]
+   },
+   {
+      "name": "mfojtik",
+      "imports": []
+   },
+   {
+      "name": "Andersen Max",
+      "imports": [
+         "Ben Browning"
+      ]
+   },
+   {
+      "name": "Michal Fojtik",
+      "imports": [
+         "Ben Browning",
+         "David Lutterkort",
+         "David Lutterkort",
+         "David Lutterkort",
+         "David Lutterkort",
+         "Mohammed Morsi",
+         "mfojtik",
+         "Chris Lalancette",
+         "Chris Lalancette",
+         "Chris Lalancette",
+         "Chris Lalancette",
+         "Chris Lalancette",
+         "mfojtik"
+      ]
+   },
+   {
+      "name": "David Lutterkort",
+      "imports": [
+         "mfojtik",
+         "mfojtik",
+         "mfojtik",
+         "mfojtik",
+         "Mohammed Morsi",
+         "Ben Browning",
+         "Ben Browning",
+         "Mohammed Morsi",
+         "Ben Browning",
+         "Mohammed Morsi",
+         "Andersen Max",
+         "mfojtik",
+         "Mohammed Morsi",
+         "Mohammed Morsi",
+         "mfojtik",
+         "Michal Fojtik",
+         "Michal Fojtik",
+         "Luciano Resende"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "marios@redhat.com",
+      "imports": [
+         "Sassy Natan",
+         "mandreou"
+      ]
+   },
+   {
+      "name": "Ben Browning (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Luciano Resende",
+      "imports": [
+         "no-reply",
+         "Carl Trieloff",
+         "Carl Trieloff",
+         "David Lutterkort"
+      ]
+   },
+   {
+      "name": "Carl Trieloff",
+      "imports": [
+         "Andersen Max",
+         "marios@redhat.com",
+         "Luciano Resende",
+         "Luciano Resende",
+         "David Lutterkort"
+      ]
+   }
+]

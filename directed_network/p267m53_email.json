@@ -1,0 +1,29 @@
+[
+   {
+      "name": "Thorsten Scherler",
+      "imports": [
+         "tobr",
+         "=?ISO-8859-1?Q?Tobias_R=FCbner?=",
+         "=?ISO-8859-1?Q?Tobias_R=FCbner?=",
+         "Richard Frovarp",
+         "tobr"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Tobias_R=FCbner?=",
+      "imports": [
+         "Thorsten Scherler",
+         "Thorsten Scherler",
+         "Thorsten Scherler",
+         "Thorsten Scherler"
+      ]
+   },
+   {
+      "name": "tobr",
+      "imports": []
+   },
+   {
+      "name": "Richard Frovarp",
+      "imports": []
+   }
+]

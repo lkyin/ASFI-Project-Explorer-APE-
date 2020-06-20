@@ -1,0 +1,134 @@
+[
+   {
+      "name": "lucasbm88",
+      "imports": []
+   },
+   {
+      "name": "mars",
+      "imports": [
+         "chanlee514"
+      ]
+   },
+   {
+      "name": "chanlee514",
+      "imports": []
+   },
+   {
+      "name": "Naoki Takezoe",
+      "imports": [
+         "Donald Szeto"
+      ]
+   },
+   {
+      "name": "brunitto",
+      "imports": [
+         "lucasbm88"
+      ]
+   },
+   {
+      "name": "marevol",
+      "imports": [
+         "mars"
+      ]
+   },
+   {
+      "name": "takako shimamoto",
+      "imports": [
+         "Kenneth Chan"
+      ]
+   },
+   {
+      "name": "ASF GitHub Bot (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "pferrel",
+      "imports": [
+         "takezoe",
+         "takezoe"
+      ]
+   },
+   {
+      "name": "shimamoto",
+      "imports": [
+         "takezoe",
+         "takezoe",
+         "takezoe",
+         "takezoe",
+         "takezoe",
+         "takezoe"
+      ]
+   },
+   {
+      "name": "dszeto",
+      "imports": [
+         "liningalex",
+         "mars",
+         "mars",
+         "takezoe",
+         "takezoe",
+         "shimamoto",
+         "liningalex",
+         "marevol",
+         "mars"
+      ]
+   },
+   {
+      "name": "browest",
+      "imports": [
+         "lucasbm88"
+      ]
+   },
+   {
+      "name": "Donald Szeto",
+      "imports": [
+         "Shinsuke Sugaya"
+      ]
+   },
+   {
+      "name": "Shinsuke Sugaya",
+      "imports": []
+   },
+   {
+      "name": "takezoe",
+      "imports": [
+         "shimamoto",
+         "mars",
+         "mars",
+         "mars",
+         "mars"
+      ]
+   },
+   {
+      "name": "asfgit",
+      "imports": [
+         "takezoe",
+         "mars",
+         "mars",
+         "marevol",
+         "takezoe",
+         "takezoe",
+         "shimamoto",
+         "marevol",
+         "takezoe",
+         "takezoe",
+         "takezoe",
+         "takezoe",
+         "takezoe",
+         "takezoe",
+         "takezoe",
+         "takezoe",
+         "takezoe"
+      ]
+   },
+   {
+      "name": "Kenneth Chan",
+      "imports": [
+         "ASF GitHub Bot (JIRA)"
+      ]
+   },
+   {
+      "name": "liningalex",
+      "imports": []
+   }
+]

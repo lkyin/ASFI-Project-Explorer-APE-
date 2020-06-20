@@ -1,0 +1,187 @@
+[
+   {
+      "name": "David Blevins",
+      "imports": [
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "Eric Covener",
+      "imports": [
+         "Gurkan Erdogdu",
+         "gerdogdu",
+         "Gurkan Erdogdu"
+      ]
+   },
+   {
+      "name": "Monteiro Jean-Louis",
+      "imports": [
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "Kevan Miller",
+      "imports": []
+   },
+   {
+      "name": "Nicklas Karlsson",
+      "imports": [
+         "Gurkan Erdogdu"
+      ]
+   },
+   {
+      "name": "Sven Linstaedt (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Dan Allen",
+      "imports": []
+   },
+   {
+      "name": "Mark Struberg (JIRA)",
+      "imports": [
+         "David Blevins (JIRA)",
+         "Paul J. Reder (JIRA)",
+         "Paul J. Reder (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "David Blevins (JIRA)"
+      ]
+   },
+   {
+      "name": "Gurkan Erdogdu (JIRA)",
+      "imports": [
+         "Joe Bergmark (JIRA)",
+         "Joe Bergmark (JIRA)",
+         "Paul J. Reder (JIRA)",
+         "Eric Covener (JIRA)",
+         "Eric Covener (JIRA)",
+         "Eric Covener (JIRA)",
+         "Eric Covener (JIRA)",
+         "Joe Bergmark (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt (JIRA)"
+      ]
+   },
+   {
+      "name": "Gurkan Erdogdu",
+      "imports": [
+         "Paul J. Reder",
+         "Joseph Bergmark",
+         "Joseph Bergmark",
+         "Sven Linstaedt",
+         "Eric Covener",
+         "Eric Covener",
+         "Sven Linstaedt",
+         "Sven Linstaedt",
+         "Sven Linstaedt",
+         "Sven Linstaedt",
+         "Sven Linstaedt",
+         "Kevan Miller",
+         "Sven Linstaedt",
+         "Sven Linstaedt",
+         "Joseph Bergmark",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt",
+         "Sven Linstaedt",
+         "Sven Linstaedt",
+         "Joseph Bergmark",
+         "Sven Linstaedt (JIRA)",
+         "Sven Linstaedt",
+         "Sven Linstaedt"
+      ]
+   },
+   {
+      "name": "Joseph Bergmark",
+      "imports": [
+         "Sven Linstaedt",
+         "David Blevins",
+         "Sven Linstaedt (JIRA)",
+         "Gurkan Erdogdu"
+      ]
+   },
+   {
+      "name": "Jacek Laskowski",
+      "imports": [
+         "David Blevins"
+      ]
+   },
+   {
+      "name": "gerdogdu",
+      "imports": []
+   },
+   {
+      "name": "David Blevins (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Matthias Wessendorf",
+      "imports": [
+         "Eric Covener"
+      ]
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "Sven Linstaedt",
+         "David Blevins"
+      ]
+   },
+   {
+      "name": "Eric Covener (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Paul J. Reder (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Sven Linstaedt",
+      "imports": [
+         "Eric Covener",
+         "Gurkan Erdogdu",
+         "Gurkan Erdogdu",
+         "Gurkan Erdogdu",
+         "Gurkan Erdogdu",
+         "Gurkan Erdogdu",
+         "Joseph Bergmark",
+         "Gurkan Erdogdu",
+         "Gurkan Erdogdu",
+         "Gurkan Erdogdu",
+         "Gurkan Erdogdu"
+      ]
+   },
+   {
+      "name": "Joe Bergmark (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Marius Bogoevici",
+      "imports": [
+         "Dan Allen"
+      ]
+   },
+   {
+      "name": "Paul J. Reder",
+      "imports": [
+         "Gurkan Erdogdu (JIRA)"
+      ]
+   }
+]

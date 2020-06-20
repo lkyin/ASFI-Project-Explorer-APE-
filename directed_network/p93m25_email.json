@@ -1,0 +1,29 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Werner Keil",
+         "eberhard speer jr.",
+         "Werner Keil",
+         "eberhard speer jr."
+      ]
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Werner Keil",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Marvin",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz",
+         "eberhard speer jr."
+      ]
+   },
+   {
+      "name": "eberhard speer jr.",
+      "imports": []
+   }
+]

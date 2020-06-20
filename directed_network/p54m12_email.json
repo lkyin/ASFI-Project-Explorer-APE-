@@ -1,0 +1,476 @@
+[
+   {
+      "name": "Arthur Wiedmer",
+      "imports": [
+         "Jason Chen",
+         "Jeremiah Lowin",
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Nicholas Hodgkinson",
+      "imports": [
+         "Boris Tyukin",
+         "Jorge Alpedrinha Ramos",
+         "harish singh"
+      ]
+   },
+   {
+      "name": "Gurer Kiratli",
+      "imports": []
+   },
+   {
+      "name": "Andrew Phillips",
+      "imports": [
+         "Nicholas Hodgkinson",
+         "lrohde"
+      ]
+   },
+   {
+      "name": "Wilson Lian",
+      "imports": [
+         "Dan Davydov"
+      ]
+   },
+   {
+      "name": "Jason Jho",
+      "imports": [
+         "Dan Davydov",
+         "Wilson Lian"
+      ]
+   },
+   {
+      "name": "Ali Uz",
+      "imports": [
+         "Nicholas Hodgkinson"
+      ]
+   },
+   {
+      "name": "Robin Bartholdson",
+      "imports": [
+         "Jorge Alpedrinha Ramos",
+         "Sumit Maheshwari",
+         "Jorge Alpedrinha Ramos",
+         "Jorge Alpedrinha Ramos"
+      ]
+   },
+   {
+      "name": "Dan Davydov",
+      "imports": [
+         "Bolke de Bruin",
+         "Jason Jho",
+         "siddharth anand",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Michael Gong",
+         "Michael Gong",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Jason Chen",
+         "Jason Chen",
+         "Jeremiah Lowin",
+         "siddharth anand",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Rui Wang",
+         "Chris Riccomini",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Jeremiah Lowin",
+      "imports": [
+         "Alex Van Boxel",
+         "Dan Davydov",
+         "Arthur Wiedmer",
+         "Alex Guziel",
+         "Maxime Beauchemin",
+         "Jorge Alpedrinha Ramos",
+         "Boris Tyukin",
+         "Boris Tyukin"
+      ]
+   },
+   {
+      "name": "Ruslan Dautkhanov",
+      "imports": [
+         "siddharth anand",
+         "Bolke de Bruin",
+         "Alex Guziel",
+         "Boris Tyukin",
+         "Russell Jurney",
+         "Boris Tyukin",
+         "Russell Jurney",
+         "Bolke de Bruin",
+         "Boris Tyukin",
+         "Dan Davydov",
+         "Boris Tyukin",
+         "siddharth anand"
+      ]
+   },
+   {
+      "name": "Rob Goretsky",
+      "imports": []
+   },
+   {
+      "name": "Vincent Poulain",
+      "imports": [
+         "Ruslan Dautkhanov",
+         "Sumit Maheshwari",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Daniel Huang",
+      "imports": [
+         "Alex Van Boxel",
+         "Nicholas Hodgkinson",
+         "Jake Gysland",
+         "siddharth anand"
+      ]
+   },
+   {
+      "name": "Gerard Toonstra",
+      "imports": [
+         "Ali Uz",
+         "Jayesh Senjaliya",
+         "Rui Wang",
+         "siddharth anand"
+      ]
+   },
+   {
+      "name": "twinkle",
+      "imports": [
+         "Sergei Iakhnin"
+      ]
+   },
+   {
+      "name": "Li Xuan Ji",
+      "imports": [
+         "Matt Martin"
+      ]
+   },
+   {
+      "name": "Arpan Dhandhania",
+      "imports": [
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Jason Chen",
+      "imports": [
+         "Jason Jho",
+         "Arthur Wiedmer",
+         "harish singh",
+         "harish singh",
+         "Bolke de Bruin",
+         "Dan Davydov",
+         "Maxime Beauchemin",
+         "Matt Martin"
+      ]
+   },
+   {
+      "name": "Andrew Maguire",
+      "imports": [
+         "Jorge Alpedrinha Ramos"
+      ]
+   },
+   {
+      "name": "Russell Jurney",
+      "imports": [
+         "Maxime Beauchemin",
+         "Maxime Beauchemin",
+         "Ruslan Dautkhanov",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Sumit Maheshwari",
+      "imports": [
+         "Vincent Poulain",
+         "Robin Bartholdson"
+      ]
+   },
+   {
+      "name": "Joe Schmid",
+      "imports": []
+   },
+   {
+      "name": "Gael Magnan",
+      "imports": [
+         "Robin Bartholdson",
+         "Nicholas Hodgkinson",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Taylor Edmiston",
+      "imports": [
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "siddharth anand",
+      "imports": [
+         "Dan Davydov",
+         "Maxime Beauchemin",
+         "Daniel Huang",
+         "Chris Riccomini",
+         "Bolke de Bruin",
+         "Nicholas Hodgkinson",
+         "Jeremiah Lowin",
+         "Maxime Beauchemin",
+         "Boris Tyukin",
+         "Bolke de Bruin",
+         "Ruslan Dautkhanov"
+      ]
+   },
+   {
+      "name": "Anne Yeung",
+      "imports": []
+   },
+   {
+      "name": "F. Hakan Koklu",
+      "imports": [
+         "Andrew Phillips"
+      ]
+   },
+   {
+      "name": "Rui Wang",
+      "imports": []
+   },
+   {
+      "name": "Alek Storm",
+      "imports": []
+   },
+   {
+      "name": "Alex Guziel",
+      "imports": [
+         "Maxime Beauchemin",
+         "Maxime Beauchemin",
+         "Ruslan Dautkhanov"
+      ]
+   },
+   {
+      "name": "Jorge Alpedrinha Ramos",
+      "imports": [
+         "Andrew Maguire",
+         "Andrew Maguire",
+         "Andrew Maguire",
+         "Robin Bartholdson",
+         "Gael Magnan",
+         "Gael Magnan",
+         "Nicholas Hodgkinson"
+      ]
+   },
+   {
+      "name": "Desiree Cox",
+      "imports": [
+         "Miller, Robin"
+      ]
+   },
+   {
+      "name": "matus valo",
+      "imports": []
+   },
+   {
+      "name": "Maxime Beauchemin",
+      "imports": [
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Arpan Dhandhania",
+         "Paul Minton",
+         "Michael Gong",
+         "Michael Gong",
+         "Edgardo Vega",
+         "Amit Jain",
+         "Daniel Huang",
+         "Dan Davydov",
+         "Jason Chen",
+         "Jayesh Senjaliya",
+         "Jayesh Senjaliya",
+         "Russell Jurney",
+         "Edgardo Vega",
+         "Edgardo Vega",
+         "Alex Van Boxel",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Alex Guziel",
+         "Dan Davydov",
+         "Gerard Toonstra",
+         "siddharth anand",
+         "Arthur Wiedmer"
+      ]
+   },
+   {
+      "name": "Paul Minton",
+      "imports": [
+         "Vijay Ramesh"
+      ]
+   },
+   {
+      "name": "Vijay Ramesh",
+      "imports": [
+         "Joe Schmid",
+         "lrohde"
+      ]
+   },
+   {
+      "name": "Michael Gong",
+      "imports": [
+         "twinkle",
+         "Dan Davydov",
+         "Dan Davydov",
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Alex Van Boxel",
+      "imports": [
+         "Bolke de Bruin",
+         "Jeremiah Lowin",
+         "Gurer Kiratli",
+         "siddharth anand"
+      ]
+   },
+   {
+      "name": "Matt Martin",
+      "imports": []
+   },
+   {
+      "name": "Jayesh Senjaliya",
+      "imports": [
+         "Gurer Kiratli",
+         "Maxime Beauchemin",
+         "Anne Yeung"
+      ]
+   },
+   {
+      "name": "Matus Valo",
+      "imports": [
+         "matus valo"
+      ]
+   },
+   {
+      "name": "Edgardo Vega",
+      "imports": [
+         "Maxime Beauchemin",
+         "Maxime Beauchemin",
+         "Alex Guziel"
+      ]
+   },
+   {
+      "name": "Boris Tyukin",
+      "imports": [
+         "Maxime Beauchemin",
+         "Nicholas Hodgkinson",
+         "siddharth anand",
+         "Ruslan Dautkhanov",
+         "siddharth anand",
+         "Ruslan Dautkhanov",
+         "Ruslan Dautkhanov",
+         "Jeremiah Lowin",
+         "Jeremiah Lowin"
+      ]
+   },
+   {
+      "name": "Bolke de Bruin",
+      "imports": [
+         "siddharth anand",
+         "Jason Chen",
+         "Dan Davydov",
+         "Maxime Beauchemin",
+         "Dan Davydov",
+         "Dan Davydov",
+         "Dan Davydov",
+         "Dan Davydov",
+         "Dan Davydov",
+         "Alex Van Boxel",
+         "twinkle",
+         "Matus Valo",
+         "Jayesh Senjaliya",
+         "Dan Davydov",
+         "Jason Chen",
+         "Dan Davydov",
+         "Ruslan Dautkhanov",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Rui Wang",
+         "siddharth anand",
+         "Dan Davydov",
+         "Dan Davydov",
+         "Jeremiah Lowin",
+         "Ruslan Dautkhanov",
+         "Russell Jurney",
+         "Maxime Beauchemin",
+         "Michael Gong",
+         "Chris Riccomini",
+         "Ruslan Dautkhanov",
+         "Chris Riccomini",
+         "Vijay Ramesh",
+         "harish singh",
+         "Vincent Poulain",
+         "harish singh",
+         "Gael Magnan"
+      ]
+   },
+   {
+      "name": "Miller, Robin",
+      "imports": [
+         "Desiree Cox"
+      ]
+   },
+   {
+      "name": "Jake Gysland",
+      "imports": [
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Paul Zaczkiewicz",
+      "imports": [
+         "Alek Storm"
+      ]
+   },
+   {
+      "name": "harish singh",
+      "imports": [
+         "Jason Chen",
+         "Jason Chen",
+         "Rob Goretsky",
+         "Nicholas Hodgkinson",
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Amit Jain",
+      "imports": [
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Chris Riccomini",
+      "imports": [
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Bolke de Bruin",
+         "Ruslan Dautkhanov"
+      ]
+   },
+   {
+      "name": "lrohde",
+      "imports": [
+         "Andrew Phillips",
+         "F. Hakan Koklu"
+      ]
+   },
+   {
+      "name": "Sergei Iakhnin",
+      "imports": [
+         "twinkle",
+         "Bolke de Bruin"
+      ]
+   }
+]

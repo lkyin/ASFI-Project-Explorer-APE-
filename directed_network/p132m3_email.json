@@ -1,0 +1,275 @@
+[
+   {
+      "name": "Oliver Kiessler",
+      "imports": []
+   },
+   {
+      "name": "Oliver Zeigermann",
+      "imports": [
+         "David Nuescheler",
+         "David Nuescheler",
+         "Oliver Rossmueller",
+         "David Nuescheler",
+         "David Nuescheler",
+         "David Nuescheler",
+         "David Nuescheler",
+         "Dominique Pfister",
+         "Peeter Piegaze",
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "Jukka Zitting (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "j.alkjaer",
+      "imports": [
+         "Marcel Reutegger",
+         "Peeter Piegaze"
+      ]
+   },
+   {
+      "name": "David Nuescheler",
+      "imports": [
+         "David B Victor",
+         "Oliver Zeigermann",
+         "Jukka Zitting",
+         "Ugo Cei",
+         "j.alkjaer",
+         "Oliver Zeigermann",
+         "Stefano Mazzocchi",
+         "Dominique Pfister",
+         "Michael Wechner",
+         "Rolf Kulemann",
+         "Unico Hommes",
+         "Oliver Zeigermann",
+         "Oliver Zeigermann",
+         "Oliver Zeigermann",
+         "Oliver Zeigermann",
+         "Ugo Cei",
+         "Oliver Zeigermann",
+         "Daniel Florey",
+         "Daniel Florey"
+      ]
+   },
+   {
+      "name": "Angela Schreiber",
+      "imports": [
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "Thorsten Scherler",
+      "imports": [
+         "Volker Hahn"
+      ]
+   },
+   {
+      "name": "shirasu hiroyuki",
+      "imports": [
+         "Marcel Reutegger"
+      ]
+   },
+   {
+      "name": "Rolf Kulemann",
+      "imports": [
+         "David Nuescheler",
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "Marcel Overdijk",
+      "imports": []
+   },
+   {
+      "name": "Felix Meschberger (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Rickard_=D6berg?=",
+      "imports": [
+         "Stefan Guggisberg",
+         "Stefano Mazzocchi"
+      ]
+   },
+   {
+      "name": "David B Victor",
+      "imports": [
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "Stefano Mazzocchi",
+      "imports": [
+         "David B Victor",
+         "David Nuescheler",
+         "Rolf Kulemann",
+         "=?ISO-8859-1?Q?Rickard_=D6berg?=",
+         "=?ISO-8859-1?Q?Rickard_=D6berg?=",
+         "David Nuescheler",
+         "Roy T. Fielding",
+         "Ugo Cei",
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "Marcel Reutegger",
+      "imports": [
+         "j.alkjaer",
+         "Daniel Florey"
+      ]
+   },
+   {
+      "name": "Roy T. Fielding",
+      "imports": [
+         "Stefano Mazzocchi",
+         "Oliver Zeigermann",
+         "Stefano Mazzocchi"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "David Nuescheler",
+         "Stefan Guggisberg"
+      ]
+   },
+   {
+      "name": "Stefan Guggisberg (JIRA)",
+      "imports": [
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Jukka Zitting (JIRA)",
+         "Jukka Zitting (JIRA)",
+         "Jukka Zitting (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)"
+      ]
+   },
+   {
+      "name": "Gianugo Rabellino",
+      "imports": [
+         "Volker Hahn"
+      ]
+   },
+   {
+      "name": "Ugo Cei",
+      "imports": [
+         "Stefan Guggisberg",
+         "David Nuescheler",
+         "David Nuescheler",
+         "Stefan Guggisberg",
+         "David Nuescheler",
+         "Stefan Guggisberg"
+      ]
+   },
+   {
+      "name": "F Baube",
+      "imports": [
+         "Stefan Guggisberg"
+      ]
+   },
+   {
+      "name": "Tobias Strasser",
+      "imports": [
+         "Oliver Zeigermann"
+      ]
+   },
+   {
+      "name": "Dominique Pfister",
+      "imports": [
+         "David Nuescheler",
+         "Oliver Zeigermann"
+      ]
+   },
+   {
+      "name": "Unico Hommes",
+      "imports": [
+         "David Nuescheler",
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "julien viet",
+      "imports": [
+         "Dominique Pfister"
+      ]
+   },
+   {
+      "name": "Wolfgang Gehner",
+      "imports": []
+   },
+   {
+      "name": "Peeter Piegaze",
+      "imports": [
+         "Roy T. Fielding",
+         "j.alkjaer"
+      ]
+   },
+   {
+      "name": "Volker Hahn",
+      "imports": [
+         "Gianugo Rabellino"
+      ]
+   },
+   {
+      "name": "Daniel Florey",
+      "imports": []
+   },
+   {
+      "name": "Sylvain Wallez",
+      "imports": [
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "Stefan Guggisberg",
+      "imports": [
+         "Jukka Zitting",
+         "Oliver Kiessler",
+         "Wolfgang Gehner",
+         "Marcel Overdijk",
+         "=?ISO-8859-1?Q?Rickard_=D6berg?=",
+         "Ugo Cei",
+         "Ugo Cei",
+         "Ugo Cei",
+         "Wolfgang Gehner",
+         "Ugo Cei",
+         "Oliver Zeigermann",
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Tobias Strasser (JIRA)",
+      "imports": [
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)",
+         "Felix Meschberger (JIRA)"
+      ]
+   },
+   {
+      "name": "Michael Wechner",
+      "imports": [
+         "David Nuescheler",
+         "David Nuescheler"
+      ]
+   },
+   {
+      "name": "Oliver Rossmueller",
+      "imports": []
+   }
+]

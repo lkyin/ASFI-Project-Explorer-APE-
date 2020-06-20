@@ -1,0 +1,186 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Andrew Bayer",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Benedikt Ritter",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Guillaume Laforge",
+         "shil.sinha",
+         "=?UTF-8?B?RW1tYW51ZWwgTMOpY2hhcm55?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Andrew Bayer"
+      ]
+   },
+   {
+      "name": "Mauro Molinari",
+      "imports": [
+         "david.dawson",
+         "Russel Winder"
+      ]
+   },
+   {
+      "name": "Pascal Schumacher",
+      "imports": [
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "David Dawson",
+      "imports": [
+         "Guillaume Laforge",
+         "KARR, DAVID",
+         "Mauro Molinari"
+      ]
+   },
+   {
+      "name": "Guillaume Laforge",
+      "imports": [
+         "Andrew Bayer",
+         "Bertrand Delacretaz",
+         "Paolo Di Tommaso",
+         "Keegan Witt",
+         "David Dawson",
+         "Keegan Witt"
+      ]
+   },
+   {
+      "name": "Jacopo Cappellato",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?="
+      ]
+   },
+   {
+      "name": "Paolo Di Tommaso",
+      "imports": []
+   },
+   {
+      "name": "Russel Winder",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "KARR, DAVID",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Mauro Molinari",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "David Dawson"
+      ]
+   },
+   {
+      "name": "Andrew Bayer",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Bertrand Delacretaz",
+         "=?UTF-8?B?RW1tYW51ZWwgTMOpY2hhcm55?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Andrew Bayer",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Jochen Theodorou"
+      ]
+   },
+   {
+      "name": "KARR, DAVID",
+      "imports": [
+         "Russel Winder"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+      "imports": [
+         "Andrew Bayer",
+         "Andrew Bayer",
+         "Guillaume Laforge",
+         "Andrew Bayer",
+         "Andrew Bayer",
+         "=?UTF-8?B?RW1tYW51ZWwgTMOpY2hhcm55?=",
+         "=?UTF-8?B?RW1tYW51ZWwgTMOpY2hhcm55?=",
+         "=?UTF-8?B?RW1tYW51ZWwgTMOpY2hhcm55?=",
+         "David Dawson",
+         "Bertrand Delacretaz",
+         "Russel Winder",
+         "david.dawson",
+         "Mauro Molinari"
+      ]
+   },
+   {
+      "name": "david.dawson",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Russel Winder"
+      ]
+   },
+   {
+      "name": "shil.sinha",
+      "imports": []
+   },
+   {
+      "name": "jim northrop",
+      "imports": []
+   },
+   {
+      "name": "Roman Shaposhnik",
+      "imports": [
+         "Andrew Bayer"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?RW1tYW51ZWwgTMOpY2hhcm55?=",
+      "imports": [
+         "Andrew Bayer",
+         "Guillaume Laforge",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Shil Sinha",
+         "Shil Sinha",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Benedikt Ritter",
+      "imports": [
+         "Andrew Bayer"
+      ]
+   },
+   {
+      "name": "Keegan Witt",
+      "imports": [
+         "Guillaume Laforge",
+         "jim northrop"
+      ]
+   },
+   {
+      "name": "Jochen Theodorou",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Mauro Molinari",
+         "David Dawson",
+         "Paul King",
+         "Jacopo Cappellato"
+      ]
+   },
+   {
+      "name": "Matt Franklin",
+      "imports": [
+         "jim northrop"
+      ]
+   },
+   {
+      "name": "Paul King",
+      "imports": [
+         "Jochen Theodorou"
+      ]
+   },
+   {
+      "name": "Emmanuel Lecharny",
+      "imports": [
+         "david.dawson"
+      ]
+   },
+   {
+      "name": "Shil Sinha",
+      "imports": []
+   }
+]

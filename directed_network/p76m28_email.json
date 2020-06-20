@@ -1,0 +1,36 @@
+[
+   {
+      "name": "Pepijn Noltes",
+      "imports": [
+         "=?UTF-8?Q?Bj=C3=B6rn_Petri?="
+      ]
+   },
+   {
+      "name": "Marcel Offermans",
+      "imports": [
+         "Alexander Broekhuis",
+         "Alexander Broekhuis"
+      ]
+   },
+   {
+      "name": "Mohammad Nour El-Din",
+      "imports": [
+         "Marcel Offermans",
+         "Alexander Broekhuis"
+      ]
+   },
+   {
+      "name": "Alexander Broekhuis",
+      "imports": [
+         "Marcel Offermans",
+         "Marcel Offermans",
+         "Mohammad Nour El-Din"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Bj=C3=B6rn_Petri?=",
+      "imports": [
+         "Pepijn Noltes"
+      ]
+   }
+]

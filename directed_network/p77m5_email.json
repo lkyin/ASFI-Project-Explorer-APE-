@@ -1,0 +1,36 @@
+[
+   {
+      "name": "Michael Mertins (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Emanuele Lombardi",
+      "imports": []
+   },
+   {
+      "name": "Florent Guillaume",
+      "imports": [
+         "David Caruana",
+         "Emanuele Lombardi",
+         "Emanuele Lombardi"
+      ]
+   },
+   {
+      "name": "David Caruana",
+      "imports": [
+         "Florent Guillaume"
+      ]
+   },
+   {
+      "name": "Florent Guillaume (JIRA)",
+      "imports": [
+         "Michael Mertins (JIRA)",
+         "Michael Mertins (JIRA)",
+         "Emanuele Lombardi (JIRA)"
+      ]
+   },
+   {
+      "name": "Emanuele Lombardi (JIRA)",
+      "imports": []
+   }
+]

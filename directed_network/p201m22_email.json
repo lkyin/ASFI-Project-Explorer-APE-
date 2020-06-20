@@ -1,0 +1,159 @@
+[
+   {
+      "name": "Mark Brouwer (JIRA)",
+      "imports": [
+         "Phil Steitz (JIRA)",
+         "Nigel Daley (JIRA)",
+         "Fred Oliver (JIRA)"
+      ]
+   },
+   {
+      "name": "Jukka Zitting (JIRA)",
+      "imports": [
+         "Mike Morris (JIRA)"
+      ]
+   },
+   {
+      "name": "Nigel Daley (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "John McClain",
+      "imports": [
+         "Mike Morris"
+      ]
+   },
+   {
+      "name": "Mike Morris",
+      "imports": [
+         "Jukka Zitting",
+         "Dan Creswell"
+      ]
+   },
+   {
+      "name": "Peter Jones",
+      "imports": []
+   },
+   {
+      "name": "Ronald J Mann",
+      "imports": [
+         "Dennis Reedy"
+      ]
+   },
+   {
+      "name": "Nigel Daley",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Jim Waldo",
+      "imports": [
+         "Mike Morris"
+      ]
+   },
+   {
+      "name": "Tom Hobbs",
+      "imports": [
+         "Mike Morris",
+         "Mark Brouwer"
+      ]
+   },
+   {
+      "name": "Dan Rollo",
+      "imports": [
+         "Mike Morris"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Mike Morris",
+         "Mike Morris",
+         "Mike Morris",
+         "Tom Hobbs",
+         "Mike Morris"
+      ]
+   },
+   {
+      "name": "Dan Creswell",
+      "imports": [
+         "Tom Hobbs"
+      ]
+   },
+   {
+      "name": "Mark Hodapp",
+      "imports": []
+   },
+   {
+      "name": "Mark Brouwer",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Hakan Kocakulak (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Niclas Hedhman",
+      "imports": []
+   },
+   {
+      "name": "Michael Warres",
+      "imports": [
+         "Niclas Hedhman"
+      ]
+   },
+   {
+      "name": "Tom Hobbs (JIRA)",
+      "imports": [
+         "Hakan Kocakulak (JIRA)"
+      ]
+   },
+   {
+      "name": "Dennis Reedy",
+      "imports": [
+         "Mike Morris"
+      ]
+   },
+   {
+      "name": "Sean Landis",
+      "imports": [
+         "John McClain"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Holger_Hoffst=E4tte?=",
+      "imports": [
+         "Niclas Hedhman"
+      ]
+   },
+   {
+      "name": "Fred Oliver (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "O''Keefe, Matthew",
+      "imports": [
+         "Peter Jones",
+         "Mark Hodapp"
+      ]
+   },
+   {
+      "name": "Mike Morris (JIRA)",
+      "imports": [
+         "Fred Oliver (JIRA)"
+      ]
+   },
+   {
+      "name": "Brian Murphy",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Phil Steitz (JIRA)",
+      "imports": []
+   }
+]

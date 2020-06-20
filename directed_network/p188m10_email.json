@@ -1,0 +1,118 @@
+[
+   {
+      "name": "Jukka Zitting (JIRA)",
+      "imports": [
+         "DURGA DEEP (JIRA)",
+         "Sean Sullivan (JIRA)",
+         "Brian Carrier (JIRA)",
+         "Brian Carrier (JIRA)",
+         "Mathias Bosch (JIRA)",
+         "Brian Carrier (JIRA)",
+         "Brian Carrier (JIRA)",
+         "=?utf-8?Q?Andreas_Lehmk=C3=BChler_=28JIRA=29?=",
+         "=?utf-8?Q?Andreas_Lehmk=C3=BChler_=28JIRA=29?=",
+         "Yubin Zheng (JIRA)"
+      ]
+   },
+   {
+      "name": "Sean Sullivan (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Daniel Wilson",
+      "imports": [
+         "Brian Carrier (JIRA)"
+      ]
+   },
+   {
+      "name": "DURGA DEEP (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Andreas.Lehmkuehler",
+      "imports": [
+         "Brian Carrier",
+         "Brian Carrier",
+         "Brian Carrier"
+      ]
+   },
+   {
+      "name": "Mathias Bosch (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Brian Carrier (JIRA)",
+      "imports": [
+         "Jukka Zitting (JIRA)"
+      ]
+   },
+   {
+      "name": "Yubin Zheng (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?Andreas_Lehmk=C3=BChler_=28JIRA=29?=",
+      "imports": [
+         "Jukka Zitting (JIRA)",
+         "Jukka Zitting (JIRA)",
+         "Jukka Zitting (JIRA)",
+         "Jukka Zitting (JIRA)",
+         "Yubin Zheng (JIRA)",
+         "Mathias Bosch (JIRA)",
+         "Jukka Zitting (JIRA)",
+         "Jukka Zitting (JIRA)"
+      ]
+   },
+   {
+      "name": "Rainer Schwarze (JIRA)",
+      "imports": [
+         "Yubin Zheng (JIRA)"
+      ]
+   },
+   {
+      "name": "Philipp Koch",
+      "imports": []
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Sean Sullivan",
+         "=?iso-8859-1?q?=41=6e=64=72=65=61=73=20=4c=65=68=6d=6b=fc=68=6c=65=72?=",
+         "Brian Carrier"
+      ]
+   },
+   {
+      "name": "Brian Carrier",
+      "imports": [
+         "Daniel Wilson",
+         "Andreas.Lehmkuehler",
+         "Jeremias Maerki",
+         "Andreas.Lehmkuehler",
+         "Jukka Zitting",
+         "=?utf-8?Q?Andreas_Lehmk=C3=BChler_=28JIRA=29?=",
+         "Andreas.Lehmkuehler"
+      ]
+   },
+   {
+      "name": "Sean Sullivan",
+      "imports": []
+   },
+   {
+      "name": "Jeremias Maerki",
+      "imports": [
+         "Philipp Koch",
+         "Brian Carrier"
+      ]
+   },
+   {
+      "name": "Yegor Jbanov (JIRA)",
+      "imports": [
+         "Jukka Zitting (JIRA)",
+         "Jukka Zitting (JIRA)"
+      ]
+   },
+   {
+      "name": "=?iso-8859-1?q?=41=6e=64=72=65=61=73=20=4c=65=68=6d=6b=fc=68=6c=65=72?=",
+      "imports": []
+   }
+]

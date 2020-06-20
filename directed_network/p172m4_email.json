@@ -1,0 +1,128 @@
+[
+   {
+      "name": "Maciej Szefler",
+      "imports": [
+         "Lance Waterman",
+         "Lance Waterman",
+         "cory",
+         "Guillaume Nodet",
+         "Lance Waterman",
+         "Lance Waterman",
+         "Guillaume Nodet",
+         "Lance Waterman",
+         "Lance Waterman",
+         "Lance Waterman"
+      ]
+   },
+   {
+      "name": "Alex Boisvert",
+      "imports": [
+         "Lance Waterman",
+         "cory",
+         "Lance Waterman",
+         "Matthieu Riou",
+         "Davanum Srinivas"
+      ]
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "Lance Waterman",
+         "Maciej Szefler",
+         "cory",
+         "Alex Boisvert",
+         "Lance Waterman",
+         "Lance Waterman",
+         "Lance Waterman"
+      ]
+   },
+   {
+      "name": "Matthieu Riou",
+      "imports": [
+         "Paul R Brown",
+         "Alan D. Cabrera"
+      ]
+   },
+   {
+      "name": "cory",
+      "imports": [
+         "Assaf Arkin",
+         "Maciej Szefler",
+         "Guillaume Nodet",
+         "Assaf Arkin",
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Assaf Arkin",
+      "imports": [
+         "Lance Waterman",
+         "Guillaume Nodet",
+         "cory",
+         "cory",
+         "Lance Waterman",
+         "Lance Waterman",
+         "Lance Waterman",
+         "Lance Waterman",
+         "cory",
+         "Lance Waterman",
+         "Guillaume Nodet",
+         "Lance Waterman"
+      ]
+   },
+   {
+      "name": "Davanum Srinivas",
+      "imports": [
+         "Alex Boisvert",
+         "Matthieu Riou",
+         "Matthieu Riou",
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Zubin Wadia",
+      "imports": [
+         "cory",
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Alan D. Cabrera",
+      "imports": [
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Paul R Brown",
+      "imports": [
+         "Davanum Srinivas"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Holger_Hoffst=E4tte?=",
+      "imports": [
+         "Davanum Srinivas"
+      ]
+   },
+   {
+      "name": "Lance Waterman",
+      "imports": [
+         "Guillaume Nodet",
+         "Guillaume Nodet",
+         "Maciej Szefler",
+         "Guillaume Nodet",
+         "Matthieu Riou",
+         "Maciej Szefler",
+         "Maciej Szefler",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Alex Boisvert",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "Maciej Szefler",
+         "Alex Boisvert"
+      ]
+   }
+]

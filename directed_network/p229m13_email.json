@@ -1,0 +1,98 @@
+[
+   {
+      "name": "Daniel Dai",
+      "imports": [
+         "Chen He"
+      ]
+   },
+   {
+      "name": "sebb",
+      "imports": [
+         "Alan Gates"
+      ]
+   },
+   {
+      "name": "Siddharth Seth",
+      "imports": [
+         "Cheolsoo Park",
+         "Jonathan Eagles",
+         "Rohini Palaniswamy",
+         "Chen He"
+      ]
+   },
+   {
+      "name": "Arun Murthy",
+      "imports": []
+   },
+   {
+      "name": "Hitesh Shah",
+      "imports": [
+         "Rohini Palaniswamy",
+         "Tsuyoshi OZAWA",
+         "Chen He",
+         "Cheolsoo Park",
+         "Alan Gates",
+         "sebb",
+         "Chen He"
+      ]
+   },
+   {
+      "name": "Cheolsoo Park",
+      "imports": [
+         "Jason Lowe"
+      ]
+   },
+   {
+      "name": "Tsuyoshi OZAWA",
+      "imports": [
+         "Daniel Dai",
+         "Lianhui Wang",
+         "Gunther Hagleitner"
+      ]
+   },
+   {
+      "name": "Alan Gates",
+      "imports": []
+   },
+   {
+      "name": "Gunther Hagleitner",
+      "imports": [
+         "Hitesh Shah",
+         "Lianhui Wang"
+      ]
+   },
+   {
+      "name": "Jason Lowe",
+      "imports": []
+   },
+   {
+      "name": "Rohini Palaniswamy",
+      "imports": [
+         "Siddharth Seth",
+         "Tsuyoshi OZAWA"
+      ]
+   },
+   {
+      "name": "Jonathan Eagles",
+      "imports": [
+         "Arun Murthy",
+         "Vijayakumar Ramdoss"
+      ]
+   },
+   {
+      "name": "Vijayakumar Ramdoss",
+      "imports": []
+   },
+   {
+      "name": "Chen He",
+      "imports": [
+         "Siddharth Seth"
+      ]
+   },
+   {
+      "name": "Lianhui Wang",
+      "imports": [
+         "Gunther Hagleitner"
+      ]
+   }
+]

@@ -1,0 +1,73 @@
+[
+   {
+      "name": "Sam Lachterman (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Janne Jalkanen",
+      "imports": [
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?="
+      ]
+   },
+   {
+      "name": "Florian Holeczek",
+      "imports": [
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?="
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Florian Holeczek (JIRA)",
+      "imports": [
+         "Sam Lachterman (JIRA)"
+      ]
+   },
+   {
+      "name": "Harry Metske (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez_=28JIRA=29?=",
+         "=?utf-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez_=28JIRA=29?=",
+         "=?utf-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Harry Metske",
+      "imports": [
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?="
+      ]
+   },
+   {
+      "name": "Andrew Jaquith",
+      "imports": [
+         "=?utf-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?=",
+      "imports": [
+         "Janne Jalkanen",
+         "Janne Jalkanen",
+         "Harry Metske",
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "=?UTF-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez?="
+      ]
+   },
+   {
+      "name": "brushed (JIRA)",
+      "imports": [
+         "Sam Lachterman (JIRA)",
+         "=?utf-8?Q?Juan_Pablo_Santos_Rodr=C3=ADguez_=28JIRA=29?="
+      ]
+   }
+]

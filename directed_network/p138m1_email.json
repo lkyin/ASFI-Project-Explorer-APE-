@@ -1,0 +1,39 @@
+[
+   {
+      "name": "Henri Yandell",
+      "imports": [
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Lewis John Mcgibbney",
+      "imports": [
+         "Henry Saputra"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "Henri Yandell"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Lewis John Mcgibbney",
+         "Matt Post"
+      ]
+   },
+   {
+      "name": "Henry Saputra",
+      "imports": [
+         "Lewis John Mcgibbney"
+      ]
+   },
+   {
+      "name": "Matt Post",
+      "imports": [
+         "Tommaso Teofili"
+      ]
+   }
+]

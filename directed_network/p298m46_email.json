@@ -1,0 +1,18 @@
+[
+   {
+      "name": "Tammo van Lessen",
+      "imports": []
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "Tammo van Lessen"
+      ]
+   }
+]

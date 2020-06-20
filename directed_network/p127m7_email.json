@@ -1,0 +1,343 @@
+[
+   {
+      "name": "Dimiter Kapitanov (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Claudio Martins (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Tak Yoshida (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Geoff Chiang (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Henrik Uffe Jensen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Sylvain Huppe (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Alexander Dederer (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Andy Light (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Al Le (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Stuart Piltch (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Juergen Hoeller (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Martin Dawe (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ben Engbers (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Paul Barry",
+      "imports": []
+   },
+   {
+      "name": "Paul Brooks (JIRA)",
+      "imports": [
+         "Ken Katsma (JIRA)"
+      ]
+   },
+   {
+      "name": "Ron Grabowski (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Thijs van Nieuwkerk (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Kris Schneider (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jeff Butler (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Christopher John Gores (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ales Justin (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Vadim Pesochinskiy (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Sridhar Vijendran (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Kristian Hellquist",
+      "imports": [
+         "Brandon Goodin"
+      ]
+   },
+   {
+      "name": "Kit Cragin (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Walter So (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "onsh 76 (JIRA)",
+      "imports": [
+         "Walter So (JIRA)"
+      ]
+   },
+   {
+      "name": "Mark Nabours (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "roberto",
+      "imports": [
+         "Brandon Goodin"
+      ]
+   },
+   {
+      "name": "Gilles Bayon (JIRA)",
+      "imports": [
+         "Henrik Uffe Jensen (JIRA)",
+         "Henrik Uffe Jensen (JIRA)",
+         "Henrik Uffe Jensen (JIRA)",
+         "Ron Grabowski (JIRA)",
+         "Ron Grabowski (JIRA)",
+         "Kit Cragin (JIRA)",
+         "Philip Kerrigan (JIRA)",
+         "Philip Kerrigan (JIRA)"
+      ]
+   },
+   {
+      "name": "Alexandru Barbat (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Clinton Begin (JIRA)",
+      "imports": [
+         "Alexander Dederer (JIRA)",
+         "Thijs van Nieuwkerk (JIRA)",
+         "S Boyd (JIRA)",
+         "Joris Vleminckx (JIRA)",
+         "Mark Nabours (JIRA)",
+         "Geoff Chiang (JIRA)",
+         "Mark Nabours (JIRA)",
+         "Sridhar Vijendran (JIRA)",
+         "Dimiter Kapitanov (JIRA)",
+         "Harold Neiper (JIRA)",
+         "Martin Dawe (JIRA)",
+         "Jeff Butler (JIRA)",
+         "alex mccarrier (JIRA)",
+         "Martin Dawe (JIRA)",
+         "Juergen Hoeller (JIRA)",
+         "Aymeric Alibert (JIRA)",
+         "=?UTF-8?Q?Peter_K=C3=B6hler_=28JIRA=29?=",
+         "duo long (JIRA)",
+         "Andy Light (JIRA)",
+         "meg huang (JIRA)",
+         "kevin chae (JIRA)",
+         "Al Le (JIRA)",
+         "Philippe Laflamme (JIRA)",
+         "Kris Schneider (JIRA)",
+         "Kris Schneider (JIRA)",
+         "Ben Engbers (JIRA)",
+         "Andy Light (JIRA)",
+         "=?UTF-8?Q?Peter_K=C3=B6hler_=28JIRA=29?=",
+         "Alexandru Barbat (JIRA)",
+         "Bing Zou (JIRA)",
+         "Siveton Vincent (JIRA)",
+         "Ales Justin (JIRA)",
+         "Sridhar Vijendran (JIRA)",
+         "Claudio Martins (JIRA)",
+         "Claudio Martins (JIRA)",
+         "Claudio Martins (JIRA)",
+         "Claudio Martins (JIRA)",
+         "Peter Nunn (JIRA)",
+         "Walter So (JIRA)",
+         "Walter So (JIRA)",
+         "Martin Edlund (JIRA)",
+         "Claudio Martins (JIRA)",
+         "Claudio Martins (JIRA)",
+         "Tak Yoshida (JIRA)",
+         "Tak Yoshida (JIRA)",
+         "Vadim Pesochinskiy (JIRA)",
+         "knprince (JIRA)",
+         "knprince (JIRA)",
+         "Vadim Pesochinskiy (JIRA)",
+         "Sylvain Huppe (JIRA)",
+         "knprince (JIRA)",
+         "S Boyd (JIRA)",
+         "Stuart Piltch (JIRA)"
+      ]
+   },
+   {
+      "name": "Harold Neiper (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Peter Nunn (JIRA)",
+      "imports": [
+         "Martin Dawe (JIRA)",
+         "Martin Dawe (JIRA)"
+      ]
+   },
+   {
+      "name": "Joris Vleminckx (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ted Husted",
+      "imports": [
+         "Marc Rodrigues",
+         "Marc Rodrigues",
+         "Larry Meadors"
+      ]
+   },
+   {
+      "name": "kevin chae (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Philip Kerrigan (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Larry Meadors",
+      "imports": [
+         "Thijs van Nieuwkerk (JIRA)",
+         "Ted Husted"
+      ]
+   },
+   {
+      "name": "Brandon Goodin",
+      "imports": [
+         "Ales Justin (JIRA)",
+         "Paul Barry",
+         "Sylvain Huppe (JIRA)"
+      ]
+   },
+   {
+      "name": "alex mccarrier (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Siveton Vincent (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "knprince (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Marc Rodrigues",
+      "imports": [
+         "Larry Meadors",
+         "Ted Husted"
+      ]
+   },
+   {
+      "name": "Ken Katsma (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "meg huang (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Brandon Goodin (JIRA)",
+      "imports": [
+         "Ken Katsma (JIRA)"
+      ]
+   },
+   {
+      "name": "Gilles Bayon",
+      "imports": [
+         "Kit Cragin (JIRA)",
+         "Philip Kerrigan (JIRA)"
+      ]
+   },
+   {
+      "name": "Frederick A. Daria (JIRA)",
+      "imports": [
+         "Christopher John Gores (JIRA)"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Peter_K=C3=B6hler_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Bing Zou (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Philippe Laflamme (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "GrahamCruickshanks (JIRA)",
+      "imports": [
+         "Ken Katsma (JIRA)"
+      ]
+   },
+   {
+      "name": "Tak Yoshida",
+      "imports": [
+         "Larry Meadors"
+      ]
+   },
+   {
+      "name": "duo long (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Martin Edlund (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Clinton Begin",
+      "imports": [
+         "Brandon Goodin",
+         "roberto",
+         "Larry Meadors",
+         "Marc Rodrigues",
+         "Brandon Goodin"
+      ]
+   },
+   {
+      "name": "S Boyd (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Aymeric Alibert (JIRA)",
+      "imports": []
+   }
+]

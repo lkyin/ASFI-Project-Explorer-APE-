@@ -1,0 +1,157 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Henry Story"
+      ]
+   },
+   {
+      "name": "Jukka Zitting (JIRA)",
+      "imports": [
+         "Henry Story (JIRA)"
+      ]
+   },
+   {
+      "name": "Tsuyoshi Ito (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "franco fallica (JIRA)"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Henry Story",
+         "Reto Bachmann-Gmuer",
+         "Reto Bachmann-Gmuer"
+      ]
+   },
+   {
+      "name": "Reto Bachmann-Gmuer",
+      "imports": [
+         "Andy Seaborne",
+         "Tsuyoshi Ito",
+         "=?iso-8859-1?Q?Oliver_Str=E4sser?=",
+         "Tommaso Teofili",
+         "Hasan Hasan",
+         "Hasan Hasan",
+         "Hasan Hasan",
+         "Tommaso Teofili",
+         "Franco Fallica"
+      ]
+   },
+   {
+      "name": "Hasan (JIRA)",
+      "imports": [
+         "Florent ANDRE (JIRA)",
+         "Florent ANDRE (JIRA)",
+         "Florent ANDRE (JIRA)"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili (JIRA)",
+      "imports": [
+         "Florent ANDRE (JIRA)"
+      ]
+   },
+   {
+      "name": "Henry Story (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Henry Story",
+      "imports": [
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "=?utf-8?B?T2xpdmVyIFN0csOkc3Nlcg==?=",
+      "imports": [
+         "Reto Bachmann-Gmuer",
+         "Reto Bachmann-Gmuer",
+         "=?utf-8?Q?Oliver_Str=C3=A4sser_=28JIRA=29?=",
+         "=?utf-8?Q?Oliver_Str=C3=A4sser_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Fabian Christ (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "franco fallica (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Hasan Hasan",
+      "imports": [
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "franco fallica (JIRA)",
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Oliver_Str=C3=A4sser_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Franco Fallica",
+      "imports": [
+         "Hasan Hasan"
+      ]
+   },
+   {
+      "name": "Tsuyoshi Ito",
+      "imports": [
+         "Reto Bachmann-Gmuer"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+      "imports": [
+         "=?utf-8?Q?Oliver_Str=C3=A4sser_=28JIRA=29?=",
+         "=?utf-8?Q?Oliver_Str=C3=A4sser_=28JIRA=29?=",
+         "=?utf-8?Q?Oliver_Str=C3=A4sser_=28JIRA=29?=",
+         "=?utf-8?Q?Oliver_Str=C3=A4sser_=28JIRA=29?=",
+         "=?utf-8?Q?Oliver_Str=C3=A4sser_=28JIRA=29?=",
+         "Fabian Christ (JIRA)",
+         "Fabian Christ (JIRA)",
+         "Fabian Christ (JIRA)",
+         "Hasan (JIRA)",
+         "Hasan (JIRA)",
+         "Hasan (JIRA)",
+         "=?utf-8?Q?Oliver_Str=C3=A4sser_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Florent ANDRE (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Greg Stein (JIRA)",
+      "imports": [
+         "Henry Story (JIRA)"
+      ]
+   },
+   {
+      "name": "Andy Seaborne",
+      "imports": [
+         "Reto Bachmann-Gmuer",
+         "Reto Bachmann-Gmuer",
+         "Hasan Hasan",
+         "Hasan Hasan",
+         "Hasan Hasan"
+      ]
+   },
+   {
+      "name": "=?iso-8859-1?Q?Oliver_Str=E4sser?=",
+      "imports": []
+   },
+   {
+      "name": "Bertrand Delacretaz (JIRA)",
+      "imports": [
+         "Fabian Christ (JIRA)"
+      ]
+   }
+]

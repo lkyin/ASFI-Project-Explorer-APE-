@@ -1,0 +1,34 @@
+[
+   {
+      "name": "Shane Isbell",
+      "imports": [
+         "James Carpenter",
+         "Brett Porter",
+         "Brett Porter",
+         "Dan Fabulich",
+         "James Carpenter",
+         "James Carpenter"
+      ]
+   },
+   {
+      "name": "Brett Porter",
+      "imports": [
+         "Dan Fabulich",
+         "Shane Isbell",
+         "Shane Isbell",
+         "James Carpenter"
+      ]
+   },
+   {
+      "name": "James Carpenter",
+      "imports": [
+         "Shane Isbell",
+         "Shane Isbell",
+         "Shane Isbell"
+      ]
+   },
+   {
+      "name": "Dan Fabulich",
+      "imports": []
+   }
+]

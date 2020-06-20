@@ -1,0 +1,24 @@
+[
+   {
+      "name": "Tom Barber",
+      "imports": [
+         "lewis john mcgibbney"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (3010)",
+      "imports": [
+         "Tom Barber"
+      ]
+   },
+   {
+      "name": "Suneel Marthi",
+      "imports": [
+         "Mattmann, Chris A (3010)"
+      ]
+   },
+   {
+      "name": "lewis john mcgibbney",
+      "imports": []
+   }
+]

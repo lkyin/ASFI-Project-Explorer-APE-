@@ -1,0 +1,121 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Tommaso Teofili",
+         "Tsuyoshi Ito",
+         "Daniel Spicar"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)"
+      ]
+   },
+   {
+      "name": "Tsuyoshi Ito (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Fabian Christ (JIRA)",
+      "imports": [
+         "Bertrand Delacretaz (JIRA)"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+      "imports": [
+         "Tommaso Teofili",
+         "Tommaso Teofili",
+         "Henry Story",
+         "Tommaso Teofili",
+         "no-reply",
+         "Hasan Hasan",
+         "Daniel Spicar"
+      ]
+   },
+   {
+      "name": "Henry Story (JIRA)",
+      "imports": [
+         "Daniel Spicar (JIRA)"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Henry Story",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Tsuyoshi Ito"
+      ]
+   },
+   {
+      "name": "Daniel Spicar (JIRA)",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)"
+      ]
+   },
+   {
+      "name": "Ross Gardler",
+      "imports": [
+         "Hasan Hasan",
+         "Hasan Hasan"
+      ]
+   },
+   {
+      "name": "Tsuyoshi Ito",
+      "imports": [
+         "Henry Story",
+         "Henry Story"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Hasan Hasan",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Reto_Bachmann-Gm=FCr?=",
+      "imports": [
+         "Tommaso Teofili",
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Rex Kerr",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Daniel Spicar",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Henry Story"
+      ]
+   },
+   {
+      "name": "Hasan Hasan",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "franco fallica (JIRA)",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)"
+      ]
+   }
+]

@@ -1,0 +1,52 @@
+[
+   {
+      "name": "Jeremy Arnold",
+      "imports": [
+         "Richard Frovarp"
+      ]
+   },
+   {
+      "name": "Richard Frovarp (JIRA)",
+      "imports": [
+         "Giulio Cesare Solaroli (JIRA)",
+         "Giulio Cesare Solaroli (JIRA)"
+      ]
+   },
+   {
+      "name": "paul.vc",
+      "imports": []
+   },
+   {
+      "name": "Richard Frovarp",
+      "imports": [
+         "Eugen Paraschiv"
+      ]
+   },
+   {
+      "name": "Eugen Paraschiv",
+      "imports": []
+   },
+   {
+      "name": "Thorsten Scherler",
+      "imports": [
+         "Chapuis Bertil",
+         "paul.vc"
+      ]
+   },
+   {
+      "name": "Giulio Cesare Solaroli (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Chapuis Bertil",
+      "imports": [
+         "Eugen Paraschiv"
+      ]
+   },
+   {
+      "name": "Otis Gospodnetic",
+      "imports": [
+         "Thorsten Scherler"
+      ]
+   }
+]

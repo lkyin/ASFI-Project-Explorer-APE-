@@ -1,0 +1,170 @@
+[
+   {
+      "name": "Maciej Szefler",
+      "imports": [
+         "chris",
+         "Jim Alateras",
+         "Najeeb Elahi",
+         "Lance Waterman",
+         "Roger Menday",
+         "Lance Waterman"
+      ]
+   },
+   {
+      "name": "Najeeb Elahi",
+      "imports": []
+   },
+   {
+      "name": "David Blevins",
+      "imports": [
+         "mriou"
+      ]
+   },
+   {
+      "name": "Roger Menday",
+      "imports": [
+         "Guillaume Nodet",
+         "Matthieu Riou",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Matthieu Riou",
+      "imports": [
+         "Lance Waterman",
+         "Lance Waterman",
+         "Assaf Arkin",
+         "Maciej Szefler",
+         "victor panizza",
+         "victor panizza",
+         "Lance Waterman",
+         "Guillaume Nodet",
+         "Guillaume Nodet",
+         "Lance Waterman",
+         "Lance Waterman",
+         "Guillaume Nodet",
+         "victor panizza"
+      ]
+   },
+   {
+      "name": "Viraf Bankwalla",
+      "imports": []
+   },
+   {
+      "name": "Matthias von Arx (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Zubin Wadia",
+      "imports": [
+         "chris"
+      ]
+   },
+   {
+      "name": "Tammo van Lessen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Matthieu Riou (JIRA)",
+      "imports": [
+         "Lance Waterman (JIRA)",
+         "Lance Waterman (JIRA)"
+      ]
+   },
+   {
+      "name": "Lance Waterman (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "victor panizza",
+      "imports": [
+         "Matthieu Riou",
+         "Matthieu Riou",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Lance Waterman",
+      "imports": [
+         "Guillaume Nodet",
+         "Maciej Szefler",
+         "Assaf Arkin",
+         "Matthieu Riou",
+         "Guillaume Nodet",
+         "Matthieu Riou (JIRA)",
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Alex Boisvert",
+      "imports": [
+         "victor panizza",
+         "Viraf Bankwalla"
+      ]
+   },
+   {
+      "name": "Jim Alateras",
+      "imports": [
+         "Paul R Brown",
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Geir Magnusson Jr.",
+      "imports": [
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Assaf Arkin",
+      "imports": [
+         "Lance Waterman",
+         "Matthieu Riou",
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "mriou",
+      "imports": []
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "Lance Waterman",
+         "Roger Menday",
+         "Roger Menday",
+         "Matthieu Riou",
+         "Matthieu Riou",
+         "victor panizza",
+         "victor panizza"
+      ]
+   },
+   {
+      "name": "chris",
+      "imports": [
+         "Zubin Wadia",
+         "Maciej Szefler"
+      ]
+   },
+   {
+      "name": "Paul R Brown",
+      "imports": [
+         "Jim Alateras"
+      ]
+   },
+   {
+      "name": "Alex Boisvert (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Maciej Szefler (JIRA)",
+      "imports": [
+         "Alex Boisvert (JIRA)",
+         "Alex Boisvert (JIRA)",
+         "Matthias von Arx (JIRA)",
+         "Tammo van Lessen (JIRA)",
+         "Matthias von Arx (JIRA)",
+         "Matthias von Arx (JIRA)"
+      ]
+   }
+]

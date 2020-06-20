@@ -1,0 +1,98 @@
+[
+   {
+      "name": "Filippo Diotalevi (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Marcel Offermans",
+         "Marcel Offermans"
+      ]
+   },
+   {
+      "name": "Toni Menzel",
+      "imports": [
+         "Marcel Offermans",
+         "Marcel Offermans",
+         "Angelo van der Sijpt"
+      ]
+   },
+   {
+      "name": "Angelo van der Sijpt",
+      "imports": [
+         "Filippo Diotalevi",
+         "Toni Menzel"
+      ]
+   },
+   {
+      "name": "Filippo Diotalevi",
+      "imports": []
+   },
+   {
+      "name": "Toni Menzel (JIRA)",
+      "imports": [
+         "Angelo van der Sijpt (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)"
+      ]
+   },
+   {
+      "name": "Marcel Offermans (JIRA)",
+      "imports": [
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)"
+      ]
+   },
+   {
+      "name": "Angelo van der Sijpt (JIRA)",
+      "imports": [
+         "Filippo Diotalevi (JIRA)",
+         "Filippo Diotalevi (JIRA)",
+         "Filippo Diotalevi (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)"
+      ]
+   },
+   {
+      "name": "Marcel Offermans",
+      "imports": [
+         "Toni Menzel",
+         "Toni Menzel",
+         "Angelo van der Sijpt",
+         "Toni Menzel",
+         "Toni Menzel",
+         "Bertrand Delacretaz",
+         "Toni Menzel",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Karl Pauls (JIRA)",
+      "imports": [
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)"
+      ]
+   }
+]

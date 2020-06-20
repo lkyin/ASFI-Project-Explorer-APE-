@@ -1,0 +1,24 @@
+[
+   {
+      "name": "Christian Grobmeier",
+      "imports": [
+         "Flavio Pellanda",
+         "Flavio Pellanda",
+         "Urs Lerch"
+      ]
+   },
+   {
+      "name": "Urs Lerch",
+      "imports": [
+         "Flavio Pellanda"
+      ]
+   },
+   {
+      "name": "Flavio Pellanda",
+      "imports": [
+         "Christian Grobmeier",
+         "Christian Grobmeier",
+         "Christian Grobmeier"
+      ]
+   }
+]

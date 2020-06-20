@@ -1,0 +1,166 @@
+[
+   {
+      "name": "Maciej Szefler",
+      "imports": [
+         "Lance Waterman",
+         "Lance Waterman",
+         "Guillaume Nodet",
+         "Lance Waterman"
+      ]
+   },
+   {
+      "name": "Guillaume Nodet (JIRA)",
+      "imports": [
+         "Alex Boisvert (JIRA)"
+      ]
+   },
+   {
+      "name": "Alex Boisvert",
+      "imports": [
+         "Paul R Brown",
+         "Bill Flood",
+         "Lance Waterman",
+         "Bill Flood",
+         "Bill Flood",
+         "Guillaume Nodet",
+         "Guillaume Nodet",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "John Childs",
+      "imports": []
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "Alex Boisvert (JIRA)",
+         "Alex Boisvert",
+         "Alex Boisvert",
+         "Matthieu Riou",
+         "cory",
+         "Maciej Szefler"
+      ]
+   },
+   {
+      "name": "Alex Boisvert (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Sanjiva Weerawarana",
+      "imports": [
+         "Paul Brown"
+      ]
+   },
+   {
+      "name": "Paul R Brown",
+      "imports": [
+         "Bill Flood",
+         "Guillaume Nodet",
+         "Lance Waterman",
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Matthew Stevens",
+      "imports": [
+         "Alex Boisvert",
+         "Lance Waterman"
+      ]
+   },
+   {
+      "name": "Alan Cabrera (JIRA)",
+      "imports": [
+         "Guillaume Nodet (JIRA)"
+      ]
+   },
+   {
+      "name": "Davanum Srinivas",
+      "imports": [
+         "Lance Waterman",
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Paul Brown",
+      "imports": [
+         "Maciej Szefler"
+      ]
+   },
+   {
+      "name": "Bill Flood",
+      "imports": [
+         "Davanum Srinivas",
+         "Alex Boisvert",
+         "Matthieu Riou",
+         "Matthieu Riou",
+         "Assaf Arkin",
+         "John Childs"
+      ]
+   },
+   {
+      "name": "James Strachan",
+      "imports": [
+         "Bill Flood"
+      ]
+   },
+   {
+      "name": "Alan D. Cabrera",
+      "imports": [
+         "Matthieu Riou",
+         "=?ISO-8859-1?Q?Holger_Hoffst=E4tte?=",
+         "Guillaume Nodet",
+         "Matthieu Riou",
+         "Matthieu Riou",
+         "Matthieu Riou",
+         "=?ISO-8859-1?Q?Holger_Hoffst=E4tte?=",
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Matthieu Riou",
+      "imports": [
+         "Sanjiva Weerawarana",
+         "Alex Boisvert",
+         "Guillaume Nodet",
+         "Alan D. Cabrera",
+         "Guillaume Nodet",
+         "Guillaume Nodet",
+         "Matthieu Riou",
+         "Alan D. Cabrera",
+         "Alan D. Cabrera"
+      ]
+   },
+   {
+      "name": "Assaf Arkin",
+      "imports": [
+         "Matthew Stevens",
+         "Bill Flood"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Holger_Hoffst=E4tte?=",
+      "imports": [
+         "Bill Flood",
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "cory",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Lance Waterman",
+      "imports": [
+         "Maciej Szefler",
+         "Alex Boisvert",
+         "Matthieu Riou",
+         "Paul R Brown",
+         "Maciej Szefler",
+         "Guillaume Nodet",
+         "Maciej Szefler"
+      ]
+   }
+]

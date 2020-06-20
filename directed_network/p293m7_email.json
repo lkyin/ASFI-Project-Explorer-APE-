@@ -1,0 +1,12 @@
+[
+   {
+      "name": "Andrei Savu",
+      "imports": []
+   },
+   {
+      "name": "Roman Shaposhnik",
+      "imports": [
+         "Andrei Savu"
+      ]
+   }
+]

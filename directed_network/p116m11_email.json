@@ -1,0 +1,57 @@
+[
+   {
+      "name": "Ioannis Canellos",
+      "imports": [
+         "=?UTF-8?Q?Enis_S=C3=B6ztutar?="
+      ]
+   },
+   {
+      "name": "Markus Jelsma",
+      "imports": [
+         "Julien Nioche"
+      ]
+   },
+   {
+      "name": "Kirby Bohling",
+      "imports": [
+         "Julien Nioche"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Enis_S=C3=B6ztutar?=",
+      "imports": [
+         "Ioannis Canellos",
+         "lewis john mcgibbney"
+      ]
+   },
+   {
+      "name": "lewis john mcgibbney",
+      "imports": [
+         "Alexis"
+      ]
+   },
+   {
+      "name": "Julien Nioche",
+      "imports": []
+   },
+   {
+      "name": "Alexis",
+      "imports": [
+         "Mattmann, Chris A (388J)",
+         "lewis john mcgibbney"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "Alexis",
+         "Julien Nioche"
+      ]
+   },
+   {
+      "name": "Tom Davidson",
+      "imports": [
+         "Kirby Bohling"
+      ]
+   }
+]

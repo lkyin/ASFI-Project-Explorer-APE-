@@ -1,0 +1,36 @@
+[
+   {
+      "name": "Arnaud Quiblier",
+      "imports": [
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Christopher Lim",
+      "imports": [
+         "Arnaud Quiblier"
+      ]
+   },
+   {
+      "name": "Matthieu Riou (JIRA)",
+      "imports": [
+         "=?UTF-8?Q?Norman_Sch=C3=B6neich_=28JIRA=29?=",
+         "=?UTF-8?Q?Norman_Sch=C3=B6neich_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Matthieu Riou",
+      "imports": [
+         "Jean-Robert Bacou",
+         "Arnaud Quiblier"
+      ]
+   },
+   {
+      "name": "Jean-Robert Bacou",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?Q?Norman_Sch=C3=B6neich_=28JIRA=29?=",
+      "imports": []
+   }
+]

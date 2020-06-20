@@ -1,0 +1,19 @@
+[
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Leonidas Fegaras",
+      "imports": [
+         "Alan D. Cabrera"
+      ]
+   },
+   {
+      "name": "Alan D. Cabrera",
+      "imports": [
+         "Marvin",
+         "Leonidas Fegaras"
+      ]
+   }
+]

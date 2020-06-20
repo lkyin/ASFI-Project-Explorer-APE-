@@ -1,0 +1,291 @@
+[
+   {
+      "name": "Jaroslav Tulach",
+      "imports": [
+         "Emilian Bold"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Christian Lenz"
+      ]
+   },
+   {
+      "name": "Gaurav Gupta",
+      "imports": [
+         "John McDonnell"
+      ]
+   },
+   {
+      "name": "John Brock",
+      "imports": [
+         "Emilian Bold"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Jens_Hofschr=c3=b6er?=",
+      "imports": [
+         "Christian Lenz"
+      ]
+   },
+   {
+      "name": "Wade Chandler",
+      "imports": [
+         "Vladimir Voskresensky",
+         "Vladimir Voskresensky",
+         "Vladimir Voskresensky",
+         "Emilian Bold"
+      ]
+   },
+   {
+      "name": "Chuck Davis",
+      "imports": [
+         "Glenn Holmer",
+         "Siddhesh Rane"
+      ]
+   },
+   {
+      "name": "Glenn Holmer",
+      "imports": [
+         "Christian Lenz"
+      ]
+   },
+   {
+      "name": "Attila Kelemen",
+      "imports": [
+         "Emilian Bold",
+         "Emilian Bold",
+         "Emilian Bold",
+         "ehsavoie"
+      ]
+   },
+   {
+      "name": "Martin Dindoffer",
+      "imports": []
+   },
+   {
+      "name": "Matthias =?ISO-8859-1?Q?Bl=E4sing?=",
+      "imports": [
+         "Christian Lenz"
+      ]
+   },
+   {
+      "name": "John Yeary",
+      "imports": [
+         "Dmitry Avtonomov"
+      ]
+   },
+   {
+      "name": "Oliver Rettig",
+      "imports": [
+         "Emilian Bold"
+      ]
+   },
+   {
+      "name": "Thilina Ranathunga",
+      "imports": []
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "johndament"
+      ]
+   },
+   {
+      "name": "Ciprian Ciubotariu",
+      "imports": [
+         "Raphael Bircher"
+      ]
+   },
+   {
+      "name": "Julien Enselme",
+      "imports": [
+         "Emilian Bold",
+         "Javier Ortiz",
+         "Jaroslav Tulach",
+         "Jaroslav Tulach",
+         "Ralph Benjamin Ruijs",
+         "Geertjan Wielenga",
+         "Geertjan Wielenga",
+         "Emilian Bold"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Michael_M=c3=bcller?=",
+      "imports": [
+         "Gail Anderson",
+         "Siddhesh Rane",
+         "Christian Lenz",
+         "Matthias =?ISO-8859-1?Q?Bl=E4sing?=",
+         "Emilian Bold"
+      ]
+   },
+   {
+      "name": "Anton Epple",
+      "imports": [
+         "Christian Lenz"
+      ]
+   },
+   {
+      "name": "Neil C Smith",
+      "imports": [
+         "Christian Lenz",
+         "Christian Lenz",
+         "Glenn Holmer"
+      ]
+   },
+   {
+      "name": "Ryan Cuprak",
+      "imports": [
+         "Christian Lenz"
+      ]
+   },
+   {
+      "name": "Vladimir Voskresensky",
+      "imports": [
+         "Christian Lenz",
+         "Emilian Bold",
+         "Christian Lenz",
+         "Wade Chandler",
+         "Wade Chandler",
+         "Christian Lenz"
+      ]
+   },
+   {
+      "name": "Raphael Bircher",
+      "imports": [
+         "Ciprian Ciubotariu"
+      ]
+   },
+   {
+      "name": "Peter Nabbefeld",
+      "imports": [
+         "Christian Lenz"
+      ]
+   },
+   {
+      "name": "John McDonnell",
+      "imports": [
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "Christian Lenz",
+      "imports": [
+         "Glenn Holmer",
+         "Anton Epple",
+         "=?UTF-8?Q?Michael_M=c3=bcller?=",
+         "=?UTF-8?Q?Michael_M=c3=bcller?=",
+         "Siddhesh Rane",
+         "Vladimir Voskresensky",
+         "Vladimir Voskresensky"
+      ]
+   },
+   {
+      "name": "Geertjan Wielenga",
+      "imports": [
+         "Thilina Ranathunga",
+         "Siddhesh Rane",
+         "Christian Lenz",
+         "Julien Enselme",
+         "Christian Lenz",
+         "Christian Lenz",
+         "ehsavoie",
+         "Javier Ortiz",
+         "Svata Dedic"
+      ]
+   },
+   {
+      "name": "Santo Pfingsten",
+      "imports": [
+         "Christian Lenz"
+      ]
+   },
+   {
+      "name": "Dmitry Avtonomov",
+      "imports": [
+         "Christian Lenz",
+         "John Yeary",
+         "Gail Anderson",
+         "Siddhesh Rane"
+      ]
+   },
+   {
+      "name": "Sven Reimers",
+      "imports": [
+         "=?UTF-8?Q?Jens_Hofschr=c3=b6er?=",
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "Svata Dedic",
+      "imports": []
+   },
+   {
+      "name": "johndament",
+      "imports": []
+   },
+   {
+      "name": "Siddhesh Rane",
+      "imports": [
+         "=?UTF-8?Q?Michael_M=c3=bcller?=",
+         "Dmitry Avtonomov",
+         "Tushar Joshi",
+         "Christian Lenz"
+      ]
+   },
+   {
+      "name": "Ralph Benjamin Ruijs",
+      "imports": []
+   },
+   {
+      "name": "Gail Anderson",
+      "imports": [
+         "Christian Lenz",
+         "Siddhesh Rane"
+      ]
+   },
+   {
+      "name": "Tushar Joshi",
+      "imports": [
+         "Christian Lenz",
+         "Dmitry Avtonomov"
+      ]
+   },
+   {
+      "name": "Javier Ortiz",
+      "imports": [
+         "Chuck Davis",
+         "Siddhesh Rane",
+         "Julien Enselme"
+      ]
+   },
+   {
+      "name": "Christian A. Michelsen",
+      "imports": [
+         "Siddhesh Rane"
+      ]
+   },
+   {
+      "name": "Emilian Bold",
+      "imports": [
+         "Martin Dindoffer",
+         "Christian Lenz",
+         "Ciprian Ciubotariu",
+         "Christian A. Michelsen",
+         "Attila Kelemen",
+         "Jaroslav Tulach",
+         "Vladimir Voskresensky",
+         "Siddhesh Rane",
+         "Christian Lenz",
+         "Julien Enselme"
+      ]
+   },
+   {
+      "name": "ehsavoie",
+      "imports": [
+         "Christian Lenz"
+      ]
+   }
+]

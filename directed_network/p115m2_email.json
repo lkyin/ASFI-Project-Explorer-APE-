@@ -1,0 +1,391 @@
+[
+   {
+      "name": "Avery Ching",
+      "imports": [
+         "Jakob Homan",
+         "Owen O''Malley",
+         "Edward J. Yoon",
+         "Dan Brickley",
+         "Vinod Kumar Vavilapalli",
+         "Claudio Martella",
+         "Vinod Kumar Vavilapalli",
+         "Hyunsik Choi"
+      ]
+   },
+   {
+      "name": "Hudson (JIRA)",
+      "imports": [
+         "Dmitriy V. Ryaboy (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Andrew Purtell (JIRA)",
+         "Hyunsik Choi (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Avery Ching (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Avery Ching (JIRA)",
+         "Christian Kunz (JIRA)",
+         "Hyunsik Choi (JIRA)",
+         "Jakob Homan (JIRA)"
+      ]
+   },
+   {
+      "name": "Hyunsik Choi (Commented) (JIRA)",
+      "imports": [
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Hyunsik Choi (Created) (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)"
+      ]
+   },
+   {
+      "name": "Christian Kunz (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Thomas Jungblut",
+      "imports": [
+         "Avery Ching"
+      ]
+   },
+   {
+      "name": "Christian Kunz",
+      "imports": [
+         "Jakob Homan"
+      ]
+   },
+   {
+      "name": "Dan Brickley",
+      "imports": [
+         "Avery Ching",
+         "Dmitriy Ryaboy"
+      ]
+   },
+   {
+      "name": "Hyunsik Choi (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "Owen O''Malley"
+      ]
+   },
+   {
+      "name": "Hyunsik Choi (JIRA)",
+      "imports": [
+         "Owen O''Malley (JIRA)",
+         "Avery Ching (JIRA)",
+         "Jakob Homan (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Jakob Homan (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)"
+      ]
+   },
+   {
+      "name": "Sebastian Schelter (JIRA)",
+      "imports": [
+         "Avery Ching (JIRA)"
+      ]
+   },
+   {
+      "name": "jiraposter@reviews.apache.org (JIRA)",
+      "imports": [
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)"
+      ]
+   },
+   {
+      "name": "Avery Ching (Issue Comment Edited) (JIRA)",
+      "imports": [
+         "Severin Corsten (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Andrew Purtell (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jakob Homan (Resolved) (JIRA)",
+      "imports": [
+         "Severin Corsten (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Claudio Martella",
+      "imports": []
+   },
+   {
+      "name": "Owen O''Malley",
+      "imports": [
+         "Mattmann, Chris A (388J)",
+         "Avery Ching",
+         "Dmitriy Ryaboy"
+      ]
+   },
+   {
+      "name": "Jakob Homan (JIRA)",
+      "imports": [
+         "Owen O''Malley (JIRA)",
+         "Avery Ching (JIRA)",
+         "Owen O''Malley (JIRA)",
+         "Owen O''Malley (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Christian Kunz (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)"
+      ]
+   },
+   {
+      "name": "Henry Saputra (JIRA)",
+      "imports": [
+         "Avery Ching (JIRA)"
+      ]
+   },
+   {
+      "name": "Dmitriy V. Ryaboy (JIRA)",
+      "imports": [
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Jakob Homan (JIRA)"
+      ]
+   },
+   {
+      "name": "Avery Ching (Commented) (JIRA)",
+      "imports": [
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Severin Corsten (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Severin Corsten (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Severin Corsten (JIRA)",
+      "imports": [
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Avery Ching (JIRA)"
+      ]
+   },
+   {
+      "name": "Edward J. Yoon",
+      "imports": [
+         "Vinod Kumar Vavilapalli",
+         "Avery Ching"
+      ]
+   },
+   {
+      "name": "Jakob Homan",
+      "imports": [
+         "Vinod Kumar Vavilapalli",
+         "kunzchr",
+         "Avery Ching"
+      ]
+   },
+   {
+      "name": "Dmitriy V. Ryaboy (Commented) (JIRA)",
+      "imports": [
+         "Avery Ching (JIRA)",
+         "Severin Corsten (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Vinod Kumar Vavilapalli",
+      "imports": [
+         "Thomas Jungblut"
+      ]
+   },
+   {
+      "name": "Jake Mannix (JIRA)",
+      "imports": [
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Jakob Homan (JIRA)",
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)",
+         "Jakob Homan (JIRA)"
+      ]
+   },
+   {
+      "name": "Avery Ching (JIRA)",
+      "imports": [
+         "Jakob Homan (JIRA)",
+         "Jakob Homan (JIRA)",
+         "Owen O''Malley (JIRA)",
+         "Jakob Homan (JIRA)",
+         "Jakob Homan (JIRA)",
+         "Jakob Homan (JIRA)",
+         "Jakob Homan (JIRA)",
+         "Hyunsik Choi (JIRA)",
+         "Hyunsik Choi (JIRA)",
+         "Dmitriy V. Ryaboy (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Dmitriy V. Ryaboy (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Dmitriy V. Ryaboy (JIRA)",
+         "Dmitriy V. Ryaboy (JIRA)",
+         "Dmitriy V. Ryaboy (JIRA)",
+         "Dmitriy V. Ryaboy (JIRA)",
+         "Dmitriy V. Ryaboy (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Dmitriy V. Ryaboy (JIRA)",
+         "Dmitriy V. Ryaboy (JIRA)",
+         "Hyunsik Choi (JIRA)",
+         "Hyunsik Choi (JIRA)",
+         "Andrew Purtell (JIRA)",
+         "Andrew Purtell (JIRA)",
+         "Andrew Purtell (JIRA)",
+         "Andrew Purtell (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Andrew Purtell (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Hyunsik Choi (JIRA)",
+         "Hyunsik Choi (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jake Mannix (JIRA)",
+         "Jakob Homan (JIRA)",
+         "Christian Kunz (JIRA)",
+         "Christian Kunz (JIRA)",
+         "Hyunsik Choi (JIRA)"
+      ]
+   },
+   {
+      "name": "Dmitriy Ryaboy",
+      "imports": [
+         "Dan Brickley",
+         "Jakob Homan (JIRA)"
+      ]
+   },
+   {
+      "name": "Hyunsik Choi",
+      "imports": [
+         "Avery Ching"
+      ]
+   },
+   {
+      "name": "Owen O''Malley (JIRA)",
+      "imports": [
+         "Jakob Homan (JIRA)",
+         "Hyunsik Choi (JIRA)",
+         "Avery Ching (JIRA)",
+         "Jakob Homan (JIRA)"
+      ]
+   },
+   {
+      "name": "Jakob Homan (Commented) (JIRA)",
+      "imports": [
+         "Severin Corsten (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Severin Corsten (Commented) (JIRA)",
+      "imports": [
+         "Hyunsik Choi (Created) (JIRA)",
+         "Hyunsik Choi (Created) (JIRA)",
+         "Hyunsik Choi (Created) (JIRA)",
+         "Severin Corsten (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "kunzchr",
+      "imports": []
+   },
+   {
+      "name": "Dan Brickley (JIRA)",
+      "imports": [
+         "Avery Ching (JIRA)"
+      ]
+   },
+   {
+      "name": "Claudio Martella (Commented) (JIRA)",
+      "imports": [
+         "Avery Ching (JIRA)",
+         "Avery Ching (JIRA)"
+      ]
+   },
+   {
+      "name": "Claudio Martella (JIRA)",
+      "imports": [
+         "Jake Mannix (JIRA)"
+      ]
+   },
+   {
+      "name": "Vinod Kumar Vavilapalli (JIRA)",
+      "imports": [
+         "Jakob Homan (JIRA)"
+      ]
+   }
+]

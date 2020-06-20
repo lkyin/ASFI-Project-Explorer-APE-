@@ -1,0 +1,20 @@
+[
+   {
+      "name": "Urs Lerch",
+      "imports": [
+         "Christian Grobmeier"
+      ]
+   },
+   {
+      "name": "Christian Grobmeier",
+      "imports": [
+         "no-reply",
+         "no-reply",
+         "Urs Lerch"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   }
+]

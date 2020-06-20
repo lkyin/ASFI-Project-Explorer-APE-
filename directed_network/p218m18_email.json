@@ -1,0 +1,396 @@
+[
+   {
+      "name": "Rupert Westenthaler (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Bertrand Delacretaz",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Fabian Christ"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+      "imports": [
+         "Fabian Christ",
+         "Suat Gonul",
+         "Suat Gonul",
+         "Suat Gonul",
+         "Suat Gonul",
+         "Fabian Christ",
+         "Tommaso Teofili",
+         "Fabian Christ",
+         "Fabian Christ",
+         "Fabian Christ"
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler (Resolved) (JIRA)",
+      "imports": [
+         "Rupert Westenthaler (Created) (JIRA)",
+         "Rupert Westenthaler (Created) (JIRA)",
+         "Rupert Westenthaler (Created) (JIRA)",
+         "Rupert Westenthaler (Created) (JIRA)",
+         "Rupert Westenthaler (Created) (JIRA)",
+         "Rupert Westenthaler (Created) (JIRA)",
+         "Rupert Westenthaler (Created) (JIRA)",
+         "Rupert Westenthaler (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Fabian Christ (Reopened) (JIRA)",
+      "imports": [
+         "Fabian Christ (JIRA)"
+      ]
+   },
+   {
+      "name": "Ali Anil Sinaci",
+      "imports": [
+         "Rupert Westenthaler",
+         "Olivier Grisel"
+      ]
+   },
+   {
+      "name": "Alessio Bosca (Updated) (JIRA)",
+      "imports": [
+         "Alessio Bosca (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz (Updated) (JIRA)",
+      "imports": [
+         "Enrico Daga (JIRA)"
+      ]
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Enrico Daga (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Fabian Christ (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28Commented=29_=28JIRA=29?=",
+      "imports": [
+         "Bertrand Delacretaz (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Suat Gonul",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Olivier Grisel",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?="
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz (Reopened) (JIRA)",
+      "imports": [
+         "Bertrand Delacretaz (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?florent_andr=E9?=",
+      "imports": []
+   },
+   {
+      "name": "John Pereira",
+      "imports": [
+         "Alessandro Adamou"
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler",
+      "imports": [
+         "Andreas Kuckartz",
+         "Rudi Vaum",
+         "seralf",
+         "Rudi Vaum",
+         "Suat Gonul",
+         "Fabian Christ",
+         "Rafa Haro",
+         "Fabian Christ",
+         "Fabian Christ",
+         "seralf",
+         "Fabian Christ",
+         "Alessandro Adamou"
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler (JIRA)",
+      "imports": [
+         "Peter Ansell (Created) (JIRA)",
+         "Peter Ansell (Created) (JIRA)",
+         "Alessio Bosca (Created) (JIRA)",
+         "Alessio Bosca (Created) (JIRA)",
+         "Rupert Westenthaler (Created) (JIRA)",
+         "Rupert Westenthaler (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Fabian Christ",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz",
+         "Olivier Grisel",
+         "kritarth anand",
+         "Bertrand Delacretaz",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Rupert Westenthaler",
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Bertrand Delacretaz",
+         "Rupert Westenthaler",
+         "kritarth anand",
+         "Bertrand Delacretaz",
+         "Marvin",
+         "Bertrand Delacretaz",
+         "Ali Anil Sinaci",
+         "Ross Gardler"
+      ]
+   },
+   {
+      "name": "Pablo Mendes",
+      "imports": [
+         "kritarth anand",
+         "Rafa Haro"
+      ]
+   },
+   {
+      "name": "Dave butlerdi",
+      "imports": [
+         "Fabian Christ",
+         "Alberto Musetti"
+      ]
+   },
+   {
+      "name": "Anuj Kumar",
+      "imports": [
+         "Rudi Vaum"
+      ]
+   },
+   {
+      "name": "Peter Ansell (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Fabian Christ",
+         "Fabian Christ",
+         "Fabian Christ",
+         "Fabian Christ",
+         "Fabian Christ",
+         "Fabian Christ",
+         "Fabian Christ",
+         "Fabian Christ",
+         "Fabian Christ",
+         "Rupert Westenthaler",
+         "Fabian Christ"
+      ]
+   },
+   {
+      "name": "Andrea Volpini",
+      "imports": [
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Ross Gardler",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Fabian Christ"
+      ]
+   },
+   {
+      "name": "Rudi Vaum",
+      "imports": [
+         "Anuj Kumar"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Alessio Bosca",
+      "imports": [
+         "Alessandro Adamou",
+         "seralf"
+      ]
+   },
+   {
+      "name": "Alessio Bosca (Commented) (JIRA)",
+      "imports": [
+         "Alessio Bosca (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Suat Gonul (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Rupert Westenthaler (Commented) (JIRA)",
+      "imports": [
+         "Rupert Westenthaler (Created) (JIRA)",
+         "Alessio Bosca (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Peter Ansell",
+      "imports": [
+         "Fabian Christ"
+      ]
+   },
+   {
+      "name": "Fabian Christ (JIRA)",
+      "imports": [
+         "Enrico Daga (JIRA)",
+         "Enrico Daga (JIRA)",
+         "Fabian Christ (Created) (JIRA)",
+         "Fabian Christ (Created) (JIRA)",
+         "Fabian Christ (Created) (JIRA)",
+         "Fabian Christ (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Alessandro Adamou",
+      "imports": [
+         "Dave butlerdi",
+         "=?ISO-8859-1?Q?florent_andr=E9?=",
+         "Rupert Westenthaler",
+         "Olivier Grisel"
+      ]
+   },
+   {
+      "name": "seralf",
+      "imports": [
+         "Alessio Bosca",
+         "Alessio Bosca"
+      ]
+   },
+   {
+      "name": "Alessio Bosca (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Fabian Christ (Commented) (JIRA)",
+      "imports": [
+         "Bertrand Delacretaz (Created) (JIRA)",
+         "Peter Ansell (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Suat Gonul (Resolved) (JIRA)",
+      "imports": [
+         "Suat Gonul (Created) (JIRA)",
+         "Suat Gonul (Created) (JIRA)",
+         "Bertrand Delacretaz (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Fabian Christ (Updated) (JIRA)",
+      "imports": [
+         "Suat Gonul (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Alessio Bosca (JIRA)",
+      "imports": [
+         "Alessio Bosca (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Rafa Haro",
+      "imports": [
+         "Pablo Mendes",
+         "kritarth anand",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "ajs6f@virginia.edu",
+      "imports": [
+         "Fabian Christ"
+      ]
+   },
+   {
+      "name": "Suat Gonul (Commented) (JIRA)",
+      "imports": [
+         "Rupert Westenthaler (Created) (JIRA)",
+         "Bertrand Delacretaz (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Fabian Christ (Resolved) (JIRA)",
+      "imports": [
+         "Bertrand Delacretaz (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Olivier Grisel",
+      "imports": [
+         "Fabian Christ",
+         "Suat Gonul",
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler (Updated) (JIRA)",
+      "imports": [
+         "Rupert Westenthaler (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "kritarth anand",
+      "imports": [
+         "Fabian Christ",
+         "Fabian Christ",
+         "Rupert Westenthaler",
+         "Pablo Mendes"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz (Commented) (JIRA)",
+      "imports": [
+         "Enrico Daga (JIRA)",
+         "Bertrand Delacretaz (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Alberto Musetti",
+      "imports": [
+         "Alessandro Adamou"
+      ]
+   },
+   {
+      "name": "Andreas Kuckartz",
+      "imports": [
+         "Rupert Westenthaler",
+         "Fabian Christ"
+      ]
+   },
+   {
+      "name": "Alessandro Adamou (Commented) (JIRA)",
+      "imports": [
+         "Peter Ansell (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Andrea Giovanni Nuzzolese",
+      "imports": [
+         "Rupert Westenthaler"
+      ]
+   }
+]

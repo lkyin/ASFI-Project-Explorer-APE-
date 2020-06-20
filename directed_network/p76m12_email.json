@@ -1,0 +1,58 @@
+[
+   {
+      "name": "Alexander Broekhuis (Resolved) (JIRA)",
+      "imports": [
+         "Frank Mulder (JIRA)",
+         "Frank Mulder (JIRA)",
+         "Frank Mulder (JIRA)",
+         "Frank Mulder (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Frank Mulder (Updated) (JIRA)",
+      "imports": [
+         "Frank Mulder (Created) (JIRA)",
+         "Frank Mulder (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Alexander Broekhuis",
+      "imports": [
+         "Marcel Offermans",
+         "MULDER Frank Willem"
+      ]
+   },
+   {
+      "name": "Frank Mulder (Closed) (JIRA)",
+      "imports": [
+         "Frank Mulder (JIRA)",
+         "Frank Mulder (JIRA)",
+         "Frank Mulder (JIRA)"
+      ]
+   },
+   {
+      "name": "Marcel Offermans",
+      "imports": [
+         "no-reply",
+         "Alexander Broekhuis"
+      ]
+   },
+   {
+      "name": "Frank Mulder (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Frank Mulder (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "MULDER Frank Willem",
+      "imports": [
+         "Alexander Broekhuis"
+      ]
+   }
+]

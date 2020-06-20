@@ -1,0 +1,36 @@
+[
+   {
+      "name": "Ted Dunning",
+      "imports": [
+         "Roman Shaposhnik"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "=?UTF-8?Q?Emmanuel_L=c3=a9charny?="
+      ]
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Roman Shaposhnik",
+      "imports": [
+         "=?UTF-8?Q?Emmanuel_L=c3=a9charny?="
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Emmanuel_L=c3=a9charny?=",
+      "imports": []
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "=?UTF-8?Q?Emmanuel_L=c3=a9charny?="
+      ]
+   }
+]

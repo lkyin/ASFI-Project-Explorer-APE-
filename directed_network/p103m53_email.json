@@ -1,0 +1,51 @@
+[
+   {
+      "name": "Scott Comer",
+      "imports": [
+         "Youngjin Park (youngjpa)"
+      ]
+   },
+   {
+      "name": "Dave Fisher",
+      "imports": [
+         "Martijn Dashorst",
+         "Martin Veith",
+         "Martin Veith"
+      ]
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "Martin Veith"
+      ]
+   },
+   {
+      "name": "Doug Cutting",
+      "imports": [
+         "Michael Fitzner"
+      ]
+   },
+   {
+      "name": "Michael Fitzner",
+      "imports": [
+         "Martijn Dashorst"
+      ]
+   },
+   {
+      "name": "Martijn Dashorst",
+      "imports": [
+         "Martin Veith",
+         "Martin Veith"
+      ]
+   },
+   {
+      "name": "Martin Veith",
+      "imports": []
+   },
+   {
+      "name": "Youngjin Park (youngjpa)",
+      "imports": [
+         "Dave Fisher"
+      ]
+   }
+]

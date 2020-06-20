@@ -1,0 +1,29 @@
+[
+   {
+      "name": "Rob Gagne",
+      "imports": []
+   },
+   {
+      "name": "Trevor Oldak",
+      "imports": [
+         "Michael Mikhaylov"
+      ]
+   },
+   {
+      "name": "Michael Mikhaylov (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Trevor Oldak (JIRA)",
+      "imports": [
+         "Michael Mikhaylov (JIRA)"
+      ]
+   },
+   {
+      "name": "Michael Mikhaylov",
+      "imports": [
+         "Rob Gagne",
+         "Trevor Oldak"
+      ]
+   }
+]

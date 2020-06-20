@@ -1,0 +1,73 @@
+[
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Tammo van Lessen",
+      "imports": [
+         "Mark Struberg",
+         "Jean-Louis MONTEIRO"
+      ]
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "Romain Manni-Bucau",
+         "Olivier Lamy",
+         "Olivier Lamy",
+         "Olivier Lamy"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+      "imports": [
+         "Olivier Lamy",
+         "Romain Manni-Bucau",
+         "Tammo van Lessen",
+         "Olivier Lamy",
+         "Romain Manni-Bucau",
+         "Romain Manni-Bucau"
+      ]
+   },
+   {
+      "name": "Jean-Louis MONTEIRO",
+      "imports": [
+         "Olivier Lamy",
+         "Romain Manni-Bucau",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+         "Rahul Sharma",
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "Olivier Lamy",
+      "imports": [
+         "Jean-Louis MONTEIRO",
+         "Rahul Sharma",
+         "Rahul Sharma",
+         "Jean-Louis MONTEIRO",
+         "Marvin"
+      ]
+   },
+   {
+      "name": "Rahul Sharma",
+      "imports": [
+         "Olivier Lamy",
+         "Olivier Lamy",
+         "Olivier Lamy"
+      ]
+   },
+   {
+      "name": "Romain Manni-Bucau",
+      "imports": [
+         "Olivier Lamy",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+         "Olivier Lamy",
+         "Olivier Lamy",
+         "Mark Struberg",
+         "Rahul Sharma",
+         "Mark Struberg"
+      ]
+   }
+]

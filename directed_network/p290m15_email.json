@@ -1,0 +1,34 @@
+[
+   {
+      "name": "Farazath Ahamed",
+      "imports": [
+         "Colm O hEigeartaigh",
+         "David Ash",
+         "David Ash"
+      ]
+   },
+   {
+      "name": "Colm O hEigeartaigh",
+      "imports": []
+   },
+   {
+      "name": "David Ash",
+      "imports": [
+         "Farazath Ahamed",
+         "Farazath Ahamed"
+      ]
+   },
+   {
+      "name": "Dirk Koehler",
+      "imports": [
+         "DRAGOSH, PAMELA L (PAM)"
+      ]
+   },
+   {
+      "name": "DRAGOSH, PAMELA L (PAM)",
+      "imports": [
+         "Farazath Ahamed",
+         "Dirk Koehler"
+      ]
+   }
+]

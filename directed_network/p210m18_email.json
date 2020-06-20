@@ -1,0 +1,106 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Upayavira"
+      ]
+   },
+   {
+      "name": "Moataz Elmasry",
+      "imports": [
+         "John Pradeep"
+      ]
+   },
+   {
+      "name": "Steve Skrla",
+      "imports": []
+   },
+   {
+      "name": "Les Hazlewood",
+      "imports": [
+         "Peter Ledbrook",
+         "Craig L Russell",
+         "Craig L Russell",
+         "Peter Ledbrook",
+         "Steve Skrla",
+         "Alan D. Cabrera",
+         "John Pradeep",
+         "Emmanuel Lecharny",
+         "Alan D. Cabrera"
+      ]
+   },
+   {
+      "name": "Kalle Korhonen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Emmanuel Lecharny",
+      "imports": [
+         "Les Hazlewood",
+         "Craig L Russell",
+         "Craig L Russell"
+      ]
+   },
+   {
+      "name": "Alex Salazar",
+      "imports": []
+   },
+   {
+      "name": "Upayavira",
+      "imports": [
+         "Alex Salazar"
+      ]
+   },
+   {
+      "name": "Kalle Korhonen",
+      "imports": [
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Les Hazlewood (JIRA)",
+      "imports": [
+         "Kalle Korhonen (JIRA)",
+         "Kalle Korhonen (JIRA)",
+         "Kalle Korhonen (JIRA)"
+      ]
+   },
+   {
+      "name": "Alan D. Cabrera",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Les Hazlewood",
+         "Alex Salazar",
+         "Jasper Siepkes",
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Craig L Russell",
+      "imports": [
+         "Kalle Korhonen",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Emmanuel Lecharny"
+      ]
+   },
+   {
+      "name": "Jasper Siepkes",
+      "imports": [
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "John Pradeep",
+      "imports": [
+         "Craig L Russell"
+      ]
+   },
+   {
+      "name": "Peter Ledbrook",
+      "imports": [
+         "Les Hazlewood",
+         "Les Hazlewood"
+      ]
+   }
+]

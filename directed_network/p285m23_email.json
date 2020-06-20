@@ -1,0 +1,27 @@
+[
+   {
+      "name": "Mohammad Noureldin",
+      "imports": [
+         "Alan D. Cabrera",
+         "Leonidas Fegaras",
+         "Alan D. Cabrera"
+      ]
+   },
+   {
+      "name": "Leonidas Fegaras",
+      "imports": [
+         "Mohammad Noureldin"
+      ]
+   },
+   {
+      "name": "Alan D. Cabrera",
+      "imports": [
+         "Marvin Humphrey",
+         "Leonidas Fegaras"
+      ]
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": []
+   }
+]

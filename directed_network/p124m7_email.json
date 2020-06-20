@@ -1,0 +1,83 @@
+[
+   {
+      "name": "Ming Fang",
+      "imports": [
+         "kishore gopalakrishna (JIRA)"
+      ]
+   },
+   {
+      "name": "Kapil Surlaker",
+      "imports": [
+         "Zhen Zhang"
+      ]
+   },
+   {
+      "name": "Olivier Lamy",
+      "imports": [
+         "kishore g",
+         "kishore g",
+         "Shi Lu"
+      ]
+   },
+   {
+      "name": "Zhen Zhang",
+      "imports": [
+         "Shi Lu"
+      ]
+   },
+   {
+      "name": "Vinayak Borkar",
+      "imports": [
+         "Shi Lu"
+      ]
+   },
+   {
+      "name": "Shi Lu",
+      "imports": []
+   },
+   {
+      "name": "Swaroop Jagadish",
+      "imports": [
+         "Shi Lu",
+         "Santiago Perez"
+      ]
+   },
+   {
+      "name": "Suresh Marru",
+      "imports": [
+         "kishore g"
+      ]
+   },
+   {
+      "name": "Shirshanka Das",
+      "imports": [
+         "Santiago Perez"
+      ]
+   },
+   {
+      "name": "Santiago Perez",
+      "imports": [
+         "Kapil Surlaker"
+      ]
+   },
+   {
+      "name": "kishore gopalakrishna (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "kishore g",
+      "imports": [
+         "Zhen Zhang",
+         "Ming Fang",
+         "Vinayak Borkar",
+         "Suresh Marru",
+         "Shirshanka Das"
+      ]
+   },
+   {
+      "name": "Patrick Hunt",
+      "imports": [
+         "kishore g"
+      ]
+   }
+]

@@ -1,0 +1,34 @@
+[
+   {
+      "name": "Niklas Gustavsson",
+      "imports": []
+   },
+   {
+      "name": "Sergey Vladimirov",
+      "imports": [
+         "Rana Bhattacharyya",
+         "Dave Roberts"
+      ]
+   },
+   {
+      "name": "Rana Bhattacharyya",
+      "imports": [
+         "Dave Roberts",
+         "Niklas Gustavsson",
+         "Niklas Gustavsson",
+         "Sergey Vladimirov",
+         "Sergey Vladimirov",
+         "Dave Roberts"
+      ]
+   },
+   {
+      "name": "Franz Stumpner",
+      "imports": []
+   },
+   {
+      "name": "Dave Roberts",
+      "imports": [
+         "Franz Stumpner"
+      ]
+   }
+]

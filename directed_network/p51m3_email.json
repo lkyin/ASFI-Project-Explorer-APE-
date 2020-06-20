@@ -1,0 +1,102 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": []
+   },
+   {
+      "name": "Karl Pauls",
+      "imports": [
+         "Bram de Kruijff"
+      ]
+   },
+   {
+      "name": "Filippo Diotalevi",
+      "imports": []
+   },
+   {
+      "name": "Toni Menzel",
+      "imports": [
+         "Carsten Ziegeler",
+         "Angelo van der Sijpt (JIRA)",
+         "Marcel Offermans",
+         "Filippo Diotalevi"
+      ]
+   },
+   {
+      "name": "Angelo van der Sijpt",
+      "imports": [
+         "Toni Menzel"
+      ]
+   },
+   {
+      "name": "Felix Meschberger",
+      "imports": [
+         "Marcel Offermans"
+      ]
+   },
+   {
+      "name": "Toni Menzel (JIRA)",
+      "imports": [
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)"
+      ]
+   },
+   {
+      "name": "Marcel Offermans (JIRA)",
+      "imports": [
+         "Angelo van der Sijpt (JIRA)",
+         "Angelo van der Sijpt (JIRA)",
+         "Toni Menzel (JIRA)",
+         "Toni Menzel (JIRA)"
+      ]
+   },
+   {
+      "name": "Carsten Ziegeler",
+      "imports": [
+         "Toni Menzel",
+         "Toni Menzel"
+      ]
+   },
+   {
+      "name": "Angelo van der Sijpt (JIRA)",
+      "imports": [
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)",
+         "Marcel Offermans (JIRA)"
+      ]
+   },
+   {
+      "name": "Marcel Offermans",
+      "imports": [
+         "Felix Meschberger",
+         "Toni Menzel",
+         "Carsten Ziegeler",
+         "Toni Menzel",
+         "Bertrand Delacretaz",
+         "Bram de Kruijff",
+         "Bram de Kruijff"
+      ]
+   },
+   {
+      "name": "Bram de Kruijff",
+      "imports": [
+         "Marcel Offermans"
+      ]
+   }
+]

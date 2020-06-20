@@ -1,0 +1,207 @@
+[
+   {
+      "name": "Brian Leathem",
+      "imports": [
+         "Adrian Gonzalez",
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "Charles Moulliard (JIRA)",
+      "imports": [
+         "Harald Wellmann (JIRA)",
+         "Harald Wellmann (JIRA)",
+         "Harald Wellmann (JIRA)",
+         "Harald Wellmann (JIRA)"
+      ]
+   },
+   {
+      "name": "Shane Bryzak",
+      "imports": [
+         "Jason Porter",
+         "Jason Porter"
+      ]
+   },
+   {
+      "name": "Adrian Gonzalez",
+      "imports": []
+   },
+   {
+      "name": "Romain Manni-Bucau",
+      "imports": [
+         "Jason Porter",
+         "=?ISO-8859-2?Q?Bernard_=A3abno?=",
+         "Mark Struberg",
+         "Charles Moulliard",
+         "Stuart Douglas",
+         "=?ISO-8859-2?Q?Bernard_=A3abno?=",
+         "Charles Moulliard",
+         "Charles Moulliard",
+         "Charles Moulliard",
+         "Stuart Douglas",
+         "Jason Porter",
+         "Jason Porter",
+         "Jason Porter",
+         "Jason Porter",
+         "Matt Benson",
+         "Mark Struberg",
+         "Jason Porter",
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "Anil Saldhana",
+      "imports": [
+         "Marius Bogoevici"
+      ]
+   },
+   {
+      "name": "Nicklas Karlsson",
+      "imports": []
+   },
+   {
+      "name": "Jason Porter (JIRA)",
+      "imports": [
+         "Romain Manni-Bucau (JIRA)"
+      ]
+   },
+   {
+      "name": "Harald Wellmann (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Matt Benson",
+      "imports": [
+         "Jason Porter",
+         "Romain Manni-Bucau",
+         "Romain Manni-Bucau"
+      ]
+   },
+   {
+      "name": "Mark Struberg (JIRA)",
+      "imports": [
+         "Romain Manni-Bucau (JIRA)",
+         "Romain Manni-Bucau (JIRA)"
+      ]
+   },
+   {
+      "name": "Mehdi Heidarzadeh",
+      "imports": [
+         "Marius Bogoevici"
+      ]
+   },
+   {
+      "name": "Gerhard Petracek",
+      "imports": [
+         "Shane Bryzak"
+      ]
+   },
+   {
+      "name": "Romain Manni-Bucau (JIRA)",
+      "imports": [
+         "Mark Struberg (JIRA)"
+      ]
+   },
+   {
+      "name": "Marius Bogoevici",
+      "imports": [
+         "Romain Manni-Bucau",
+         "Jason Porter",
+         "Mark Struberg",
+         "Pete Muir"
+      ]
+   },
+   {
+      "name": "Pete Muir",
+      "imports": [
+         "Romain Manni-Bucau",
+         "Romain Manni-Bucau",
+         "Jason Porter"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-2?Q?Bernard_=A3abno?=",
+      "imports": [
+         "Charles Moulliard",
+         "Marius Bogoevici",
+         "Mehdi Heidarzadeh"
+      ]
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "=?ISO-8859-2?Q?Bernard_=A3abno?=",
+         "Marius Bogoevici",
+         "=?ISO-8859-2?Q?Bernard_=A3abno?=",
+         "Charles Moulliard",
+         "Gerhard Petracek",
+         "Brian Leathem",
+         "Jason Porter",
+         "Romain Manni-Bucau",
+         "Aslak Knutsen",
+         "=?ISO-8859-2?Q?Bernard_=A3abno?="
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Karl_Kild=C3=A9n_=28JIRA=29?=",
+      "imports": [
+         "Romain Manni-Bucau (JIRA)"
+      ]
+   },
+   {
+      "name": "Stuart Douglas",
+      "imports": [
+         "Mark Struberg",
+         "Romain Manni-Bucau",
+         "Romain Manni-Bucau"
+      ]
+   },
+   {
+      "name": "Ove Ranheim",
+      "imports": [
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "Jason Porter",
+      "imports": [
+         "Romain Manni-Bucau",
+         "Romain Manni-Bucau",
+         "Shane Bryzak",
+         "Mark Struberg",
+         "Romain Manni-Bucau",
+         "Matt Benson",
+         "Matt Benson",
+         "Nicklas Karlsson",
+         "Romain Manni-Bucau",
+         "Marek Schmidt",
+         "Romain Manni-Bucau"
+      ]
+   },
+   {
+      "name": "Arne Limburg",
+      "imports": [
+         "Jason Porter"
+      ]
+   },
+   {
+      "name": "Charles Moulliard",
+      "imports": [
+         "Romain Manni-Bucau",
+         "=?ISO-8859-2?Q?Bernard_=A3abno?=",
+         "Mark Struberg",
+         "Romain Manni-Bucau",
+         "Romain Manni-Bucau"
+      ]
+   },
+   {
+      "name": "Marek Schmidt",
+      "imports": [
+         "Jason Porter"
+      ]
+   },
+   {
+      "name": "Aslak Knutsen",
+      "imports": []
+   }
+]

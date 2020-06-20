@@ -1,0 +1,105 @@
+[
+   {
+      "name": "Olivier Lamy",
+      "imports": [
+         "Jeff MAURY",
+         "Tommaso Teofili",
+         "Benoit Perroud",
+         "Benoit Perroud",
+         "Raffaele P. Guidi",
+         "ant elder",
+         "Tommaso Teofili",
+         "Gaurav Sharma",
+         "Christian Grobmeier",
+         "Tim Williams",
+         "Raffaele P. Guidi",
+         "Christian Grobmeier"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Olivier Lamy",
+         "Benoit Perroud",
+         "Tim Williams",
+         "Benoit Perroud"
+      ]
+   },
+   {
+      "name": "Raffaele P. Guidi",
+      "imports": [
+         "Olivier Lamy",
+         "Olivier Lamy",
+         "Olivier Lamy",
+         "Daniel Manzke",
+         "Olivier Lamy",
+         "Tim Williams",
+         "Tim Williams",
+         "Olivier Lamy",
+         "Christian Grobmeier"
+      ]
+   },
+   {
+      "name": "Benson Margulies",
+      "imports": []
+   },
+   {
+      "name": "Benoit Perroud",
+      "imports": [
+         "Tim Williams",
+         "Tim Williams",
+         "Raffaele P. Guidi",
+         "Olivier Lamy",
+         "Raffaele P. Guidi",
+         "Tommaso Teofili",
+         "Christian Grobmeier",
+         "Gaurav Sharma"
+      ]
+   },
+   {
+      "name": "Gaurav Sharma",
+      "imports": [
+         "Raffaele P. Guidi",
+         "Christian Grobmeier"
+      ]
+   },
+   {
+      "name": "ant elder",
+      "imports": [
+         "Olivier Lamy",
+         "Olivier Lamy"
+      ]
+   },
+   {
+      "name": "Jeff MAURY",
+      "imports": [
+         "Olivier Lamy"
+      ]
+   },
+   {
+      "name": "Tim Williams",
+      "imports": [
+         "Raffaele P. Guidi",
+         "Olivier Lamy"
+      ]
+   },
+   {
+      "name": "Simone Tripodi",
+      "imports": [
+         "Benson Margulies",
+         "Benoit Perroud",
+         "Olivier Lamy"
+      ]
+   },
+   {
+      "name": "Daniel Manzke",
+      "imports": []
+   },
+   {
+      "name": "Christian Grobmeier",
+      "imports": [
+         "Raffaele P. Guidi",
+         "Benoit Perroud"
+      ]
+   }
+]

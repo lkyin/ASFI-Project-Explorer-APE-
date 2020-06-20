@@ -1,0 +1,205 @@
+[
+   {
+      "name": "Lai Yeong Wei",
+      "imports": [
+         "wangzhenhua (G)"
+      ]
+   },
+   {
+      "name": "Yuri Au Yong",
+      "imports": [
+         "Julian Hyde",
+         "Julian Hyde"
+      ]
+   },
+   {
+      "name": "George Spofford",
+      "imports": [
+         "Jinfeng Ni"
+      ]
+   },
+   {
+      "name": "Josh Elser",
+      "imports": [
+         "Milap Wadhwa"
+      ]
+   },
+   {
+      "name": "Adeel Qureshi",
+      "imports": [
+         "Milinda Pathirage",
+         "Jacques Nadeau"
+      ]
+   },
+   {
+      "name": "Xavier Leong",
+      "imports": []
+   },
+   {
+      "name": "Vladimir Sitnikov",
+      "imports": [
+         "Ken"
+      ]
+   },
+   {
+      "name": "Ted Dunning",
+      "imports": [
+         "Milinda Pathirage",
+         "Julian Hyde",
+         "Julian Hyde",
+         "Milinda Pathirage"
+      ]
+   },
+   {
+      "name": "Ken",
+      "imports": []
+   },
+   {
+      "name": "Liu, Ming (HPIT-GADSC)",
+      "imports": [
+         "Julian Hyde"
+      ]
+   },
+   {
+      "name": "Milinda Pathirage",
+      "imports": [
+         "Julian Hyde",
+         "Yi Pan",
+         "Julian Hyde",
+         "Ted Dunning",
+         "Adeel Qureshi",
+         "Ted Dunning"
+      ]
+   },
+   {
+      "name": "Luke Han",
+      "imports": [
+         "Julian Hyde"
+      ]
+   },
+   {
+      "name": "Julian Hyde",
+      "imports": [
+         "wangzhenhua (G)",
+         "Yuri Au Yong",
+         "wangzhenhua (G)",
+         "Lai Yeong Wei",
+         "Maryann Xue",
+         "Maryann Xue",
+         "Yuri Au Yong",
+         "Yuri Au Yong",
+         "Maryann Xue",
+         "Maryann Xue",
+         "Maryann Xue",
+         "Maryann Xue",
+         "Yuri Au Yong",
+         "Amogh Margoor",
+         "Milinda Pathirage",
+         "Nick Dimiduk",
+         "Milinda Pathirage",
+         "Jacques Nadeau",
+         "Nick Dimiduk",
+         "Ted Dunning",
+         "Ted Dunning",
+         "Marvin Humphrey",
+         "Sathish Kumaran Vairavelu",
+         "Adeel Qureshi",
+         "P. Taylor Goetz",
+         "Li Yang",
+         "Xavier Leong",
+         "Li Yang",
+         "George Spofford",
+         "Jacques Nadeau",
+         "Josh Elser",
+         "George Spofford"
+      ]
+   },
+   {
+      "name": "John Pullokkaran",
+      "imports": [
+         "Julian Hyde"
+      ]
+   },
+   {
+      "name": "Nick Dimiduk",
+      "imports": [
+         "Rajat Venkatesh",
+         "Julian Hyde",
+         "Jacques Nadeau",
+         "Julian Hyde"
+      ]
+   },
+   {
+      "name": "Jacques Nadeau",
+      "imports": [
+         "Julian Hyde",
+         "Nick Dimiduk",
+         "Adeel Qureshi",
+         "Adeel Qureshi",
+         "Li Yang"
+      ]
+   },
+   {
+      "name": "Li Yang",
+      "imports": [
+         "Julian Hyde"
+      ]
+   },
+   {
+      "name": "Milap Wadhwa",
+      "imports": []
+   },
+   {
+      "name": "Maryann Xue",
+      "imports": [
+         "Julian Hyde",
+         "Julian Hyde",
+         "Julian Hyde",
+         "Julian Hyde"
+      ]
+   },
+   {
+      "name": "Yi Pan",
+      "imports": [
+         "Milinda Pathirage",
+         "Julian Hyde"
+      ]
+   },
+   {
+      "name": "Sathish Kumaran Vairavelu",
+      "imports": []
+   },
+   {
+      "name": "Rajat Venkatesh",
+      "imports": []
+   },
+   {
+      "name": "P. Taylor Goetz",
+      "imports": [
+         "Julian Hyde"
+      ]
+   },
+   {
+      "name": "wangzhenhua (G)",
+      "imports": []
+   },
+   {
+      "name": "Amogh Margoor",
+      "imports": [
+         "Julian Hyde",
+         "John Pullokkaran"
+      ]
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": [
+         "Julian Hyde"
+      ]
+   },
+   {
+      "name": "Jinfeng Ni",
+      "imports": [
+         "Julian Hyde"
+      ]
+   }
+]

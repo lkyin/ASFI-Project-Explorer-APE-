@@ -1,0 +1,86 @@
+[
+   {
+      "name": "Henri Yandell",
+      "imports": [
+         "Craig L Russell"
+      ]
+   },
+   {
+      "name": "Dirk Frederickx (JIRA)",
+      "imports": [
+         "Christian Lerch (JIRA)",
+         "Christian Lerch (JIRA)",
+         "Christian Lerch (JIRA)",
+         "Christian Lerch (JIRA)"
+      ]
+   },
+   {
+      "name": "van Dalen, Andre",
+      "imports": [
+         "Bruno Peeters (JIRA)"
+      ]
+   },
+   {
+      "name": "Harry Metske (JIRA)",
+      "imports": [
+         "Christian Lerch (JIRA)",
+         "Stefan Bohn (JIRA)"
+      ]
+   },
+   {
+      "name": "Stefan Bohn (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Harry Metske",
+      "imports": [
+         "Florian Holeczek",
+         "Janne Jalkanen",
+         "Christian Lerch",
+         "Henri Yandell"
+      ]
+   },
+   {
+      "name": "Florian Holeczek",
+      "imports": []
+   },
+   {
+      "name": "Murray Altheim",
+      "imports": [
+         "Janne Jalkanen"
+      ]
+   },
+   {
+      "name": "Janne Jalkanen",
+      "imports": [
+         "Harry Metske",
+         "Murray Altheim",
+         "Harry Metske",
+         "Harry Metske"
+      ]
+   },
+   {
+      "name": "Christian Lerch",
+      "imports": []
+   },
+   {
+      "name": "Craig L Russell",
+      "imports": [
+         "Henri Yandell"
+      ]
+   },
+   {
+      "name": "Bruno Peeters (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Andrew Jaquith",
+      "imports": [
+         "Janne Jalkanen"
+      ]
+   },
+   {
+      "name": "Christian Lerch (JIRA)",
+      "imports": []
+   }
+]

@@ -1,0 +1,353 @@
+[
+   {
+      "name": "jm",
+      "imports": []
+   },
+   {
+      "name": "bugzilla-daemon",
+      "imports": []
+   },
+   {
+      "name": "Bob Apthorpe",
+      "imports": [
+         "Theo Van Dinter",
+         "Alexander Litvinov"
+      ]
+   },
+   {
+      "name": "Rich Puhek",
+      "imports": [
+         "bugzilla-daemon"
+      ]
+   },
+   {
+      "name": "Frederic Olivie",
+      "imports": []
+   },
+   {
+      "name": "Dan DeVoe",
+      "imports": [
+         "Ben"
+      ]
+   },
+   {
+      "name": "Marc MERLIN",
+      "imports": [
+         "Justin Mason"
+      ]
+   },
+   {
+      "name": "Eric Kolve",
+      "imports": [
+         "Daniel Quinlan",
+         "Justin Mason"
+      ]
+   },
+   {
+      "name": "sidney",
+      "imports": [
+         "bugzilla-daemon"
+      ]
+   },
+   {
+      "name": "Michael Parker",
+      "imports": [
+         "Theo Van Dinter",
+         "jm",
+         "Justin Mason",
+         "David Birnbaum",
+         "Justin Mason",
+         "felicity",
+         "Justin Mason",
+         "Theo Van Dinter",
+         "Justin Mason",
+         "parker",
+         "Kelsey Cummings",
+         "Justin Mason",
+         "Theo Van Dinter",
+         "jm",
+         "Theo Van Dinter",
+         "Justin Mason",
+         "Daniel Quinlan",
+         "Sidney Markowitz",
+         "Sidney Markowitz",
+         "Theo Van Dinter",
+         "Bob Apthorpe",
+         "Sidney Markowitz",
+         "Sidney Markowitz",
+         "bugzilla-daemon",
+         "Sidney Markowitz",
+         "Matthew Cline",
+         "Kelsey Cummings",
+         "jm",
+         "Sidney Markowitz"
+      ]
+   },
+   {
+      "name": "parker",
+      "imports": []
+   },
+   {
+      "name": "Kelsey Cummings",
+      "imports": [
+         "Theo Van Dinter",
+         "Daniel Quinlan",
+         "Theo Van Dinter",
+         "Michael Parker",
+         "Michael Parker"
+      ]
+   },
+   {
+      "name": "Theo Van Dinter",
+      "imports": [
+         "Daniel Quinlan",
+         "felicity",
+         "Darryl Bleau",
+         "David Muir Sharnoff",
+         "Michael Parker",
+         "Justin Mason",
+         "Malte S. Stretz",
+         "Daniel Quinlan",
+         "Eric Kolve",
+         "Sidney Markowitz",
+         "Darryl Bleau",
+         "Danny Chen",
+         "David Birnbaum",
+         "Rich Puhek",
+         "bugzilla-daemon",
+         "Justin Mason",
+         "Justin Mason",
+         "Daniel Quinlan",
+         "Justin Mason",
+         "quinlan",
+         "Daniel Quinlan",
+         "Daniel Quinlan",
+         "Frederic Olivie",
+         "Daniel Quinlan",
+         "Sidney Markowitz",
+         "Daniel Quinlan",
+         "Justin Mason",
+         "Michael Parker",
+         "Justin Mason",
+         "Michael Parker",
+         "jm",
+         "Justin Mason",
+         "Justin Mason",
+         "Michael Parker",
+         "Daniel Quinlan",
+         "Daniel Quinlan",
+         "Justin Mason",
+         "Duncan Findlay",
+         "Daniel Quinlan",
+         "bugzilla-daemon",
+         "Daniel Quinlan",
+         "Sidney Markowitz",
+         "None",
+         "Michael Parker"
+      ]
+   },
+   {
+      "name": "Matthew Cline",
+      "imports": [
+         "Sidney Markowitz",
+         "Justin Mason",
+         "Daniel Quinlan",
+         "Michael Parker"
+      ]
+   },
+   {
+      "name": "Ben",
+      "imports": [
+         "Keith C. Ivey",
+         "Dan DeVoe"
+      ]
+   },
+   {
+      "name": "Malte S. Stretz",
+      "imports": [
+         "Sander Striker",
+         "Daniel Quinlan",
+         "Theo Van Dinter"
+      ]
+   },
+   {
+      "name": "David Muir Sharnoff",
+      "imports": []
+   },
+   {
+      "name": "Rod Begbie",
+      "imports": [
+         "Justin Mason"
+      ]
+   },
+   {
+      "name": "quinlan",
+      "imports": []
+   },
+   {
+      "name": "Chris Thielen",
+      "imports": [
+         "Bob Apthorpe"
+      ]
+   },
+   {
+      "name": "Scott A Crosby",
+      "imports": [
+         "Sidney Markowitz",
+         "Sidney Markowitz"
+      ]
+   },
+   {
+      "name": "Sidney Markowitz",
+      "imports": [
+         "Theo Van Dinter",
+         "Justin Mason",
+         "Marc Perkel",
+         "Matthew Cline",
+         "Daniel Quinlan",
+         "Marc Perkel",
+         "Scott A Crosby",
+         "Scott A Crosby",
+         "Kelsey Cummings",
+         "Justin Mason",
+         "Justin Mason",
+         "Michael Parker",
+         "Michael Parker",
+         "Alexander Litvinov",
+         "Michael Parker",
+         "Kelsey Cummings",
+         "Michael Parker",
+         "Michael Parker",
+         "Michael Parker",
+         "sidney"
+      ]
+   },
+   {
+      "name": "Duncan Findlay",
+      "imports": [
+         "Theo Van Dinter",
+         "Owen McShane",
+         "Daniel Quinlan",
+         "Eric Kolve",
+         "Daniel Quinlan",
+         "Theo Van Dinter",
+         "Justin Mason"
+      ]
+   },
+   {
+      "name": "Owen McShane",
+      "imports": []
+   },
+   {
+      "name": "Robert Menschel",
+      "imports": [
+         "bugzilla-daemon",
+         "bugzilla-daemon",
+         "bugzilla-daemon"
+      ]
+   },
+   {
+      "name": "Sander Striker",
+      "imports": [
+         "Daniel Quinlan"
+      ]
+   },
+   {
+      "name": "Alexander Litvinov",
+      "imports": [
+         "Sidney Markowitz"
+      ]
+   },
+   {
+      "name": "None",
+      "imports": []
+   },
+   {
+      "name": "Daniel Quinlan",
+      "imports": [
+         "Justin Mason",
+         "Justin Mason",
+         "Michael Parker",
+         "Justin Mason",
+         "Theo Van Dinter",
+         "Theo Van Dinter"
+      ]
+   },
+   {
+      "name": "Brook Humphrey",
+      "imports": [
+         "Kelsey Cummings"
+      ]
+   },
+   {
+      "name": "felicity",
+      "imports": []
+   },
+   {
+      "name": "David Birnbaum",
+      "imports": [
+         "Sidney Markowitz",
+         "Justin Mason",
+         "Owen McShane"
+      ]
+   },
+   {
+      "name": "Darryl Bleau",
+      "imports": [
+         "David Muir Sharnoff",
+         "David Muir Sharnoff",
+         "Theo Van Dinter"
+      ]
+   },
+   {
+      "name": "Christian Pietsch",
+      "imports": [
+         "bugzilla-daemon"
+      ]
+   },
+   {
+      "name": "Danny Chen",
+      "imports": [
+         "Sidney Markowitz",
+         "Theo Van Dinter"
+      ]
+   },
+   {
+      "name": "Justin Mason",
+      "imports": []
+   },
+   {
+      "name": "Matt Sergeant",
+      "imports": [
+         "Theo Van Dinter",
+         "Justin Mason",
+         "Justin Mason"
+      ]
+   },
+   {
+      "name": "Keith C. Ivey",
+      "imports": [
+         "Ben",
+         "Ben"
+      ]
+   },
+   {
+      "name": "sabat",
+      "imports": [
+         "Daniel Quinlan"
+      ]
+   },
+   {
+      "name": "Tony Finch",
+      "imports": [
+         "Justin Mason"
+      ]
+   },
+   {
+      "name": "Marc Perkel",
+      "imports": [
+         "Sidney Markowitz",
+         "Matthew Cline"
+      ]
+   }
+]

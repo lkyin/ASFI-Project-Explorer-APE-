@@ -1,0 +1,122 @@
+[
+   {
+      "name": "Rhett Sutphin (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "CRG (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Alex Boisvert",
+      "imports": [
+         "Matthieu Riou",
+         "Assaf Arkin",
+         "Assaf Arkin",
+         "=?ISO-8859-1?Q?Sander_S=F5najalg?="
+      ]
+   },
+   {
+      "name": "Alexis Midon",
+      "imports": [
+         "Alex Boisvert",
+         "Antoine Toulme",
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Daniel Spiewak (JIRA)",
+      "imports": [
+         "Marko Sibakov (JIRA)",
+         "Marko Sibakov (JIRA)"
+      ]
+   },
+   {
+      "name": "Alex Boisvert (JIRA)",
+      "imports": [
+         "Daniel Spiewak (JIRA)",
+         "CRG (JIRA)",
+         "CRG (JIRA)",
+         "Shane Witbeck (JIRA)",
+         "Daniel Spiewak (JIRA)",
+         "Daniel Spiewak (JIRA)",
+         "Daniel Spiewak (JIRA)",
+         "CRG (JIRA)",
+         "Ittay Dror (JIRA)"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Sander_S=F5najalg?=",
+      "imports": []
+   },
+   {
+      "name": "Derek Wischusen (JIRA)",
+      "imports": [
+         "Shane Witbeck (JIRA)",
+         "Shane Witbeck (JIRA)"
+      ]
+   },
+   {
+      "name": "Assaf Arkin",
+      "imports": [
+         "Alex Boisvert",
+         "Alex Boisvert",
+         "Alex Boisvert",
+         "Alex Boisvert",
+         "Ketan Padegaonkar",
+         "Antoine Toulme",
+         "Ketan Padegaonkar",
+         "Alex Boisvert",
+         "Alexis Midon"
+      ]
+   },
+   {
+      "name": "Shane Witbeck (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Marko Sibakov (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ittay Dror (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Rhett Sutphin",
+      "imports": [
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Ketan Padegaonkar",
+      "imports": [
+         "Antoine Toulme"
+      ]
+   },
+   {
+      "name": "Matthieu Riou",
+      "imports": [
+         "Alexis Midon",
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Antoine Toulme",
+      "imports": [
+         "Assaf Arkin",
+         "Assaf Arkin"
+      ]
+   },
+   {
+      "name": "Assaf Arkin (JIRA)",
+      "imports": [
+         "Daniel Spiewak (JIRA)",
+         "Shane Witbeck (JIRA)",
+         "Daniel Spiewak (JIRA)",
+         "Rhett Sutphin (JIRA)",
+         "Rhett Sutphin (JIRA)",
+         "Rhett Sutphin (JIRA)"
+      ]
+   }
+]

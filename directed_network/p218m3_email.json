@@ -1,0 +1,252 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Tommaso Teofili",
+         "Fabian Christ",
+         "Rupert Westenthaler",
+         "Olivier Grisel",
+         "valentina presutti",
+         "Fabian Christ",
+         "Olivier Grisel",
+         "Olivier Grisel",
+         "Fabian Christ",
+         "Stefane Fermigier",
+         "Olivier Grisel",
+         "Enrico Daga",
+         "rwesten",
+         "Fabian Christ",
+         "ogrisel",
+         "Fabian Christ",
+         "Olivier Grisel",
+         "Olivier Grisel",
+         "Shay Thompson",
+         "Olivier Grisel",
+         "Tommaso Teofili",
+         "Shay Thompson"
+      ]
+   },
+   {
+      "name": "Valentina Presutti (JIRA)",
+      "imports": [
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)"
+      ]
+   },
+   {
+      "name": "Fabian Christ (JIRA)",
+      "imports": [
+         "Andreas Kuckartz (JIRA)",
+         "Andreas Kuckartz (JIRA)",
+         "Andreas Kuckartz (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Olivier Grisel (JIRA)"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?St=E9fane_Fermigier?=",
+      "imports": [
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "valentina presutti",
+      "imports": [
+         "Fabian Christ",
+         "Fabian Christ"
+      ]
+   },
+   {
+      "name": "bdelacretaz",
+      "imports": []
+   },
+   {
+      "name": "Stefane Fermigier",
+      "imports": [
+         "Rupert Westenthaler",
+         "Ross Gardler",
+         "Ross Gardler",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Fabian Christ",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler (JIRA)",
+      "imports": [
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Enrico Daga (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Fabian Christ (JIRA)",
+         "Fabian Christ (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Florent ANDRE (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Florent ANDRE (JIRA)",
+         "Florent ANDRE (JIRA)"
+      ]
+   },
+   {
+      "name": "Walter Kasper (JIRA)",
+      "imports": [
+         "Fabian Christ (JIRA)"
+      ]
+   },
+   {
+      "name": "Apache Hudson Server",
+      "imports": []
+   },
+   {
+      "name": "ogrisel",
+      "imports": []
+   },
+   {
+      "name": "Ross Gardler",
+      "imports": [
+         "Stefane Fermigier"
+      ]
+   },
+   {
+      "name": "Andreas Kuckartz (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bertrand Delacretaz (JIRA)",
+      "imports": [
+         "Florent ANDRE (JIRA)",
+         "Florent ANDRE (JIRA)",
+         "Fabian Christ (JIRA)",
+         "Fabian Christ (JIRA)",
+         "Fabian Christ (JIRA)"
+      ]
+   },
+   {
+      "name": "Enrico Daga (JIRA)",
+      "imports": [
+         "Bertrand Delacretaz (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Olivier Grisel (JIRA)",
+         "Andreas Kuckartz (JIRA)",
+         "Andreas Kuckartz (JIRA)",
+         "Andreas Kuckartz (JIRA)"
+      ]
+   },
+   {
+      "name": "Olivier Grisel",
+      "imports": [
+         "Fabian Christ",
+         "Fabian Christ",
+         "bdelacretaz",
+         "Rupert Westenthaler",
+         "Bertrand Delacretaz",
+         "Rupert Westenthaler",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz",
+         "rwesten",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "Bertrand Delacretaz",
+         "Rupert Westenthaler",
+         "Bertrand Delacretaz",
+         "Fabian Christ",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Fabian Christ",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz",
+         "Stefane Fermigier",
+         "Olivier Grisel",
+         "Olivier Grisel",
+         "Bertrand Delacretaz",
+         "valentina presutti",
+         "Olivier Grisel",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz",
+         "Olivier Grisel"
+      ]
+   },
+   {
+      "name": "Florent ANDRE (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Olivier Grisel (JIRA)",
+      "imports": [
+         "Enrico Daga (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)",
+         "Bertrand Delacretaz (JIRA)"
+      ]
+   },
+   {
+      "name": "Enrico Daga",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Olivier Grisel",
+         "Olivier Grisel"
+      ]
+   },
+   {
+      "name": "Wernher Behrendt (JIRA)",
+      "imports": [
+         "Fabian Christ (JIRA)"
+      ]
+   },
+   {
+      "name": "rwesten",
+      "imports": []
+   },
+   {
+      "name": "Rupert Westenthaler",
+      "imports": [
+         "Stefane Fermigier",
+         "Olivier Grisel",
+         "Enrico Daga (JIRA)",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz",
+         "Olivier Grisel",
+         "Olivier Grisel",
+         "Olivier Grisel",
+         "Fabian Christ",
+         "Apache Hudson Server"
+      ]
+   },
+   {
+      "name": "Shay Thompson",
+      "imports": [
+         "Bertrand Delacretaz"
+      ]
+   }
+]

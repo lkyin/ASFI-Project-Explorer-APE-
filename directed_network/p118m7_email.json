@@ -1,0 +1,233 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "=?UTF-8?Q?Emmanuel_L=c3=a9charny?=",
+         "=?UTF-8?Q?Emmanuel_L=c3=a9charny?=",
+         "Russel Winder",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?="
+      ]
+   },
+   {
+      "name": "Pascal Schumacher",
+      "imports": [
+         "Paul King",
+         "Jochen Theodorou",
+         "=?UTF-8?Q?Emmanuel_L=c3=a9charny?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "srinidhi",
+         "Srinidhi Karicharla",
+         "Peter Ledbrook",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?="
+      ]
+   },
+   {
+      "name": "Jim Jagielski",
+      "imports": [
+         "Andrew Bayer"
+      ]
+   },
+   {
+      "name": "Konstantin Boudnik",
+      "imports": [
+         "=?UTF-8?Q?Emmanuel_L=c3=a9charny?=",
+         "Andrew Bayer",
+         "Russel Winder",
+         "Andrew Bayer",
+         "Russel Winder",
+         "Bertrand Delacretaz",
+         "=?UTF-8?Q?Emmanuel_L=c3=a9charny?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Guillaume Laforge",
+         "Jim Jagielski"
+      ]
+   },
+   {
+      "name": "Guillaume Laforge",
+      "imports": [
+         "Thibault Kruse",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Bertrand Delacretaz",
+         "Pascal Schumacher",
+         "Bertrand Delacretaz",
+         "Nicholas Grealy",
+         "Russel Winder"
+      ]
+   },
+   {
+      "name": "Peter Ledbrook",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Jochen Theodorou"
+      ]
+   },
+   {
+      "name": "Geoffrey Miller",
+      "imports": [
+         "Cedric Champeau"
+      ]
+   },
+   {
+      "name": "Russel Winder",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Roman Shaposhnik",
+         "Konstantin Boudnik"
+      ]
+   },
+   {
+      "name": "Andrew Bayer",
+      "imports": [
+         "=?UTF-8?Q?Emmanuel_L=c3=a9charny?=",
+         "Konstantin Boudnik",
+         "Roman Shaposhnik",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?="
+      ]
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?Q?Emmanuel_L=c3=a9charny?=",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Guillaume Laforge",
+         "Bertrand Delacretaz",
+         "Konstantin Boudnik"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+      "imports": [
+         "Jochen Theodorou",
+         "Keegan Witt",
+         "Guillaume Laforge",
+         "Nicholas Grealy",
+         "Jim Northrop",
+         "Sergei Egorov",
+         "Konstantin Boudnik",
+         "Konstantin Boudnik",
+         "=?UTF-8?Q?Emmanuel_L=c3=a9charny?=",
+         "Balachandran Sivakumar",
+         "Paul King",
+         "Peter Ledbrook",
+         "Pascal Schumacher",
+         "=?UTF-8?Q?Emmanuel_L=c3=a9charny?="
+      ]
+   },
+   {
+      "name": "Thibault Kruse",
+      "imports": [
+         "Guillaume Laforge",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Jochen Theodorou"
+      ]
+   },
+   {
+      "name": "Cedric Champeau",
+      "imports": []
+   },
+   {
+      "name": "Balachandran Sivakumar",
+      "imports": []
+   },
+   {
+      "name": "Paul King",
+      "imports": [
+         "Keegan Witt",
+         "pascalschumacher",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "pascalschumacher",
+         "Andres Almiray"
+      ]
+   },
+   {
+      "name": "Roman Shaposhnik",
+      "imports": [
+         "Andrew Bayer",
+         "Andrew Bayer",
+         "Russel Winder"
+      ]
+   },
+   {
+      "name": "Srinidhi Karicharla",
+      "imports": [
+         "Pascal Schumacher"
+      ]
+   },
+   {
+      "name": "Nicholas Grealy",
+      "imports": [
+         "Guillaume Laforge"
+      ]
+   },
+   {
+      "name": "Andres Almiray",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?="
+      ]
+   },
+   {
+      "name": "tog",
+      "imports": [
+         "Jim Jagielski"
+      ]
+   },
+   {
+      "name": "srinidhi",
+      "imports": []
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": [
+         "Marvin"
+      ]
+   },
+   {
+      "name": "Keegan Witt",
+      "imports": [
+         "Guillaume Laforge",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Pascal Schumacher",
+         "Nicholas Grealy"
+      ]
+   },
+   {
+      "name": "Sergei Egorov",
+      "imports": [
+         "Pascal Schumacher"
+      ]
+   },
+   {
+      "name": "Jochen Theodorou",
+      "imports": [
+         "Keegan Witt",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+         "Peter Ledbrook",
+         "Peter Ledbrook",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?="
+      ]
+   },
+   {
+      "name": "Jim Northrop",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?="
+      ]
+   },
+   {
+      "name": "Richard Heintze",
+      "imports": [
+         "Pascal Schumacher"
+      ]
+   },
+   {
+      "name": "pascalschumacher",
+      "imports": []
+   }
+]

@@ -1,0 +1,35 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Jukka Zitting (JIRA)",
+      "imports": [
+         "Niall Pemberton (JIRA)"
+      ]
+   },
+   {
+      "name": "Dave Meikle (JIRA)",
+      "imports": [
+         "Rida Benjelloun (JIRA)",
+         "Rida Benjelloun (JIRA)"
+      ]
+   },
+   {
+      "name": "Rida Benjelloun (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Niall Pemberton (JIRA)",
+      "imports": []
+   }
+]

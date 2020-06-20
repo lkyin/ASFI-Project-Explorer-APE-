@@ -1,0 +1,30 @@
+[
+   {
+      "name": "Justin Mclean",
+      "imports": [
+         "johndament"
+      ]
+   },
+   {
+      "name": "johndament",
+      "imports": []
+   },
+   {
+      "name": "Tony Faustini",
+      "imports": [
+         "Anatole Tresch",
+         "Justin Mclean"
+      ]
+   },
+   {
+      "name": "Anatole Tresch",
+      "imports": [
+         "Tony Faustini",
+         "Amirhossein Jabbari"
+      ]
+   },
+   {
+      "name": "Amirhossein Jabbari",
+      "imports": []
+   }
+]

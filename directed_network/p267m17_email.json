@@ -1,0 +1,50 @@
+[
+   {
+      "name": "Javier Puerto (JIRA)",
+      "imports": [
+         "Richard Frovarp (JIRA)"
+      ]
+   },
+   {
+      "name": "Richard Frovarp (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ryan McKinley",
+      "imports": [
+         "Richard Frovarp"
+      ]
+   },
+   {
+      "name": "Thorsten Scherler",
+      "imports": [
+         "Richard Frovarp",
+         "Chapuis Bertil"
+      ]
+   },
+   {
+      "name": "Richard Frovarp",
+      "imports": [
+         "Thorsten Scherler",
+         "Thorsten Scherler"
+      ]
+   },
+   {
+      "name": "Chapuis Bertil",
+      "imports": [
+         "Mingfai"
+      ]
+   },
+   {
+      "name": "Bertil Chapuis (JIRA)",
+      "imports": [
+         "Richard Frovarp (JIRA)"
+      ]
+   },
+   {
+      "name": "Mingfai",
+      "imports": [
+         "Ryan McKinley"
+      ]
+   }
+]

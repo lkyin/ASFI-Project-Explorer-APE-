@@ -1,0 +1,86 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Thorsten Scherler"
+      ]
+   },
+   {
+      "name": "Dave Meikle (JIRA)",
+      "imports": [
+         "Rida Benjelloun (JIRA)",
+         "Rida Benjelloun (JIRA)",
+         "Rida Benjelloun (JIRA)",
+         "Litrik De Roy (JIRA)",
+         "Litrik De Roy (JIRA)",
+         "Litrik De Roy (JIRA)",
+         "Litrik De Roy (JIRA)"
+      ]
+   },
+   {
+      "name": "Litrik De Roy (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Rida Benjelloun (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Thorsten Scherler",
+      "imports": [
+         "Michael Wechner",
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Keith R. Bennett",
+      "imports": [
+         "Chris Mattmann"
+      ]
+   },
+   {
+      "name": "Chris Mattmann",
+      "imports": []
+   },
+   {
+      "name": "Robert Burrell Donkin",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Grant Ingersoll",
+      "imports": [
+         "Jukka Zitting",
+         "Robert Burrell Donkin"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Keith R. Bennett",
+         "Michael Wechner",
+         "Michael Wechner",
+         "Michael Wechner",
+         "Bertrand Delacretaz",
+         "Grant Ingersoll"
+      ]
+   },
+   {
+      "name": "Michael Wechner",
+      "imports": [
+         "Thorsten Scherler",
+         "Jukka Zitting",
+         "Jukka Zitting",
+         "Jukka Zitting",
+         "Jukka Zitting",
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Niall Pemberton",
+      "imports": [
+         "Bertrand Delacretaz"
+      ]
+   }
+]

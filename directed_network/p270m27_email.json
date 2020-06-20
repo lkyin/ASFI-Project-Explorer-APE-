@@ -1,0 +1,43 @@
+[
+   {
+      "name": "Christophe Lombart (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Evangelos Vlachogiannis (JIRA)",
+      "imports": [
+         "Christophe Lombart (JIRA)",
+         "Christophe Lombart (JIRA)",
+         "Christophe Lombart (JIRA)",
+         "Christophe Lombart (JIRA)"
+      ]
+   },
+   {
+      "name": "Christophe Lombart",
+      "imports": [
+         "Evangelos Vlachogiannis",
+         "Mikko Wuokko",
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Mikko Wuokko",
+      "imports": []
+   },
+   {
+      "name": "Evangelos Vlachogiannis",
+      "imports": []
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Christophe Lombart"
+      ]
+   },
+   {
+      "name": "Mikko Wuokko (JIRA)",
+      "imports": [
+         "Christophe Lombart (JIRA)"
+      ]
+   }
+]

@@ -1,0 +1,87 @@
+[
+   {
+      "name": "Christopher Collins",
+      "imports": [
+         "Alfred Schilken",
+         "will sanfilippo",
+         "Peter Jones"
+      ]
+   },
+   {
+      "name": "Cufi, Carles",
+      "imports": []
+   },
+   {
+      "name": "Khaled Elsayed",
+      "imports": [
+         "Christopher Collins",
+         "will sanfilippo"
+      ]
+   },
+   {
+      "name": "Alfred Schilken",
+      "imports": [
+         "will sanfilippo"
+      ]
+   },
+   {
+      "name": "Laczen JMS",
+      "imports": []
+   },
+   {
+      "name": "Peter Jones",
+      "imports": []
+   },
+   {
+      "name": "will sanfilippo",
+      "imports": [
+         "Szymon Janc",
+         "Ugo Mastracchio",
+         "Christopher Collins",
+         "Khaled Elsayed"
+      ]
+   },
+   {
+      "name": "Ugo Mastracchio",
+      "imports": [
+         "Christopher Collins",
+         "will sanfilippo"
+      ]
+   },
+   {
+      "name": "Marcos Scheeren",
+      "imports": [
+         "Christopher Collins"
+      ]
+   },
+   {
+      "name": "Szymon Janc",
+      "imports": [
+         "will sanfilippo"
+      ]
+   },
+   {
+      "name": "amit mehta",
+      "imports": []
+   },
+   {
+      "name": "marko kiiskila",
+      "imports": [
+         "Alfred Schilken",
+         "Jacob Rosenthal"
+      ]
+   },
+   {
+      "name": "Fabio Utzig",
+      "imports": [
+         "amit mehta"
+      ]
+   },
+   {
+      "name": "Jacob Rosenthal",
+      "imports": [
+         "Cufi, Carles",
+         "Laczen JMS"
+      ]
+   }
+]

@@ -1,0 +1,113 @@
+[
+   {
+      "name": "Guillaume Nodet (JIRA)",
+      "imports": [
+         "Tomas Olsson (JIRA)",
+         "Tomas Olsson (JIRA)",
+         "Tomas Olsson (JIRA)",
+         "Kevin Bouchard (JIRA)",
+         "Soumadeep Sen (JIRA)",
+         "Ilya Kuleshov (JIRA)",
+         "Tomas Olsson (JIRA)",
+         "Philippe Pinheiro (JIRA)",
+         "Eric Dofonsou (JIRA)",
+         "Jeff Davis (JIRA)",
+         "Jeff Davis (JIRA)",
+         "Jeff Davis (JIRA)"
+      ]
+   },
+   {
+      "name": "Tomas Olsson (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bruce Snyder",
+      "imports": []
+   },
+   {
+      "name": "Kevin Bouchard (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "emicalc",
+      "imports": [
+         "Guillaume Nodet",
+         "Bruce Snyder",
+         "Bruce Snyder",
+         "Bruce Snyder",
+         "Guillaume Nodet",
+         "Guillaume Nodet",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "emicalc",
+         "emicalc",
+         "Tomas Olsson",
+         "emicalc",
+         "emicalc",
+         "emicalc",
+         "emicalc",
+         "pandu",
+         "pandu",
+         "freeman fang",
+         "emicalc",
+         "emicalc"
+      ]
+   },
+   {
+      "name": "freeman fang",
+      "imports": []
+   },
+   {
+      "name": "Holger Hoffstaette",
+      "imports": []
+   },
+   {
+      "name": "Jeff Davis (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Eric Dofonsou (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Tomas Olsson",
+      "imports": [
+         "Guillaume Nodet (JIRA)",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Soumadeep Sen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Philip Dodds",
+      "imports": [
+         "Bruce Snyder"
+      ]
+   },
+   {
+      "name": "James Strachan",
+      "imports": [
+         "Holger Hoffstaette"
+      ]
+   },
+   {
+      "name": "pandu",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Ilya Kuleshov (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Philippe Pinheiro (JIRA)",
+      "imports": []
+   }
+]

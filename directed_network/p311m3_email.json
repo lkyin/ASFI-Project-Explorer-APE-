@@ -1,0 +1,203 @@
+[
+   {
+      "name": "Piotrek Karas",
+      "imports": [
+         "Andreas Schamberger"
+      ]
+   },
+   {
+      "name": "Ole Marius Smestad",
+      "imports": [
+         "Tobias Schlitt",
+         "llaumgui"
+      ]
+   },
+   {
+      "name": "Paul Borgermans",
+      "imports": []
+   },
+   {
+      "name": "Craig L Russell",
+      "imports": [
+         "Jerome Renard",
+         "Tobias Schlitt"
+      ]
+   },
+   {
+      "name": "Benjamin Eberlei",
+      "imports": [
+         "Paul Borgermans",
+         "Kore Nordmann"
+      ]
+   },
+   {
+      "name": "Maxime Thomas",
+      "imports": [
+         "Christian Grobmeier",
+         "Jerome Renard",
+         "Tobias Schlitt",
+         "Andreas Schamberger",
+         "James Pic",
+         "James Pic",
+         "Tobias Schlitt",
+         "James Pic",
+         "Jerome Renard"
+      ]
+   },
+   {
+      "name": "Andreas Schamberger",
+      "imports": [
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "Tobias Schlitt"
+      ]
+   },
+   {
+      "name": "Jerome Renard",
+      "imports": [
+         "Sebastian Bergmann",
+         "Tobias Schlitt",
+         "Christian Grobmeier",
+         "James Pic",
+         "Tobias Schlitt",
+         "Kore Nordmann",
+         "Kore Nordmann",
+         "Kore Nordmann",
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "llaumgui",
+         "James Pic",
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "James Pic",
+         "James Pic",
+         "Maxime Thomas",
+         "James Pic",
+         "Maxime Thomas",
+         "James Pic",
+         "llaumgui",
+         "James Pic",
+         "James Pic",
+         "Tobias Schlitt"
+      ]
+   },
+   {
+      "name": "Kore Nordmann",
+      "imports": [
+         "Tobias Schlitt",
+         "Benjamin Eberlei",
+         "Jerome Renard",
+         "Manuel Pichler",
+         "Christian Grobmeier",
+         "Maxime Thomas",
+         "Tobias Schlitt",
+         "Jerome Renard"
+      ]
+   },
+   {
+      "name": "sebastian",
+      "imports": []
+   },
+   {
+      "name": "Derick Rethans",
+      "imports": [
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "sebastian",
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "Jerome Renard"
+      ]
+   },
+   {
+      "name": "Christian Grobmeier",
+      "imports": [
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "no-reply",
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "Tobias Schlitt"
+      ]
+   },
+   {
+      "name": "Tobias Schlitt",
+      "imports": [
+         "Sebastian Bergmann",
+         "Sebastian Bergmann",
+         "sebastian",
+         "Jerome Renard",
+         "Andreas Schamberger",
+         "Andreas Schamberger",
+         "Andreas Schamberger",
+         "Andreas Schamberger",
+         "Piotrek Karas",
+         "Andreas Schamberger",
+         "Jerome Renard",
+         "Derick Rethans",
+         "Christian Grobmeier",
+         "no-reply",
+         "Christian Grobmeier",
+         "Sebastian Bergmann",
+         "Derick Rethans",
+         "Sebastian Bergmann",
+         "Benjamin Eberlei",
+         "Jerome Renard",
+         "Jerome Renard",
+         "James Pic",
+         "Craig L Russell",
+         "Craig L Russell"
+      ]
+   },
+   {
+      "name": "Manuel Pichler",
+      "imports": []
+   },
+   {
+      "name": "Sebastian Bergmann",
+      "imports": [
+         "Derick Rethans",
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "Derick Rethans"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "llaumgui",
+      "imports": []
+   },
+   {
+      "name": "James Pic",
+      "imports": [
+         "Jerome Renard",
+         "Tobias Schlitt",
+         "Jerome Renard",
+         "Jerome Renard",
+         "Maxime Thomas",
+         "Tobias Schlitt",
+         "Tobias Schlitt",
+         "Jerome Renard",
+         "Jerome Renard",
+         "Jerome Renard",
+         "Jerome Renard",
+         "Jerome Renard",
+         "Jerome Renard"
+      ]
+   },
+   {
+      "name": "Daniel Fahlke",
+      "imports": [
+         "Tobias Schlitt"
+      ]
+   }
+]

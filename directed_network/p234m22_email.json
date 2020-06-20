@@ -1,0 +1,181 @@
+[
+   {
+      "name": "Dave Neuman",
+      "imports": [
+         "Jeremy Mitchell",
+         "Hank Beatty"
+      ]
+   },
+   {
+      "name": "Jifeng Yang (jifyang)",
+      "imports": [
+         "Zhilin Huang (zhilhuan)"
+      ]
+   },
+   {
+      "name": "Chris Lemmons",
+      "imports": [
+         "Robert Butts"
+      ]
+   },
+   {
+      "name": "Hank Beatty",
+      "imports": [
+         "Dewayne Richardson"
+      ]
+   },
+   {
+      "name": "Jeff Elsloo",
+      "imports": [
+         "Dan Kirkwood"
+      ]
+   },
+   {
+      "name": "Schmidt, Andrew (Contractor)",
+      "imports": [
+         "Rawlin Peters"
+      ]
+   },
+   {
+      "name": "Gelinas, Derek",
+      "imports": [
+         "Jeremy Mitchell"
+      ]
+   },
+   {
+      "name": "Zhilin Huang (zhilhuan)",
+      "imports": [
+         "Nir Sopher",
+         "Jifeng Yang (jifyang)",
+         "Eric Friedrich (efriedri)",
+         "Eric Friedrich (efriedri)",
+         "Nir Sopher"
+      ]
+   },
+   {
+      "name": "Dewayne Richardson",
+      "imports": [
+         "John Rushford",
+         "Robert Butts",
+         "Rawlin Peters",
+         "Hongfei Zhang (hongfezh)"
+      ]
+   },
+   {
+      "name": "John Rushford",
+      "imports": [
+         "Jeremy Mitchell"
+      ]
+   },
+   {
+      "name": "Jan van Doorn",
+      "imports": [
+         "Dewayne Richardson"
+      ]
+   },
+   {
+      "name": "Dan Kirkwood",
+      "imports": [
+         "David Neuman"
+      ]
+   },
+   {
+      "name": "Jeremy Mitchell",
+      "imports": [
+         "Jason Tucker",
+         "Rawlin Peters",
+         "Robert Butts",
+         "Dewayne Richardson",
+         "John Rushford",
+         "Rawlin Peters",
+         "Jeff Elsloo"
+      ]
+   },
+   {
+      "name": "John Shen (weifensh)",
+      "imports": [
+         "Eric Friedrich (efriedri)",
+         "Zhilin Huang (zhilhuan)",
+         "Dewayne Richardson"
+      ]
+   },
+   {
+      "name": "Hongfei Zhang (hongfezh)",
+      "imports": [
+         "Jan van Doorn",
+         "Dewayne Richardson"
+      ]
+   },
+   {
+      "name": "Jason Tucker",
+      "imports": []
+   },
+   {
+      "name": "Steve Malenfant",
+      "imports": [
+         "Eric Friedrich (efriedri)"
+      ]
+   },
+   {
+      "name": "Rawlin Peters",
+      "imports": [
+         "Jeremy Mitchell",
+         "Dewayne Richardson",
+         "Schmidt, Andrew (Contractor)",
+         "Robert Butts"
+      ]
+   },
+   {
+      "name": "Nir Sopher",
+      "imports": [
+         "Zhilin Huang (zhilhuan)",
+         "Zhilin Huang (zhilhuan)",
+         "Robert Butts"
+      ]
+   },
+   {
+      "name": "Volz, Dylan",
+      "imports": [
+         "Robert Butts"
+      ]
+   },
+   {
+      "name": "David Neuman",
+      "imports": [
+         "Robert Butts",
+         "Jeremy Mitchell"
+      ]
+   },
+   {
+      "name": "Neil Hao (nbaoping)",
+      "imports": [
+         "Nir Sopher",
+         "Robert Butts"
+      ]
+   },
+   {
+      "name": "Eric Friedrich (efriedri)",
+      "imports": [
+         "Zhilin Huang (zhilhuan)",
+         "Zhilin Huang (zhilhuan)",
+         "John Shen (weifensh)",
+         "John Shen (weifensh)",
+         "Nir Sopher",
+         "Dave Neuman"
+      ]
+   },
+   {
+      "name": "Robert Butts",
+      "imports": [
+         "Eric Friedrich (efriedri)",
+         "Jeremy Mitchell",
+         "Jeremy Mitchell",
+         "Volz, Dylan",
+         "Jeremy Mitchell",
+         "David Neuman",
+         "John Shen (weifensh)",
+         "Rawlin Peters",
+         "Rawlin Peters"
+      ]
+   }
+]

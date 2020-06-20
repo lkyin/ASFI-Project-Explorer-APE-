@@ -1,0 +1,32 @@
+[
+   {
+      "name": "Sam Barrett",
+      "imports": [
+         "David Ash",
+         "Hadrian Zbarcea"
+      ]
+   },
+   {
+      "name": "Hadrian Zbarcea",
+      "imports": [
+         "Sam Barrett"
+      ]
+   },
+   {
+      "name": "David Ash",
+      "imports": [
+         "=?UTF-8?Q?Emmanuel_L=c3=a9charny?=",
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Emmanuel_L=c3=a9charny?=",
+      "imports": [
+         "David Ash"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": []
+   }
+]

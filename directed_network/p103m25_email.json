@@ -1,0 +1,143 @@
+[
+   {
+      "name": "Niclas Hedhman",
+      "imports": []
+   },
+   {
+      "name": "James Dixson (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Tohru OHZONO (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "scott comer (JIRA)",
+      "imports": [
+         "Michael Fitzner (JIRA)",
+         "Michael Fitzner (JIRA)",
+         "Holger Grandy (JIRA)",
+         "Holger Grandy (JIRA)"
+      ]
+   },
+   {
+      "name": "Gavin (JIRA)",
+      "imports": [
+         "Holger Grandy (JIRA)",
+         "Michael Fitzner (JIRA)",
+         "Michael Fitzner (JIRA)"
+      ]
+   },
+   {
+      "name": "Doug Cutting",
+      "imports": [
+         "Holger Grandy",
+         "Holger Grandy"
+      ]
+   },
+   {
+      "name": "Youngjin Park (youngjpa)",
+      "imports": [
+         "James Dixson"
+      ]
+   },
+   {
+      "name": "Manoj Ganesan",
+      "imports": [
+         "Youngjin Park (youngjpa)"
+      ]
+   },
+   {
+      "name": "Michael Fitzner (JIRA)",
+      "imports": [
+         "Holger Grandy (JIRA)",
+         "Holger Grandy (JIRA)",
+         "Holger Grandy (JIRA)",
+         "Holger Grandy (JIRA)",
+         "scott comer (JIRA)"
+      ]
+   },
+   {
+      "name": "Holger Grandy (JIRA)",
+      "imports": [
+         "James Dixson (JIRA)",
+         "scott comer (JIRA)",
+         "scott comer (JIRA)",
+         "scott comer (JIRA)",
+         "scott comer (JIRA)",
+         "scott comer (JIRA)",
+         "scott comer (JIRA)",
+         "scott comer (JIRA)",
+         "James Dixson (JIRA)",
+         "scott comer (JIRA)",
+         "Tohru OHZONO (JIRA)",
+         "James E. King, III (JIRA)",
+         "James Dixson (JIRA)",
+         "Richard Bolkey (JIRA)",
+         "James E. King, III (JIRA)",
+         "James E. King, III (JIRA)",
+         "James E. King, III (JIRA)",
+         "James E. King, III (JIRA)",
+         "James Dixson (JIRA)",
+         "Michael Fitzner (JIRA)",
+         "James Dixson (JIRA)",
+         "Michael Fitzner (JIRA)",
+         "Michael Fitzner (JIRA)"
+      ]
+   },
+   {
+      "name": "James Dixson",
+      "imports": [
+         "Niclas Hedhman",
+         "Martijn Dashorst",
+         "Holger Grandy",
+         "Holger Grandy"
+      ]
+   },
+   {
+      "name": "Michael Fitzner",
+      "imports": [
+         "Holger Grandy",
+         "scott comer"
+      ]
+   },
+   {
+      "name": "James E. King, III (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Martijn Dashorst",
+      "imports": [
+         "Holger Grandy",
+         "Holger Grandy",
+         "Holger Grandy",
+         "Holger Grandy"
+      ]
+   },
+   {
+      "name": "Richard Bolkey (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "scott comer",
+      "imports": [
+         "Martijn Dashorst",
+         "Martijn Dashorst",
+         "Holger Grandy",
+         "Michael Fitzner (JIRA)"
+      ]
+   },
+   {
+      "name": "Holger Grandy",
+      "imports": [
+         "Manoj Ganesan",
+         "Martijn Dashorst",
+         "Doug Cutting",
+         "scott comer",
+         "scott comer",
+         "scott comer",
+         "Doug Cutting",
+         "scott comer"
+      ]
+   }
+]

@@ -1,0 +1,159 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Olivier Grisel",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "Alessandro Adamou",
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Suat Gonul",
+      "imports": [
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Andrea Nuzzolese (JIRA)",
+      "imports": [
+         "Enrico Daga (JIRA)"
+      ]
+   },
+   {
+      "name": "Fabian Christ (JIRA)",
+      "imports": [
+         "Olivier Grisel (JIRA)"
+      ]
+   },
+   {
+      "name": "Alessandro Adamou (JIRA)",
+      "imports": [
+         "Enrico Daga (JIRA)",
+         "Andrea Nuzzolese (JIRA)"
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz",
+         "David Riccitelli",
+         "Olivier Grisel",
+         "Enrico Daga",
+         "David Riccitelli",
+         "Anuj Kumar",
+         "Anuj Kumar",
+         "Anuj Kumar"
+      ]
+   },
+   {
+      "name": "Enrico Daga",
+      "imports": [
+         "Rupert Westenthaler",
+         "Fabian Christ",
+         "David Riccitelli",
+         "David Riccitelli",
+         "Rupert Westenthaler",
+         "Suat Gonul"
+      ]
+   },
+   {
+      "name": "Rupert Westenthaler (JIRA)",
+      "imports": [
+         "Fabian Christ (JIRA)",
+         "Fabian Christ (JIRA)"
+      ]
+   },
+   {
+      "name": "Olivier Grisel",
+      "imports": [
+         "Tommaso Teofili",
+         "Fabian Christ",
+         "Fabian Christ",
+         "Rupert Westenthaler",
+         "Enrico Daga",
+         "Andrea Giovanni Nuzzolese",
+         "Alessandro Adamou",
+         "Alessandro Adamou",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "Stefane Fermigier",
+      "imports": [
+         "Alessandro Adamou"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "no-reply",
+         "Bertrand Delacretaz",
+         "Olivier Grisel"
+      ]
+   },
+   {
+      "name": "Alessandro Adamou",
+      "imports": [
+         "Rupert Westenthaler",
+         "David Riccitelli",
+         "David Riccitelli",
+         "David Riccitelli",
+         "Rupert Westenthaler",
+         "David Riccitelli",
+         "David Riccitelli"
+      ]
+   },
+   {
+      "name": "Enrico Daga (JIRA)",
+      "imports": [
+         "Alessandro Adamou (JIRA)"
+      ]
+   },
+   {
+      "name": "Olivier Grisel (JIRA)",
+      "imports": [
+         "Alessandro Adamou (JIRA)"
+      ]
+   },
+   {
+      "name": "David Riccitelli",
+      "imports": [
+         "Rupert Westenthaler",
+         "Alessandro Adamou",
+         "Enrico Daga",
+         "Alessandro Adamou",
+         "Alessandro Adamou"
+      ]
+   },
+   {
+      "name": "Fabian Christ",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Enrico Daga",
+         "Enrico Daga",
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Anuj Kumar",
+      "imports": [
+         "Rupert Westenthaler",
+         "Rupert Westenthaler",
+         "Rupert Westenthaler"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Andrea Giovanni Nuzzolese",
+      "imports": [
+         "Olivier Grisel",
+         "David Riccitelli"
+      ]
+   }
+]

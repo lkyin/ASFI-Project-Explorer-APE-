@@ -1,0 +1,123 @@
+[
+   {
+      "name": "gtapper",
+      "imports": []
+   },
+   {
+      "name": "Gunnar Tapper",
+      "imports": [
+         "Barbara Malta Gomes",
+         "Justin Mclean",
+         "ASF GitHub Bot (JIRA)",
+         "Tony Faustini",
+         "Tony Faustini",
+         "Tony Faustini",
+         "Justin Mclean",
+         "Tony Faustini",
+         "Tony Faustini",
+         "Tony Faustini",
+         "Justin Mclean",
+         "Justin Mclean",
+         "Barbara Malta Gomes",
+         "Justin Mclean (JIRA)",
+         "Rutvij Clerk",
+         "Tony Faustini"
+      ]
+   },
+   {
+      "name": "barbaragomes",
+      "imports": []
+   },
+   {
+      "name": "Justin Mclean",
+      "imports": [
+         "Gunnar Tapper",
+         "Gunnar Tapper",
+         "johndament",
+         "Tony Faustini",
+         "Tony Faustini",
+         "Gunnar Tapper",
+         "Gunnar Tapper",
+         "Tony Faustini",
+         "Gunnar Tapper",
+         "Tony Faustini",
+         "Gunnar Tapper"
+      ]
+   },
+   {
+      "name": "ASF GitHub Bot (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Trevor Grant",
+      "imports": []
+   },
+   {
+      "name": "Tony Faustini",
+      "imports": [
+         "Justin Mclean",
+         "Gunnar Tapper",
+         "Tarun Gupta",
+         "Gunnar Tapper",
+         "Gunnar Tapper",
+         "Justin Mclean",
+         "Gunnar Tapper",
+         "Gunnar Tapper",
+         "Justin Mclean",
+         "Trevor Grant",
+         "Gunnar Tapper",
+         "Gunnar Tapper",
+         "Gunnar Tapper",
+         "Justin Mclean",
+         "Gunnar Tapper",
+         "Gunnar Tapper",
+         "Justin Mclean",
+         "Gunnar Tapper",
+         "Justin Mclean"
+      ]
+   },
+   {
+      "name": "Hadrian Zbarcea",
+      "imports": [
+         "Barbara Malta Gomes",
+         "Adarsh Shrivastava"
+      ]
+   },
+   {
+      "name": "johndament",
+      "imports": []
+   },
+   {
+      "name": "Adarsh Shrivastava",
+      "imports": []
+   },
+   {
+      "name": "Tarun Gupta",
+      "imports": []
+   },
+   {
+      "name": "Rutvij Clerk",
+      "imports": []
+   },
+   {
+      "name": "asfgit",
+      "imports": [
+         "barbaragomes",
+         "barbaragomes",
+         "barbaragomes",
+         "gtapper",
+         "barbaragomes"
+      ]
+   },
+   {
+      "name": "Justin Mclean (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Barbara Malta Gomes",
+      "imports": [
+         "Gunnar Tapper",
+         "Gunnar Tapper"
+      ]
+   }
+]

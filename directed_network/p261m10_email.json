@@ -1,0 +1,24 @@
+[
+   {
+      "name": "Pan, Lei (398K)",
+      "imports": []
+   },
+   {
+      "name": "Mattmann, Chris A (3980)",
+      "imports": [
+         "Michael Joyce"
+      ]
+   },
+   {
+      "name": "Jia Zhang",
+      "imports": [
+         "Michael Joyce"
+      ]
+   },
+   {
+      "name": "Michael Joyce",
+      "imports": [
+         "Pan, Lei (398K)"
+      ]
+   }
+]

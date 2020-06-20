@@ -1,0 +1,19 @@
+[
+   {
+      "name": "Robert Burrell Donkin",
+      "imports": []
+   },
+   {
+      "name": "Bobrovsky, Konstantin S",
+      "imports": [
+         "Stuart Monteith"
+      ]
+   },
+   {
+      "name": "Stuart Monteith",
+      "imports": [
+         "Robert Burrell Donkin",
+         "Bobrovsky, Konstantin S"
+      ]
+   }
+]

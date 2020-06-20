@@ -1,0 +1,307 @@
+[
+   {
+      "name": "Torsten Curdt (JIRA)",
+      "imports": [
+         "Milind Bhandarkar (JIRA)"
+      ]
+   },
+   {
+      "name": "Olga Natkovich (JIRA)",
+      "imports": [
+         "Andrzej Bialecki  (JIRA)",
+         "Milind Bhandarkar (JIRA)",
+         "Benjamin Reed (JIRA)",
+         "Benjamin Reed (JIRA)",
+         "Utkarsh Srivastava (JIRA)",
+         "Patrick Hunt (JIRA)",
+         "Patrick Hunt (JIRA)",
+         "Patrick Hunt (JIRA)",
+         "Patrick Hunt (JIRA)",
+         "Patrick Hunt (JIRA)",
+         "Sam Pullara (JIRA)",
+         "Sam Pullara (JIRA)",
+         "Patrick Hunt (JIRA)",
+         "Sam Pullara (JIRA)"
+      ]
+   },
+   {
+      "name": "Andrzej Bialecki",
+      "imports": [
+         "Benjamin Reed",
+         "Chris Olston"
+      ]
+   },
+   {
+      "name": "Patrick Hunt (JIRA)",
+      "imports": [
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)"
+      ]
+   },
+   {
+      "name": "Benjamin Reed (JIRA)",
+      "imports": [
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Milind Bhandarkar (JIRA)",
+         "Milind Bhandarkar (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Utkarsh Srivastava (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Sam Pullara (JIRA)",
+         "Utkarsh Srivastava (JIRA)",
+         "Sam Pullara (JIRA)",
+         "Sam Pullara (JIRA)"
+      ]
+   },
+   {
+      "name": "Antonio Magnaghi (JIRA)",
+      "imports": [
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)"
+      ]
+   },
+   {
+      "name": "Apache Wiki",
+      "imports": []
+   },
+   {
+      "name": "Utkarsh Srivastava",
+      "imports": [
+         "Alan Gates",
+         "Benjamin Reed",
+         "Olga Natkovich (JIRA)",
+         "Ted Dunning",
+         "Chris Olston"
+      ]
+   },
+   {
+      "name": "Ted Dunning",
+      "imports": [
+         "Utkarsh Srivastava",
+         "Owen O''Malley (JIRA)",
+         "Andrzej Bialecki",
+         "Utkarsh Srivastava",
+         "Chris Olston"
+      ]
+   },
+   {
+      "name": "Alan Gates",
+      "imports": [
+         "Benjamin Reed",
+         "Benjamin Reed",
+         "Utkarsh Srivastava",
+         "Benjamin Reed"
+      ]
+   },
+   {
+      "name": "Utkarsh Srivastava (JIRA)",
+      "imports": [
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Patrick Hunt (JIRA)",
+         "Patrick Hunt (JIRA)",
+         "Patrick Hunt (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Patrick Hunt (JIRA)",
+         "Sam Pullara (JIRA)",
+         "Sam Pullara (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)"
+      ]
+   },
+   {
+      "name": "David Ciemiewicz (JIRA)",
+      "imports": [
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)"
+      ]
+   },
+   {
+      "name": "Sam Pullara (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "David (Ciemo) Ciemiewicz",
+      "imports": [
+         "Alan Gates"
+      ]
+   },
+   {
+      "name": "Alan Gates (JIRA)",
+      "imports": [
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Milind Bhandarkar (JIRA)",
+         "Milind Bhandarkar (JIRA)",
+         "Milind Bhandarkar (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Patrick Hunt (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Patrick Hunt (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich (JIRA)"
+      ]
+   },
+   {
+      "name": "Milind Bhandarkar (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ted Dunning (JIRA)",
+      "imports": [
+         "Olga Natkovich (JIRA)",
+         "Patrick Hunt (JIRA)",
+         "Sam Pullara (JIRA)"
+      ]
+   },
+   {
+      "name": "Alexandru Toth",
+      "imports": []
+   },
+   {
+      "name": "Chris Olston",
+      "imports": [
+         "Alexandru Toth",
+         "Ted Dunning",
+         "Ted Dunning",
+         "Olga Natkovich",
+         "Alan Gates (JIRA)"
+      ]
+   },
+   {
+      "name": "Doug Cutting (JIRA)",
+      "imports": [
+         "Olga Natkovich (JIRA)",
+         "Milind Bhandarkar (JIRA)",
+         "Benjamin Reed (JIRA)",
+         "Benjamin Reed (JIRA)",
+         "Benjamin Reed (JIRA)"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Olga Natkovich"
+      ]
+   },
+   {
+      "name": "Doug Cutting",
+      "imports": [
+         "Olga Natkovich",
+         "Olga Natkovich",
+         "Alan Gates",
+         "Apache Wiki",
+         "Olga Natkovich",
+         "Olga Natkovich",
+         "Olga Natkovich",
+         "Olga Natkovich"
+      ]
+   },
+   {
+      "name": "Owen O''Malley (JIRA)",
+      "imports": [
+         "Milind Bhandarkar (JIRA)"
+      ]
+   },
+   {
+      "name": "Benjamin Reed",
+      "imports": [
+         "Andrzej Bialecki",
+         "Alan Gates",
+         "Utkarsh Srivastava",
+         "Olga Natkovich",
+         "Alan Gates",
+         "Nigel Daley",
+         "Olga Natkovich",
+         "Craig Macdonald"
+      ]
+   },
+   {
+      "name": "Olga Natkovich",
+      "imports": [
+         "Doug Cutting",
+         "Doug Cutting",
+         "Doug Cutting",
+         "Antonio Magnaghi",
+         "Doug Cutting",
+         "Doug Cutting",
+         "Alan Gates (JIRA)",
+         "Doug Cutting",
+         "Doug Cutting",
+         "Antonio Magnaghi",
+         "Nigel Daley",
+         "Craig Macdonald",
+         "Antonio Magnaghi"
+      ]
+   },
+   {
+      "name": "Andrzej Bialecki  (JIRA)",
+      "imports": [
+         "Olga Natkovich (JIRA)"
+      ]
+   },
+   {
+      "name": "Nigel Daley",
+      "imports": [
+         "Alan Gates",
+         "Utkarsh Srivastava",
+         "Olga Natkovich (JIRA)",
+         "Olga Natkovich"
+      ]
+   },
+   {
+      "name": "Yoav Shapira",
+      "imports": [
+         "Olga Natkovich"
+      ]
+   },
+   {
+      "name": "Craig Macdonald",
+      "imports": [
+         "Benjamin Reed",
+         "Benjamin Reed"
+      ]
+   },
+   {
+      "name": "Antonio Magnaghi",
+      "imports": [
+         "Olga Natkovich"
+      ]
+   }
+]

@@ -1,0 +1,68 @@
+[
+   {
+      "name": "Jochen Theodorou",
+      "imports": [
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?="
+      ]
+   },
+   {
+      "name": "Richard Heintze",
+      "imports": [
+         "Derek Visch",
+         "Derek Visch",
+         "Derek Visch",
+         "Derek Visch",
+         "Derek Visch",
+         "Derek Visch",
+         "Derek Visch",
+         "Derek Visch",
+         "Derek Visch"
+      ]
+   },
+   {
+      "name": "Pascal Schumacher",
+      "imports": [
+         "Paul King",
+         "John Wagenleitner",
+         "=?UTF-8?Q?C=C3=A9dric_Champeau?="
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Emmanuel_L=c3=a9charny?=",
+      "imports": [
+         "Pascal Schumacher"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?C=C3=A9dric_Champeau?=",
+      "imports": [
+         "Pascal Schumacher",
+         "Thibault Kruse"
+      ]
+   },
+   {
+      "name": "Paul King",
+      "imports": [
+         "pascalschumacher",
+         "Pascal Schumacher"
+      ]
+   },
+   {
+      "name": "Thibault Kruse",
+      "imports": []
+   },
+   {
+      "name": "John Wagenleitner",
+      "imports": []
+   },
+   {
+      "name": "pascalschumacher",
+      "imports": []
+   },
+   {
+      "name": "Derek Visch",
+      "imports": [
+         "Richard Heintze"
+      ]
+   }
+]

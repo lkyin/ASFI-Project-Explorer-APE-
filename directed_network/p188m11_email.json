@@ -1,0 +1,43 @@
+[
+   {
+      "name": "Jukka Zitting (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ben Litchfield",
+      "imports": [
+         "Andreas.Lehmkuehler"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Gitanjali Saroop"
+      ]
+   },
+   {
+      "name": "Brian Carrier",
+      "imports": [
+         "Jukka Zitting (JIRA)",
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Andreas_Lehmk=C3=BChler_=28JIRA=29?=",
+      "imports": [
+         "Jukka Zitting (JIRA)",
+         "Jukka Zitting (JIRA)",
+         "Jukka Zitting (JIRA)"
+      ]
+   },
+   {
+      "name": "Andreas.Lehmkuehler",
+      "imports": [
+         "Brian Carrier"
+      ]
+   },
+   {
+      "name": "Gitanjali Saroop",
+      "imports": []
+   }
+]

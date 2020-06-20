@@ -1,0 +1,69 @@
+[
+   {
+      "name": "Andreas Neumann",
+      "imports": [
+         "Bernd Fondermann",
+         "Bernd Fondermann",
+         "Bernd Fondermann",
+         "Nitin Motgi",
+         "Bernd Fondermann",
+         "Bernd Fondermann",
+         "Bernd Fondermann"
+      ]
+   },
+   {
+      "name": "Andreas Neumann (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Nitin Motgi",
+      "imports": [
+         "Andreas Neumann"
+      ]
+   },
+   {
+      "name": "Gary Helmling",
+      "imports": [
+         "Patrick Hunt",
+         "Andreas Neumann"
+      ]
+   },
+   {
+      "name": "Bernd Fondermann",
+      "imports": [
+         "Andreas Neumann",
+         "Patrick Hunt",
+         "Andreas Neumann",
+         "Andreas Neumann",
+         "Andreas Neumann (JIRA)",
+         "Terence Yim",
+         "Terence Yim",
+         "Andreas Neumann (JIRA)",
+         "Andreas Neumann (JIRA)",
+         "Andreas Neumann (JIRA)"
+      ]
+   },
+   {
+      "name": "Poorna Chandra",
+      "imports": [
+         "Terence Yim"
+      ]
+   },
+   {
+      "name": "Terence Yim",
+      "imports": [
+         "Bernd Fondermann",
+         "Bernd Fondermann",
+         "Andreas Neumann"
+      ]
+   },
+   {
+      "name": "Patrick Hunt",
+      "imports": [
+         "Gary Helmling",
+         "Andreas Neumann",
+         "Andreas Neumann",
+         "Gary Helmling"
+      ]
+   }
+]

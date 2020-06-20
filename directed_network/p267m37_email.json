@@ -1,0 +1,52 @@
+[
+   {
+      "name": "Javier Puerto (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Tobias_R=FCbner?=",
+      "imports": [
+         "Thorsten Scherler"
+      ]
+   },
+   {
+      "name": "Richard Frovarp (Commented) (JIRA)",
+      "imports": [
+         "Javier Puerto (JIRA)"
+      ]
+   },
+   {
+      "name": "Tony Dietrich (Updated) (JIRA)",
+      "imports": [
+         "Tony Dietrich (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Eugen Paraschiv",
+      "imports": [
+         "Richard Frovarp"
+      ]
+   },
+   {
+      "name": "Thorsten Scherler",
+      "imports": [
+         "Richard Frovarp"
+      ]
+   },
+   {
+      "name": "Tony Dietrich (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Javier Puerto",
+      "imports": [
+         "Richard Frovarp"
+      ]
+   },
+   {
+      "name": "Richard Frovarp",
+      "imports": [
+         "Eugen Paraschiv"
+      ]
+   }
+]

@@ -1,0 +1,101 @@
+[
+   {
+      "name": "Ugo Cei (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Serge Huber",
+      "imports": [
+         "Florent Guillaume"
+      ]
+   },
+   {
+      "name": "David Nuescheler",
+      "imports": [
+         "Michael Marth"
+      ]
+   },
+   {
+      "name": "Florent Guillaume",
+      "imports": [
+         "Michael Marth",
+         "Shane Johnson"
+      ]
+   },
+   {
+      "name": "Michael Marth",
+      "imports": [
+         "Stefane Fermigier",
+         "Shane Johnson"
+      ]
+   },
+   {
+      "name": "Shane Johnson",
+      "imports": []
+   },
+   {
+      "name": "=?iso-8859-1?Q?Jens_H=FCbel?=",
+      "imports": [
+         "Paolo Mottadelli"
+      ]
+   },
+   {
+      "name": "Stefane Fermigier",
+      "imports": [
+         "Serge Huber"
+      ]
+   },
+   {
+      "name": "David Nuescheler (JIRA)",
+      "imports": [
+         "Ugo Cei (JIRA)"
+      ]
+   },
+   {
+      "name": "Paolo Mottadelli",
+      "imports": []
+   },
+   {
+      "name": "Paolo Mottadelli (JIRA)",
+      "imports": [
+         "Ugo Cei (JIRA)",
+         "Ugo Cei (JIRA)"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Paolo Mottadelli",
+         "Florent Guillaume",
+         "David Torres"
+      ]
+   },
+   {
+      "name": "Alexander Chow",
+      "imports": [
+         "Florent Guillaume"
+      ]
+   },
+   {
+      "name": "David Torres",
+      "imports": []
+   },
+   {
+      "name": "Dominique Pfister",
+      "imports": [
+         "Florent Guillaume"
+      ]
+   },
+   {
+      "name": "Piergiorgio Lucidi",
+      "imports": [
+         "David Caruana"
+      ]
+   },
+   {
+      "name": "David Caruana",
+      "imports": [
+         "Florent Guillaume"
+      ]
+   }
+]

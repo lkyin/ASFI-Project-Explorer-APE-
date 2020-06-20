@@ -1,0 +1,301 @@
+[
+   {
+      "name": "Sean Gilligan",
+      "imports": [
+         "David M Johnson",
+         "Anil Gangolli",
+         "Anil Gangolli",
+         "Matt Raible",
+         "Matt Raible",
+         "Henri Yandell",
+         "Henri Yandell",
+         "Brian Topping",
+         "Brian Topping",
+         "Elias Torres",
+         "hanhei (sent by Nabble.com)",
+         "David M Johnson",
+         "Anil Gangolli",
+         "Anil Gangolli",
+         "David M Johnson",
+         "Anil Gangolli",
+         "Anil Gangolli"
+      ]
+   },
+   {
+      "name": "Aswath Satrasala",
+      "imports": []
+   },
+   {
+      "name": "Miguel A Paraz",
+      "imports": [
+         "David M Johnson",
+         "Allen Gilliland",
+         "Maxim Surov",
+         "Elias Torres",
+         "Jeff Blattman"
+      ]
+   },
+   {
+      "name": "Matt Raible",
+      "imports": [
+         "Anil Gangolli",
+         "Brian Topping",
+         "Anil Gangolli",
+         "Anil Gangolli",
+         "Dave Johnson",
+         "Henri Yandell",
+         "Matthew P. Schmidt",
+         "Allen Gilliland",
+         "Allen Gilliland",
+         "Glenn Nielsen",
+         "Allen Gilliland",
+         "Allen Gilliland",
+         "Allen Gilliland",
+         "Allen Gilliland",
+         "Jeff Blattman"
+      ]
+   },
+   {
+      "name": "Elias Torres",
+      "imports": [
+         "Allen Gilliland",
+         "David Levy",
+         "Allen Gilliland",
+         "Lance Lavandowska",
+         "Henri Yandell",
+         "Sean Gilligan",
+         "Sean Gilligan",
+         "David Levy",
+         "David M Johnson",
+         "jojo_long (sent by Nabble.com)",
+         "David M Johnson",
+         "Miguel A Paraz"
+      ]
+   },
+   {
+      "name": "Matthew P. Schmidt",
+      "imports": [
+         "Matt Raible",
+         "Allen Gilliland",
+         "Matt Raible",
+         "Matt Raible"
+      ]
+   },
+   {
+      "name": "Maxim Surov",
+      "imports": []
+   },
+   {
+      "name": "M. Purbo",
+      "imports": []
+   },
+   {
+      "name": "jojo_long (sent by Nabble.com)",
+      "imports": []
+   },
+   {
+      "name": "Allen Gilliland",
+      "imports": [
+         "Anil Gangolli",
+         "David Levy",
+         "Elias Torres",
+         "Elias Torres",
+         "David M Johnson",
+         "David M Johnson",
+         "Henri Yandell",
+         "Dave Johnson",
+         "Dave Johnson",
+         "Matt Raible",
+         "Henri Yandell",
+         "Matt Raible",
+         "David M Johnson",
+         "David M Johnson",
+         "Lance Lavandowska",
+         "David M Johnson",
+         "David M Johnson",
+         "Miguel A Paraz",
+         "David M Johnson",
+         "Matt Raible",
+         "John Hoffmann",
+         "Elias Torres",
+         "Anil Gangolli",
+         "Sean Gilligan",
+         "Anil Gangolli",
+         "David M Johnson",
+         "Anil Gangolli",
+         "Ian Kallen",
+         "David M Johnson",
+         "David M Johnson"
+      ]
+   },
+   {
+      "name": "David Levy",
+      "imports": [
+         "Elias Torres",
+         "Elias Torres",
+         "Elias Torres",
+         "Allen Gilliland",
+         "Elias Torres"
+      ]
+   },
+   {
+      "name": "Isaac Joan Melis i Pons",
+      "imports": []
+   },
+   {
+      "name": "David M Johnson",
+      "imports": [
+         "agilliland",
+         "agilliland",
+         "Allen Gilliland",
+         "Allen Gilliland",
+         "Allen Gilliland",
+         "Miguel A Paraz",
+         "Henri Yandell",
+         "Henri Yandell",
+         "Miguel A Paraz",
+         "Matt Raible",
+         "Sean Gilligan",
+         "Allen Gilliland",
+         "Allen Gilliland",
+         "Elias Torres",
+         "Matt Raible",
+         "Jeff Blattman",
+         "Elias Torres",
+         "Elias Torres",
+         "Sean Gilligan",
+         "Isaac Joan Melis i Pons",
+         "Jeff Blattman",
+         "Allen Gilliland",
+         "Allen Gilliland",
+         "Allen Gilliland",
+         "Allen Gilliland"
+      ]
+   },
+   {
+      "name": "Ian Kallen",
+      "imports": [
+         "David M Johnson"
+      ]
+   },
+   {
+      "name": "Brian Topping",
+      "imports": [
+         "Elias Torres",
+         "Matt Raible",
+         "Sean Gilligan",
+         "Matt Raible"
+      ]
+   },
+   {
+      "name": "John Hoffmann",
+      "imports": [
+         "Matt Raible",
+         "Allen Gilliland"
+      ]
+   },
+   {
+      "name": "hanhei (sent by Nabble.com)",
+      "imports": []
+   },
+   {
+      "name": "Henri Yandell",
+      "imports": [
+         "Dave Johnson",
+         "Dave Johnson",
+         "Ted Husted",
+         "Dave Johnson",
+         "Dave Johnson",
+         "metinex (sent by Nabble.com)",
+         "metinex (sent by Nabble.com)",
+         "Sean Gilligan",
+         "Sean Gilligan"
+      ]
+   },
+   {
+      "name": "Jeff Blattman",
+      "imports": [
+         "Allen Gilliland",
+         "David M Johnson"
+      ]
+   },
+   {
+      "name": "Glenn Nielsen",
+      "imports": [
+         "Max Rudman",
+         "Anil Gangolli",
+         "Matt Raible"
+      ]
+   },
+   {
+      "name": "Max Rudman",
+      "imports": [
+         "Anil Gangolli"
+      ]
+   },
+   {
+      "name": "Ted Husted",
+      "imports": [
+         "Dave Johnson",
+         "Henri Yandell"
+      ]
+   },
+   {
+      "name": "agilliland",
+      "imports": []
+   },
+   {
+      "name": "Lance Lavandowska",
+      "imports": [
+         "Henri Yandell",
+         "Henri Yandell"
+      ]
+   },
+   {
+      "name": "Brian Blakeley",
+      "imports": [
+         "David M Johnson"
+      ]
+   },
+   {
+      "name": "Dave Johnson",
+      "imports": [
+         "Allen Gilliland",
+         "Anil Gangolli",
+         "Matt Raible",
+         "Henri Yandell",
+         "Anil Gangolli",
+         "Ted Husted",
+         "Allen Gilliland",
+         "Matt Raible",
+         "M. Purbo",
+         "Aswath Satrasala",
+         "Henri Yandell"
+      ]
+   },
+   {
+      "name": "metinex (sent by Nabble.com)",
+      "imports": [
+         "Henri Yandell"
+      ]
+   },
+   {
+      "name": "Anil Gangolli",
+      "imports": [
+         "Allen Gilliland",
+         "Matt Raible",
+         "Sean Gilligan",
+         "Sean Gilligan",
+         "Glenn Nielsen",
+         "David Levy",
+         "David Levy",
+         "Allen Gilliland",
+         "Sean Gilligan",
+         "Sean Gilligan",
+         "Sean Gilligan",
+         "Allen Gilliland",
+         "Allen Gilliland",
+         "Allen Gilliland"
+      ]
+   }
+]

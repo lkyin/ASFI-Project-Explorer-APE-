@@ -1,0 +1,298 @@
+[
+   {
+      "name": "Dave Fisher",
+      "imports": [
+         "Bolz, Michael",
+         "=?ISO-8859-15?Q?G=FCnther_Schmidt?=",
+         "Klevenz, Stephan",
+         "Klevenz, Stephan",
+         "=?ISO-8859-1?Q?G=FCnther_Schmidt?="
+      ]
+   },
+   {
+      "name": "=?GB2312?B?RnJhbmNlc2NvIENoaWNjaGlyaWNjqLA=?=",
+      "imports": [
+         "Challen He",
+         "Klevenz, Stephan"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-15?Q?G=FCnther_Schmidt?=",
+      "imports": []
+   },
+   {
+      "name": "Maxim Kostin",
+      "imports": [
+         "V.A, Chandan"
+      ]
+   },
+   {
+      "name": "Rajabali, Hanif",
+      "imports": [
+         "Handl, Ralf"
+      ]
+   },
+   {
+      "name": "Bolz, Michael",
+      "imports": [
+         "Klevenz, Stephan",
+         "V.A, Chandan",
+         "V.A, Chandan",
+         "Sergey Beryozkin",
+         "Rajabali, Hanif",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "Carl Mosca",
+         "Rajabali, Hanif",
+         "Klevenz, Stephan",
+         "Klevenz, Stephan"
+      ]
+   },
+   {
+      "name": "Bing Li",
+      "imports": [
+         "Eduard Koller (MS OPEN TECH)"
+      ]
+   },
+   {
+      "name": "ASF subversion and git services (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "V.A, Chandan",
+      "imports": [
+         "Bolz, Michael",
+         "Klevenz, Stephan",
+         "Amend, Christian",
+         "Bolz, Michael",
+         "=?ISO-8859-1?Q?G=FCnther_Schmidt?=",
+         "Klevenz, Stephan"
+      ]
+   },
+   {
+      "name": "Abhay Kumar",
+      "imports": []
+   },
+   {
+      "name": "Alan Cabrera",
+      "imports": [
+         "Klevenz, Stephan",
+         "Klevenz, Stephan",
+         "Klevenz, Stephan"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+      "imports": [
+         "Klevenz, Stephan",
+         "Handl, Ralf",
+         "Handl, Ralf",
+         "Bolz, Michael",
+         "Klevenz, Stephan",
+         "Klevenz, Stephan",
+         "Klevenz, Stephan",
+         "Klevenz, Stephan",
+         "Klevenz, Stephan",
+         "Amend, Christian",
+         "Klevenz, Stephan",
+         "Maxim Kostin",
+         "Klevenz, Stephan",
+         "Amend, Christian",
+         "Amend, Christian",
+         "Klevenz, Stephan"
+      ]
+   },
+   {
+      "name": "Eduard Koller (MS OPEN TECH)",
+      "imports": [
+         "Klevenz, Stephan",
+         "Klevenz, Stephan",
+         "Klevenz, Stephan",
+         "Francesco =?utf-8?Q?Chicchiricc=C3=B2?=",
+         "=?UTF-8?B?RnJhbmNlc2NvIENoaWNjaGlyaWNjw7I=?=",
+         "Klevenz, Stephan",
+         "Huesken, Jens",
+         "Klevenz, Stephan",
+         "Klevenz, Stephan",
+         "Klevenz, Stephan"
+      ]
+   },
+   {
+      "name": "Klevenz, Stephan",
+      "imports": [
+         "Eduard Koller (MS OPEN TECH)",
+         "Eduard Koller (MS OPEN TECH)",
+         "Eduard Koller (MS OPEN TECH)",
+         "Abhay Kumar",
+         "Eduard Koller (MS OPEN TECH)",
+         "Eduard Koller (MS OPEN TECH)",
+         "Fabio Martelli",
+         "Fabio Martelli",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "Eduard Koller (MS OPEN TECH)",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "Amend, Christian",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "Dave Fisher",
+         "Challen He",
+         "V.A, Chandan",
+         "Amend, Christian",
+         "Fabio Martelli",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "Challen He",
+         "Challen He",
+         "Challen He",
+         "Eduard Koller (MS OPEN TECH)"
+      ]
+   },
+   {
+      "name": "Hanif Rajabali",
+      "imports": [
+         "ASF subversion and git services (JIRA)"
+      ]
+   },
+   {
+      "name": "Francesco =?utf-8?Q?Chicchiricc=C3=B2?=",
+      "imports": [
+         "Eduard Koller (MS OPEN TECH)"
+      ]
+   },
+   {
+      "name": "Challen He",
+      "imports": [
+         "Bing Li",
+         "Amend, Christian",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "Klevenz, Stephan",
+         "Klevenz, Stephan",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "=?GB2312?B?RnJhbmNlc2NvIENoaWNjaGlyaWNjqLA=?=",
+         "Dave Fisher",
+         "V.A, Chandan",
+         "=?GB2312?B?RnJhbmNlc2NvIENoaWNjaGlyaWNjqLA=?="
+      ]
+   },
+   {
+      "name": "Amend, Christian",
+      "imports": [
+         "=?windows-1252?Q?Francesco_Chicchiricc=F2?=",
+         "Klevenz, Stephan",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "=?UTF-8?Q?Florian_M=C3=BCller?=",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "=?GB2312?B?RnJhbmNlc2NvIENoaWNjaGlyaWNjqLA=?=",
+         "=?UTF-8?B?RnJhbmNlc2NvIENoaWNjaGlyaWNjw7I=?=",
+         "Carl Mosca"
+      ]
+   },
+   {
+      "name": "Carl Mosca",
+      "imports": [
+         "Amend, Christian",
+         "Chandan V.A (JIRA)",
+         "Amend, Christian",
+         "Amend, Christian",
+         "Chandan V.A (JIRA)",
+         "Klevenz, Stephan"
+      ]
+   },
+   {
+      "name": "Handl, Ralf",
+      "imports": [
+         "Rajabali, Hanif",
+         "Rajabali, Hanif",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "Sergey Beryozkin",
+         "Gaurav Garg (JIRA)"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?G=FCnther_Schmidt?=",
+      "imports": [
+         "Dave Fisher"
+      ]
+   },
+   {
+      "name": "Huesken, Jens",
+      "imports": [
+         "Klevenz, Stephan",
+         "Eduard Koller (MS OPEN TECH)",
+         "Amend, Christian",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?=",
+         "Klevenz, Stephan"
+      ]
+   },
+   {
+      "name": "=?windows-1252?Q?Francesco_Chicchiricc=F2?=",
+      "imports": [
+         "Klevenz, Stephan"
+      ]
+   },
+   {
+      "name": "Christian Amend (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?B?RnJhbmNlc2NvIENoaWNjaGlyaWNjw7I=?=",
+      "imports": [
+         "Eduard Koller (MS OPEN TECH)",
+         "Klevenz, Stephan",
+         "ASF subversion and git services (JIRA)",
+         "Christian Amend (JIRA)",
+         "Amend, Christian",
+         "Amend, Christian"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Florian_M=C3=BCller?=",
+      "imports": [
+         "Klevenz, Stephan",
+         "Dave Fisher",
+         "Klevenz, Stephan"
+      ]
+   },
+   {
+      "name": "Sergey Beryozkin",
+      "imports": [
+         "Klevenz, Stephan",
+         "Kobler-Morris, Sven",
+         "Kobler-Morris, Sven",
+         "Handl, Ralf"
+      ]
+   },
+   {
+      "name": "Kobler-Morris, Sven",
+      "imports": [
+         "Bolz, Michael",
+         "Sergey Beryozkin",
+         "Klevenz, Stephan"
+      ]
+   },
+   {
+      "name": "Gaurav Garg (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Florian_M=FCller?=",
+      "imports": [
+         "Klevenz, Stephan"
+      ]
+   },
+   {
+      "name": "Fabio Martelli",
+      "imports": [
+         "Klevenz, Stephan",
+         "=?ISO-8859-1?Q?Francesco_Chicchiricc=F2?="
+      ]
+   },
+   {
+      "name": "Chandan V.A (JIRA)",
+      "imports": []
+   }
+]

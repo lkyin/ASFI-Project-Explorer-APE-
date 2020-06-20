@@ -1,0 +1,631 @@
+[
+   {
+      "name": "Alonso Andres",
+      "imports": []
+   },
+   {
+      "name": "Minty",
+      "imports": [
+         "ogjunk-nutch"
+      ]
+   },
+   {
+      "name": "jason tang",
+      "imports": []
+   },
+   {
+      "name": "Piotr Kosiorowski (JIRA)",
+      "imports": [
+         "Stefan Grroschupf (JIRA)",
+         "Stefan Grroschupf (JIRA)"
+      ]
+   },
+   {
+      "name": "Andy Liu",
+      "imports": [
+         "Doug Cutting",
+         "Siva Bandhamravuri",
+         "zhang jin",
+         "Matthias Jaekle",
+         "Luke Baker"
+      ]
+   },
+   {
+      "name": "Ken Meltsner",
+      "imports": [
+         "Stefan Grroschupf (JIRA)",
+         "John X"
+      ]
+   },
+   {
+      "name": "cao yuzhong",
+      "imports": [
+         "Jason Tang",
+         "Jason Tang",
+         "David Wallace"
+      ]
+   },
+   {
+      "name": "Konstantin Ignatyev (JIRA)",
+      "imports": [
+         "Stefan Grroschupf (JIRA)"
+      ]
+   },
+   {
+      "name": "Stefan Grroschupf (JIRA)",
+      "imports": [
+         "Doug Cutting (JIRA)",
+         "Kelvin Tan (JIRA)",
+         "zhangjin (JIRA)",
+         "Chris A. Mattmann (JIRA)",
+         "Sami Siren (JIRA)",
+         "Chris A. Mattmann (JIRA)",
+         "Chris A. Mattmann (JIRA)",
+         "Chris A. Mattmann (JIRA)",
+         "Chris A. Mattmann (JIRA)"
+      ]
+   },
+   {
+      "name": "Andrzej Bialecki",
+      "imports": [
+         "cutting",
+         "Piotr Kosiorowski",
+         "shahzad tiwana",
+         "John X",
+         "Piotr Kosiorowski",
+         "Doug Cutting",
+         "Olaf Thiele",
+         "John X",
+         "Jack Tang",
+         "Byron Miller",
+         "Chris Mattmann",
+         "Chris Mattmann",
+         "Daniel Russo",
+         "=?ISO-8859-1?Q?J=E9r=F4me_Charron?="
+      ]
+   },
+   {
+      "name": "Luke Baker",
+      "imports": [
+         "tigger ."
+      ]
+   },
+   {
+      "name": "PA",
+      "imports": [
+         "Doug Cutting"
+      ]
+   },
+   {
+      "name": "shahzad tiwana",
+      "imports": []
+   },
+   {
+      "name": "Kelvin Tan (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Boris_Kr=F6ger?=",
+      "imports": []
+   },
+   {
+      "name": "Andy Liu (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "zhang jin",
+      "imports": [
+         "David Kimm",
+         "Luke Baker",
+         "Orlando Tempobono - AtlasVision",
+         "Doug Cutting"
+      ]
+   },
+   {
+      "name": "Sami Siren",
+      "imports": [
+         "Matthias Jaekle",
+         "Doug Cutting",
+         "Stefan Groschupf",
+         "Piotr Kosiorowski (JIRA)",
+         "John X",
+         "Doug Cutting",
+         "Byron Miller",
+         "=?ISO-8859-1?Q?J=E9r=F4me_Charron?="
+      ]
+   },
+   {
+      "name": "Jerome Charron (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Doug Cutting (JIRA)",
+      "imports": [
+         "Chris A. Mattmann (JIRA)",
+         "Chris A. Mattmann (JIRA)",
+         "Jerome Charron (JIRA)",
+         "Jerome Charron (JIRA)",
+         "Sami Siren (JIRA)",
+         "Sami Siren (JIRA)",
+         "Jack Tang (JIRA)",
+         "Jack Tang (JIRA)",
+         "Chris A. Mattmann (JIRA)",
+         "Andy Liu (JIRA)",
+         "Andy Liu (JIRA)",
+         "Chris A. Mattmann (JIRA)",
+         "Chris A. Mattmann (JIRA)",
+         "Chris A. Mattmann (JIRA)"
+      ]
+   },
+   {
+      "name": "Sami Siren (JIRA)",
+      "imports": [
+         "Piotr Kosiorowski (JIRA)",
+         "Piotr Kosiorowski (JIRA)",
+         "David Spencer (JIRA)",
+         "David Spencer (JIRA)",
+         "Stefan Grroschupf (JIRA)",
+         "Stefan Grroschupf (JIRA)",
+         "Stefan Grroschupf (JIRA)",
+         "Stefan Grroschupf (JIRA)",
+         "Stefan Grroschupf (JIRA)"
+      ]
+   },
+   {
+      "name": "Hasan Diwan",
+      "imports": [
+         "Stefan Groschupf",
+         "zhang jin"
+      ]
+   },
+   {
+      "name": "Isabel Drost",
+      "imports": [
+         "Stefan Groschupf",
+         "Stefan Groschupf",
+         "Doug Cutting"
+      ]
+   },
+   {
+      "name": "Stephan Lagraulet",
+      "imports": [
+         "Andrzej Bialecki"
+      ]
+   },
+   {
+      "name": "ogjunk-nutch",
+      "imports": []
+   },
+   {
+      "name": "Erik Hatcher",
+      "imports": [
+         "Andrzej Bialecki",
+         "Hari Kodungallur",
+         "Olaf Thiele"
+      ]
+   },
+   {
+      "name": "David Spencer",
+      "imports": [
+         "Michael Wechner"
+      ]
+   },
+   {
+      "name": "cn",
+      "imports": [
+         "Doug Cutting"
+      ]
+   },
+   {
+      "name": "praveen pathiyil",
+      "imports": [
+         "shahzad tiwana"
+      ]
+   },
+   {
+      "name": "Kevin A. Burton",
+      "imports": [
+         "Andrzej Bialecki",
+         "Andrzej Bialecki"
+      ]
+   },
+   {
+      "name": "John X",
+      "imports": [
+         "Stefan Grroschupf (JIRA)",
+         "Hari Kodungallur",
+         "Hari Kodungallur",
+         "Hari Kodungallur",
+         "Stephan Lagraulet",
+         "Andrzej Bialecki",
+         "Doug Cutting",
+         "=?ISO-8859-1?Q?J=E9r=F4me_Charron?=",
+         "Stefan Groschupf",
+         "Doug Cutting",
+         "Stefan Groschupf",
+         "Rohit Kulkarni"
+      ]
+   },
+   {
+      "name": "Chris Mattmann",
+      "imports": [
+         "Stefan Grroschupf (JIRA)",
+         "Stefan Groschupf",
+         "John X",
+         "John X",
+         "Stefan Groschupf",
+         "Doug Cutting",
+         "Doug Cutting",
+         "Andrzej Bialecki",
+         "=?ISO-8859-1?Q?J=E9r=F4me_Charron?=",
+         "Stephan Lagraulet"
+      ]
+   },
+   {
+      "name": "cutting",
+      "imports": []
+   },
+   {
+      "name": "Michael Wechner",
+      "imports": [
+         "Stefan Groschupf",
+         "Stefan Groschupf",
+         "ogjunk-nutch",
+         "David Spencer",
+         "Doug Cutting"
+      ]
+   },
+   {
+      "name": "Strittmatter, Stephan",
+      "imports": []
+   },
+   {
+      "name": "Zhou LiBing",
+      "imports": [
+         "cutting",
+         "Stefan Groschupf",
+         "Doug Cutting"
+      ]
+   },
+   {
+      "name": "Jack Tang",
+      "imports": [
+         "yoursoft@freemail.hu",
+         "Doug Cutting",
+         "Nick Lothian",
+         "Doug Cutting (JIRA)",
+         "zhang jin",
+         "cao yuzhong",
+         "cao yuzhong",
+         "Byron Miller",
+         "Doug Cutting"
+      ]
+   },
+   {
+      "name": "Hari Kodungallur",
+      "imports": [
+         "John X",
+         "Doug Cutting",
+         "John X",
+         "Erik Hatcher",
+         "John X",
+         "Erik Hatcher",
+         "=?ISO-8859-1?Q?J=E9r=F4me_Charron?="
+      ]
+   },
+   {
+      "name": "Nick Lothian",
+      "imports": []
+   },
+   {
+      "name": "yoursoft@freemail.hu",
+      "imports": [
+         "Roger Dunk",
+         "Sami Siren (JIRA)",
+         "Doug Cutting (JIRA)"
+      ]
+   },
+   {
+      "name": "Siva Bandhamravuri",
+      "imports": []
+   },
+   {
+      "name": "Nick Lothian (JIRA)",
+      "imports": [
+         "Stefan Grroschupf (JIRA)"
+      ]
+   },
+   {
+      "name": "Orlando Tempobono - AtlasVision",
+      "imports": []
+   },
+   {
+      "name": "Chris A. Mattmann (JIRA)",
+      "imports": [
+         "Stefan Grroschupf (JIRA)",
+         "Stefan Grroschupf (JIRA)",
+         "Stefan Grroschupf (JIRA)",
+         "Stefan Grroschupf (JIRA)"
+      ]
+   },
+   {
+      "name": "andy",
+      "imports": []
+   },
+   {
+      "name": "Stefan Groschupf",
+      "imports": [
+         "Strittmatter, Stephan",
+         "Christophe Noel",
+         "Christophe Noel",
+         "John X",
+         "Michael Wechner",
+         "Michael Wechner",
+         "David Spencer",
+         "Sami Siren",
+         "Minty",
+         "Michael Nebel",
+         "Piotr Kosiorowski",
+         "Matthias Jaekle",
+         "Isabel Drost",
+         "Isabel Drost",
+         "Andrzej Bialecki",
+         "Doug Cutting",
+         "Doug Cutting",
+         "Doug Cutting",
+         "Feng Zhou",
+         "John X",
+         "Feng Zhou",
+         "John X",
+         "Doug Cutting",
+         "=?ISO-8859-1?Q?J=E9r=F4me_Charron?=",
+         "Feng Zhou",
+         "Doug Cutting",
+         "Jason Tang",
+         "Matthias Jaekle",
+         "Doug Cutting",
+         "Rohit Kulkarni",
+         "Siva Bandhamravuri",
+         "Siva Bandhamravuri",
+         "Siva Bandhamravuri",
+         "Doug Cutting",
+         "Doug Cutting",
+         "=?ISO-8859-1?Q?Boris_Kr=F6ger?="
+      ]
+   },
+   {
+      "name": "Jason Tang",
+      "imports": []
+   },
+   {
+      "name": "Michael Nebel",
+      "imports": [
+         "Piotr Kosiorowski"
+      ]
+   },
+   {
+      "name": "Jeff Love",
+      "imports": [
+         "David Kimm"
+      ]
+   },
+   {
+      "name": "Byron Miller",
+      "imports": [
+         "Sami Siren"
+      ]
+   },
+   {
+      "name": "Kevin Burton (JIRA)",
+      "imports": [
+         "Stefan Grroschupf (JIRA)"
+      ]
+   },
+   {
+      "name": "Piotr Kosiorowski",
+      "imports": [
+         "Stefan Groschupf",
+         "Stefan Groschupf",
+         "Andrzej Bialecki",
+         "Doug Cutting",
+         "Doug Cutting",
+         "Doug Cutting",
+         "Luke Baker"
+      ]
+   },
+   {
+      "name": "Feng Zhou",
+      "imports": [
+         "Stefan Groschupf",
+         "Stefan Groschupf",
+         "Doug Cutting",
+         "Doug Cutting",
+         "John X"
+      ]
+   },
+   {
+      "name": "Roger Dunk",
+      "imports": []
+   },
+   {
+      "name": "Doug Bakewell (JIRA)",
+      "imports": [
+         "Stefan Grroschupf (JIRA)"
+      ]
+   },
+   {
+      "name": "Jack Tang (JIRA)",
+      "imports": [
+         "Stefan Grroschupf (JIRA)",
+         "Jerome Charron (JIRA)"
+      ]
+   },
+   {
+      "name": "David Spencer (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Kelvin Tan",
+      "imports": [
+         "Christophe Noel",
+         "Doug Cutting",
+         "andy"
+      ]
+   },
+   {
+      "name": "John Xing (JIRA)",
+      "imports": [
+         "Jerome Charron (JIRA)",
+         "Jerome Charron (JIRA)",
+         "Jerome Charron (JIRA)",
+         "Jerome Charron (JIRA)",
+         "Jerome Charron (JIRA)"
+      ]
+   },
+   {
+      "name": "Andy Hedges",
+      "imports": [
+         "Doug Cutting",
+         "Doug Cutting",
+         "Doug Cutting"
+      ]
+   },
+   {
+      "name": "Rohit Kulkarni",
+      "imports": []
+   },
+   {
+      "name": "Doug Cutting",
+      "imports": [
+         "andy",
+         "Hari Kodungallur",
+         "Piotr Kosiorowski",
+         "Alonso Andres",
+         "Hari Kodungallur",
+         "John X",
+         "Andrzej Bialecki",
+         "Isabel Drost",
+         "Piotr Kosiorowski",
+         "Andrzej Bialecki",
+         "Piotr Kosiorowski",
+         "Andy Hedges",
+         "Christophe Noel",
+         "Andy Hedges",
+         "Konstantin Ott",
+         "Stefan Groschupf",
+         "Stefan Groschupf",
+         "Andy Hedges",
+         "Chris A. Mattmann (JIRA)",
+         "Feng Zhou",
+         "Matthias Jaekle",
+         "Michael Wechner",
+         "Feng Zhou",
+         "Chris Mattmann",
+         "=?ISO-8859-1?Q?J=E9r=F4me_Charron?=",
+         "=?ISO-8859-1?Q?J=E9r=F4me_Charron?=",
+         "Andrzej Bialecki",
+         "Andrzej Bialecki",
+         "=?ISO-8859-1?Q?J=E9r=F4me_Charron?=",
+         "Siva Bandhamravuri",
+         "yoursoft@freemail.hu",
+         "Nick Lothian",
+         "David Spencer",
+         "Stefan Groschupf"
+      ]
+   },
+   {
+      "name": "David Wallace",
+      "imports": []
+   },
+   {
+      "name": "tigger .",
+      "imports": [
+         "jason tang"
+      ]
+   },
+   {
+      "name": "Stephan Strittmatter (JIRA)",
+      "imports": [
+         "Stefan Grroschupf (JIRA)",
+         "Stefan Grroschupf (JIRA)",
+         "Stefan Grroschupf (JIRA)",
+         "Stefan Grroschupf (JIRA)"
+      ]
+   },
+   {
+      "name": "Jeff Breidenbach",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?J=E9r=F4me_Charron?=",
+      "imports": [
+         "Jack Tang",
+         "Konstantin Ott",
+         "Doug Cutting",
+         "ogjunk-nutch",
+         "Jeff Breidenbach",
+         "Doug Cutting",
+         "Doug Cutting",
+         "Doug Cutting",
+         "Doug Cutting",
+         "Hari Kodungallur",
+         "Chris Mattmann",
+         "Andrzej Bialecki",
+         "Stefan Groschupf"
+      ]
+   },
+   {
+      "name": "Daniel Russo",
+      "imports": []
+   },
+   {
+      "name": "Olaf Thiele",
+      "imports": [
+         "Jeff Breidenbach",
+         "Jeff Breidenbach"
+      ]
+   },
+   {
+      "name": "Andrzej Bialecki  (JIRA)",
+      "imports": [
+         "Stefan Grroschupf (JIRA)"
+      ]
+   },
+   {
+      "name": "Christophe Noel",
+      "imports": [
+         "Michael Wechner",
+         "Stefan Groschupf"
+      ]
+   },
+   {
+      "name": "Matthias Jaekle",
+      "imports": [
+         "Stefan Groschupf",
+         "Doug Cutting",
+         "Doug Cutting",
+         "David Kimm",
+         "Jack Tang"
+      ]
+   },
+   {
+      "name": "David Kimm",
+      "imports": []
+   },
+   {
+      "name": "zhangjin (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Konstantin Ott",
+      "imports": [
+         "Doug Cutting"
+      ]
+   },
+   {
+      "name": "Dawid Weiss",
+      "imports": [
+         "Doug Cutting"
+      ]
+   }
+]

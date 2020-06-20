@@ -1,0 +1,194 @@
+[
+   {
+      "name": "Eric Friedrich",
+      "imports": []
+   },
+   {
+      "name": "Naama Shoresh",
+      "imports": [
+         "Hank Beatty",
+         "Dave Neuman",
+         "Eric Friedrich (efriedri)",
+         "Jeremy Mitchell",
+         "Nir Sopher"
+      ]
+   },
+   {
+      "name": "Durfey, Ryan",
+      "imports": [
+         "Jeremy Mitchell"
+      ]
+   },
+   {
+      "name": "Phil Sorber",
+      "imports": [
+         "Dan Kirkwood"
+      ]
+   },
+   {
+      "name": "Mark Torluemke",
+      "imports": [
+         "Jan van Doorn"
+      ]
+   },
+   {
+      "name": "Oren Shemesh",
+      "imports": [
+         "Dave Neuman",
+         "Jeremy Mitchell",
+         "Dave Neuman",
+         "Jeremy Mitchell",
+         "Jeremy Mitchell"
+      ]
+   },
+   {
+      "name": "Leif Hedstrom",
+      "imports": [
+         "Dan Kirkwood",
+         "Dan Kirkwood",
+         "Dan Kirkwood"
+      ]
+   },
+   {
+      "name": "Chris Lemmons",
+      "imports": [
+         "Dave Neuman"
+      ]
+   },
+   {
+      "name": "Hank Beatty",
+      "imports": [
+         "Dan Kirkwood",
+         "Dan Kirkwood",
+         "Dan Kirkwood",
+         "Naama Shoresh"
+      ]
+   },
+   {
+      "name": "Robert Butts",
+      "imports": [
+         "Jeremy Mitchell"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "Dan Kirkwood",
+         "Dan Kirkwood",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Dan Kirkwood"
+      ]
+   },
+   {
+      "name": "Eric Covener",
+      "imports": [
+         "Dan Kirkwood"
+      ]
+   },
+   {
+      "name": "Alex Harui",
+      "imports": [
+         "Dan Kirkwood",
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Dewayne Richardson",
+      "imports": [
+         "Jeremy Mitchell",
+         "Dave Neuman"
+      ]
+   },
+   {
+      "name": "Dan Kirkwood",
+      "imports": [
+         "John D. Ament",
+         "Alex Harui",
+         "John D. Ament",
+         "Jan van Doorn",
+         "Jeremy Mitchell"
+      ]
+   },
+   {
+      "name": "Jeremy Mitchell",
+      "imports": [
+         "Oren Shemesh",
+         "Oren Shemesh",
+         "David Neuman",
+         "Oren Shemesh",
+         "Hank Beatty",
+         "Jan van Doorn",
+         "Eric Friedrich (efriedri)",
+         "David Neuman",
+         "Durfey, Ryan",
+         "Durfey, Ryan"
+      ]
+   },
+   {
+      "name": "Bryan Call",
+      "imports": [
+         "Jeff Elsloo"
+      ]
+   },
+   {
+      "name": "Nir Sopher",
+      "imports": [
+         "Jeremy Mitchell",
+         "Jeremy Mitchell"
+      ]
+   },
+   {
+      "name": "Jan van Doorn",
+      "imports": [
+         "Nir Sopher",
+         "Dave Neuman",
+         "Eric Friedrich",
+         "Eric Friedrich (efriedri)",
+         "Naama Shoresh"
+      ]
+   },
+   {
+      "name": "David Neuman",
+      "imports": [
+         "Jeremy Mitchell",
+         "Eric Friedrich (efriedri)"
+      ]
+   },
+   {
+      "name": "Dave Neuman",
+      "imports": [
+         "Oren Shemesh",
+         "Jeremy Mitchell",
+         "Nir Sopher",
+         "Jeremy Mitchell",
+         "Mark Torluemke",
+         "Eric Friedrich (efriedri)",
+         "Hank Beatty",
+         "Oren Shemesh",
+         "Eric Friedrich (efriedri)"
+      ]
+   },
+   {
+      "name": "Eric Friedrich (efriedri)",
+      "imports": [
+         "Dan Kirkwood",
+         "Dave Neuman",
+         "Dave Neuman",
+         "Hank Beatty",
+         "Dewayne Richardson",
+         "Dan Kirkwood"
+      ]
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": [
+         "Dan Kirkwood",
+         "John D. Ament"
+      ]
+   },
+   {
+      "name": "Jeff Elsloo",
+      "imports": []
+   }
+]

@@ -1,0 +1,47 @@
+[
+   {
+      "name": "svanteschubert",
+      "imports": []
+   },
+   {
+      "name": "Dave Fisher",
+      "imports": [
+         "Svante Schubert",
+         "svanteschubert"
+      ]
+   },
+   {
+      "name": "Oliver Rau",
+      "imports": [
+         "Nick Burch"
+      ]
+   },
+   {
+      "name": "Nick Burch",
+      "imports": [
+         "Svante Schubert",
+         "Oliver Rau",
+         "Svante Schubert",
+         "Svante Schubert",
+         "Svante Schubert"
+      ]
+   },
+   {
+      "name": "Svante Schubert",
+      "imports": [
+         "Oliver Rau",
+         "Nick Burch",
+         "Nick Burch",
+         "Dave Fisher",
+         "Nick Burch",
+         "Nick Burch"
+      ]
+   },
+   {
+      "name": "Florian Hopf",
+      "imports": [
+         "Svante Schubert",
+         "Svante Schubert"
+      ]
+   }
+]

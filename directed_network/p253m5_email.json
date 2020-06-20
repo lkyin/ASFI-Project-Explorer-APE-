@@ -1,0 +1,30 @@
+[
+   {
+      "name": "Matthieu Riou",
+      "imports": [
+         "Geir Magnusson Jr.",
+         "Bruce Snyder",
+         "Geir Magnusson Jr",
+         "Geir Magnusson Jr"
+      ]
+   },
+   {
+      "name": "Geir Magnusson Jr.",
+      "imports": [
+         "Matthieu Riou"
+      ]
+   },
+   {
+      "name": "Bruce Snyder",
+      "imports": [
+         "Geir Magnusson Jr."
+      ]
+   },
+   {
+      "name": "Geir Magnusson Jr",
+      "imports": [
+         "Matthieu Riou",
+         "Matthieu Riou"
+      ]
+   }
+]

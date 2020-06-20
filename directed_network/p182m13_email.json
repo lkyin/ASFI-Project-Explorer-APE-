@@ -1,0 +1,234 @@
+[
+   {
+      "name": "Sascha Naderi (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Dave Fisher",
+      "imports": [
+         "Yegor Kozlov"
+      ]
+   },
+   {
+      "name": "Franklin, Matthew B.",
+      "imports": [
+         "seba.wagner@gmail.com"
+      ]
+   },
+   {
+      "name": "Yegor Kozlov",
+      "imports": [
+         "seba.wagner@gmail.com",
+         "seba.wagner@gmail.com"
+      ]
+   },
+   {
+      "name": "Jim Jagielski",
+      "imports": [
+         "Ross Gardler"
+      ]
+   },
+   {
+      "name": "George Kirkham",
+      "imports": [
+         "seba.wagner@gmail.com",
+         "Vincenzo M. Raimondo"
+      ]
+   },
+   {
+      "name": "arpit singh",
+      "imports": []
+   },
+   {
+      "name": "Karim Abdul",
+      "imports": [
+         "Alexei Fedotov"
+      ]
+   },
+   {
+      "name": "Alexei Fedotov",
+      "imports": [
+         "Hasan Gharehasanloo",
+         "Maxim Solodovnik"
+      ]
+   },
+   {
+      "name": "David Shapirovskiy (JIRA)",
+      "imports": [
+         "Doni Shao (JIRA)"
+      ]
+   },
+   {
+      "name": "Raju Bitter",
+      "imports": [
+         "Alexei Fedotov"
+      ]
+   },
+   {
+      "name": "greenes",
+      "imports": [
+         "seba.wagner@gmail.com",
+         "seba.wagner@gmail.com"
+      ]
+   },
+   {
+      "name": "Ich",
+      "imports": [
+         "seba.wagner@gmail.com"
+      ]
+   },
+   {
+      "name": "Ross Gardler",
+      "imports": [
+         "seba.wagner@gmail.com"
+      ]
+   },
+   {
+      "name": "Josh Dolitsky",
+      "imports": [
+         "Franklin, Matthew B."
+      ]
+   },
+   {
+      "name": "Maxim Solodovnik (JIRA)",
+      "imports": [
+         "Sascha Naderi (JIRA)",
+         "Doni Shao (JIRA)",
+         "Sascha Naderi (JIRA)",
+         "Mikael Kurula (JIRA)",
+         "Mikael Kurula (JIRA)",
+         "SebastianWagner (JIRA)"
+      ]
+   },
+   {
+      "name": "sebawagner",
+      "imports": []
+   },
+   {
+      "name": "Maxim Solodovnik",
+      "imports": [
+         "seba.wagner@gmail.com",
+         "sebawagner",
+         "Baskar Rajendran",
+         "Baskar Rajendran",
+         "Alexei Fedotov",
+         "seba.wagner@gmail.com",
+         "seba.wagner@gmail.com",
+         "seba.wagner@gmail.com",
+         "seba.wagner@gmail.com",
+         "seba.wagner@gmail.com",
+         "seba.wagner@gmail.com",
+         "seba.wagner@gmail.com",
+         "Hasan Gharehasanloo",
+         "seba.wagner@gmail.com",
+         "seba.wagner@gmail.com",
+         "seba.wagner@gmail.com",
+         "supercomp",
+         "seba.wagner@gmail.com",
+         "supercomp"
+      ]
+   },
+   {
+      "name": "Vincenzo M. Raimondo",
+      "imports": [
+         "seba.wagner@gmail.com"
+      ]
+   },
+   {
+      "name": "Doni Shao (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Anil Kumar",
+      "imports": [
+         "Rammohan Alampally"
+      ]
+   },
+   {
+      "name": "Marcus Wellnitz",
+      "imports": [
+         "Maxim Solodovnik"
+      ]
+   },
+   {
+      "name": "Mikael Kurula (JIRA)",
+      "imports": [
+         "SebastianWagner (JIRA)",
+         "SebastianWagner (JIRA)"
+      ]
+   },
+   {
+      "name": "Eugen Schwert",
+      "imports": [
+         "Josh Dolitsky"
+      ]
+   },
+   {
+      "name": "seba.wagner@gmail.com",
+      "imports": [
+         "Maxim Solodovnik",
+         "Vincenzo M. Raimondo",
+         "Raju Bitter",
+         "Hasan Gharehasanloo",
+         "arpit singh",
+         "Yegor Kozlov",
+         "Maxim Solodovnik",
+         "Maxim Solodovnik",
+         "Maxim Solodovnik",
+         "Maxim Solodovnik",
+         "Maxim Solodovnik",
+         "Marcus Wellnitz",
+         "Alexei Fedotov"
+      ]
+   },
+   {
+      "name": "supercomp",
+      "imports": [
+         "Maxim Solodovnik",
+         "Oliver becherer"
+      ]
+   },
+   {
+      "name": "SebastianWagner (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ankur Ankan",
+      "imports": [
+         "Maxim Solodovnik"
+      ]
+   },
+   {
+      "name": "Rammohan Alampally",
+      "imports": [
+         "Anil Kumar"
+      ]
+   },
+   {
+      "name": "Clifton Kazocha (JIRA)",
+      "imports": [
+         "SebastianWagner (JIRA)"
+      ]
+   },
+   {
+      "name": "Baskar Rajendran",
+      "imports": [
+         "Maxim Solodovnik",
+         "Maxim Solodovnik"
+      ]
+   },
+   {
+      "name": "Oliver becherer",
+      "imports": [
+         "seba.wagner@gmail.com"
+      ]
+   },
+   {
+      "name": "Hasan Gharehasanloo",
+      "imports": [
+         "Maxim Solodovnik",
+         "Rammohan Alampally",
+         "Anil Kumar"
+      ]
+   }
+]

@@ -1,0 +1,400 @@
+[
+   {
+      "name": "John Cabral",
+      "imports": []
+   },
+   {
+      "name": "Adam Lally",
+      "imports": [
+         "Marshall Schor",
+         "John Cabral",
+         "Michael Baessler",
+         "Michael Baessler",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Eddie Epstein"
+      ]
+   },
+   {
+      "name": "Burn Lewis",
+      "imports": [
+         "Eddie Epstein"
+      ]
+   },
+   {
+      "name": "schor",
+      "imports": []
+   },
+   {
+      "name": "Marshall Schor",
+      "imports": [
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "Michael Baessler",
+         "Michael Baessler",
+         "Tong Fin",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Michael Baessler",
+         "Michael Baessler",
+         "Michael Baessler",
+         "Thilo Goetz",
+         "Adam Lally",
+         "Thilo Goetz",
+         "Michael Baessler",
+         "Michael Baessler",
+         "Michael Baessler",
+         "Thilo Goetz",
+         "Thilo Goetz",
+         "Michael Baessler",
+         "twgoetz",
+         "Adam Lally",
+         "mbaessler",
+         "Thilo Goetz",
+         "Burn Lewis (JIRA)",
+         "Jaroslaw Cwiklik",
+         "Marshall Schor (JIRA)",
+         "Jaroslaw Cwiklik",
+         "Thilo Goetz",
+         "Thilo Goetz",
+         "Thilo Goetz",
+         "Thilo Goetz",
+         "Michael Baessler",
+         "Michael Baessler",
+         "Michael Baessler (JIRA)",
+         "Eddie Epstein",
+         "Michael Baessler",
+         "Tong Fin",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "Tong Fin",
+         "Eddie Epstein (JIRA)"
+      ]
+   },
+   {
+      "name": "Marshall Schor (JIRA)",
+      "imports": [
+         "Adam Lally (JIRA)",
+         "Adam Lally (JIRA)",
+         "Adam Lally (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Eddie Epstein (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Burn Lewis (JIRA)",
+         "Burn Lewis (JIRA)",
+         "Burn Lewis (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Burn Lewis (JIRA)",
+         "=?utf-8?Q?J=C3=B6rn_Kottmann_=28JIRA=29?=",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Tong Fin (JIRA)",
+         "Burn Lewis (JIRA)",
+         "Jerry Quinn (JIRA)",
+         "Jerry Quinn (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Michael Baessler (JIRA)",
+         "Michael Baessler (JIRA)",
+         "Michael Baessler (JIRA)",
+         "Michael Baessler (JIRA)",
+         "Michael Baessler (JIRA)",
+         "Adam Lally (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Michael Baessler (JIRA)",
+         "Michael Baessler (JIRA)",
+         "Michael Baessler (JIRA)",
+         "Michael Baessler (JIRA)"
+      ]
+   },
+   {
+      "name": "Bhavani Iyer (JIRA)",
+      "imports": [
+         "Eddie Epstein (JIRA)"
+      ]
+   },
+   {
+      "name": "Jaroslaw Cwiklik",
+      "imports": [
+         "Lev Kozakov",
+         "Marshall Schor",
+         "Burn Lewis (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor"
+      ]
+   },
+   {
+      "name": "twgoetz",
+      "imports": []
+   },
+   {
+      "name": "Thilo Goetz (JIRA)",
+      "imports": [
+         "Eugenie Giesbrecht (JIRA)",
+         "Michael Baessler (JIRA)",
+         "Michael Baessler (JIRA)",
+         "Michael Baessler (JIRA)",
+         "Michael Baessler (JIRA)",
+         "Eugenie Giesbrecht (JIRA)",
+         "Eugenie Giesbrecht (JIRA)",
+         "julien nioche (JIRA)",
+         "julien nioche (JIRA)",
+         "Marshall Schor (JIRA)"
+      ]
+   },
+   {
+      "name": "Burn Lewis (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jerry Quinn (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "LeHouillier, Frank D.",
+      "imports": [
+         "Eddie Epstein"
+      ]
+   },
+   {
+      "name": "julien nioche (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Eddie Epstein (JIRA)",
+      "imports": [
+         "Jerry Cwiklik (JIRA)",
+         "Burn Lewis (JIRA)",
+         "Bhavani Iyer (JIRA)",
+         "Bhavani Iyer (JIRA)",
+         "Bhavani Iyer (JIRA)",
+         "Bhavani Iyer (JIRA)",
+         "Andrew Borthwick (JIRA)",
+         "Bhavani Iyer (JIRA)",
+         "Andrew Borthwick (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Burn Lewis (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Burn Lewis (JIRA)",
+         "Burn Lewis (JIRA)",
+         "Burn Lewis (JIRA)",
+         "Burn Lewis (JIRA)"
+      ]
+   },
+   {
+      "name": "Eddie Epstein",
+      "imports": [
+         "John Cabral",
+         "Edward Loper",
+         "Edward Loper",
+         "Edward Loper",
+         "Edward Loper",
+         "LeHouillier, Frank D.",
+         "Edward Loper",
+         "Edward Loper",
+         "Marshall Schor",
+         "Burn Lewis",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Burn Lewis (JIRA)"
+      ]
+   },
+   {
+      "name": "Michael Baessler",
+      "imports": [
+         "Marshall Schor",
+         "Marshall Schor",
+         "Thilo Goetz",
+         "Thilo Goetz",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Adam Lally",
+         "Marshall Schor (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Thilo Goetz",
+         "Thilo Goetz",
+         "julien nioche (JIRA)",
+         "Eddie Epstein"
+      ]
+   },
+   {
+      "name": "Jennifer Chu-Carroll (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Michael Baessler (JIRA)",
+      "imports": [
+         "Marshall Schor (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Eric Riebling (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Eric Riebling (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Thilo Goetz (JIRA)",
+         "Burn Lewis (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "julien nioche (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Jerry Cwiklik (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor (JIRA)"
+      ]
+   },
+   {
+      "name": "mbaessler",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+      "imports": [
+         "Michael Baessler",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor"
+      ]
+   },
+   {
+      "name": "Andrew Borthwick (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Edward Loper",
+      "imports": [
+         "Eddie Epstein",
+         "Eddie Epstein",
+         "Eddie Epstein",
+         "LeHouillier, Frank D."
+      ]
+   },
+   {
+      "name": "Eric Riebling (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Lev Kozakov",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?J=C3=B6rn_Kottmann_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Jerry Cwiklik (JIRA)",
+      "imports": [
+         "Burn Lewis (JIRA)",
+         "Burn Lewis (JIRA)",
+         "Burn Lewis (JIRA)",
+         "Eddie Epstein (JIRA)"
+      ]
+   },
+   {
+      "name": "Thilo Goetz",
+      "imports": [
+         "Marshall Schor",
+         "Michael Baessler",
+         "Michael Baessler (JIRA)",
+         "Michael Baessler",
+         "Marshall Schor",
+         "Marshall Schor (JIRA)",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Marshall Schor",
+         "Eddie Epstein",
+         "Marshall Schor",
+         "Michael Baessler",
+         "Michael Baessler",
+         "Michael Baessler",
+         "Eddie Epstein (JIRA)",
+         "Michael Baessler"
+      ]
+   },
+   {
+      "name": "Adam Lally (JIRA)",
+      "imports": [
+         "Jennifer Chu-Carroll (JIRA)",
+         "Jennifer Chu-Carroll (JIRA)",
+         "Jennifer Chu-Carroll (JIRA)"
+      ]
+   },
+   {
+      "name": "Tong Fin (JIRA)",
+      "imports": [
+         "Marshall Schor (JIRA)"
+      ]
+   },
+   {
+      "name": "Tong Fin",
+      "imports": [
+         "Marshall Schor (JIRA)",
+         "Marshall Schor",
+         "Burn Lewis (JIRA)",
+         "Marshall Schor",
+         "Marshall Schor"
+      ]
+   },
+   {
+      "name": "Eugenie Giesbrecht (JIRA)",
+      "imports": [
+         "julien nioche (JIRA)"
+      ]
+   }
+]

@@ -1,0 +1,108 @@
+[
+   {
+      "name": "David Sean Taylor",
+      "imports": [
+         "Christophe Lombart",
+         "Christophe Lombart",
+         "Christophe Lombart",
+         "Christophe Lombart",
+         "=?ISO-8859-1?Q?Rapha=EBl_Luta?=",
+         "Christophe Lombart",
+         "taylor",
+         "Oliver Kiessler"
+      ]
+   },
+   {
+      "name": "Miro Walker",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Rapha=EBl_Luta?=",
+      "imports": [
+         "Christophe Lombart",
+         "=?ISO-8859-1?Q?Rapha=EBl_Luta?=",
+         "Oliver Kiessler",
+         "Christophe Lombart",
+         "David Sean Taylor",
+         "=?ISO-8859-1?Q?Rapha=EBl_Luta?=",
+         "Christophe Lombart",
+         "Christophe Lombart"
+      ]
+   },
+   {
+      "name": "Herman Reintke",
+      "imports": []
+   },
+   {
+      "name": "Christophe Lombart",
+      "imports": [
+         "David Sean Taylor",
+         "David Sean Taylor",
+         "Miro Walker",
+         "=?ISO-8859-1?Q?Sandro_B=F6hme?=",
+         "=?ISO-8859-1?Q?Rapha=EBl_Luta?=",
+         "Roy Russo",
+         "Martin Maisey",
+         "Martin Maisey",
+         "Markus Joschko",
+         "=?ISO-8859-1?Q?Rapha=EBl_Luta?=",
+         "Herman Reintke",
+         "Martin Maisey"
+      ]
+   },
+   {
+      "name": "Christophe Lombart (JIRA)",
+      "imports": [
+         "Martin Maisey (JIRA)",
+         "Martin Maisey (JIRA)",
+         "Martin Maisey (JIRA)"
+      ]
+   },
+   {
+      "name": "Markus Joschko",
+      "imports": [
+         "=?ISO-8859-1?Q?Sandro_B=F6hme?="
+      ]
+   },
+   {
+      "name": "Oliver Kiessler",
+      "imports": [
+         "Christophe Lombart",
+         "Markus Joschko",
+         "Roy Russo",
+         "Roy Russo"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Sandro_B=F6hme?=",
+      "imports": [
+         "Christophe Lombart",
+         "Markus Joschko"
+      ]
+   },
+   {
+      "name": "Martin Maisey (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Roy Russo",
+      "imports": []
+   },
+   {
+      "name": "Martin Maisey",
+      "imports": [
+         "Christophe Lombart",
+         "Christophe Lombart"
+      ]
+   },
+   {
+      "name": "David Sean Taylor (JIRA)",
+      "imports": [
+         "Christophe Lombart (JIRA)"
+      ]
+   },
+   {
+      "name": "taylor",
+      "imports": []
+   }
+]

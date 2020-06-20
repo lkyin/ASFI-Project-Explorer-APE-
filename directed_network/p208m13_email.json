@@ -1,0 +1,179 @@
+[
+   {
+      "name": "Java Energizer (JIRA)",
+      "imports": [
+         "Guillaume Nodet (JIRA)",
+         "Guillaume Nodet (JIRA)"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Gr=E9goire_A=2E_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "Jamie McCrindle",
+         "Roger Menday",
+         "jpuro",
+         "shravan",
+         "rabi.mishra",
+         "Roger Menday",
+         "timbo",
+         "Eyji"
+      ]
+   },
+   {
+      "name": "Krzysztof Adamski (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Vikram Roopchand (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Maxim Y. Tebenev (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "William Blackburn (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "shravan",
+      "imports": []
+   },
+   {
+      "name": "Java Energizer",
+      "imports": [
+         "Bruce Snyder"
+      ]
+   },
+   {
+      "name": "Tori Marrama",
+      "imports": []
+   },
+   {
+      "name": "jpuro",
+      "imports": [
+         "Bruce Snyder"
+      ]
+   },
+   {
+      "name": "Anders Hammar (JIRA)",
+      "imports": [
+         "Los Morales (JIRA)",
+         "Los Morales (JIRA)"
+      ]
+   },
+   {
+      "name": "Philippe Pinheiro (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ricardo Nobrega (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Guillaume Nodet (JIRA)",
+      "imports": [
+         "Christian Schneider (JIRA)",
+         "Jeff Puro (JIRA)",
+         "Vikram Roopchand (JIRA)",
+         "Martin Landua (JIRA)",
+         "Jeff Puro (JIRA)",
+         "=?ISO-8859-1?Q?Jorge_Rodr=EDguez_Pedrianes_=28JIRA=29?=",
+         "=?ISO-8859-1?Q?Jorge_Rodr=EDguez_Pedrianes_=28JIRA=29?=",
+         "Jeff Puro (JIRA)",
+         "Philippe Pinheiro (JIRA)",
+         "Christian Schneider (JIRA)",
+         "Ricardo Nobrega (JIRA)",
+         "Fabrice Dewasmes (JIRA)",
+         "Ricardo Nobrega (JIRA)",
+         "Krzysztof Adamski (JIRA)",
+         "Los Morales (JIRA)",
+         "Krzysztof Adamski (JIRA)",
+         "Ricardo Nobrega (JIRA)",
+         "William Blackburn (JIRA)",
+         "William Blackburn (JIRA)",
+         "Martin Landua (JIRA)",
+         "Christian Schneider (JIRA)",
+         "=?ISO-8859-1?Q?Gr=E9goire_A=2E_=28JIRA=29?=",
+         "Los Morales (JIRA)",
+         "Los Morales (JIRA)",
+         "=?ISO-8859-1?Q?Gr=E9goire_A=2E_=28JIRA=29?=",
+         "=?ISO-8859-1?Q?Jorge_Rodr=EDguez_Pedrianes_=28JIRA=29?=",
+         "=?ISO-8859-1?Q?Gr=E9goire_A=2E_=28JIRA=29?=",
+         "=?ISO-8859-1?Q?Gr=E9goire_A=2E_=28JIRA=29?=",
+         "=?ISO-8859-1?Q?Gr=E9goire_A=2E_=28JIRA=29?=",
+         "=?ISO-8859-1?Q?Gr=E9goire_A=2E_=28JIRA=29?=",
+         "Anders Hammar (JIRA)",
+         "Anders Hammar (JIRA)",
+         "Maxim Y. Tebenev (JIRA)"
+      ]
+   },
+   {
+      "name": "Bruce Snyder",
+      "imports": [
+         "Jamie McCrindle",
+         "jpuro",
+         "Tori Marrama"
+      ]
+   },
+   {
+      "name": "Eyji",
+      "imports": []
+   },
+   {
+      "name": "Jamie McCrindle",
+      "imports": [
+         "Guillaume Nodet",
+         "Bruce Snyder"
+      ]
+   },
+   {
+      "name": "timbo",
+      "imports": []
+   },
+   {
+      "name": "Jeff Puro (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Jorge_Rodr=EDguez_Pedrianes_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Los Morales (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Roger Menday",
+      "imports": [
+         "Guillaume Nodet (JIRA)",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Fabrice Dewasmes (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Christian Schneider (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "rabi.mishra",
+      "imports": []
+   },
+   {
+      "name": "Martin Landua (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Ken Berthelot (JIRA)",
+      "imports": [
+         "Christian Schneider (JIRA)"
+      ]
+   }
+]

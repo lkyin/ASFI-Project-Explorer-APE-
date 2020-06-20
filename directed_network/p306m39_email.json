@@ -1,0 +1,109 @@
+[
+   {
+      "name": "Basavaraj",
+      "imports": [
+         "Felix Wackernagel"
+      ]
+   },
+   {
+      "name": "Paul Thomas",
+      "imports": [
+         "Patrick Coleman"
+      ]
+   },
+   {
+      "name": "Yuri Zelikov",
+      "imports": [
+         "Andrew Kaplanov",
+         "hegsie",
+         "Pablo Ojanguren",
+         "Pablo Ojanguren",
+         "Andrew Kaplanov",
+         "Andrew Kaplanov",
+         "Andrew Kaplanov",
+         "Andrew Kaplanov"
+      ]
+   },
+   {
+      "name": "Andrew Kaplanov",
+      "imports": [
+         "Yuri Zelikov",
+         "Yuri Zelikov",
+         "Ali Lown"
+      ]
+   },
+   {
+      "name": "hegsie",
+      "imports": []
+   },
+   {
+      "name": "Yuri Z",
+      "imports": [
+         "Viktor Nagornyy",
+         "Michael MacFadden",
+         "Vicente J. Ruiz Jurado",
+         "Ali Lown",
+         "Ali Lown",
+         "Basavaraj",
+         "Thomas Wrobel",
+         "Basavaraj K N [MaGE]"
+      ]
+   },
+   {
+      "name": "Vicente J. Ruiz Jurado",
+      "imports": [
+         "Yuri Z",
+         "Yuri Z",
+         "Yuri Z",
+         "Yuri Zelikov",
+         "Ali Lown"
+      ]
+   },
+   {
+      "name": "Pablo Ojanguren",
+      "imports": []
+   },
+   {
+      "name": "Michael MacFadden",
+      "imports": [
+         "Yuri Z",
+         "Yuri Z"
+      ]
+   },
+   {
+      "name": "Basavaraj K N [MaGE]",
+      "imports": []
+   },
+   {
+      "name": "Thomas Wrobel",
+      "imports": [
+         "Basavaraj",
+         "Paul Thomas"
+      ]
+   },
+   {
+      "name": "Ali Lown",
+      "imports": [
+         "Yuri Zelikov",
+         "Pablo Ojanguren",
+         "Yuri Z",
+         "Yuri Z",
+         "Andrew Kaplanov",
+         "Pablo Ojanguren"
+      ]
+   },
+   {
+      "name": "Felix Wackernagel",
+      "imports": []
+   },
+   {
+      "name": "Patrick Coleman",
+      "imports": [
+         "Yuri Z"
+      ]
+   },
+   {
+      "name": "Viktor Nagornyy",
+      "imports": []
+   }
+]

@@ -1,0 +1,37 @@
+[
+   {
+      "name": "Matthew Hayes",
+      "imports": [
+         "Daniel Wang"
+      ]
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Will Vaughan",
+      "imports": [
+         "Matthew Hayes",
+         "Jakob Homan"
+      ]
+   },
+   {
+      "name": "Jarek Jarcec Cecho",
+      "imports": [
+         "Matthew Hayes"
+      ]
+   },
+   {
+      "name": "Jakob Homan",
+      "imports": [
+         "Marvin",
+         "Will Vaughan",
+         "Will Vaughan"
+      ]
+   },
+   {
+      "name": "Daniel Wang",
+      "imports": []
+   }
+]

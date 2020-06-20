@@ -1,0 +1,64 @@
+[
+   {
+      "name": "Jochen Wiedmann",
+      "imports": [
+         "James Bognar",
+         "James Bognar",
+         "James Bognar"
+      ]
+   },
+   {
+      "name": "Apache Jenkins Server",
+      "imports": []
+   },
+   {
+      "name": "Peter Haumer",
+      "imports": [
+         "Apache Jenkins Server",
+         "James Bognar"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "James Bognar",
+         "James Bognar"
+      ]
+   },
+   {
+      "name": "James Bognar",
+      "imports": [
+         "John D. Ament",
+         "Jochen Wiedmann",
+         "Craig Russell",
+         "Stian Soiland-Reyes",
+         "John D. Ament",
+         "Jochen Wiedmann",
+         "Peter Haumer (JIRA)",
+         "Peter Haumer"
+      ]
+   },
+   {
+      "name": "Craig Russell",
+      "imports": [
+         "James Bognar",
+         "James Bognar",
+         "James Bognar"
+      ]
+   },
+   {
+      "name": "Peter Haumer (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Stian Soiland-Reyes",
+      "imports": [
+         "James Bognar",
+         "Craig Russell",
+         "James Bognar",
+         "James Bognar",
+         "James Bognar",
+         "James Bognar"
+      ]
+   }
+]

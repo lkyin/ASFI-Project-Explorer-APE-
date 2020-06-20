@@ -1,0 +1,128 @@
+[
+   {
+      "name": "Svetoslav Marinov",
+      "imports": []
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Grant Ingersoll"
+      ]
+   },
+   {
+      "name": "Chris Fournier",
+      "imports": [
+         "Jason Baldridge"
+      ]
+   },
+   {
+      "name": "Benson Margulies",
+      "imports": [
+         "James Kosin"
+      ]
+   },
+   {
+      "name": "Jason Baldridge",
+      "imports": [
+         "william.colen@gmail.com",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "James Kosin",
+         "Aliaksandr Autayeu",
+         "=?UTF-8?B?SsO2cm4gS290dG1hbm4=?=",
+         "James Kosin",
+         "Aliaksandr Autayeu",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "James Kosin",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?="
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+      "imports": [
+         "Jason Baldridge",
+         "Jason Baldridge",
+         "Jason Baldridge",
+         "Jason Baldridge",
+         "Grant Ingersoll",
+         "Svetoslav Marinov",
+         "Chris Fournier"
+      ]
+   },
+   {
+      "name": "francesco.tangari.inf",
+      "imports": [
+         "James Kosin",
+         "James Kosin",
+         "James Kosin",
+         "James Kosin",
+         "James Kosin",
+         "James Kosin",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu"
+      ]
+   },
+   {
+      "name": "Olivier Grisel",
+      "imports": [
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "James Kosin",
+      "imports": [
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "francesco.tangari.inf",
+         "francesco.tangari.inf",
+         "Jason Baldridge",
+         "Jason Baldridge"
+      ]
+   },
+   {
+      "name": "Grant Ingersoll",
+      "imports": [
+         "Benson Margulies",
+         "Jason Baldridge",
+         "Jason Baldridge"
+      ]
+   },
+   {
+      "name": "william.colen@gmail.com",
+      "imports": [
+         "Aliaksandr Autayeu"
+      ]
+   },
+   {
+      "name": "Aliaksandr Autayeu",
+      "imports": [
+         "william.colen@gmail.com",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "Jason Baldridge",
+         "James Kosin",
+         "Jason Baldridge",
+         "francesco.tangari.inf",
+         "francesco.tangari.inf",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "Grant Ingersoll",
+         "william.colen@gmail.com",
+         "=?UTF-8?B?SsO2cm4gS290dG1hbm4=?="
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?SsO2cm4gS290dG1hbm4=?=",
+      "imports": [
+         "Olivier Grisel",
+         "Aliaksandr Autayeu"
+      ]
+   },
+   {
+      "name": "Alec Taylor",
+      "imports": [
+         "Aliaksandr Autayeu"
+      ]
+   }
+]

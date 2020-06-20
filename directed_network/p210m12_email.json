@@ -1,0 +1,38 @@
+[
+   {
+      "name": "Jeremy Haile",
+      "imports": [
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Les Hazlewood (JIRA)",
+      "imports": [
+         "Alan Cabrera (JIRA)"
+      ]
+   },
+   {
+      "name": "Les Hazlewood",
+      "imports": [
+         "Kalle Korhonen"
+      ]
+   },
+   {
+      "name": "Maarten Bosteels",
+      "imports": [
+         "Kalle Korhonen"
+      ]
+   },
+   {
+      "name": "Alan Cabrera (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Kalle Korhonen",
+      "imports": [
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood"
+      ]
+   }
+]

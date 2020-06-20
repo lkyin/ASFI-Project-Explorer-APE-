@@ -1,0 +1,367 @@
+[
+   {
+      "name": "Bruce Snyder (JIRA)",
+      "imports": [
+         "Klaus Alfert (JIRA)",
+         "Klaus Alfert (JIRA)",
+         "Ruwan Linton (JIRA)"
+      ]
+   },
+   {
+      "name": "Rabi (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Andrea Zoppello",
+      "imports": [
+         "cui.hailin"
+      ]
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "Eduardo Burgos",
+         "Bruce Snyder",
+         "Gert Vanthienen",
+         "Daniel Kulp",
+         "Kit Plummer",
+         "Daniel Kulp",
+         "Bruce Snyder",
+         "Bruce Snyder",
+         "Artur Karazniewicz",
+         "rabi.mishra",
+         "cui.hailin",
+         "Gert Vanthienen (JIRA)",
+         "Gert Vanthienen (JIRA)",
+         "Gert Vanthienen",
+         "James Strachan",
+         "Gert Vanthienen",
+         "Gert Vanthienen",
+         "cgallemore",
+         "Gert Vanthienen",
+         "Alex Boisvert",
+         "Nodet Guillaume"
+      ]
+   },
+   {
+      "name": "Manjunath ShankaraReddy",
+      "imports": []
+   },
+   {
+      "name": "Jeff Peterson (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Gert Vanthienen (JIRA)",
+      "imports": [
+         "Gianfranco Boccalon (JIRA)",
+         "Gianfranco Boccalon (JIRA)",
+         "Juergen Mayrbaeurl (JIRA)",
+         "Erik Allais (JIRA)",
+         "Erik Allais (JIRA)",
+         "Erik Allais (JIRA)",
+         "Juergen Mayrbaeurl (JIRA)",
+         "Gordon Dickens (JIRA)"
+      ]
+   },
+   {
+      "name": "jpuro",
+      "imports": []
+   },
+   {
+      "name": "Guillaume Nodet (JIRA)",
+      "imports": [
+         "Artur Karazniewicz (JIRA)",
+         "Rabi (JIRA)",
+         "Gianfranco Boccalon (JIRA)",
+         "ashokreddy (JIRA)",
+         "Artur Karazniewicz (JIRA)",
+         "Martin Krasser (JIRA)",
+         "Konrad Argasinski (JIRA)",
+         "Piotr Bzdyl (JIRA)",
+         "jerome camilleri (JIRA)",
+         "Jeff Peterson (JIRA)",
+         "Jeff Peterson (JIRA)",
+         "Konrad Argasinski (JIRA)",
+         "Juergen Mayrbaeurl (JIRA)",
+         "Corey Baswell (JIRA)",
+         "Erik Allais (JIRA)",
+         "Renaud Bruyeron (JIRA)",
+         "Arif Mohammed (JIRA)",
+         "Daniela Butano (JIRA)",
+         "Will Franco (JIRA)",
+         "Will Franco (JIRA)",
+         "jan cwik (JIRA)",
+         "Ruwan Linton (JIRA)",
+         "Ruwan Linton (JIRA)"
+      ]
+   },
+   {
+      "name": "Arif Mohammed (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Gianfranco Boccalon",
+      "imports": [
+         "Artur Karazniewicz"
+      ]
+   },
+   {
+      "name": "Kit Plummer",
+      "imports": [
+         "Bruce Snyder",
+         "Bruce Snyder",
+         "Bruce Snyder",
+         "Terry Cox"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Jorge_Rodr=EDguez_Pedrianes_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Gordon Dickens (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Thomas Termin",
+      "imports": [
+         "Bruce Snyder",
+         "Terry Cox",
+         "Terry Cox"
+      ]
+   },
+   {
+      "name": "rabi.mishra",
+      "imports": [
+         "Guillaume Nodet (JIRA)"
+      ]
+   },
+   {
+      "name": "Erik Allais (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "bsnyder",
+      "imports": []
+   },
+   {
+      "name": "Juergen Mayrbaeurl (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Terry Cox",
+      "imports": [
+         "Guillaume Nodet (JIRA)",
+         "Thomas Termin",
+         "Thomas Termin"
+      ]
+   },
+   {
+      "name": "Artur Karazniewicz",
+      "imports": []
+   },
+   {
+      "name": "Corey Baswell (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Gert Vanthienen",
+      "imports": [
+         "ArmenH",
+         "ArmenH",
+         "ArmenH",
+         "Guillaume Nodet",
+         "ArmenH",
+         "Guillaume Nodet",
+         "James Strachan",
+         "Guillaume Nodet",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Gr=E9goire_A=2E_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Thomas Termin (JIRA)",
+      "imports": [
+         "Bruce Snyder (JIRA)",
+         "Bruce Snyder (JIRA)",
+         "Ruwan Linton (JIRA)",
+         "Ruwan Linton (JIRA)",
+         "=?ISO-8859-1?Q?Jorge_Rodr=EDguez_Pedrianes_=28JIRA=29?=",
+         "Torsten Mielke (JIRA)",
+         "Torsten Mielke (JIRA)"
+      ]
+   },
+   {
+      "name": "Eduardo Burgos",
+      "imports": []
+   },
+   {
+      "name": "Gianfranco Boccalon (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Freeman Fang",
+      "imports": [
+         "Nodet Guillaume",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "jan cwik (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "jerome camilleri (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Brian Maso (JIRA)",
+      "imports": [
+         "=?ISO-8859-1?Q?Gr=E9goire_A=2E_=28JIRA=29?=",
+         "=?ISO-8859-1?Q?Gr=E9goire_A=2E_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Alex Boisvert",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Will Franco (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "cgallemore",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Klaus Alfert (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "cui hailin",
+      "imports": [
+         "James Strachan"
+      ]
+   },
+   {
+      "name": "Ray McDermott",
+      "imports": [
+         "jpuro"
+      ]
+   },
+   {
+      "name": "Torsten Mielke (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Bruce Snyder",
+      "imports": [
+         "Guillaume Nodet",
+         "Thomas Termin",
+         "Guillaume Nodet",
+         "Kit Plummer",
+         "Guillaume Nodet",
+         "Daniel Kulp",
+         "cui.hailin",
+         "samg",
+         "Gert Vanthienen",
+         "Terry Cox"
+      ]
+   },
+   {
+      "name": "cui.hailin",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Piotr Bzdyl (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Martin Krasser (JIRA)",
+      "imports": [
+         "Gert Vanthienen (JIRA)"
+      ]
+   },
+   {
+      "name": "Daniela Butano (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Konrad Argasinski (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "ashokreddy (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "ArmenH",
+      "imports": [
+         "Gert Vanthienen",
+         "Gert Vanthienen"
+      ]
+   },
+   {
+      "name": "Daniel Kulp",
+      "imports": [
+         "Guillaume Nodet",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "samg",
+      "imports": []
+   },
+   {
+      "name": "James Strachan",
+      "imports": [
+         "Guillaume Nodet",
+         "Daniel Kulp",
+         "cui.hailin",
+         "cui.hailin",
+         "cui hailin"
+      ]
+   },
+   {
+      "name": "Ruwan Linton (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Artur Karazniewicz (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Freeman Fang (JIRA)",
+      "imports": [
+         "Guillaume Nodet (JIRA)",
+         "Guillaume Nodet (JIRA)",
+         "Guillaume Nodet (JIRA)",
+         "Guillaume Nodet (JIRA)",
+         "Guillaume Nodet (JIRA)"
+      ]
+   },
+   {
+      "name": "Renaud Bruyeron (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Nodet Guillaume",
+      "imports": [
+         "bsnyder",
+         "Freeman Fang",
+         "Manjunath ShankaraReddy",
+         "Bruce Snyder",
+         "Bruce Snyder"
+      ]
+   }
+]

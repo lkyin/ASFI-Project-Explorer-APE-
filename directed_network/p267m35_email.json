@@ -1,0 +1,76 @@
+[
+   {
+      "name": "Henri Yandell",
+      "imports": [
+         "Ross Gardler"
+      ]
+   },
+   {
+      "name": "Richard Frovarp (JIRA)",
+      "imports": [
+         "Sebb (JIRA)"
+      ]
+   },
+   {
+      "name": "Javier Puerto",
+      "imports": [
+         "Eugen Paraschiv"
+      ]
+   },
+   {
+      "name": "Eugen Paraschiv",
+      "imports": [
+         "Thorsten Scherler"
+      ]
+   },
+   {
+      "name": "Thorsten Scherler",
+      "imports": [
+         "Richard Frovarp",
+         "no-reply",
+         "Richard Frovarp"
+      ]
+   },
+   {
+      "name": "Chapuis Bertil",
+      "imports": [
+         "Richard Frovarp"
+      ]
+   },
+   {
+      "name": "Mohammad Nour El-Din",
+      "imports": [
+         "Ross Gardler"
+      ]
+   },
+   {
+      "name": "Richard Frovarp",
+      "imports": [
+         "Chapuis Bertil",
+         "Ross Gardler",
+         "Ross Gardler",
+         "Henri Yandell",
+         "Thorsten Scherler"
+      ]
+   },
+   {
+      "name": "Sebb (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Robert Burrell Donkin",
+      "imports": [
+         "Ross Gardler"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Ross Gardler",
+      "imports": [
+         "Robert Burrell Donkin"
+      ]
+   }
+]

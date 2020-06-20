@@ -1,0 +1,49 @@
+[
+   {
+      "name": "Ted Dunning",
+      "imports": [
+         "Benjamin Hindman"
+      ]
+   },
+   {
+      "name": "Matei Zaharia",
+      "imports": [
+         "Zhiyong Xie",
+         "Joe Xie",
+         "Joe Xie",
+         "Joe Xie",
+         "Joe Xie",
+         "Joe Xie",
+         "Joe Xie",
+         "Joe Xie"
+      ]
+   },
+   {
+      "name": "Zhiyong Xie",
+      "imports": []
+   },
+   {
+      "name": "Joe Xie",
+      "imports": [
+         "Matei Zaharia",
+         "Matei Zaharia",
+         "Matei Zaharia",
+         "Matei Zaharia",
+         "Matei Zaharia"
+      ]
+   },
+   {
+      "name": "Benjamin Hindman",
+      "imports": [
+         "Michael Armbrust",
+         "Michael Armbrust",
+         "Matei Zaharia"
+      ]
+   },
+   {
+      "name": "Michael Armbrust",
+      "imports": [
+         "Benjamin Hindman"
+      ]
+   }
+]

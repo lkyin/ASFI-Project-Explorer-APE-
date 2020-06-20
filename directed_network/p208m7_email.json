@@ -1,0 +1,230 @@
+[
+   {
+      "name": "Bruce Snyder (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Michael Horwitz (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Pete  (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Terry Cox",
+      "imports": [
+         "Grant McDonald"
+      ]
+   },
+   {
+      "name": "Philip Dodds",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "emicalc",
+      "imports": []
+   },
+   {
+      "name": "Subramanian, Prasad (Prasad)",
+      "imports": []
+   },
+   {
+      "name": "Hiram Chirino",
+      "imports": []
+   },
+   {
+      "name": "Geir Magnusson Jr",
+      "imports": []
+   },
+   {
+      "name": "Andreas Held (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Grant McDonald",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Tomas Olsson",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Hossam Karim (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "rajdavies",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "manuella",
+      "imports": [
+         "Bruce Snyder"
+      ]
+   },
+   {
+      "name": "OscarGhersi",
+      "imports": []
+   },
+   {
+      "name": "Guillaume Nodet (JIRA)",
+      "imports": [
+         "GODOT Philippe (JIRA)",
+         "Freeman Fang (JIRA)",
+         "Jordan Christensen (JIRA)",
+         "Luca Gioppo (JIRA)",
+         "Mark Swanson (JIRA)",
+         "Mark Swanson (JIRA)",
+         "Luca Gioppo (JIRA)",
+         "Hossam Karim (JIRA)",
+         "Dan Diephouse (JIRA)",
+         "Dan Diephouse (JIRA)",
+         "Dan Diephouse (JIRA)",
+         "GODOT Philippe (JIRA)",
+         "Doug Fischer (JIRA)",
+         "Andreas Held (JIRA)",
+         "Grant McDonald (JIRA)",
+         "Pete  (JIRA)",
+         "Bruce Snyder (JIRA)",
+         "Freeman Fang (JIRA)",
+         "Michael Horwitz (JIRA)"
+      ]
+   },
+   {
+      "name": "Alex Boisvert",
+      "imports": [
+         "mqadeer",
+         "Bruce Snyder"
+      ]
+   },
+   {
+      "name": "Bruce Snyder",
+      "imports": [
+         "Guillaume Nodet",
+         "Guillaume Nodet",
+         "gioppo",
+         "Alex Boisvert",
+         "Alex Boisvert",
+         "manuella"
+      ]
+   },
+   {
+      "name": "Grant McDonald (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Dan Diephouse (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Mike Davis",
+      "imports": []
+   },
+   {
+      "name": "Mark Swanson (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "hrvoje",
+         "emicalc",
+         "Mike Davis",
+         "emicalc",
+         "Hiram Chirino",
+         "gioppo",
+         "OscarGhersi",
+         "Patrick Villacorta",
+         "James Strachan",
+         "davipo",
+         "davipo",
+         "Subramanian, Prasad (Prasad)",
+         "Terry Cox"
+      ]
+   },
+   {
+      "name": "Robert Davies",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "GODOT Philippe (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Aaron Mulder",
+      "imports": [
+         "James Strachan"
+      ]
+   },
+   {
+      "name": "Patrick Villacorta",
+      "imports": [
+         "Guillaume Nodet",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "gioppo",
+      "imports": [
+         "Bruce Snyder",
+         "James Strachan"
+      ]
+   },
+   {
+      "name": "davipo",
+      "imports": [
+         "mqadeer"
+      ]
+   },
+   {
+      "name": "Luca Gioppo (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Alan D. Cabrera",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "James Strachan",
+      "imports": [
+         "gioppo",
+         "Guillaume Nodet",
+         "Geir Magnusson Jr",
+         "Guillaume Nodet",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Jordan Christensen (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "mqadeer",
+      "imports": []
+   },
+   {
+      "name": "Freeman Fang (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "hrvoje",
+      "imports": []
+   },
+   {
+      "name": "Doug Fischer (JIRA)",
+      "imports": []
+   }
+]

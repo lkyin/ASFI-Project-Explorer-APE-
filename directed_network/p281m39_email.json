@@ -1,0 +1,20 @@
+[
+   {
+      "name": "ant elder",
+      "imports": [
+         "Marvin",
+         "Stuart Monteith"
+      ]
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "Stuart Monteith",
+      "imports": [
+         "ant elder",
+         "ant elder"
+      ]
+   }
+]

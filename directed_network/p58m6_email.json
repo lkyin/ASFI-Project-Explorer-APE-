@@ -1,0 +1,346 @@
+[
+   {
+      "name": "Szymon Danielczyk (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Lewis John McGibbney (Closed) (JIRA)",
+      "imports": [
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Michele Mostarda (Resolved) (JIRA)",
+      "imports": [
+         "Michele Mostarda (Created) (JIRA)",
+         "Simone Tripodi (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?=",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Marco Fossati (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?=",
+         "Michele Mostarda (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Ben Companjen (Commented) (JIRA)",
+      "imports": [
+         "Ben Companjen (Created) (JIRA)",
+         "Ben Companjen (Created) (JIRA)",
+         "Ben Companjen (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Andy Seaborne (Commented) (JIRA)",
+      "imports": [
+         "Simone Tripodi (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Simone Tripodi (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Andy Seaborne",
+      "imports": [
+         "Lewis John Mcgibbney",
+         "Lewis John Mcgibbney",
+         "Simone Tripodi",
+         "Simone Tripodi",
+         "Simone Tripodi",
+         "Lewis John Mcgibbney",
+         "Lewis John Mcgibbney"
+      ]
+   },
+   {
+      "name": "Szymon Danielczyk (Commented) (JIRA)",
+      "imports": [
+         "Szymon Danielczyk (Created) (JIRA)",
+         "Szymon Danielczyk (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Nick Kew",
+      "imports": [
+         "Lewis John McGibbney (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "Lewis John Mcgibbney",
+         "Lewis John Mcgibbney",
+         "Andy Seaborne"
+      ]
+   },
+   {
+      "name": "Simone Tripodi",
+      "imports": [
+         "Mattmann, Chris A (388J)",
+         "Lewis John Mcgibbney",
+         "Lewis John Mcgibbney",
+         "Andy Seaborne",
+         "Lewis John Mcgibbney",
+         "Michele Mostarda",
+         "Michele Mostarda",
+         "Andy Seaborne",
+         "Andy Seaborne",
+         "Lewis John Mcgibbney",
+         "Lewis John Mcgibbney",
+         "mostarda",
+         "mostarda",
+         "Paolo Castagna"
+      ]
+   },
+   {
+      "name": "Apache Jenkins Server",
+      "imports": []
+   },
+   {
+      "name": "Szymon Danielczyk",
+      "imports": [
+         "Davide Palmisano",
+         "Lewis John Mcgibbney"
+      ]
+   },
+   {
+      "name": "Lewis John Mcgibbney",
+      "imports": [
+         "mostarda",
+         "Michele Mostarda",
+         "Mattmann, Chris A (388J)",
+         "Simone Tripodi",
+         "Simone Tripodi",
+         "Simone Tripodi",
+         "Simone Tripodi",
+         "Simone Tripodi",
+         "Nick Kew",
+         "Michele Mostarda",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda",
+         "Apache Jenkins Server"
+      ]
+   },
+   {
+      "name": "Michele Mostarda",
+      "imports": [
+         "Richard Cyganiak",
+         "Simone Tripodi",
+         "Lewis John Mcgibbney",
+         "Lewis John McGibbney (Commented) (JIRA)",
+         "Szymon Danielczyk",
+         "Davide Palmisano",
+         "Szymon Danielczyk",
+         "Lewis John McGibbney (Commented) (JIRA)",
+         "Simone Tripodi (Reopened) (JIRA)",
+         "Lewis John McGibbney (Commented) (JIRA)",
+         "Lewis John Mcgibbney",
+         "Simone Tripodi"
+      ]
+   },
+   {
+      "name": "Lewis John McGibbney (Assigned) (JIRA)",
+      "imports": [
+         "Michele Mostarda (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Lewis John McGibbney (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Andy Seaborne (Issue Comment Edited) (JIRA)",
+      "imports": [
+         "Lewis John McGibbney (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Davide Palmisano",
+      "imports": [
+         "Michele Mostarda",
+         "Szymon Danielczyk"
+      ]
+   },
+   {
+      "name": "Simone Tripodi (Reopened) (JIRA)",
+      "imports": [
+         "Michele Mostarda (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Simone Tripodi (Commented) (JIRA)",
+      "imports": [
+         "Simone Tripodi (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Richard Cyganiak",
+      "imports": []
+   },
+   {
+      "name": "Lewis John McGibbney (Updated) (JIRA)",
+      "imports": [
+         "Simone Tripodi (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Marco Fossati (Created) (JIRA)",
+         "Szymon Danielczyk (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Marco Fossati (Created) (JIRA)",
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?=",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Ben Companjen (Updated) (JIRA)",
+      "imports": [
+         "Ben Companjen (Created) (JIRA)",
+         "Ben Companjen (Created) (JIRA)",
+         "Ben Companjen (Created) (JIRA)",
+         "Ben Companjen (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Paolo Castagna",
+      "imports": [
+         "Davide Palmisano",
+         "Simone Tripodi"
+      ]
+   },
+   {
+      "name": "Marco Fossati (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "mostarda",
+      "imports": []
+   },
+   {
+      "name": "Hudson (Commented) (JIRA)",
+      "imports": [
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?=",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Marco Fossati (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Commented=29_=28JIRA=29?=",
+      "imports": [
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?=",
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Michele Mostarda (Assigned) (JIRA)",
+      "imports": [
+         "Simone Tripodi (Created) (JIRA)",
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?=",
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?=",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Michele Mostarda (Commented) (JIRA)",
+      "imports": [
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Szymon Danielczyk (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?=",
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Ben Companjen (Created) (JIRA)",
+         "Marco Fossati (Created) (JIRA)",
+         "Ben Companjen (Created) (JIRA)",
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?=",
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?=",
+         "Michele Mostarda (Created) (JIRA)",
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Marco Fossati (Updated) (JIRA)",
+      "imports": [
+         "Marco Fossati (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Lewis John McGibbney (Commented) (JIRA)",
+      "imports": [
+         "Simone Tripodi (Created) (JIRA)",
+         "Simone Tripodi (Created) (JIRA)",
+         "Szymon Danielczyk (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?=",
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?=",
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Ben Companjen (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Michele Mostarda (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Lewis John McGibbney (Resolved) (JIRA)",
+      "imports": [
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Michele Mostarda (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)",
+         "Lewis John McGibbney (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Ben Companjen (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Updated=29_=28JIRA=29?=",
+      "imports": [
+         "=?utf-8?Q?Hannes_M=C3=BChleisen_=28Created=29_=28JIRA=29?="
+      ]
+   }
+]

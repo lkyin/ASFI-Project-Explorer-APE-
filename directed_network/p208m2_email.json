@@ -1,0 +1,33 @@
+[
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "Alex Boisvert"
+      ]
+   },
+   {
+      "name": "Alex Boisvert",
+      "imports": [
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Philip Dodds",
+      "imports": [
+         "James Strachan",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "James Strachan",
+      "imports": [
+         "Philip Dodds"
+      ]
+   },
+   {
+      "name": "Davanum Srinivas",
+      "imports": [
+         "Alex Boisvert"
+      ]
+   }
+]

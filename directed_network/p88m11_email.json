@@ -1,0 +1,350 @@
+[
+   {
+      "name": "Fred Dushin",
+      "imports": [
+         "Willem Jiang",
+         "Dan Diephouse",
+         "Dan Diephouse",
+         "Dan Diephouse"
+      ]
+   },
+   {
+      "name": "Soltysik, Seumas",
+      "imports": [
+         "Willem Jiang"
+      ]
+   },
+   {
+      "name": "Tully, Gary",
+      "imports": [
+         "Glynn, Eoghan"
+      ]
+   },
+   {
+      "name": "Glynn, Eoghan",
+      "imports": [
+         "dkulp",
+         "Daniel Kulp",
+         "Daniel Kulp",
+         "Dan Diephouse",
+         "Dan Diephouse",
+         "Liu, Jervis",
+         "Liu, Jervis",
+         "Daniel Kulp",
+         "Dan Diephouse",
+         "Daniel Kulp",
+         "Tully, Gary"
+      ]
+   },
+   {
+      "name": "Jim Jagielski",
+      "imports": [
+         "Daniel Kulp",
+         "Daniel Kulp"
+      ]
+   },
+   {
+      "name": "Guillaume Nodet",
+      "imports": [
+         "Daniel Kulp",
+         "Jacek Laskowski",
+         "Jacek Laskowski",
+         "Jacek Laskowski",
+         "Bozhong Lin",
+         "Dan Diephouse",
+         "Daniel Kulp"
+      ]
+   },
+   {
+      "name": "confluence",
+      "imports": []
+   },
+   {
+      "name": "Freeman Fang",
+      "imports": [
+         "Willem Jiang",
+         "Willem Jiang",
+         "Roelofsen, Roman",
+         "Roelofsen, Roman",
+         "Daniel Kulp",
+         "Glen Mazza",
+         "Jeff Zhang",
+         "Jeff Zhang",
+         "Daniel Kulp",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "James Strachan",
+      "imports": [
+         "Daniel Kulp",
+         "Dan Diephouse"
+      ]
+   },
+   {
+      "name": "Andrea Smyth",
+      "imports": [
+         "dandiep",
+         "Johnson, Eric",
+         "Johnson, Eric",
+         "Daniel Kulp",
+         "Dan Diephouse",
+         "Glen Mazza"
+      ]
+   },
+   {
+      "name": "ningjiang",
+      "imports": []
+   },
+   {
+      "name": "James Mao",
+      "imports": [
+         "dkulp",
+         "Bozhong Lin",
+         "Dan Diephouse",
+         "Daniel Kulp",
+         "Dan Connelly",
+         "Dan Connelly",
+         "Dan Connelly",
+         "Glen Mazza",
+         "Daniel Kulp",
+         "Dan Diephouse",
+         "Daniel Kulp"
+      ]
+   },
+   {
+      "name": "Willem Jiang",
+      "imports": [
+         "James Mao",
+         "Freeman Fang",
+         "Polar Humenn",
+         "Roelofsen, Roman",
+         "Soltysik, Seumas",
+         "Daniel Kulp",
+         "Glen Mazza",
+         "Daniel Kulp"
+      ]
+   },
+   {
+      "name": "Dan Diephouse",
+      "imports": [
+         "ningjiang",
+         "Liu, Jervis",
+         "Polar Humenn",
+         "Daniel Kulp",
+         "Glen Mazza",
+         "Jim Ma",
+         "Glynn, Eoghan",
+         "Bozhong Lin",
+         "Fred Dushin",
+         "Liu, Jervis",
+         "Guillaume Nodet",
+         "Daniel Kulp",
+         "Glynn, Eoghan",
+         "Jim Ma"
+      ]
+   },
+   {
+      "name": "Bernd Schuller",
+      "imports": [
+         "Dan Diephouse"
+      ]
+   },
+   {
+      "name": "William Tam",
+      "imports": [
+         "Paibir, Ajay"
+      ]
+   },
+   {
+      "name": "Ulhas Bhole",
+      "imports": [
+         "Daniel Kulp"
+      ]
+   },
+   {
+      "name": "Roelofsen, Roman",
+      "imports": [
+         "Willem Jiang",
+         "Freeman Fang"
+      ]
+   },
+   {
+      "name": "Glen Mazza",
+      "imports": [
+         "dandiep",
+         "ningjiang",
+         "dandiep",
+         "dandiep",
+         "mmao",
+         "Andrea Smyth",
+         "ema",
+         "James Mao",
+         "Freeman Fang",
+         "Daniel Kulp",
+         "ffang",
+         "Bozhong Lin",
+         "andreasmyth",
+         "Andrea Smyth",
+         "ningjiang",
+         "ningjiang",
+         "Daniel Kulp",
+         "jliu",
+         "confluence"
+      ]
+   },
+   {
+      "name": "Jeff Zhang",
+      "imports": []
+   },
+   {
+      "name": "ema",
+      "imports": []
+   },
+   {
+      "name": "Dan Connelly",
+      "imports": [
+         "Dan Diephouse",
+         "James Mao"
+      ]
+   },
+   {
+      "name": "dandiep",
+      "imports": []
+   },
+   {
+      "name": "Jacek Laskowski",
+      "imports": [
+         "Guillaume Nodet",
+         "Guillaume Nodet"
+      ]
+   },
+   {
+      "name": "Johnson, Eric",
+      "imports": [
+         "Andrea Smyth",
+         "Willem Jiang"
+      ]
+   },
+   {
+      "name": "Jim Ma",
+      "imports": [
+         "Dan Diephouse",
+         "Daniel Kulp",
+         "James Mao",
+         "Glen Mazza",
+         "Daniel Kulp"
+      ]
+   },
+   {
+      "name": "Liu, Jervis",
+      "imports": [
+         "Dan Diephouse",
+         "Roelofsen, Roman",
+         "Dan Diephouse",
+         "Glynn, Eoghan",
+         "Daniel Kulp",
+         "Fred Dushin",
+         "Daniel Kulp"
+      ]
+   },
+   {
+      "name": "ffang",
+      "imports": []
+   },
+   {
+      "name": "Nolan, Edell",
+      "imports": []
+   },
+   {
+      "name": "andreasmyth",
+      "imports": []
+   },
+   {
+      "name": "Tomek Sztelak",
+      "imports": [
+         "Paibir, Ajay",
+         "Liu, Jervis"
+      ]
+   },
+   {
+      "name": "Polar Humenn",
+      "imports": [
+         "Daniel Kulp",
+         "Johnson, Eric",
+         "Johnson, Eric",
+         "Soltysik, Seumas",
+         "Soltysik, Seumas"
+      ]
+   },
+   {
+      "name": "mmao",
+      "imports": []
+   },
+   {
+      "name": "Jeff Genender",
+      "imports": [
+         "Sergey Beryozkin",
+         "Daniel Kulp",
+         "Daniel Kulp",
+         "Daniel Kulp"
+      ]
+   },
+   {
+      "name": "Daniel Kulp",
+      "imports": [
+         "Polar Humenn",
+         "Glynn, Eoghan",
+         "Paibir, Ajay",
+         "Jacek Laskowski",
+         "ningjiang",
+         "mmao",
+         "Dan Diephouse",
+         "Glen Mazza",
+         "Nolan, Edell",
+         "Andrea Smyth"
+      ]
+   },
+   {
+      "name": "Sergey Beryozkin",
+      "imports": []
+   },
+   {
+      "name": "Paibir, Ajay",
+      "imports": [
+         "Liu, Jervis",
+         "Ulhas Bhole",
+         "Daniel Kulp"
+      ]
+   },
+   {
+      "name": "Oisin Hurley",
+      "imports": [
+         "Dan Diephouse"
+      ]
+   },
+   {
+      "name": "Bozhong Lin",
+      "imports": [
+         "Daniel Kulp",
+         "Dan Diephouse",
+         "Dan Diephouse",
+         "Daniel Kulp"
+      ]
+   },
+   {
+      "name": "jliu",
+      "imports": []
+   },
+   {
+      "name": "Christopher Moesel",
+      "imports": [
+         "Dan Diephouse",
+         "Daniel Kulp"
+      ]
+   },
+   {
+      "name": "dkulp",
+      "imports": []
+   }
+]

@@ -1,0 +1,18 @@
+[
+   {
+      "name": "Tom White",
+      "imports": [
+         "no-reply"
+      ]
+   },
+   {
+      "name": "Ted Dunning",
+      "imports": [
+         "Tom White"
+      ]
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   }
+]

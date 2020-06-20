@@ -1,0 +1,30 @@
+[
+   {
+      "name": "Marcos Lin",
+      "imports": []
+   },
+   {
+      "name": "Christian Grobmeier",
+      "imports": [
+         "Brent Lintner"
+      ]
+   },
+   {
+      "name": "JR",
+      "imports": [
+         "Marcos Lin",
+         "Brian Keith Johnston"
+      ]
+   },
+   {
+      "name": "Brian Keith Johnston",
+      "imports": []
+   },
+   {
+      "name": "Brent Lintner",
+      "imports": [
+         "JR",
+         "Christian Grobmeier"
+      ]
+   }
+]

@@ -1,0 +1,35 @@
+[
+   {
+      "name": "Dave Fisher",
+      "imports": [
+         "Svante Schubert"
+      ]
+   },
+   {
+      "name": "Wilson Barbosa",
+      "imports": [
+         "Dave Fisher"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "Svante Schubert"
+      ]
+   },
+   {
+      "name": "Svante Schubert",
+      "imports": [
+         "Chris Thistlethwaite",
+         "Kirchhoff, Bjoern"
+      ]
+   },
+   {
+      "name": "Kirchhoff, Bjoern",
+      "imports": []
+   },
+   {
+      "name": "Chris Thistlethwaite",
+      "imports": []
+   }
+]

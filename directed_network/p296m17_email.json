@@ -1,0 +1,31 @@
+[
+   {
+      "name": "Raymond Camden",
+      "imports": []
+   },
+   {
+      "name": "Gord Tanner",
+      "imports": [
+         "Brent Lintner"
+      ]
+   },
+   {
+      "name": "JR",
+      "imports": [
+         "Gord Tanner"
+      ]
+   },
+   {
+      "name": "Brent Lintner",
+      "imports": [
+         "Raymond Camden",
+         "Dan Silivestru"
+      ]
+   },
+   {
+      "name": "Dan Silivestru",
+      "imports": [
+         "JR"
+      ]
+   }
+]

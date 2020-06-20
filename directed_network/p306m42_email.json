@@ -1,0 +1,69 @@
+[
+   {
+      "name": "Pablo Ojanguren",
+      "imports": [
+         "Vicente J. Ruiz Jurado",
+         "Ali Lown",
+         "Vicente J. Ruiz Jurado"
+      ]
+   },
+   {
+      "name": "Thomas Wrobel",
+      "imports": [
+         "John Blossom"
+      ]
+   },
+   {
+      "name": "Terry Hardin",
+      "imports": [
+         "Thomas Broyer"
+      ]
+   },
+   {
+      "name": "Ali Lown",
+      "imports": [
+         "Pablo Ojanguren",
+         "Vicente J. Ruiz Jurado",
+         "Ben Hegarty",
+         "Vicente J. Ruiz Jurado"
+      ]
+   },
+   {
+      "name": "John Blossom",
+      "imports": [
+         "Yuri Z"
+      ]
+   },
+   {
+      "name": "Jim Keener",
+      "imports": []
+   },
+   {
+      "name": "Thomas Broyer",
+      "imports": [
+         "Ben Hegarty",
+         "Pablo Ojanguren"
+      ]
+   },
+   {
+      "name": "Vicente J. Ruiz Jurado",
+      "imports": [
+         "Pablo Ojanguren",
+         "Pablo Ojanguren",
+         "Ali Lown",
+         "Pablo Ojanguren"
+      ]
+   },
+   {
+      "name": "Ben Hegarty",
+      "imports": [
+         "Terry Hardin"
+      ]
+   },
+   {
+      "name": "Yuri Z",
+      "imports": [
+         "Jim Keener"
+      ]
+   }
+]

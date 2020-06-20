@@ -1,0 +1,28 @@
+[
+   {
+      "name": "Henri Yandell",
+      "imports": []
+   },
+   {
+      "name": "Linda Lee",
+      "imports": []
+   },
+   {
+      "name": "Phil Steitz",
+      "imports": [
+         "Henri Yandell",
+         "Henri Yandell"
+      ]
+   },
+   {
+      "name": "Mark Hayes",
+      "imports": [
+         "Linda Lee",
+         "Charles Lamb"
+      ]
+   },
+   {
+      "name": "Charles Lamb",
+      "imports": []
+   }
+]

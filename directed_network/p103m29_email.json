@@ -1,0 +1,24 @@
+[
+   {
+      "name": "Scott Comer",
+      "imports": [
+         "Holger Grandy"
+      ]
+   },
+   {
+      "name": "Martijn Dashorst",
+      "imports": []
+   },
+   {
+      "name": "scott comer",
+      "imports": [
+         "Holger Grandy"
+      ]
+   },
+   {
+      "name": "Holger Grandy",
+      "imports": [
+         "Martijn Dashorst"
+      ]
+   }
+]

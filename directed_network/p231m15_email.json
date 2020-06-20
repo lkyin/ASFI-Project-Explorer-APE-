@@ -1,0 +1,78 @@
+[
+   {
+      "name": "Jukka Zitting (JIRA)",
+      "imports": [
+         "Karl Heinz Marbaise (JIRA)",
+         "Bertrand Delacretaz (JIRA)"
+      ]
+   },
+   {
+      "name": "Chris Mattmann",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Keith R. Bennett (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Sami Siren",
+      "imports": [
+         "Chris Mattmann"
+      ]
+   },
+   {
+      "name": "Karl Heinz Marbaise (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Chris A. Mattmann (JIRA)",
+      "imports": [
+         "Keith R. Bennett (JIRA)",
+         "Keith R. Bennett (JIRA)",
+         "Keith R. Bennett (JIRA)",
+         "Keith R. Bennett (JIRA)"
+      ]
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Guillaume LOUVEL",
+         "Guillaume LOUVEL",
+         "Chris Mattmann"
+      ]
+   },
+   {
+      "name": "Rida Benjelloun",
+      "imports": [
+         "Niall Pemberton"
+      ]
+   },
+   {
+      "name": "Yves Zoundi",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Guillaume LOUVEL",
+      "imports": []
+   },
+   {
+      "name": "Robert Burrell Donkin",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Niall Pemberton",
+      "imports": [
+         "Sami Siren"
+      ]
+   }
+]

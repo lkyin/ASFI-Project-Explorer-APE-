@@ -1,0 +1,26 @@
+[
+   {
+      "name": "Eyal Allweil",
+      "imports": [
+         "johndament",
+         "Matthew Hayes"
+      ]
+   },
+   {
+      "name": "johndament",
+      "imports": []
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "Eyal Allweil"
+      ]
+   },
+   {
+      "name": "Matthew Hayes",
+      "imports": [
+         "Eyal Allweil",
+         "John D. Ament"
+      ]
+   }
+]

@@ -1,0 +1,47 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "=?utf-8?Q?Louis_Su=C3=A1rez-Potts?=",
+         "Dave Fisher",
+         "jan i",
+         "jan i",
+         "Ted Dunning"
+      ]
+   },
+   {
+      "name": "Dave Fisher",
+      "imports": [
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "Ted Dunning",
+      "imports": [
+         "jan i"
+      ]
+   },
+   {
+      "name": "jan i",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Ted Dunning"
+      ]
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": [
+         "jan i"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Louis_Su=C3=A1rez-Potts?=",
+      "imports": []
+   },
+   {
+      "name": "Ian C",
+      "imports": [
+         "jan i"
+      ]
+   }
+]

@@ -1,0 +1,28 @@
+[
+   {
+      "name": "Francis De Brabandere",
+      "imports": [
+         "Apache Hudson Server",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?="
+      ]
+   },
+   {
+      "name": "Apache Hudson Server",
+      "imports": []
+   },
+   {
+      "name": "Martijn Dashorst",
+      "imports": [
+         "=?iso-8859-1?Q?Rainer_D=F6bele?="
+      ]
+   },
+   {
+      "name": "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+      "imports": [
+         "Francis De Brabandere",
+         "Francis De Brabandere",
+         "Francis De Brabandere",
+         "Martijn Dashorst"
+      ]
+   }
+]

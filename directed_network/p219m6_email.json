@@ -1,0 +1,23 @@
+[
+   {
+      "name": "Martin Sebor (JIRA)",
+      "imports": [
+         "Jeremy Dean (JIRA)"
+      ]
+   },
+   {
+      "name": "Jeremy Dean (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Martin Sebor",
+      "imports": [
+         "Anton Pevtsov",
+         "Anton Pevtsov"
+      ]
+   },
+   {
+      "name": "Anton Pevtsov",
+      "imports": []
+   }
+]

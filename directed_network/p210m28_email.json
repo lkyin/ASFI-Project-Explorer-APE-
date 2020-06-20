@@ -1,0 +1,56 @@
+[
+   {
+      "name": "Peter Ladanyi (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Les Hazlewood (JIRA)",
+      "imports": [
+         "Peter Ladanyi (JIRA)"
+      ]
+   },
+   {
+      "name": "Alan D. Cabrera",
+      "imports": [
+         "Kalle Korhonen",
+         "Kalle Korhonen"
+      ]
+   },
+   {
+      "name": "Craig L Russell",
+      "imports": [
+         "Les Hazlewood",
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Les Hazlewood",
+      "imports": [
+         "Kalle Korhonen",
+         "Kalle Korhonen",
+         "Kalle Korhonen",
+         "Craig L Russell",
+         "Kalle Korhonen",
+         "Kalle Korhonen"
+      ]
+   },
+   {
+      "name": "Kalle Korhonen (JIRA)",
+      "imports": [
+         "Peter Ladanyi (JIRA)",
+         "Peter Ladanyi (JIRA)"
+      ]
+   },
+   {
+      "name": "Kalle Korhonen",
+      "imports": [
+         "Alan D. Cabrera",
+         "Les Hazlewood",
+         "Peter Ladanyi (JIRA)",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood"
+      ]
+   }
+]

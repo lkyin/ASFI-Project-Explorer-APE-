@@ -1,0 +1,82 @@
+[
+   {
+      "name": "Christopher Collins",
+      "imports": [
+         "Marvin Humphrey",
+         "Justin Mclean",
+         "Sterling Hughes"
+      ]
+   },
+   {
+      "name": "James Pace",
+      "imports": [
+         "aditi hilbert",
+         "Sterling Hughes"
+      ]
+   },
+   {
+      "name": "Sterling Hughes",
+      "imports": [
+         "Justin Mclean",
+         "will sanfilippo",
+         "will sanfilippo"
+      ]
+   },
+   {
+      "name": "Greg Stein",
+      "imports": [
+         "aditi hilbert"
+      ]
+   },
+   {
+      "name": "P. Taylor Goetz",
+      "imports": [
+         "aditi hilbert",
+         "aditi hilbert"
+      ]
+   },
+   {
+      "name": "Justin Mclean",
+      "imports": [
+         "aditi hilbert",
+         "Christopher Collins",
+         "Christopher Collins"
+      ]
+   },
+   {
+      "name": "will sanfilippo",
+      "imports": [
+         "Sterling Hughes",
+         "marko kiiskila",
+         "marko kiiskila",
+         "marko kiiskila",
+         "marko kiiskila",
+         "Sterling Hughes"
+      ]
+   },
+   {
+      "name": "aditi hilbert",
+      "imports": [
+         "Marvin Humphrey",
+         "P. Taylor Goetz",
+         "Greg Stein",
+         "P. Taylor Goetz",
+         "Greg Stein",
+         "Greg Stein"
+      ]
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": []
+   },
+   {
+      "name": "marko kiiskila",
+      "imports": [
+         "Sterling Hughes",
+         "Sterling Hughes",
+         "will sanfilippo",
+         "will sanfilippo",
+         "Sterling Hughes"
+      ]
+   }
+]

@@ -1,0 +1,269 @@
+[
+   {
+      "name": "David Pick",
+      "imports": [
+         "Milinda Pathirage",
+         "Milinda Pathirage",
+         "Chris Riccomini",
+         "Martin Kleppmann"
+      ]
+   },
+   {
+      "name": "sriram",
+      "imports": [
+         "Chris Riccomini",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Navina Ramesh",
+      "imports": [
+         "Chris Riccomini",
+         "Chinmay Soman",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Tommy Becker",
+      "imports": [
+         "Ethan Setnik"
+      ]
+   },
+   {
+      "name": "Dotan Patrich",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Zeel Shah",
+      "imports": []
+   },
+   {
+      "name": "Thiago Souza",
+      "imports": []
+   },
+   {
+      "name": "Martin Kleppmann",
+      "imports": [
+         "Thiago Souza",
+         "Chris Riccomini",
+         "Tommy Becker",
+         "Yan Fang",
+         "David Pick",
+         "David Pick",
+         "Arbi Akhina"
+      ]
+   },
+   {
+      "name": "Ben Kirwin",
+      "imports": [
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Yan Fang",
+      "imports": [
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Navina Ramesh",
+         "Shekar Tippur",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Roger Hoover",
+         "=?UTF-8?Q?Renato_Marroqu=C3=ADn_Mogrovejo?=",
+         "=?UTF-8?Q?Renato_Marroqu=C3=ADn_Mogrovejo?=",
+         "=?UTF-8?Q?Renato_Marroqu=C3=ADn_Mogrovejo?=",
+         "Chinmay Soman",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Martin Kleppmann",
+         "Arbi Akhina"
+      ]
+   },
+   {
+      "name": "Alexander Taggart",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Zhao Weinan",
+      "imports": []
+   },
+   {
+      "name": "Garry Turkington",
+      "imports": [
+         "Yan Fang",
+         "Chinmay Soman"
+      ]
+   },
+   {
+      "name": "Jakob Homan",
+      "imports": [
+         "Garry Turkington",
+         "Chinmay Soman",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "David Z. Chen",
+      "imports": [
+         "Chinmay Soman"
+      ]
+   },
+   {
+      "name": "Ethan Setnik",
+      "imports": [
+         "Tommy Becker"
+      ]
+   },
+   {
+      "name": "Roger Hoover",
+      "imports": [
+         "Jordan Lewis"
+      ]
+   },
+   {
+      "name": "Chinmay Soman",
+      "imports": [
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Navina Ramesh",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "sriram",
+         "sriram",
+         "David Z. Chen",
+         "Chris Riccomini",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Arbi Akhina",
+      "imports": [
+         "Chris Riccomini",
+         "Yan Fang",
+         "Martin Kleppmann"
+      ]
+   },
+   {
+      "name": "Naveen Somasundaram",
+      "imports": [
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Jon Bringhurst",
+      "imports": [
+         "Martin Kleppmann"
+      ]
+   },
+   {
+      "name": "Jordan Lewis",
+      "imports": [
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "ruchita sarawgi",
+      "imports": []
+   },
+   {
+      "name": "Milinda Pathirage",
+      "imports": [
+         "David Pick",
+         "Martin Kleppmann"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Renato_Marroqu=C3=ADn_Mogrovejo?=",
+      "imports": [
+         "Yan Fang",
+         "Yan Fang",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Chris Riccomini",
+      "imports": [
+         "Dotan Patrich",
+         "Naveen Somasundaram",
+         "Jordan Lewis",
+         "Navina Ramesh",
+         "Navina Ramesh",
+         "Garry Turkington",
+         "Dotan Patrich",
+         "Jordan Lewis",
+         "Navina Ramesh",
+         "Navina Ramesh",
+         "Jordan Lewis",
+         "Zeel Shah",
+         "Shekar Tippur",
+         "Shekar Tippur",
+         "Yan Fang",
+         "ruchita sarawgi",
+         "Chinmay Soman",
+         "Martin Kleppmann",
+         "Jordan Lewis",
+         "Ben Kirwin",
+         "Ethan Setnik",
+         "Ben Kirwin",
+         "=?UTF-8?Q?Renato_Marroqu=C3=ADn_Mogrovejo?=",
+         "=?UTF-8?Q?Renato_Marroqu=C3=ADn_Mogrovejo?=",
+         "=?UTF-8?Q?Renato_Marroqu=C3=ADn_Mogrovejo?=",
+         "=?UTF-8?Q?Renato_Marroqu=C3=ADn_Mogrovejo?=",
+         "Jordan Lewis",
+         "Alexander Taggart",
+         "Alexander Taggart",
+         "Chinmay Soman",
+         "sriram",
+         "sriram",
+         "Naveen Somasundaram",
+         "Chinmay Soman",
+         "Yan Fang",
+         "Chinmay Soman",
+         "David Pick",
+         "Naveen Somasundaram",
+         "Naveen Somasundaram",
+         "Yan Fang",
+         "Zhao Weinan",
+         "Arbi Akhina",
+         "Ben Kirwin",
+         "Shekar Tippur",
+         "Navina Ramesh",
+         "Shekar Tippur",
+         "Navina Ramesh",
+         "Shekar Tippur"
+      ]
+   },
+   {
+      "name": "Shekar Tippur",
+      "imports": [
+         "Zeel Shah",
+         "Chris Riccomini",
+         "Yan Fang",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Chris Riccomini"
+      ]
+   }
+]

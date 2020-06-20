@@ -1,0 +1,67 @@
+[
+   {
+      "name": "=?UTF-8?B?UmFpbmVyIETDtmJlbGU=?=",
+      "imports": [
+         "Frank Lupo"
+      ]
+   },
+   {
+      "name": "Thomas Fischer",
+      "imports": [
+         "=?iso-8859-1?Q?Rainer_D=F6bele?="
+      ]
+   },
+   {
+      "name": "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+      "imports": [
+         "Francis De Brabandere",
+         "Francis De Brabandere",
+         "Francis De Brabandere",
+         "Francis De Brabandere"
+      ]
+   },
+   {
+      "name": "Frank Lupo",
+      "imports": [
+         "Francis De Brabandere",
+         "Matthew Bond"
+      ]
+   },
+   {
+      "name": "Francis De Brabandere",
+      "imports": [
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "Frank Lupo",
+         "Frank Lupo",
+         "Frank Lupo",
+         "Frank Lupo",
+         "Frank Lupo",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "Frank Lupo",
+         "Frank Lupo"
+      ]
+   },
+   {
+      "name": "=?iso-8859-2?Q?Rainer_D=F6bele?=",
+      "imports": [
+         "Frank Lupo"
+      ]
+   },
+   {
+      "name": "Martijn Dashorst",
+      "imports": [
+         "Francis De Brabandere",
+         "Francis De Brabandere"
+      ]
+   },
+   {
+      "name": "Matthew Bond",
+      "imports": [
+         "=?iso-8859-2?Q?Rainer_D=F6bele?="
+      ]
+   }
+]

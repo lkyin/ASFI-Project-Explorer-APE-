@@ -1,0 +1,113 @@
+[
+   {
+      "name": "Jukka Zitting (JIRA)",
+      "imports": [
+         "Robert Muir (JIRA)"
+      ]
+   },
+   {
+      "name": "Grant Ingersoll (JIRA)",
+      "imports": [
+         "Robert Muir (JIRA)"
+      ]
+   },
+   {
+      "name": "Fred Schmitt (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Robert Muir",
+      "imports": [
+         "Karl Wright",
+         "karl.wright",
+         "kwright"
+      ]
+   },
+   {
+      "name": "Grant Ingersoll",
+      "imports": [
+         "Mark Miller",
+         "Jack Krupansky",
+         "Jack Krupansky",
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "karl.wright",
+      "imports": []
+   },
+   {
+      "name": "Farzad (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Mark Miller",
+      "imports": [
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Robert Muir (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Karl Wright",
+      "imports": [
+         "Robert Muir",
+         "Robert Muir",
+         "Michael McCandless"
+      ]
+   },
+   {
+      "name": "Karl Wright (JIRA)",
+      "imports": [
+         "Andrzej Bialecki  (JIRA)",
+         "Farzad (JIRA)",
+         "Robert Muir (JIRA)",
+         "Farzad (JIRA)",
+         "Robert Muir (JIRA)",
+         "Robert Muir (JIRA)",
+         "Jack Krupansky (JIRA)",
+         "Jack Krupansky (JIRA)",
+         "Jack Krupansky (JIRA)",
+         "Jack Krupansky (JIRA)",
+         "Jack Krupansky (JIRA)",
+         "Jack Krupansky (JIRA)",
+         "Fred Schmitt (JIRA)",
+         "Fred Schmitt (JIRA)"
+      ]
+   },
+   {
+      "name": "Mark Miller (JIRA)",
+      "imports": [
+         "Robert Muir (JIRA)"
+      ]
+   },
+   {
+      "name": "Michael McCandless",
+      "imports": [
+         "Karl Wright"
+      ]
+   },
+   {
+      "name": "Jack Krupansky (JIRA)",
+      "imports": [
+         "Robert Muir (JIRA)"
+      ]
+   },
+   {
+      "name": "Andrzej Bialecki  (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jack Krupansky",
+      "imports": [
+         "Karl Wright",
+         "Grant Ingersoll"
+      ]
+   },
+   {
+      "name": "kwright",
+      "imports": []
+   }
+]

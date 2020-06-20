@@ -1,0 +1,24 @@
+[
+   {
+      "name": "Adam Estrada",
+      "imports": [
+         "Mattmann, Chris A (388J)",
+         "Mattmann, Chris A (388J)"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "Adam Estrada",
+         "Greg Reddin",
+         "Adam Estrada",
+         "Adam Estrada"
+      ]
+   },
+   {
+      "name": "Greg Reddin",
+      "imports": [
+         "Adam Estrada"
+      ]
+   }
+]

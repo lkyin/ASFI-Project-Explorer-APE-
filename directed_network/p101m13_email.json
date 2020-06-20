@@ -1,0 +1,85 @@
+[
+   {
+      "name": "Eike Kettner",
+      "imports": []
+   },
+   {
+      "name": "Benjamin Venditti",
+      "imports": [
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "Francis De Brabandere"
+      ]
+   },
+   {
+      "name": "Frank Lupo",
+      "imports": []
+   },
+   {
+      "name": "news",
+      "imports": [
+         "Francis De Brabandere"
+      ]
+   },
+   {
+      "name": "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+      "imports": [
+         "news",
+         "Benjamin Venditti",
+         "Francis De Brabandere",
+         "Frank Lupo",
+         "Francis De Brabandere",
+         "Francis De Brabandere",
+         "Benjamin Venditti",
+         "Benjamin Venditti",
+         "Benjamin Venditti",
+         "Francis De Brabandere",
+         "Francis De Brabandere",
+         "Francis De Brabandere",
+         "Francis De Brabandere",
+         "Francis De Brabandere"
+      ]
+   },
+   {
+      "name": "doebele",
+      "imports": []
+   },
+   {
+      "name": "Francis De Brabandere",
+      "imports": [
+         "Martijn Dashorst",
+         "doebele",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "news",
+         "Eike Kettner",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "=?iso-8859-1?Q?Rainer_D=F6bele?="
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Rainer_D=C3=B6bele_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Francis De Brabandere (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Rainer_D=C3=B6bele_=28JIRA=29?=",
+         "=?utf-8?Q?Rainer_D=C3=B6bele_=28JIRA=29?=",
+         "=?utf-8?Q?Rainer_D=C3=B6bele_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Martijn Dashorst",
+      "imports": [
+         "=?iso-8859-1?Q?Rainer_D=F6bele?=",
+         "Francis De Brabandere"
+      ]
+   },
+   {
+      "name": "Eike",
+      "imports": [
+         "=?iso-8859-1?Q?Rainer_D=F6bele?="
+      ]
+   }
+]

@@ -1,0 +1,99 @@
+[
+   {
+      "name": "pmanolov",
+      "imports": [
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?="
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+      "imports": [
+         "Marvin",
+         "Alan Gates",
+         "pmanolov",
+         "pmanolov",
+         "pmanolov"
+      ]
+   },
+   {
+      "name": "Seetharam Venkatesh",
+      "imports": [
+         "Srikanth Sundarrajan",
+         "Claudia Nunez",
+         "Alan Gates",
+         "Shwetha GS",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+         "Venkat R"
+      ]
+   },
+   {
+      "name": "Claudia Nunez",
+      "imports": []
+   },
+   {
+      "name": "Sowmya Ramesh",
+      "imports": []
+   },
+   {
+      "name": "Alan Gates",
+      "imports": [
+         "Marvin"
+      ]
+   },
+   {
+      "name": "Mithun Radhakrishnan",
+      "imports": [
+         "Seetharam Venkatesh"
+      ]
+   },
+   {
+      "name": "Srikanth Sundarrajan",
+      "imports": [
+         "=?UTF-8?Q?Claudia_Isabel_N=C3=BA=C3=B1ez?=",
+         "Alan Gates",
+         "shwetha.gs",
+         "shwetha.gs",
+         "shwetha.gs"
+      ]
+   },
+   {
+      "name": "=?UTF-8?Q?Claudia_Isabel_N=C3=BA=C3=B1ez?=",
+      "imports": []
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "shwetha.gs",
+      "imports": [
+         "pavan kumar kolamuri",
+         "pavan kumar kolamuri",
+         "pavan kumar kolamuri",
+         "Srikanth Sundarrajan"
+      ]
+   },
+   {
+      "name": "Shwetha GS",
+      "imports": []
+   },
+   {
+      "name": "=?UTF-8?B?SmVhbi1CYXB0aXN0ZSBPbm9mcsOp?=",
+      "imports": [
+         "Sowmya Ramesh"
+      ]
+   },
+   {
+      "name": "pavan kumar kolamuri",
+      "imports": []
+   },
+   {
+      "name": "Venkat R",
+      "imports": [
+         "Srikanth Sundarrajan",
+         "Srikanth Sundarrajan",
+         "Shwetha GS"
+      ]
+   }
+]

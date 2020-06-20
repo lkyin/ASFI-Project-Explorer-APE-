@@ -1,0 +1,19 @@
+[
+   {
+      "name": "johndament",
+      "imports": []
+   },
+   {
+      "name": "Josh Elser",
+      "imports": [
+         "johndament",
+         "Edward Capriolo"
+      ]
+   },
+   {
+      "name": "Edward Capriolo",
+      "imports": [
+         "Josh Elser"
+      ]
+   }
+]

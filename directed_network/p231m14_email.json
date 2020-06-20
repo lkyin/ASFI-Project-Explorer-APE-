@@ -1,0 +1,12 @@
+[
+   {
+      "name": "julien nioche (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jukka Zitting (JIRA)",
+      "imports": [
+         "julien nioche (JIRA)"
+      ]
+   }
+]

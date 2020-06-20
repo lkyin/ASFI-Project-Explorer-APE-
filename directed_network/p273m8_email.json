@@ -1,0 +1,33 @@
+[
+   {
+      "name": "Aaron Anderson",
+      "imports": [
+         "Rafal Rusin",
+         "Rafal Rusin"
+      ]
+   },
+   {
+      "name": "Rafal Rusin",
+      "imports": [
+         "Aaron Anderson",
+         "Aaron Anderson"
+      ]
+   },
+   {
+      "name": "Piotr Zagorski (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Pawel Byszewski (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Rafal Rusin (JIRA)",
+      "imports": [
+         "Piotr Zagorski (JIRA)",
+         "Piotr Zagorski (JIRA)",
+         "Piotr Zagorski (JIRA)",
+         "Pawel Byszewski (JIRA)"
+      ]
+   }
+]

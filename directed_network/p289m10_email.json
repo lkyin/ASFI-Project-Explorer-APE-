@@ -1,0 +1,14 @@
+[
+   {
+      "name": "Amanda Waite",
+      "imports": [
+         "Jignesh K. Shah"
+      ]
+   },
+   {
+      "name": "Jignesh K. Shah",
+      "imports": [
+         "Amanda Waite"
+      ]
+   }
+]

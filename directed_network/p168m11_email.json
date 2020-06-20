@@ -1,0 +1,80 @@
+[
+   {
+      "name": "Ate Douma",
+      "imports": [
+         "Geertjan Wielenga",
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Mark Struberg"
+      ]
+   },
+   {
+      "name": "John McDonnell",
+      "imports": [
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "Geertjan Wielenga",
+      "imports": [
+         "John D. Ament",
+         "Ate Douma",
+         "Mark Struberg",
+         "Raphael Bircher",
+         "Peter kovacs"
+      ]
+   },
+   {
+      "name": "Peter kovacs",
+      "imports": [
+         "Raphael Bircher"
+      ]
+   },
+   {
+      "name": "johndament",
+      "imports": []
+   },
+   {
+      "name": "Mark Struberg",
+      "imports": [
+         "John McDonnell",
+         "Ate Douma",
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "John D. Ament",
+      "imports": [
+         "johndament"
+      ]
+   },
+   {
+      "name": "Tomas Zezula",
+      "imports": [
+         "Attila Kelemen"
+      ]
+   },
+   {
+      "name": "Peter Kovacs",
+      "imports": [
+         "Geertjan Wielenga"
+      ]
+   },
+   {
+      "name": "Raphael Bircher",
+      "imports": [
+         "Geertjan Wielenga",
+         "Peter Kovacs"
+      ]
+   },
+   {
+      "name": "Attila Kelemen",
+      "imports": [
+         "Tomas Zezula"
+      ]
+   }
+]

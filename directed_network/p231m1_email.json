@@ -1,0 +1,61 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Chris Mattmann",
+      "imports": [
+         "mattmann",
+         "mattmann",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Rida Benjelloun",
+      "imports": [
+         "Chris A. Mattmann (JIRA)",
+         "Chris Mattmann"
+      ]
+   },
+   {
+      "name": "Doug Cutting",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "mattmann",
+      "imports": []
+   },
+   {
+      "name": "Jukka Zitting (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Jukka Zitting",
+      "imports": [
+         "Chris Mattmann"
+      ]
+   },
+   {
+      "name": "Sami Siren",
+      "imports": [
+         "Jukka Zitting"
+      ]
+   },
+   {
+      "name": "Sami Siren (JIRA)",
+      "imports": [
+         "Jukka Zitting (JIRA)"
+      ]
+   },
+   {
+      "name": "Chris A. Mattmann (JIRA)",
+      "imports": [
+         "Jukka Zitting (JIRA)"
+      ]
+   }
+]

@@ -1,0 +1,39 @@
+[
+   {
+      "name": "Ioannis Canellos",
+      "imports": []
+   },
+   {
+      "name": "john pradeep",
+      "imports": []
+   },
+   {
+      "name": "no-reply",
+      "imports": []
+   },
+   {
+      "name": "Akhilesh Singh",
+      "imports": [
+         "Luciano Resende"
+      ]
+   },
+   {
+      "name": "John Pradeep (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Luciano Resende (JIRA)",
+      "imports": [
+         "John Pradeep (JIRA)"
+      ]
+   },
+   {
+      "name": "Luciano Resende",
+      "imports": [
+         "Ioannis Canellos",
+         "Akhilesh Singh",
+         "no-reply",
+         "john pradeep"
+      ]
+   }
+]

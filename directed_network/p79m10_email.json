@@ -1,0 +1,171 @@
+[
+   {
+      "name": "Danny Ayers",
+      "imports": [
+         "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+         "Reto Bachmann-Gmuer"
+      ]
+   },
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Hasan Hasan",
+         "Henry Story",
+         "Reto Bachmann-Gmuer",
+         "Henry Story"
+      ]
+   },
+   {
+      "name": "Tsuyoshi Ito (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Fabian Wabbel",
+      "imports": [
+         "Hasan Hasan"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Reto_Bachmann=2DGm=FCr?=",
+      "imports": [
+         "Danny Ayers"
+      ]
+   },
+   {
+      "name": "Henry Story (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Reto Bachmann-Gmuer",
+      "imports": [
+         "Danny Ayers",
+         "Tommaso Teofili",
+         "Henry Story",
+         "Tsuyoshi Ito",
+         "Danny Ayers",
+         "Manuel Innerhofer",
+         "Danny Ayers",
+         "Tsuyoshi Ito",
+         "Tsuyoshi Ito"
+      ]
+   },
+   {
+      "name": "Hasan (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Manuel Innerhofer",
+      "imports": [
+         "Reto Bachmann-Gmuer"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili (JIRA)",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)"
+      ]
+   },
+   {
+      "name": "Henry Story",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz",
+         "Reto Bachmann-Gmuer",
+         "Reto Bachmann-Gmuer",
+         "Alexandre Passant"
+      ]
+   },
+   {
+      "name": "Manuel Innerhofer (JIRA)",
+      "imports": [
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+         "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Fabian Baumgartner",
+      "imports": []
+   },
+   {
+      "name": "Tsuyoshi Ito",
+      "imports": [
+         "Reto Bachmann-Gmuer"
+      ]
+   },
+   {
+      "name": "Fabian Wabbel (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "=?utf-8?Q?Reto_Bachmann-Gm=C3=BCr_=28JIRA=29?=",
+      "imports": [
+         "Manuel Innerhofer (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Tommaso Teofili (JIRA)",
+         "Fabian Wabbel (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Tommaso Teofili (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Hasan (JIRA)",
+         "Tommaso Teofili (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Tsuyoshi Ito (JIRA)",
+         "Henry Story (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Manuel Innerhofer (JIRA)",
+         "Manuel Innerhofer (JIRA)"
+      ]
+   },
+   {
+      "name": "Hasan Hasan",
+      "imports": [
+         "Tommaso Teofili",
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz",
+         "Fabian Baumgartner"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Reto Bachmann-Gmuer",
+         "Reto Bachmann-Gmuer"
+      ]
+   },
+   {
+      "name": "Alexandre Passant",
+      "imports": []
+   }
+]

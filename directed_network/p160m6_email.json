@@ -1,0 +1,102 @@
+[
+   {
+      "name": "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+      "imports": [
+         "Arvind Prabhakar",
+         "Henry Saputra",
+         "Ankit Kumar",
+         "Noah Slater",
+         "Ankit Kumar",
+         "Avinash Dongre",
+         "Avinash Dongre",
+         "Arvind Prabhakar",
+         "Ankit Kumar",
+         "Noah Slater",
+         "Noah Slater",
+         "Henry Saputra"
+      ]
+   },
+   {
+      "name": "Matt Franklin",
+      "imports": [
+         "Henry Saputra",
+         "Noah Slater",
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+         "Noah Slater"
+      ]
+   },
+   {
+      "name": "Juan Jose van der Linden",
+      "imports": [
+         "Ankit Kumar"
+      ]
+   },
+   {
+      "name": "Avinash Dongre",
+      "imports": [
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?="
+      ]
+   },
+   {
+      "name": "Arvind Prabhakar",
+      "imports": [
+         "Ankit Kumar",
+         "Ankit Kumar",
+         "Ankit Kumar",
+         "Ankit Kumar",
+         "Ankit Kumar"
+      ]
+   },
+   {
+      "name": "Noah Slater",
+      "imports": [
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+         "Henry Saputra",
+         "Henry Saputra",
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+         "Ankit Kumar",
+         "Ankit Kumar",
+         "Henry Saputra",
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+         "Matt Franklin"
+      ]
+   },
+   {
+      "name": "Henry Saputra",
+      "imports": [
+         "Arvind Prabhakar",
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+         "Noah Slater",
+         "Noah Slater",
+         "Ankit Kumar",
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+         "Ankit Kumar",
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?="
+      ]
+   },
+   {
+      "name": "Hans Drexler",
+      "imports": [
+         "Ankit Kumar",
+         "Ankit Kumar"
+      ]
+   },
+   {
+      "name": "Ankit Kumar",
+      "imports": [
+         "Arvind Prabhakar",
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+         "Arvind Prabhakar",
+         "Henry Saputra",
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+         "=?ISO-8859-1?Q?Kasper_S=F8rensen?=",
+         "Noah Slater",
+         "Henry Saputra"
+      ]
+   }
+]

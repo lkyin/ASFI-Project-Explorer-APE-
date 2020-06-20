@@ -1,0 +1,179 @@
+[
+   {
+      "name": "=?UTF-8?B?0JLQvtC70YzQvdC+0LIg0J3QuNC60L7Qu9Cw0Lk=?=",
+      "imports": []
+   },
+   {
+      "name": "Yuri Zelikov",
+      "imports": [
+         "Andrew Kaplanov",
+         "wavegrove",
+         "Andrew Kaplanov",
+         "Nikolay Volnov",
+         "Nikolay Volnov",
+         "Ali Lown",
+         "Ali Lown",
+         "Nikolay Volnov"
+      ]
+   },
+   {
+      "name": "Sean Wendt",
+      "imports": [
+         "Ali Lown"
+      ]
+   },
+   {
+      "name": "Nikolay Volnov (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Jo=C3=A3o_Vitor_P=2E_Moraes_=28Created=29_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Benson Margulies",
+      "imports": [
+         "Michael MacFadden",
+         "Michael MacFadden"
+      ]
+   },
+   {
+      "name": "Andrew Kaplanov",
+      "imports": [
+         "Yuri Zelikov",
+         "Yuri Zelikov",
+         "Yuri Zelikov",
+         "wavegrove",
+         "Angus Turner",
+         "David Starina",
+         "Yuri Zelikov",
+         "Yuri Zelikov",
+         "David Starina",
+         "David Starina",
+         "David Starina"
+      ]
+   },
+   {
+      "name": "Michael MacFadden",
+      "imports": [
+         "Upayavira",
+         "Benson Margulies",
+         "Yuri Z",
+         "Upayavira",
+         "Upayavira",
+         "Yuri Zelikov"
+      ]
+   },
+   {
+      "name": "David Starina",
+      "imports": [
+         "Niklaus Hofer",
+         "Andrew Kaplanov",
+         "Andrew Kaplanov"
+      ]
+   },
+   {
+      "name": "Christian Grobmeier",
+      "imports": [
+         "Michael MacFadden"
+      ]
+   },
+   {
+      "name": "Nikolay Volnov",
+      "imports": [
+         "Angus Turner"
+      ]
+   },
+   {
+      "name": "Paulo Pires",
+      "imports": [
+         "Michael MacFadden"
+      ]
+   },
+   {
+      "name": "=?utf-8?Q?Jo=C3=A3o_Vitor_P=2E_Moraes_=28Created=29_=28JIRA=29?=",
+      "imports": []
+   },
+   {
+      "name": "Niklaus Hofer",
+      "imports": [
+         "Ali Lown",
+         "=?ISO-8859-1?Q?J=E9r=E9my_Naegel?="
+      ]
+   },
+   {
+      "name": "Yuri Z",
+      "imports": [
+         "=?UTF-8?B?0JLQvtC70YzQvdC+0LIg0J3QuNC60L7Qu9Cw0Lk=?=",
+         "Ali Lown",
+         "Ali Lown",
+         "Michael MacFadden",
+         "Benson Margulies",
+         "Upayavira"
+      ]
+   },
+   {
+      "name": "Yuri Zelikov (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Jo=C3=A3o_Vitor_P=2E_Moraes_=28Created=29_=28JIRA=29?="
+      ]
+   },
+   {
+      "name": "Vicente J. Ruiz Jurado",
+      "imports": [
+         "Nikolay Volnov"
+      ]
+   },
+   {
+      "name": "Angus Turner",
+      "imports": [
+         "Upayavira",
+         "Nikolay Volnov",
+         "Michael MacFadden",
+         "Yuri Z",
+         "Michael MacFadden",
+         "Ali Lown"
+      ]
+   },
+   {
+      "name": "Ali Lown",
+      "imports": [
+         "Andrew Kaplanov",
+         "Angus Turner",
+         "Sean Wendt",
+         "Murray",
+         "Michael MacFadden",
+         "Sean Wendt",
+         "Yuri Zelikov",
+         "Yuri Zelikov"
+      ]
+   },
+   {
+      "name": "Upayavira",
+      "imports": [
+         "Angus Turner",
+         "Christian Grobmeier",
+         "Angus Turner",
+         "Angus Turner",
+         "Michael MacFadden"
+      ]
+   },
+   {
+      "name": "Murray",
+      "imports": []
+   },
+   {
+      "name": "=?ISO-8859-1?Q?J=E9r=E9my_Naegel?=",
+      "imports": [
+         "Niklaus Hofer"
+      ]
+   },
+   {
+      "name": "wavegrove",
+      "imports": []
+   },
+   {
+      "name": "Ali Lown (JIRA)",
+      "imports": [
+         "=?utf-8?Q?Jo=C3=A3o_Vitor_P=2E_Moraes_=28Created=29_=28JIRA=29?="
+      ]
+   }
+]

@@ -1,0 +1,22 @@
+[
+   {
+      "name": "Ioannis Canellos",
+      "imports": [
+         "Olivier Lamy"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+      "imports": [
+         "Olivier Lamy",
+         "Olivier Lamy"
+      ]
+   },
+   {
+      "name": "Olivier Lamy",
+      "imports": [
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?=",
+         "=?ISO-8859-1?Q?Jean-Baptiste_Onofr=E9?="
+      ]
+   }
+]

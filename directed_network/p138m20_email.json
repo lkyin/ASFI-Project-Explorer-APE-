@@ -1,0 +1,39 @@
+[
+   {
+      "name": "lewis john mcgibbney",
+      "imports": []
+   },
+   {
+      "name": "Mattmann, Chris A (3010)",
+      "imports": [
+         "Tommaso Teofili"
+      ]
+   },
+   {
+      "name": "Tommaso Teofili",
+      "imports": [
+         "lewis john mcgibbney",
+         "Chris Mattmann",
+         "Chris Mattmann"
+      ]
+   },
+   {
+      "name": "kellen sunderland",
+      "imports": [
+         "Mattmann, Chris A (3010)"
+      ]
+   },
+   {
+      "name": "Chris Mattmann",
+      "imports": [
+         "Matt Post"
+      ]
+   },
+   {
+      "name": "Matt Post",
+      "imports": [
+         "lewis john mcgibbney",
+         "Tommaso Teofili"
+      ]
+   }
+]

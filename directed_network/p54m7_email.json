@@ -1,0 +1,412 @@
+[
+   {
+      "name": "Renaud Grisoni",
+      "imports": []
+   },
+   {
+      "name": "Brandon White",
+      "imports": []
+   },
+   {
+      "name": "Andrew Phillips",
+      "imports": [
+         "Maycock, Luke",
+         "Jeremiah Lowin",
+         "Maycock, Luke"
+      ]
+   },
+   {
+      "name": "Arthur Wiedmer",
+      "imports": [
+         "siddharth anand",
+         "siddharth anand",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Ben Tallman",
+      "imports": [
+         "gurer.kiratli",
+         "siddharth anand",
+         "Joseph Napolitano",
+         "Boris Tyukin",
+         "Boris Tyukin"
+      ]
+   },
+   {
+      "name": "Tamara Mendt",
+      "imports": []
+   },
+   {
+      "name": "Jeremiah Lowin",
+      "imports": [
+         "Alex Van Boxel",
+         "Maycock, Luke",
+         "Andrew Phillips",
+         "Andrew Phillips"
+      ]
+   },
+   {
+      "name": "Boris",
+      "imports": []
+   },
+   {
+      "name": "Rob Goretsky",
+      "imports": []
+   },
+   {
+      "name": "Vincent Poulain",
+      "imports": [
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Gerard Toonstra",
+      "imports": [
+         "Boris Tyukin",
+         "Boris Tyukin",
+         "Maxime Beauchemin",
+         "wget.null",
+         "Manning, Kieran (Consultant)",
+         "Boris Tyukin"
+      ]
+   },
+   {
+      "name": "Jason Chen",
+      "imports": [
+         "Boris Tyukin"
+      ]
+   },
+   {
+      "name": "weeei he",
+      "imports": []
+   },
+   {
+      "name": "Colin Son",
+      "imports": [
+         "siddharth anand",
+         "siddharth anand"
+      ]
+   },
+   {
+      "name": "Shin Tai",
+      "imports": [
+         "twinkle sachdeva"
+      ]
+   },
+   {
+      "name": "Jakob Homan",
+      "imports": [
+         "Rob Goretsky",
+         "Laura Lorenz"
+      ]
+   },
+   {
+      "name": "lkqr",
+      "imports": []
+   },
+   {
+      "name": "Li Xuan Ji",
+      "imports": [
+         "Maxime Beauchemin",
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Manning, Kieran (Consultant)",
+      "imports": [
+         "wget.null",
+         "Gerard Toonstra"
+      ]
+   },
+   {
+      "name": "johndament",
+      "imports": []
+   },
+   {
+      "name": "Maycock, Luke",
+      "imports": [
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "siddharth anand",
+         "Jeremiah Lowin",
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "siddharth anand",
+      "imports": [
+         "Bolke de Bruin",
+         "Arthur Purvis",
+         "Chris Riccomini",
+         "johndament",
+         "Gurer Kiratli",
+         "George Leslie-Waksman",
+         "George Leslie-Waksman",
+         "Alex Van Boxel",
+         "=?UTF-8?B?15TXmdec15Qg15XXmdeW158=?=",
+         "Renaud Grisoni",
+         "johndament",
+         "Ben Tallman",
+         "George Leslie-Waksman",
+         "George Leslie-Waksman",
+         "George Leslie-Waksman",
+         "Chris Riccomini",
+         "Sumit Maheshwari",
+         "Arthur Wiedmer",
+         "Colin Son",
+         "weeei he",
+         "Colin Son",
+         "Colin Son",
+         "Maxime Beauchemin",
+         "Jakob Homan",
+         "Chris Riccomini",
+         "Gurer Kiratli",
+         "Boris Tyukin",
+         "Maxime Beauchemin",
+         "Boris Tyukin",
+         "Boris Tyukin",
+         "Ben Tallman",
+         "Maxime Beauchemin",
+         "Rob Froetscher"
+      ]
+   },
+   {
+      "name": "gurer.kiratli",
+      "imports": []
+   },
+   {
+      "name": "Jim Zheng (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "wget.null",
+      "imports": []
+   },
+   {
+      "name": "Marc Bollinger",
+      "imports": [
+         "Maxime Beauchemin"
+      ]
+   },
+   {
+      "name": "Yogesh Garg",
+      "imports": [
+         "Vikas Malhotra"
+      ]
+   },
+   {
+      "name": "Rob Froetscher",
+      "imports": [
+         "Chris Riccomini",
+         "siddharth anand",
+         "siddharth anand"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?15TXmdec15Qg15XXmdeW158=?=",
+      "imports": [
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "Vikas Malhotra",
+      "imports": []
+   },
+   {
+      "name": "Maxime Beauchemin",
+      "imports": [
+         "Jim Zheng (JIRA)",
+         "Maycock, Luke",
+         "twinkle sachdeva",
+         "Brandon White",
+         "siddharth anand",
+         "Arthur Wiedmer",
+         "Maycock, Luke",
+         "Michal K",
+         "Boris Tyukin",
+         "Vijay Bhat",
+         "siddharth anand",
+         "Chris Riccomini",
+         "twinkle sachdeva",
+         "George Leslie-Waksman"
+      ]
+   },
+   {
+      "name": "Joseph Napolitano",
+      "imports": [
+         "Boris Tyukin"
+      ]
+   },
+   {
+      "name": "Arthur Purvis",
+      "imports": [
+         "siddharth anand"
+      ]
+   },
+   {
+      "name": "Chris Nauroth",
+      "imports": [
+         "JG Homan"
+      ]
+   },
+   {
+      "name": "Gurer Kiratli",
+      "imports": [
+         "George Leslie-Waksman",
+         "George Leslie-Waksman",
+         "siddharth anand",
+         "Chris Riccomini",
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "Laura Lorenz",
+      "imports": [
+         "George Leslie-Waksman",
+         "siddharth anand",
+         "lkqr",
+         "Boris Tyukin",
+         "Boris Tyukin",
+         "Boris Tyukin"
+      ]
+   },
+   {
+      "name": "Alex Van Boxel",
+      "imports": [
+         "Chris Riccomini",
+         "siddharth anand",
+         "Chris Riccomini",
+         "siddharth anand",
+         "Chris Riccomini",
+         "Chris Riccomini",
+         "Maycock, Luke"
+      ]
+   },
+   {
+      "name": "Phil Daly",
+      "imports": []
+   },
+   {
+      "name": "JG Homan",
+      "imports": [
+         "Chris Riccomini"
+      ]
+   },
+   {
+      "name": "David Batista",
+      "imports": [
+         "Boris Tyukin"
+      ]
+   },
+   {
+      "name": "Boris Tyukin",
+      "imports": [
+         "siddharth anand",
+         "siddharth anand",
+         "siddharth anand",
+         "siddharth anand",
+         "Boris",
+         "Ben Tallman",
+         "Ben Tallman",
+         "Ben Tallman",
+         "Gerard Toonstra",
+         "Laura Lorenz",
+         "Laura Lorenz",
+         "Jason Chen",
+         "Tamara Mendt",
+         "Laura Lorenz",
+         "Gerard Toonstra",
+         "Gerard Toonstra"
+      ]
+   },
+   {
+      "name": "Bolke de Bruin",
+      "imports": [
+         "gurer.kiratli",
+         "siddharth anand",
+         "Alex Van Boxel",
+         "twinkle sachdeva",
+         "Vincent Poulain",
+         "Vincent Poulain",
+         "Chris Riccomini",
+         "Vijay Bhat"
+      ]
+   },
+   {
+      "name": "twinkle sachdeva",
+      "imports": [
+         "Bolke de Bruin",
+         "wget.null",
+         "wget.null",
+         "wget.null",
+         "wget.null"
+      ]
+   },
+   {
+      "name": "Chris Riccomini",
+      "imports": [
+         "Bolke de Bruin",
+         "siddharth anand",
+         "Maycock, Luke",
+         "siddharth anand",
+         "Maxime Beauchemin",
+         "siddharth anand",
+         "Alex Van Boxel",
+         "siddharth anand",
+         "siddharth anand",
+         "Gurer Kiratli",
+         "Bolke de Bruin",
+         "siddharth anand",
+         "Alex Van Boxel",
+         "Alex Van Boxel",
+         "Jeremiah Lowin",
+         "Rob Froetscher",
+         "Marc Bollinger"
+      ]
+   },
+   {
+      "name": "Mohsen Bande",
+      "imports": []
+   },
+   {
+      "name": "Vijay Bhat",
+      "imports": [
+         "Bolke de Bruin"
+      ]
+   },
+   {
+      "name": "George Leslie-Waksman",
+      "imports": [
+         "siddharth anand",
+         "Ben Tallman",
+         "siddharth anand",
+         "siddharth anand",
+         "Gurer Kiratli",
+         "Bolke de Bruin",
+         "Mohsen Bande",
+         "siddharth anand",
+         "Phil Daly",
+         "siddharth anand",
+         "siddharth anand",
+         "Alex Van Boxel",
+         "harish singh",
+         "Andrew Phillips"
+      ]
+   },
+   {
+      "name": "Michal K",
+      "imports": []
+   },
+   {
+      "name": "harish singh",
+      "imports": []
+   },
+   {
+      "name": "Sumit Maheshwari",
+      "imports": [
+         "siddharth anand",
+         "twinkle sachdeva"
+      ]
+   }
+]

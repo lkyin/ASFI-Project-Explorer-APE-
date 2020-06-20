@@ -1,0 +1,22 @@
+[
+   {
+      "name": "Tom Barber",
+      "imports": [
+         "Dave Fisher"
+      ]
+   },
+   {
+      "name": "Svante Schubert",
+      "imports": [
+         "Yegor Kozlov"
+      ]
+   },
+   {
+      "name": "Yegor Kozlov",
+      "imports": []
+   },
+   {
+      "name": "Dave Fisher",
+      "imports": []
+   }
+]

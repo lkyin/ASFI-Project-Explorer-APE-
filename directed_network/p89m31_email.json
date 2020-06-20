@@ -1,0 +1,37 @@
+[
+   {
+      "name": "Jakob Homan",
+      "imports": [
+         "Matthew Hayes",
+         "Eyal Allweil",
+         "Matthew Hayes"
+      ]
+   },
+   {
+      "name": "Matthew Hayes",
+      "imports": [
+         "Eyal Allweil",
+         "Jakob Homan",
+         "JG Homan"
+      ]
+   },
+   {
+      "name": "JG Homan",
+      "imports": [
+         "Matthew Hayes"
+      ]
+   },
+   {
+      "name": "Eyal Allweil",
+      "imports": [
+         "Sam Shah"
+      ]
+   },
+   {
+      "name": "Sam Shah",
+      "imports": [
+         "Matthew Hayes",
+         "Jakob Homan"
+      ]
+   }
+]

@@ -1,0 +1,271 @@
+[
+   {
+      "name": "Olivier Grisel",
+      "imports": [
+         "Riccardo Tasso",
+         "Riccardo Tasso",
+         "Riccardo Tasso"
+      ]
+   },
+   {
+      "name": "Dewmal Handapangoda",
+      "imports": []
+   },
+   {
+      "name": "bgalitsky",
+      "imports": []
+   },
+   {
+      "name": "Benson Margulies",
+      "imports": [
+         "mark meiklejohn"
+      ]
+   },
+   {
+      "name": "Joern Kottmann",
+      "imports": [
+         "Jairo Sarabia",
+         "william.colen@gmail.com",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "colen",
+         "colen",
+         "Aliaksandr Autayeu",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "Katrin Tomanek",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com"
+      ]
+   },
+   {
+      "name": "Apache Jenkins Server",
+      "imports": []
+   },
+   {
+      "name": "Katrin Tomanek",
+      "imports": [
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "william.colen@gmail.com",
+         "Jairo Sarabia",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann"
+      ]
+   },
+   {
+      "name": "Jairo Sarabia",
+      "imports": [
+         "Joern Kottmann",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?="
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+      "imports": [
+         "mark meiklejohn",
+         "Riccardo Tasso",
+         "william.colen@gmail.com",
+         "Jairo Sarabia",
+         "william.colen@gmail.com"
+      ]
+   },
+   {
+      "name": "Riccardo Tasso",
+      "imports": [
+         "Benson Margulies",
+         "Dewmal Handapangoda",
+         "=?UTF-8?B?SsO2cm4gS290dG1hbm4=?=",
+         "Olivier Grisel",
+         "Olivier Grisel"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?SsO2cm4gS290dG1hbm4=?=",
+      "imports": [
+         "Aliaksandr Autayeu",
+         "James Kosin",
+         "bgalitsky",
+         "Riccardo Tasso",
+         "Aliaksandr Autayeu"
+      ]
+   },
+   {
+      "name": "Svetoslav Marinov",
+      "imports": [
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com"
+      ]
+   },
+   {
+      "name": "James Kosin",
+      "imports": [
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "mark meiklejohn"
+      ]
+   },
+   {
+      "name": "william.colen@gmail.com",
+      "imports": [
+         "Svetoslav Marinov",
+         "=?UTF-8?B?SsO2cm4gS290dG1hbm4=?=",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "Joern Kottmann",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "Katrin Tomanek",
+         "Jairo Sarabia",
+         "Katrin Tomanek",
+         "Jairo Sarabia",
+         "Apache Jenkins Server",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu",
+         "Aliaksandr Autayeu"
+      ]
+   },
+   {
+      "name": "Aliaksandr Autayeu",
+      "imports": [
+         "=?UTF-8?B?SsO2cm4gS290dG1hbm4=?=",
+         "Thilo Goetz",
+         "william.colen@gmail.com",
+         "James Kosin",
+         "william.colen@gmail.com",
+         "william.colen@gmail.com",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann",
+         "Joern Kottmann"
+      ]
+   },
+   {
+      "name": "Thilo Goetz",
+      "imports": []
+   },
+   {
+      "name": "mark meiklejohn",
+      "imports": [
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?="
+      ]
+   },
+   {
+      "name": "colen",
+      "imports": []
+   },
+   {
+      "name": "Boris Galitsky",
+      "imports": [
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?="
+      ]
+   }
+]

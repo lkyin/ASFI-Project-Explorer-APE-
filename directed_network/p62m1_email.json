@@ -1,0 +1,79 @@
+[
+   {
+      "name": "Ted Dunning",
+      "imports": [
+         "Chris Mattmann"
+      ]
+   },
+   {
+      "name": "Chris Mattmann",
+      "imports": []
+   },
+   {
+      "name": "Mattmann, Chris A (3980)",
+      "imports": [
+         "abdullah alamoudi",
+         "Till Westmann",
+         "Till Westmann",
+         "hosur narahari",
+         "hosur narahari",
+         "Henry Saputra",
+         "Ate Douma"
+      ]
+   },
+   {
+      "name": "Till Westmann",
+      "imports": [
+         "Mattmann, Chris A (3980)",
+         "Henry Saputra",
+         "Henry Saputra",
+         "Mattmann, Chris A (3980)",
+         "Ate Douma",
+         "Ate Douma",
+         "Ate Douma",
+         "Henry Saputra",
+         "Mattmann, Chris A (3980)"
+      ]
+   },
+   {
+      "name": "abdullah alamoudi",
+      "imports": [
+         "Chris Mattmann",
+         "hosur narahari"
+      ]
+   },
+   {
+      "name": "Mike Carey",
+      "imports": [
+         "Mattmann, Chris A (3980)",
+         "Henry Saputra"
+      ]
+   },
+   {
+      "name": "hosur narahari",
+      "imports": [
+         "Mattmann, Chris A (3980)"
+      ]
+   },
+   {
+      "name": "Henry Saputra",
+      "imports": [
+         "Ted Dunning",
+         "Ate Douma",
+         "Chris Mattmann",
+         "Till Westmann",
+         "Till Westmann",
+         "Till Westmann",
+         "Till Westmann",
+         "Mattmann, Chris A (3980)"
+      ]
+   },
+   {
+      "name": "Ate Douma",
+      "imports": [
+         "Mattmann, Chris A (3980)",
+         "Till Westmann",
+         "Till Westmann"
+      ]
+   }
+]

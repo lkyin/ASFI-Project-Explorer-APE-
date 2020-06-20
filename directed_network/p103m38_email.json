@@ -1,0 +1,80 @@
+[
+   {
+      "name": "Martin Veith (JIRA)",
+      "imports": [
+         "Michael Fitzner (JIRA)",
+         "Michael Fitzner (JIRA)"
+      ]
+   },
+   {
+      "name": "Thomas Marsh (Commented) (JIRA)",
+      "imports": [
+         "Thomas Marsh (JIRA)"
+      ]
+   },
+   {
+      "name": "Thomas Marsh (Created) (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Thomas Marsh (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Martin Veith (Updated) (JIRA)",
+      "imports": [
+         "Holger Grandy (JIRA)",
+         "Michael Fitzner (JIRA)",
+         "Holger Grandy (JIRA)"
+      ]
+   },
+   {
+      "name": "Martin Veith (Resolved) (JIRA)",
+      "imports": [
+         "Michael Fitzner (JIRA)",
+         "Holger Grandy (JIRA)"
+      ]
+   },
+   {
+      "name": "Holger Grandy (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Matthias Benesch (JIRA)",
+      "imports": [
+         "Michael Fitzner (JIRA)"
+      ]
+   },
+   {
+      "name": "Michael Fitzner (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Michael Fitzner (Assigned) (JIRA)",
+      "imports": [
+         "Thomas Marsh (JIRA)"
+      ]
+   },
+   {
+      "name": "Michael Fitzner (Updated) (JIRA)",
+      "imports": [
+         "Michael Fitzner (JIRA)"
+      ]
+   },
+   {
+      "name": "Michael Fitzner",
+      "imports": [
+         "Thomas Marsh"
+      ]
+   },
+   {
+      "name": "Thomas Marsh (Updated) (JIRA)",
+      "imports": [
+         "Thomas Marsh (Created) (JIRA)"
+      ]
+   },
+   {
+      "name": "Thomas Marsh",
+      "imports": []
+   }
+]

@@ -1,0 +1,135 @@
+[
+   {
+      "name": "Tim Miller",
+      "imports": [
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "Chen, Pei"
+      ]
+   },
+   {
+      "name": "Bleeker, Troy C.",
+      "imports": [
+         "Finan, Sean",
+         "Masanz, James J.",
+         "Finan, Sean"
+      ]
+   },
+   {
+      "name": "Daniel Shahaf",
+      "imports": [
+         "Chen, Pei"
+      ]
+   },
+   {
+      "name": "Ted Dunning",
+      "imports": []
+   },
+   {
+      "name": "Benson Margulies",
+      "imports": [
+         "Tim Miller"
+      ]
+   },
+   {
+      "name": "=?UTF-8?B?SsO2cm4gS290dG1hbm4=?=",
+      "imports": [
+         "Benson Margulies"
+      ]
+   },
+   {
+      "name": "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+      "imports": [
+         "Chen, Pei",
+         "Miller, Timothy",
+         "Steven Bethard",
+         "Chen, Pei"
+      ]
+   },
+   {
+      "name": "hema madhuri",
+      "imports": [
+         "Chen, Pei"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "Chen, Pei"
+      ]
+   },
+   {
+      "name": "Masanz, James J.",
+      "imports": [
+         "Chen, Pei",
+         "Bleeker, Troy C.",
+         "Chen, Pei",
+         "Bleeker, Troy C.",
+         "hema madhuri",
+         "Mattmann, Chris A (388J)",
+         "Tim Miller",
+         "Steven Bethard"
+      ]
+   },
+   {
+      "name": "Miller, Timothy",
+      "imports": []
+   },
+   {
+      "name": "Wu, Stephen T., Ph.D.",
+      "imports": [
+         "Steven Bethard"
+      ]
+   },
+   {
+      "name": "Steven Bethard",
+      "imports": [
+         "Chen, Pei",
+         "Wu, Stephen T., Ph.D.",
+         "Miller, Timothy",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "Chen, Pei"
+      ]
+   },
+   {
+      "name": "Lin, Chen",
+      "imports": [
+         "Deepal Dhariwal"
+      ]
+   },
+   {
+      "name": "Deepal Dhariwal",
+      "imports": [
+         "Chen, Pei",
+         "Chen, Pei"
+      ]
+   },
+   {
+      "name": "Murphy, Sean P.",
+      "imports": []
+   },
+   {
+      "name": "Chen, Pei",
+      "imports": [
+         "Steven Bethard",
+         "Wu, Stephen T., Ph.D.",
+         "hema madhuri",
+         "Deepal Dhariwal",
+         "Deepal Dhariwal",
+         "Murphy, Sean P.",
+         "Tim Miller",
+         "=?ISO-8859-1?Q?J=F6rn_Kottmann?=",
+         "Daniel Shahaf",
+         "Ted Dunning"
+      ]
+   },
+   {
+      "name": "Finan, Sean",
+      "imports": [
+         "Bleeker, Troy C.",
+         "Bleeker, Troy C.",
+         "Chen, Pei",
+         "Masanz, James J."
+      ]
+   }
+]

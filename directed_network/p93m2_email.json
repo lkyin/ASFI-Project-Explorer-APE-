@@ -1,0 +1,41 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": [
+         "Scott Wilson",
+         "Stefano Andreani"
+      ]
+   },
+   {
+      "name": "Stefano Andreani",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Andrew Savory",
+      "imports": [
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Christian Stocker",
+      "imports": [
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "Philip Jespersen",
+      "imports": [
+         "Scott Wilson"
+      ]
+   },
+   {
+      "name": "Scott Wilson",
+      "imports": [
+         "Bertrand Delacretaz",
+         "Bertrand Delacretaz"
+      ]
+   }
+]

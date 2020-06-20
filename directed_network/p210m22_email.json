@@ -1,0 +1,126 @@
+[
+   {
+      "name": "Peter Ledbrook (JIRA)",
+      "imports": [
+         "Chris Dutrow (JIRA)",
+         "Chris Dutrow (JIRA)"
+      ]
+   },
+   {
+      "name": "Les Hazlewood",
+      "imports": [
+         "Kalle Korhonen",
+         "Brian Demers",
+         "Brian Demers",
+         "Brian Demers",
+         "Kalle Korhonen",
+         "Kalle Korhonen",
+         "Kalle Korhonen",
+         "Kalle Korhonen",
+         "Kalle Korhonen",
+         "Kalle Korhonen",
+         "Peter Ledbrook",
+         "Kalle Korhonen",
+         "Kalle Korhonen",
+         "Kalle Korhonen",
+         "Kalle Korhonen",
+         "Kalle Korhonen",
+         "Apache Hudson Server",
+         "Kalle Korhonen",
+         "Peter Ledbrook",
+         "Peter Ledbrook",
+         "Peter Ledbrook",
+         "Kalle Korhonen",
+         "Peter Ledbrook",
+         "Peter Ledbrook",
+         "Kalle Korhonen",
+         "Peter Ledbrook",
+         "Peter Ledbrook"
+      ]
+   },
+   {
+      "name": "Kalle Korhonen (JIRA)",
+      "imports": [
+         "Philippe Laflamme (JIRA)",
+         "Peter Ledbrook (JIRA)",
+         "Peter Ledbrook (JIRA)",
+         "Les Hazlewood (JIRA)",
+         "Philippe Laflamme (JIRA)",
+         "Philippe Laflamme (JIRA)"
+      ]
+   },
+   {
+      "name": "Apache Hudson Server",
+      "imports": []
+   },
+   {
+      "name": "Philippe Laflamme (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Chris Dutrow (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Kalle Korhonen",
+      "imports": [
+         "Les Hazlewood",
+         "Brian Demers",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Les Hazlewood (JIRA)",
+      "imports": [
+         "Sven Homburg (JIRA)",
+         "Chris Dutrow (JIRA)",
+         "Chris Dutrow (JIRA)",
+         "Chris Dutrow (JIRA)"
+      ]
+   },
+   {
+      "name": "Alan D. Cabrera",
+      "imports": [
+         "Kalle Korhonen"
+      ]
+   },
+   {
+      "name": "Natalie Metzger (JIRA)",
+      "imports": [
+         "Chris Dutrow (JIRA)",
+         "Chris Dutrow (JIRA)"
+      ]
+   },
+   {
+      "name": "Brian Demers",
+      "imports": [
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood"
+      ]
+   },
+   {
+      "name": "Sven Homburg (JIRA)",
+      "imports": []
+   },
+   {
+      "name": "Peter Ledbrook",
+      "imports": [
+         "Les Hazlewood",
+         "Kalle Korhonen",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood",
+         "Les Hazlewood"
+      ]
+   }
+]

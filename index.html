@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> 
+
+<style type="text/css">
+/* Dash Borad */
+.container {
+  width: 100%;
+  height: auto;
+}
+
+img {
+    max-width: 100%;
+    max-height: auto;
+}
+
+
+.leftpane {
+    width: 15%;
+    height: 75%;
+    float: left;
+}
+
+.middlepane {
+    width: 45%;
+    height: 75%;
+    float: left;
+}
+
+.rightpane {
+  width: 39.5%;
+  height: 75%;
+  float: left;
+}
+
+.toppane {
+  width: 100%;
+  height: 250px;
+}
+
+
+</style>
+
+<style>
+
+.mainBars rect{
+  shape-rendering: auto;
+  fill-opacity: 0;
+  stroke-width: 1.5px;
+  stroke: rgb(0, 0, 0);
+  stroke-opacity: 0;
+}
+.subBars{
+  shape-rendering:crispEdges;
+}
+.edges{
+  stroke:none;
+  fill-opacity:0.5;
+}
+
+/* HTML styles */
+html{
+width: 100%;}
+body{ 
+  width: 100%; 
+  margin: 0; padding: 0; 
+  display: flex; 
+  font-size: 110%; }
+.controls {
+  flex-basis: 200px;
+  padding: 0 5px;
+}
+.controls .force {
+  background-color:#eee;
+  border-radius: 3px;
+  padding: 5px;
+  margin: 5px 0;
+}
+
+.controls .title {
+  background-color:#eee;
+  border-radius: 3px;
+  padding: 5px;
+  margin: 5px 0;
+}
+
+.controls .title p label { margin-right: .5em; font-size: 140%; font-weight: bold;}
+.controls .force p label { margin-right: .5em; font-size: 130%;}
+.controls .force p { margin-top: 0;}
+.controls .force label { display: inline-block; }
+.controls input[type="checkbox"] { transform: scale(1.2, 1.2); }
+.controls input[type="range"] { margin: 0 5% 0.5em 5%; width: 500px; }
+
+
+
+</style>
+
+<style type="text/css">
+.node {
+  font: 300 23px "Helvetica Neue";
+  pointer-events: all;
+}
+
+.node:hover {
+  fill: #000;
+}
+
+.link {
+  stroke: #008a5b;
+  stroke-opacity: 0.5;
+  fill: none;
+  pointer-events: none;
+}
+
+.node:hover,
+.node--source,
+.node--target {
+  font-weight: 700;
+}
+
+.node--source {
+  fill: #0055ff;
+}
+
+.node--target {
+  fill: #f01847;
+}
+
+.link--source,
+.link--target {
+  stroke-opacity: 1;
+  stroke-width: 3px;
+}
+
+.link--source {
+  stroke: #f01847;
+}
+
+.link--target {
+  stroke: #0055ff;
+}
+
+
+
+</style>
+
+
+<style>
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+
+
+<body>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="project_info.js"></script>
+
+<div class="container">
+<div class="toppane" style="text-align:center; border: thin solid black;">
+<div class="controls">
+<div class="title">
+<p><label>ASFI Project Explorer (APE)</label></p>
+</div>
+<div class="force">
+<p>
+<label>
+Project
+
+<input type="text" id="txt_ide" list="project_n" placeholder="Select a project here :)" oninput="updateAll(); UpdateMaxIncubation();"/> 
+<datalist id="project_n"> 
+<option value="Abdera [graduated]"/>
+<option value="Accumulo [graduated]"/>
+<option value="Ace [graduated]"/>
+<option value="Activemq [graduated]"/>
+<option value="Agila [retired]"/>
+<option value="Airavata [graduated]"/>
+<option value="Airflow [graduated]"/>
+<option value="Allura [graduated]"/>
+<option value="Alois [retired]"/>
+<option value="Ambari [graduated]"/>
+<option value="Amber [graduated]"/>
+<option value="Any23 [graduated]"/>
+<option value="Ariatosca [retired]"/>
+<option value="Aries [graduated]"/>
+<option value="Asterixdb [graduated]"/>
+<option value="Atlas [graduated]"/>
+<option value="Aurora [graduated]"/>
+<option value="Awf [retired]"/>
+<option value="Beam [graduated]"/>
+<option value="Bean validation [graduated]"/>
+<option value="Beehive [graduated]"/>
+<option value="Bigtop [graduated]"/>
+<option value="Bluesky [retired]"/>
+<option value="Blur [retired]"/>
+<option value="Brooklyn [graduated]"/>
+<option value="Buildr [graduated]"/>
+<option value="Calcite [graduated]"/>
+<option value="Carbondata [graduated]"/>
+<option value="Cassandra [graduated]"/>
+<option value="Cayenne [graduated]"/>
+<option value="Celix [graduated]"/>
+<option value="Chemistry [graduated]"/>
+<option value="Chukwa [graduated]"/>
+<option value="Clerezza [graduated]"/>
+<option value="Click [graduated]"/>
+<option value="Climate model diagnostic analyzer [retired]"/>
+<option value="Cloudstack [graduated]"/>
+<option value="Commonsrdf [graduated]"/>
+<option value="Concerted [retired]"/>
+<option value="Cordova [graduated]"/>
+<option value="Corinthia [retired]"/>
+<option value="Couchdb [graduated]"/>
+<option value="Crunch [graduated]"/>
+<option value="Ctakes [graduated]"/>
+<option value="Curator [graduated]"/>
+<option value="Cxf [graduated]"/>
+<option value="Datafu [graduated]"/>
+<option value="Deltacloud [graduated]"/>
+<option value="Deltaspike [graduated]"/>
+<option value="Derby [graduated]"/>
+<option value="Devicemap [graduated]"/>
+<option value="Directmemory [graduated]"/>
+<option value="Directory [graduated]"/>
+<option value="Distributedlog [graduated]"/>
+<option value="Drill [graduated]"/>
+<option value="Droids [retired]"/>
+<option value="Dubbo [graduated]"/>
+<option value="Eagle [graduated]"/>
+<option value="Easyant [graduated]"/>
+<option value="Empire-db [graduated]"/>
+<option value="Esme [graduated]"/>
+<option value="Etch [graduated]"/>
+<option value="Falcon [graduated]"/>
+<option value="Felix [graduated]"/>
+<option value="Fineract [graduated]"/>
+<option value="Flex [graduated]"/>
+<option value="Flink [graduated]"/>
+<option value="Flume [graduated]"/>
+<option value="Fluo [graduated]"/>
+<option value="Ftpserver [graduated]"/>
+<option value="Gearpump [retired]"/>
+<option value="Geode [graduated]"/>
+<option value="Giraph [graduated]"/>
+<option value="Gora [graduated]"/>
+<option value="Gossip [retired]"/>
+<option value="Graffito [retired]"/>
+<option value="Griffin [graduated]"/>
+<option value="Groovy [graduated]"/>
+<option value="Guacamole [graduated]"/>
+<option value="Hadoop development tools (hdt) [retired]"/>
+<option value="Hama [graduated]"/>
+<option value="Harmony [graduated]"/>
+<option value="Hawq [graduated]"/>
+<option value="Hcatalog [graduated]"/>
+<option value="Helix [graduated]"/>
+<option value="Heraldry [retired]"/>
+<option value="Hise [retired]"/>
+<option value="Ibatis [graduated]"/>
+<option value="Ignite [graduated]"/>
+<option value="Impala [graduated]"/>
+<option value="Imperius [retired]"/>
+<option value="Iota [retired]"/>
+<option value="Isis [graduated]"/>
+<option value="Ivy [graduated]"/>
+<option value="Jackrabbit [graduated]"/>
+<option value="Jclouds [graduated]"/>
+<option value="Jdo [graduated]"/>
+<option value="Jena [graduated]"/>
+<option value="Johnzon [graduated]"/>
+<option value="Joshua [graduated]"/>
+<option value="Jspwiki [graduated]"/>
+<option value="Juneau [graduated]"/>
+<option value="Kafka [graduated]"/>
+<option value="Kalumet [retired]"/>
+<option value="Kato [retired]"/>
+<option value="Knox [graduated]"/>
+<option value="Kudu [graduated]"/>
+<option value="Kylin [graduated]"/>
+<option value="Lens [graduated]"/>
+<option value="Lokahi [retired]"/>
+<option value="Lucene.net [graduated]"/>
+<option value="Lucy [graduated]"/>
+<option value="Madlib [graduated]"/>
+<option value="Manifoldcf [graduated]"/>
+<option value="Marmotta [graduated]"/>
+<option value="Mesos [graduated]"/>
+<option value="Metamodel [graduated]"/>
+<option value="Metron [graduated]"/>
+<option value="Mod_ftp [graduated]"/>
+<option value="Mrql [retired]"/>
+<option value="Mrunit [graduated]"/>
+<option value="Mynewt [graduated]"/>
+<option value="Netbeans [graduated]"/>
+<option value="Nifi [graduated]"/>
+<option value="Nmaven [retired]"/>
+<option value="Npanday [retired]"/>
+<option value="Nutch [graduated]"/>
+<option value="Nuvem [graduated]"/>
+<option value="Ode [graduated]"/>
+<option value="Odf toolkit [retired]"/>
+<option value="Olingo [graduated]"/>
+<option value="Olio [retired]"/>
+<option value="Onami [graduated]"/>
+<option value="Oodt [graduated]"/>
+<option value="Oozie [graduated]"/>
+<option value="Openaz [retired]"/>
+<option value="Openjpa [graduated]"/>
+<option value="Openmeetings [graduated]"/>
+<option value="Opennlp [graduated]"/>
+<option value="Openoffice.org [graduated]"/>
+<option value="Openwebbeans [graduated]"/>
+<option value="Openwhisk [graduated]"/>
+<option value="Parquet [graduated]"/>
+<option value="Pdfbox [graduated]"/>
+<option value="Phoenix [graduated]"/>
+<option value="Photark [retired]"/>
+<option value="Pig [graduated]"/>
+<option value="Pirk [retired]"/>
+<option value="Pivot [graduated]"/>
+<option value="Predictionio [graduated]"/>
+<option value="Provisionr [retired]"/>
+<option value="Pulsar [graduated]"/>
+<option value="Qpid [graduated]"/>
+<option value="Quickstep [retired]"/>
+<option value="Ranger [graduated]"/>
+<option value="Rave [graduated]"/>
+<option value="Reef [graduated]"/>
+<option value="Ripple [retired]"/>
+<option value="River [graduated]"/>
+<option value="Rocketmq [graduated]"/>
+<option value="Roller [graduated]"/>
+<option value="S4 [retired]"/>
+<option value="Samza [graduated]"/>
+<option value="Sanselan [graduated]"/>
+<option value="Sentry [graduated]"/>
+<option value="Servicecomb [graduated]"/>
+<option value="Servicemix [graduated]"/>
+<option value="Shindig [graduated]"/>
+<option value="Shiro [graduated]"/>
+<option value="Sirona [retired]"/>
+<option value="Sis [graduated]"/>
+<option value="Skywalking [graduated]"/>
+<option value="Slider [retired]"/>
+<option value="Sling [graduated]"/>
+<option value="Solr [graduated]"/>
+<option value="Spamassassin [graduated]"/>
+<option value="Spark [graduated]"/>
+<option value="Sqoop [graduated]"/>
+<option value="Stanbol [graduated]"/>
+<option value="Stdcxx [graduated]"/>
+<option value="Stonehenge [retired]"/>
+<option value="Storm [graduated]"/>
+<option value="Stratos [graduated]"/>
+<option value="Streams [graduated]"/>
+<option value="Syncope [graduated]"/>
+<option value="Systemml [graduated]"/>
+<option value="Tashi [retired]"/>
+<option value="Tez [graduated]"/>
+<option value="Thrift [graduated]"/>
+<option value="Tika [graduated]"/>
+<option value="Traffic control [graduated]"/>
+<option value="Traffic server [graduated]"/>
+<option value="Triplesoup [retired]"/>
+<option value="Tuscany [graduated]"/>
+<option value="Twill [graduated]"/>
+<option value="Uima [graduated]"/>
+<option value="Unomi [graduated]"/>
+<option value="Usergrid [graduated]"/>
+<option value="Vcl [graduated]"/>
+<option value="Wadi [retired]"/>
+<option value="Wave [retired]"/>
+<option value="Whirr [graduated]"/>
+<option value="Wicket [graduated]"/>
+<option value="Xap [retired]"/>
+<option value="Yoko [retired]"/>
+<option value="Zeppelin [graduated]"/>
+<option value="Zeta components [retired]"/>
+<option value="Zipkin [retired]"/>
+</datalist>
+ 
+</label>
+</p>
+
+
+<p>
+<label>
+
+<a id="from"> </a> 
+~
+<a id="to"> </a> 
+
+</label>
+</p>
+
+<label>
+Month
+<output id="Month">1</output>
+<input id = "MaxIncubation" type="range" min="1" max="90" value="1" step="1" oninput="d3.select('#Month').text(value); forceProperties.selected_data.month=value; updateAll();">
+</label>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+<div class="leftpane" style="text-align:left; border: thin solid black;">
+<div class="controls">
+<div class="force" id = "leftp">
+
+<p><label>Project Name: <a id="project_name"> </a>
+
+</label>
+<label>
+<a id="link"> </a> 
+</label>
+</p>
+
+
+<p><label>Status:
+<a id="status"> </a>
+</label></p>
+
+<p><label>Sponsor:
+<a id="sponsor"></a>
+</label></p>
+
+<p><label>Starts:
+<a id="start"></a>
+</label>
+
+<label>Ends:
+
+<a id="end"></a>
+</label></p>
+
+<p><label>
+<a id="intro"></a>
+</label></p>
+
+</div>
+</div>
+
+<img src="image.png">
+</div>
+
+
+
+<script src="./js/d3.v4.min.js"></script>
+<script src="./js/viz.v1.1.0.min.js"></script>
+<script src="https://d3js.org/d3-selection-multi.v1.js"></script>
+
+
+
+<div class="middlepane" style="text-align:center;border: thin solid black;">
+<div class="controls" style="text-align:center;">
+<div class="force" style="text-align:center;">
+<p>
+<label>Social Network</label>
+</p>
+<p>
+<label>
+Num of Emails:
+<a id="num_emails"></a>
+</label>
+<label>Commentors:
+<a id="num_senders"></a>
+</label>
+<label>Emails Per Dev:
+<a id="email_per_dev"></a>
+</label>
+</p>
+
+</div>
+</div>
+
+<svg id = "middlesvg" width="800" height="800"></svg>
+</div>
+
+
+<div class="rightpane" id = "right" style="text-align:center; border: thin solid black;">
+
+<div class="controls">
+<div class="force">
+<p><label>Technical Network</label></p>
+<p><label>Num of Commits:
+<a id="num_commits"></a>
+</label>
+<label>Committers:
+<a id="num_committers"></a>
+</label>
+
+<label>Commits Per Dev:
+<a id="commit_per_dev"></a>
+</label>
+
+</p>
+</div>
+</div>
+<svg title = "Technical Network" id = "rightsvg" width="1000" height="1000"></svg>
+</div>
+
+<script src="include.js"></script>
+
+<script src="tech_net.js"></script>
+<script src="edge_bud.js"></script>
+
+
+</div>
+
+
+</body>

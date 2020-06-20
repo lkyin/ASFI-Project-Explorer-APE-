@@ -1,0 +1,87 @@
+[
+   {
+      "name": "Bertrand Delacretaz",
+      "imports": []
+   },
+   {
+      "name": "With Lin",
+      "imports": []
+   },
+   {
+      "name": "Ignasi Barrera",
+      "imports": [
+         "=?gb2312?B?xe3Twsn9IFBlbmcgWW9uZ3NoZW5n?=",
+         "=?gb18030?B?zuLqySBTaGVuZyBXdQ==?="
+      ]
+   },
+   {
+      "name": "=?gb2312?B?xe3Twsn9IFBlbmcgWW9uZ3NoZW5n?=",
+      "imports": [
+         "=?utf-8?B?5ZC05pmfIFNoZW5nIFd1?="
+      ]
+   },
+   {
+      "name": "Hongtao Gao",
+      "imports": [
+         "Liu Haoyang"
+      ]
+   },
+   {
+      "name": "=?gb18030?B?zuLqySBTaGVuZyBXdQ==?=",
+      "imports": [
+         "Willem Jiang",
+         "Mick Semb Wever",
+         "Willem Jiang"
+      ]
+   },
+   {
+      "name": "Willem Jiang",
+      "imports": [
+         "With Lin",
+         "=?gb2312?B?xe3Twsn9IFBlbmcgWW9uZ3NoZW5n?=",
+         "=?gb18030?B?zuLqySBTaGVuZyBXdQ==?="
+      ]
+   },
+   {
+      "name": "Mick Semb Wever",
+      "imports": []
+   },
+   {
+      "name": "Zhang Kewei",
+      "imports": [
+         "=?gb18030?B?zuLqySBTaGVuZyBXdQ==?="
+      ]
+   },
+   {
+      "name": "Liu Haoyang",
+      "imports": [
+         "Zhang Kewei",
+         "=?gb18030?B?zuLqySBTaGVuZyBXdQ==?="
+      ]
+   },
+   {
+      "name": "Jian Tan",
+      "imports": [
+         "=?gb18030?B?zuLqySBTaGVuZyBXdQ==?="
+      ]
+   },
+   {
+      "name": "zhangliang@apache.org",
+      "imports": [
+         "Bertrand Delacretaz"
+      ]
+   },
+   {
+      "name": "=?utf-8?B?5ZC05pmfIFNoZW5nIFd1?=",
+      "imports": [
+         "Liu Haoyang"
+      ]
+   },
+   {
+      "name": "Sheng Wu",
+      "imports": [
+         "Mick Semb Wever",
+         "Hongtao Gao"
+      ]
+   }
+]

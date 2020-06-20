@@ -1,0 +1,113 @@
+[
+   {
+      "name": "Chris Hostetter",
+      "imports": [
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "karpet",
+      "imports": []
+   },
+   {
+      "name": "Nick Wellnhofer",
+      "imports": [
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Peter Karman",
+         "Peter Karman",
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "Mattmann, Chris A (388J)",
+      "imports": [
+         "Marvin Humphrey",
+         "Chris Hostetter",
+         "Chris Hostetter",
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "Marvin Humphrey",
+      "imports": [
+         "Marvin",
+         "Nick Wellnhofer",
+         "nwellnhof",
+         "David E. Wheeler",
+         "Nick Wellnhofer",
+         "Nick Wellnhofer",
+         "Nick Wellnhofer",
+         "Nick Wellnhofer",
+         "Nick Wellnhofer",
+         "Nick Wellnhofer",
+         "Nick Wellnhofer",
+         "logie",
+         "logie",
+         "Mattmann, Chris A (388J)",
+         "Chris Hostetter",
+         "Mattmann, Chris A (388J)",
+         "Logan Bell",
+         "Logan Bell",
+         "Peter Karman",
+         "Peter Karman",
+         "karpet",
+         "Logan Bell",
+         "Peter Karman"
+      ]
+   },
+   {
+      "name": "nwellnhof",
+      "imports": []
+   },
+   {
+      "name": "Marvin",
+      "imports": []
+   },
+   {
+      "name": "logie",
+      "imports": []
+   },
+   {
+      "name": "Logan Bell",
+      "imports": [
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "Peter Karman",
+      "imports": [
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "Marvin Humphrey",
+         "nwellnhof",
+         "Nick Wellnhofer",
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "David E. Wheeler",
+      "imports": [
+         "Peter Karman",
+         "Marvin Humphrey"
+      ]
+   },
+   {
+      "name": "Joe Schaefer",
+      "imports": [
+         "Mattmann, Chris A (388J)"
+      ]
+   }
+]
